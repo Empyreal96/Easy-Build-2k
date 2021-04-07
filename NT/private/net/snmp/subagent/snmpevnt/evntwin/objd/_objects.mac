@@ -1,0 +1,92 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\eventrap.res \
+    $(_OBJ_DIR)\alpha\busy.obj \
+    $(_OBJ_DIR)\alpha\dlgsavep.obj \
+    $(_OBJ_DIR)\alpha\eventrap.obj \
+    $(_OBJ_DIR)\alpha\evntfind.obj \
+    $(_OBJ_DIR)\alpha\evntprop.obj \
+    $(_OBJ_DIR)\alpha\export.obj \
+    $(_OBJ_DIR)\alpha\globals.obj \
+    $(_OBJ_DIR)\alpha\layout.obj \
+    $(_OBJ_DIR)\alpha\lcevents.obj \
+    $(_OBJ_DIR)\alpha\lcsource.obj \
+    $(_OBJ_DIR)\alpha\regkey.obj \
+    $(_OBJ_DIR)\alpha\settings.obj \
+    $(_OBJ_DIR)\alpha\source.obj \
+    $(_OBJ_DIR)\alpha\tcsource.obj \
+    $(_OBJ_DIR)\alpha\trapdlg.obj \
+    $(_OBJ_DIR)\alpha\trapreg.obj \
+    $(_OBJ_DIR)\alpha\utils.obj \
+    $(_OBJ_DIR)\alpha\remote.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\eventrap.res \
+    $(_OBJ_DIR)\alpha64\busy.obj \
+    $(_OBJ_DIR)\alpha64\dlgsavep.obj \
+    $(_OBJ_DIR)\alpha64\eventrap.obj \
+    $(_OBJ_DIR)\alpha64\evntfind.obj \
+    $(_OBJ_DIR)\alpha64\evntprop.obj \
+    $(_OBJ_DIR)\alpha64\export.obj \
+    $(_OBJ_DIR)\alpha64\globals.obj \
+    $(_OBJ_DIR)\alpha64\layout.obj \
+    $(_OBJ_DIR)\alpha64\lcevents.obj \
+    $(_OBJ_DIR)\alpha64\lcsource.obj \
+    $(_OBJ_DIR)\alpha64\regkey.obj \
+    $(_OBJ_DIR)\alpha64\settings.obj \
+    $(_OBJ_DIR)\alpha64\source.obj \
+    $(_OBJ_DIR)\alpha64\tcsource.obj \
+    $(_OBJ_DIR)\alpha64\trapdlg.obj \
+    $(_OBJ_DIR)\alpha64\trapreg.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj \
+    $(_OBJ_DIR)\alpha64\remote.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\eventrap.res \
+    $(_OBJ_DIR)\i386\busy.obj \
+    $(_OBJ_DIR)\i386\dlgsavep.obj \
+    $(_OBJ_DIR)\i386\eventrap.obj \
+    $(_OBJ_DIR)\i386\evntfind.obj \
+    $(_OBJ_DIR)\i386\evntprop.obj \
+    $(_OBJ_DIR)\i386\export.obj \
+    $(_OBJ_DIR)\i386\globals.obj \
+    $(_OBJ_DIR)\i386\layout.obj \
+    $(_OBJ_DIR)\i386\lcevents.obj \
+    $(_OBJ_DIR)\i386\lcsource.obj \
+    $(_OBJ_DIR)\i386\regkey.obj \
+    $(_OBJ_DIR)\i386\settings.obj \
+    $(_OBJ_DIR)\i386\source.obj \
+    $(_OBJ_DIR)\i386\tcsource.obj \
+    $(_OBJ_DIR)\i386\trapdlg.obj \
+    $(_OBJ_DIR)\i386\trapreg.obj \
+    $(_OBJ_DIR)\i386\utils.obj \
+    $(_OBJ_DIR)\i386\remote.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\eventrap.res \
+    $(_OBJ_DIR)\ia64\busy.obj \
+    $(_OBJ_DIR)\ia64\dlgsavep.obj \
+    $(_OBJ_DIR)\ia64\eventrap.obj \
+    $(_OBJ_DIR)\ia64\evntfind.obj \
+    $(_OBJ_DIR)\ia64\evntprop.obj \
+    $(_OBJ_DIR)\ia64\export.obj \
+    $(_OBJ_DIR)\ia64\globals.obj \
+    $(_OBJ_DIR)\ia64\layout.obj \
+    $(_OBJ_DIR)\ia64\lcevents.obj \
+    $(_OBJ_DIR)\ia64\lcsource.obj \
+    $(_OBJ_DIR)\ia64\regkey.obj \
+    $(_OBJ_DIR)\ia64\settings.obj \
+    $(_OBJ_DIR)\ia64\source.obj \
+    $(_OBJ_DIR)\ia64\tcsource.obj \
+    $(_OBJ_DIR)\ia64\trapdlg.obj \
+    $(_OBJ_DIR)\ia64\trapreg.obj \
+    $(_OBJ_DIR)\ia64\utils.obj \
+    $(_OBJ_DIR)\ia64\remote.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\indicdll.res \
+    $(_OBJ_DIR)\alpha\indicdll.obj \
+    $(_OBJ_DIR)\alpha\imemenu.obj \
+    $(_OBJ_DIR)\alpha\debug.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\indicdll.res \
+    $(_OBJ_DIR)\alpha64\indicdll.obj \
+    $(_OBJ_DIR)\alpha64\imemenu.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\indicdll.res \
+    $(_OBJ_DIR)\i386\indicdll.obj \
+    $(_OBJ_DIR)\i386\imemenu.obj \
+    $(_OBJ_DIR)\i386\debug.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\indicdll.res \
+    $(_OBJ_DIR)\ia64\indicdll.obj \
+    $(_OBJ_DIR)\ia64\imemenu.obj \
+    $(_OBJ_DIR)\ia64\debug.obj
+
+PASS0_IA64_OBJECTS=
+

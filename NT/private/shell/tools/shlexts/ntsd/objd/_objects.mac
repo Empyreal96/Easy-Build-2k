@@ -1,0 +1,28 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\shlexts.res \
+    $(_OBJ_DIR)\alpha\shlexts.obj \
+    $(_OBJ_DIR)\alpha\dsotable.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\shlexts.res \
+    $(_OBJ_DIR)\alpha64\shlexts.obj \
+    $(_OBJ_DIR)\alpha64\dsotable.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\shlexts.res \
+    $(_OBJ_DIR)\i386\shlexts.obj \
+    $(_OBJ_DIR)\i386\dsotable.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\shlexts.res \
+    $(_OBJ_DIR)\ia64\shlexts.obj \
+    $(_OBJ_DIR)\ia64\dsotable.obj
+
+PASS0_IA64_OBJECTS=
+

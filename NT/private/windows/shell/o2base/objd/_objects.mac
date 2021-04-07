@@ -1,0 +1,104 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\stdfact.obj \
+    $(_OBJ_DIR)\alpha\border.obj \
+    $(_OBJ_DIR)\alpha\dvutils.obj \
+    $(_OBJ_DIR)\alpha\fatstg.obj \
+    $(_OBJ_DIR)\alpha\himetric.obj \
+    $(_OBJ_DIR)\alpha\ipborder.obj \
+    $(_OBJ_DIR)\alpha\iputils.obj \
+    $(_OBJ_DIR)\alpha\memutils.obj \
+    $(_OBJ_DIR)\alpha\misc.obj \
+    $(_OBJ_DIR)\alpha\rotutils.obj \
+    $(_OBJ_DIR)\alpha\status.obj \
+    $(_OBJ_DIR)\alpha\stdenum.obj \
+    $(_OBJ_DIR)\alpha\stgutils.obj \
+    $(_OBJ_DIR)\alpha\vwadvhld.obj \
+    $(_OBJ_DIR)\alpha\wutils.obj \
+    $(_OBJ_DIR)\alpha\iconbar.obj \
+    $(_OBJ_DIR)\alpha\cenum.obj \
+    $(_OBJ_DIR)\alpha\cary.obj \
+    $(_OBJ_DIR)\alpha\clsdesc.obj \
+    $(_OBJ_DIR)\alpha\sctrl.obj \
+    $(_OBJ_DIR)\alpha\sdv.obj \
+    $(_OBJ_DIR)\alpha\sinpl.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\stdfact.obj \
+    $(_OBJ_DIR)\alpha64\border.obj \
+    $(_OBJ_DIR)\alpha64\dvutils.obj \
+    $(_OBJ_DIR)\alpha64\fatstg.obj \
+    $(_OBJ_DIR)\alpha64\himetric.obj \
+    $(_OBJ_DIR)\alpha64\ipborder.obj \
+    $(_OBJ_DIR)\alpha64\iputils.obj \
+    $(_OBJ_DIR)\alpha64\memutils.obj \
+    $(_OBJ_DIR)\alpha64\misc.obj \
+    $(_OBJ_DIR)\alpha64\rotutils.obj \
+    $(_OBJ_DIR)\alpha64\status.obj \
+    $(_OBJ_DIR)\alpha64\stdenum.obj \
+    $(_OBJ_DIR)\alpha64\stgutils.obj \
+    $(_OBJ_DIR)\alpha64\vwadvhld.obj \
+    $(_OBJ_DIR)\alpha64\wutils.obj \
+    $(_OBJ_DIR)\alpha64\iconbar.obj \
+    $(_OBJ_DIR)\alpha64\cenum.obj \
+    $(_OBJ_DIR)\alpha64\cary.obj \
+    $(_OBJ_DIR)\alpha64\clsdesc.obj \
+    $(_OBJ_DIR)\alpha64\sctrl.obj \
+    $(_OBJ_DIR)\alpha64\sdv.obj \
+    $(_OBJ_DIR)\alpha64\sinpl.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\stdfact.obj \
+    $(_OBJ_DIR)\i386\border.obj \
+    $(_OBJ_DIR)\i386\dvutils.obj \
+    $(_OBJ_DIR)\i386\fatstg.obj \
+    $(_OBJ_DIR)\i386\himetric.obj \
+    $(_OBJ_DIR)\i386\ipborder.obj \
+    $(_OBJ_DIR)\i386\iputils.obj \
+    $(_OBJ_DIR)\i386\memutils.obj \
+    $(_OBJ_DIR)\i386\misc.obj \
+    $(_OBJ_DIR)\i386\rotutils.obj \
+    $(_OBJ_DIR)\i386\status.obj \
+    $(_OBJ_DIR)\i386\stdenum.obj \
+    $(_OBJ_DIR)\i386\stgutils.obj \
+    $(_OBJ_DIR)\i386\vwadvhld.obj \
+    $(_OBJ_DIR)\i386\wutils.obj \
+    $(_OBJ_DIR)\i386\iconbar.obj \
+    $(_OBJ_DIR)\i386\cenum.obj \
+    $(_OBJ_DIR)\i386\cary.obj \
+    $(_OBJ_DIR)\i386\clsdesc.obj \
+    $(_OBJ_DIR)\i386\sctrl.obj \
+    $(_OBJ_DIR)\i386\sdv.obj \
+    $(_OBJ_DIR)\i386\sinpl.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\stdfact.obj \
+    $(_OBJ_DIR)\ia64\border.obj \
+    $(_OBJ_DIR)\ia64\dvutils.obj \
+    $(_OBJ_DIR)\ia64\fatstg.obj \
+    $(_OBJ_DIR)\ia64\himetric.obj \
+    $(_OBJ_DIR)\ia64\ipborder.obj \
+    $(_OBJ_DIR)\ia64\iputils.obj \
+    $(_OBJ_DIR)\ia64\memutils.obj \
+    $(_OBJ_DIR)\ia64\misc.obj \
+    $(_OBJ_DIR)\ia64\rotutils.obj \
+    $(_OBJ_DIR)\ia64\status.obj \
+    $(_OBJ_DIR)\ia64\stdenum.obj \
+    $(_OBJ_DIR)\ia64\stgutils.obj \
+    $(_OBJ_DIR)\ia64\vwadvhld.obj \
+    $(_OBJ_DIR)\ia64\wutils.obj \
+    $(_OBJ_DIR)\ia64\iconbar.obj \
+    $(_OBJ_DIR)\ia64\cenum.obj \
+    $(_OBJ_DIR)\ia64\cary.obj \
+    $(_OBJ_DIR)\ia64\clsdesc.obj \
+    $(_OBJ_DIR)\ia64\sctrl.obj \
+    $(_OBJ_DIR)\ia64\sdv.obj \
+    $(_OBJ_DIR)\ia64\sinpl.obj
+
+PASS0_IA64_OBJECTS=
+

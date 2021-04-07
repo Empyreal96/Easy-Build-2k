@@ -1,0 +1,64 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\alloc.obj \
+    $(_OBJ_DIR)\alpha\filesize.obj \
+    $(_OBJ_DIR)\alpha\registry.obj \
+    $(_OBJ_DIR)\alpha\strclass.obj \
+    $(_OBJ_DIR)\alpha\openfile.obj \
+    $(_OBJ_DIR)\alpha\pathstr.obj \
+    $(_OBJ_DIR)\alpha\utils.obj \
+    $(_OBJ_DIR)\alpha\options.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\config.obj \
+    $(_OBJ_DIR)\alpha\strret.obj \
+    $(_OBJ_DIR)\alpha\purge.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\alloc.obj \
+    $(_OBJ_DIR)\alpha64\filesize.obj \
+    $(_OBJ_DIR)\alpha64\registry.obj \
+    $(_OBJ_DIR)\alpha64\strclass.obj \
+    $(_OBJ_DIR)\alpha64\openfile.obj \
+    $(_OBJ_DIR)\alpha64\pathstr.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj \
+    $(_OBJ_DIR)\alpha64\options.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\config.obj \
+    $(_OBJ_DIR)\alpha64\strret.obj \
+    $(_OBJ_DIR)\alpha64\purge.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\alloc.obj \
+    $(_OBJ_DIR)\i386\filesize.obj \
+    $(_OBJ_DIR)\i386\registry.obj \
+    $(_OBJ_DIR)\i386\strclass.obj \
+    $(_OBJ_DIR)\i386\openfile.obj \
+    $(_OBJ_DIR)\i386\pathstr.obj \
+    $(_OBJ_DIR)\i386\utils.obj \
+    $(_OBJ_DIR)\i386\options.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\config.obj \
+    $(_OBJ_DIR)\i386\strret.obj \
+    $(_OBJ_DIR)\i386\purge.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\alloc.obj \
+    $(_OBJ_DIR)\ia64\filesize.obj \
+    $(_OBJ_DIR)\ia64\registry.obj \
+    $(_OBJ_DIR)\ia64\strclass.obj \
+    $(_OBJ_DIR)\ia64\openfile.obj \
+    $(_OBJ_DIR)\ia64\pathstr.obj \
+    $(_OBJ_DIR)\ia64\utils.obj \
+    $(_OBJ_DIR)\ia64\options.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\config.obj \
+    $(_OBJ_DIR)\ia64\strret.obj \
+    $(_OBJ_DIR)\ia64\purge.obj
+
+PASS0_IA64_OBJECTS=
+

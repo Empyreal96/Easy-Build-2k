@@ -1,0 +1,96 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\dsquery.res \
+    $(_OBJ_DIR)\alpha\dll.obj \
+    $(_OBJ_DIR)\alpha\cstrings.obj \
+    $(_OBJ_DIR)\alpha\query.obj \
+    $(_OBJ_DIR)\alpha\queryhlp.obj \
+    $(_OBJ_DIR)\alpha\thread.obj \
+    $(_OBJ_DIR)\alpha\scopes.obj \
+    $(_OBJ_DIR)\alpha\find.obj \
+    $(_OBJ_DIR)\alpha\params.obj \
+    $(_OBJ_DIR)\alpha\propbag.obj \
+    $(_OBJ_DIR)\alpha\io.obj \
+    $(_OBJ_DIR)\alpha\qf_user.obj \
+    $(_OBJ_DIR)\alpha\qf_print.obj \
+    $(_OBJ_DIR)\alpha\qf_comp.obj \
+    $(_OBJ_DIR)\alpha\qf_ldap.obj \
+    $(_OBJ_DIR)\alpha\qf_share.obj \
+    $(_OBJ_DIR)\alpha\qf_ou.obj \
+    $(_OBJ_DIR)\alpha\qf_pwell.obj \
+    $(_OBJ_DIR)\alpha\qf_dmctl.obj \
+    $(_OBJ_DIR)\alpha\qf_frsmb.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\dsquery.res \
+    $(_OBJ_DIR)\alpha64\dll.obj \
+    $(_OBJ_DIR)\alpha64\cstrings.obj \
+    $(_OBJ_DIR)\alpha64\query.obj \
+    $(_OBJ_DIR)\alpha64\queryhlp.obj \
+    $(_OBJ_DIR)\alpha64\thread.obj \
+    $(_OBJ_DIR)\alpha64\scopes.obj \
+    $(_OBJ_DIR)\alpha64\find.obj \
+    $(_OBJ_DIR)\alpha64\params.obj \
+    $(_OBJ_DIR)\alpha64\propbag.obj \
+    $(_OBJ_DIR)\alpha64\io.obj \
+    $(_OBJ_DIR)\alpha64\qf_user.obj \
+    $(_OBJ_DIR)\alpha64\qf_print.obj \
+    $(_OBJ_DIR)\alpha64\qf_comp.obj \
+    $(_OBJ_DIR)\alpha64\qf_ldap.obj \
+    $(_OBJ_DIR)\alpha64\qf_share.obj \
+    $(_OBJ_DIR)\alpha64\qf_ou.obj \
+    $(_OBJ_DIR)\alpha64\qf_pwell.obj \
+    $(_OBJ_DIR)\alpha64\qf_dmctl.obj \
+    $(_OBJ_DIR)\alpha64\qf_frsmb.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\dsquery.res \
+    $(_OBJ_DIR)\i386\dll.obj \
+    $(_OBJ_DIR)\i386\cstrings.obj \
+    $(_OBJ_DIR)\i386\query.obj \
+    $(_OBJ_DIR)\i386\queryhlp.obj \
+    $(_OBJ_DIR)\i386\thread.obj \
+    $(_OBJ_DIR)\i386\scopes.obj \
+    $(_OBJ_DIR)\i386\find.obj \
+    $(_OBJ_DIR)\i386\params.obj \
+    $(_OBJ_DIR)\i386\propbag.obj \
+    $(_OBJ_DIR)\i386\io.obj \
+    $(_OBJ_DIR)\i386\qf_user.obj \
+    $(_OBJ_DIR)\i386\qf_print.obj \
+    $(_OBJ_DIR)\i386\qf_comp.obj \
+    $(_OBJ_DIR)\i386\qf_ldap.obj \
+    $(_OBJ_DIR)\i386\qf_share.obj \
+    $(_OBJ_DIR)\i386\qf_ou.obj \
+    $(_OBJ_DIR)\i386\qf_pwell.obj \
+    $(_OBJ_DIR)\i386\qf_dmctl.obj \
+    $(_OBJ_DIR)\i386\qf_frsmb.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\dsquery.res \
+    $(_OBJ_DIR)\ia64\dll.obj \
+    $(_OBJ_DIR)\ia64\cstrings.obj \
+    $(_OBJ_DIR)\ia64\query.obj \
+    $(_OBJ_DIR)\ia64\queryhlp.obj \
+    $(_OBJ_DIR)\ia64\thread.obj \
+    $(_OBJ_DIR)\ia64\scopes.obj \
+    $(_OBJ_DIR)\ia64\find.obj \
+    $(_OBJ_DIR)\ia64\params.obj \
+    $(_OBJ_DIR)\ia64\propbag.obj \
+    $(_OBJ_DIR)\ia64\io.obj \
+    $(_OBJ_DIR)\ia64\qf_user.obj \
+    $(_OBJ_DIR)\ia64\qf_print.obj \
+    $(_OBJ_DIR)\ia64\qf_comp.obj \
+    $(_OBJ_DIR)\ia64\qf_ldap.obj \
+    $(_OBJ_DIR)\ia64\qf_share.obj \
+    $(_OBJ_DIR)\ia64\qf_ou.obj \
+    $(_OBJ_DIR)\ia64\qf_pwell.obj \
+    $(_OBJ_DIR)\ia64\qf_dmctl.obj \
+    $(_OBJ_DIR)\ia64\qf_frsmb.obj
+
+PASS0_IA64_OBJECTS=
+

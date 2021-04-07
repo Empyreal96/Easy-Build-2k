@@ -1,0 +1,36 @@
+!IF 0
+
+Windows 2000 Test
+
+Module Name:
+
+    dirs.
+
+Abstract:
+
+    This file specifies the subdirectories of the current directory that
+    contain component makefiles.
+
+
+Author:
+
+    empyreal96
+
+NOTE:   Commented description of this file is in \nt\bak\bin\dirs.tpl
+
+!ENDIF
+
+DIRS=   \
+        ntos \
+        sdktools \
+        windows \
+        shell \
+        rpc \
+        genx \
+        net \
+        ispu \
+        drivers \
+        security \
+        oleauto \
+        inet \
+        mvdm

@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\sstext3d.res \
+    $(_OBJ_DIR)\alpha\dialog.obj \
+    $(_OBJ_DIR)\alpha\sstext3d.obj \
+    $(_OBJ_DIR)\alpha\font.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\sstext3d.res \
+    $(_OBJ_DIR)\alpha64\dialog.obj \
+    $(_OBJ_DIR)\alpha64\sstext3d.obj \
+    $(_OBJ_DIR)\alpha64\font.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\sstext3d.res \
+    $(_OBJ_DIR)\i386\dialog.obj \
+    $(_OBJ_DIR)\i386\sstext3d.obj \
+    $(_OBJ_DIR)\i386\font.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\sstext3d.res \
+    $(_OBJ_DIR)\ia64\dialog.obj \
+    $(_OBJ_DIR)\ia64\sstext3d.obj \
+    $(_OBJ_DIR)\ia64\font.obj
+
+PASS0_IA64_OBJECTS=
+

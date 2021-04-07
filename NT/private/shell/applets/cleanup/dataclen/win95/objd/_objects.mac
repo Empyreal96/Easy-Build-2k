@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\dataclen.res \
+    $(_OBJ_DIR)\alpha\midebug.obj \
+    $(_OBJ_DIR)\alpha\dataclen.obj \
+    $(_OBJ_DIR)\alpha\compclen.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\dataclen.res \
+    $(_OBJ_DIR)\alpha64\midebug.obj \
+    $(_OBJ_DIR)\alpha64\dataclen.obj \
+    $(_OBJ_DIR)\alpha64\compclen.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\dataclen.res \
+    $(_OBJ_DIR)\i386\midebug.obj \
+    $(_OBJ_DIR)\i386\dataclen.obj \
+    $(_OBJ_DIR)\i386\compclen.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\dataclen.res \
+    $(_OBJ_DIR)\ia64\midebug.obj \
+    $(_OBJ_DIR)\ia64\dataclen.obj \
+    $(_OBJ_DIR)\ia64\compclen.obj
+
+PASS0_IA64_OBJECTS=
+

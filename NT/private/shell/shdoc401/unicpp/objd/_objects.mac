@@ -1,0 +1,192 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\adjust.obj \
+    $(_OBJ_DIR)\alpha\admover.obj \
+    $(_OBJ_DIR)\alpha\admoveri.obj \
+    $(_OBJ_DIR)\alpha\cnctnpt.obj \
+    $(_OBJ_DIR)\alpha\cobjsafe.obj \
+    $(_OBJ_DIR)\alpha\cpymovto.obj \
+    $(_OBJ_DIR)\alpha\dback.obj \
+    $(_OBJ_DIR)\alpha\dbackp.obj \
+    $(_OBJ_DIR)\alpha\dcomp.obj \
+    $(_OBJ_DIR)\alpha\dcompp.obj \
+    $(_OBJ_DIR)\alpha\deskcls.obj \
+    $(_OBJ_DIR)\alpha\deskhtml.obj \
+    $(_OBJ_DIR)\alpha\deskmovr.obj \
+    $(_OBJ_DIR)\alpha\deskstat.obj \
+    $(_OBJ_DIR)\alpha\dspsprt.obj \
+    $(_OBJ_DIR)\alpha\dsubscri.obj \
+    $(_OBJ_DIR)\alpha\dvoc.obj \
+    $(_OBJ_DIR)\alpha\dvutil.obj \
+    $(_OBJ_DIR)\alpha\dutil.obj \
+    $(_OBJ_DIR)\alpha\editpat.obj \
+    $(_OBJ_DIR)\alpha\expdsprt.obj \
+    $(_OBJ_DIR)\alpha\fsupgwiz.obj \
+    $(_OBJ_DIR)\alpha\startmnu.obj \
+    $(_OBJ_DIR)\alpha\libx.obj \
+    $(_OBJ_DIR)\alpha\options.obj \
+    $(_OBJ_DIR)\alpha\advanced.obj \
+    $(_OBJ_DIR)\alpha\fldoppsx.obj \
+    $(_OBJ_DIR)\alpha\mimeflt.obj \
+    $(_OBJ_DIR)\alpha\pattern.obj \
+    $(_OBJ_DIR)\alpha\sdflditm.obj \
+    $(_OBJ_DIR)\alpha\sdfldits.obj \
+    $(_OBJ_DIR)\alpha\sdfolder.obj \
+    $(_OBJ_DIR)\alpha\sdlink.obj \
+    $(_OBJ_DIR)\alpha\sdmain.obj \
+    $(_OBJ_DIR)\alpha\sdwindow.obj \
+    $(_OBJ_DIR)\alpha\shfvocx.obj \
+    $(_OBJ_DIR)\alpha\stdafx.obj \
+    $(_OBJ_DIR)\alpha\stdenum.obj \
+    $(_OBJ_DIR)\alpha\mruex.obj \
+    $(_OBJ_DIR)\alpha\desktop.obj \
+    $(_OBJ_DIR)\alpha\dde.obj \
+    $(_OBJ_DIR)\alpha\sendto.obj \
+    $(_OBJ_DIR)\alpha\cmdfile.obj \
+    $(_OBJ_DIR)\alpha\utils.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\adjust.obj \
+    $(_OBJ_DIR)\alpha64\admover.obj \
+    $(_OBJ_DIR)\alpha64\admoveri.obj \
+    $(_OBJ_DIR)\alpha64\cnctnpt.obj \
+    $(_OBJ_DIR)\alpha64\cobjsafe.obj \
+    $(_OBJ_DIR)\alpha64\cpymovto.obj \
+    $(_OBJ_DIR)\alpha64\dback.obj \
+    $(_OBJ_DIR)\alpha64\dbackp.obj \
+    $(_OBJ_DIR)\alpha64\dcomp.obj \
+    $(_OBJ_DIR)\alpha64\dcompp.obj \
+    $(_OBJ_DIR)\alpha64\deskcls.obj \
+    $(_OBJ_DIR)\alpha64\deskhtml.obj \
+    $(_OBJ_DIR)\alpha64\deskmovr.obj \
+    $(_OBJ_DIR)\alpha64\deskstat.obj \
+    $(_OBJ_DIR)\alpha64\dspsprt.obj \
+    $(_OBJ_DIR)\alpha64\dsubscri.obj \
+    $(_OBJ_DIR)\alpha64\dvoc.obj \
+    $(_OBJ_DIR)\alpha64\dvutil.obj \
+    $(_OBJ_DIR)\alpha64\dutil.obj \
+    $(_OBJ_DIR)\alpha64\editpat.obj \
+    $(_OBJ_DIR)\alpha64\expdsprt.obj \
+    $(_OBJ_DIR)\alpha64\fsupgwiz.obj \
+    $(_OBJ_DIR)\alpha64\startmnu.obj \
+    $(_OBJ_DIR)\alpha64\libx.obj \
+    $(_OBJ_DIR)\alpha64\options.obj \
+    $(_OBJ_DIR)\alpha64\advanced.obj \
+    $(_OBJ_DIR)\alpha64\fldoppsx.obj \
+    $(_OBJ_DIR)\alpha64\mimeflt.obj \
+    $(_OBJ_DIR)\alpha64\pattern.obj \
+    $(_OBJ_DIR)\alpha64\sdflditm.obj \
+    $(_OBJ_DIR)\alpha64\sdfldits.obj \
+    $(_OBJ_DIR)\alpha64\sdfolder.obj \
+    $(_OBJ_DIR)\alpha64\sdlink.obj \
+    $(_OBJ_DIR)\alpha64\sdmain.obj \
+    $(_OBJ_DIR)\alpha64\sdwindow.obj \
+    $(_OBJ_DIR)\alpha64\shfvocx.obj \
+    $(_OBJ_DIR)\alpha64\stdafx.obj \
+    $(_OBJ_DIR)\alpha64\stdenum.obj \
+    $(_OBJ_DIR)\alpha64\mruex.obj \
+    $(_OBJ_DIR)\alpha64\desktop.obj \
+    $(_OBJ_DIR)\alpha64\dde.obj \
+    $(_OBJ_DIR)\alpha64\sendto.obj \
+    $(_OBJ_DIR)\alpha64\cmdfile.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\adjust.obj \
+    $(_OBJ_DIR)\i386\admover.obj \
+    $(_OBJ_DIR)\i386\admoveri.obj \
+    $(_OBJ_DIR)\i386\cnctnpt.obj \
+    $(_OBJ_DIR)\i386\cobjsafe.obj \
+    $(_OBJ_DIR)\i386\cpymovto.obj \
+    $(_OBJ_DIR)\i386\dback.obj \
+    $(_OBJ_DIR)\i386\dbackp.obj \
+    $(_OBJ_DIR)\i386\dcomp.obj \
+    $(_OBJ_DIR)\i386\dcompp.obj \
+    $(_OBJ_DIR)\i386\deskcls.obj \
+    $(_OBJ_DIR)\i386\deskhtml.obj \
+    $(_OBJ_DIR)\i386\deskmovr.obj \
+    $(_OBJ_DIR)\i386\deskstat.obj \
+    $(_OBJ_DIR)\i386\dspsprt.obj \
+    $(_OBJ_DIR)\i386\dsubscri.obj \
+    $(_OBJ_DIR)\i386\dvoc.obj \
+    $(_OBJ_DIR)\i386\dvutil.obj \
+    $(_OBJ_DIR)\i386\dutil.obj \
+    $(_OBJ_DIR)\i386\editpat.obj \
+    $(_OBJ_DIR)\i386\expdsprt.obj \
+    $(_OBJ_DIR)\i386\fsupgwiz.obj \
+    $(_OBJ_DIR)\i386\startmnu.obj \
+    $(_OBJ_DIR)\i386\libx.obj \
+    $(_OBJ_DIR)\i386\options.obj \
+    $(_OBJ_DIR)\i386\advanced.obj \
+    $(_OBJ_DIR)\i386\fldoppsx.obj \
+    $(_OBJ_DIR)\i386\mimeflt.obj \
+    $(_OBJ_DIR)\i386\pattern.obj \
+    $(_OBJ_DIR)\i386\sdflditm.obj \
+    $(_OBJ_DIR)\i386\sdfldits.obj \
+    $(_OBJ_DIR)\i386\sdfolder.obj \
+    $(_OBJ_DIR)\i386\sdlink.obj \
+    $(_OBJ_DIR)\i386\sdmain.obj \
+    $(_OBJ_DIR)\i386\sdwindow.obj \
+    $(_OBJ_DIR)\i386\shfvocx.obj \
+    $(_OBJ_DIR)\i386\stdafx.obj \
+    $(_OBJ_DIR)\i386\stdenum.obj \
+    $(_OBJ_DIR)\i386\mruex.obj \
+    $(_OBJ_DIR)\i386\desktop.obj \
+    $(_OBJ_DIR)\i386\dde.obj \
+    $(_OBJ_DIR)\i386\sendto.obj \
+    $(_OBJ_DIR)\i386\cmdfile.obj \
+    $(_OBJ_DIR)\i386\utils.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\adjust.obj \
+    $(_OBJ_DIR)\ia64\admover.obj \
+    $(_OBJ_DIR)\ia64\admoveri.obj \
+    $(_OBJ_DIR)\ia64\cnctnpt.obj \
+    $(_OBJ_DIR)\ia64\cobjsafe.obj \
+    $(_OBJ_DIR)\ia64\cpymovto.obj \
+    $(_OBJ_DIR)\ia64\dback.obj \
+    $(_OBJ_DIR)\ia64\dbackp.obj \
+    $(_OBJ_DIR)\ia64\dcomp.obj \
+    $(_OBJ_DIR)\ia64\dcompp.obj \
+    $(_OBJ_DIR)\ia64\deskcls.obj \
+    $(_OBJ_DIR)\ia64\deskhtml.obj \
+    $(_OBJ_DIR)\ia64\deskmovr.obj \
+    $(_OBJ_DIR)\ia64\deskstat.obj \
+    $(_OBJ_DIR)\ia64\dspsprt.obj \
+    $(_OBJ_DIR)\ia64\dsubscri.obj \
+    $(_OBJ_DIR)\ia64\dvoc.obj \
+    $(_OBJ_DIR)\ia64\dvutil.obj \
+    $(_OBJ_DIR)\ia64\dutil.obj \
+    $(_OBJ_DIR)\ia64\editpat.obj \
+    $(_OBJ_DIR)\ia64\expdsprt.obj \
+    $(_OBJ_DIR)\ia64\fsupgwiz.obj \
+    $(_OBJ_DIR)\ia64\startmnu.obj \
+    $(_OBJ_DIR)\ia64\libx.obj \
+    $(_OBJ_DIR)\ia64\options.obj \
+    $(_OBJ_DIR)\ia64\advanced.obj \
+    $(_OBJ_DIR)\ia64\fldoppsx.obj \
+    $(_OBJ_DIR)\ia64\mimeflt.obj \
+    $(_OBJ_DIR)\ia64\pattern.obj \
+    $(_OBJ_DIR)\ia64\sdflditm.obj \
+    $(_OBJ_DIR)\ia64\sdfldits.obj \
+    $(_OBJ_DIR)\ia64\sdfolder.obj \
+    $(_OBJ_DIR)\ia64\sdlink.obj \
+    $(_OBJ_DIR)\ia64\sdmain.obj \
+    $(_OBJ_DIR)\ia64\sdwindow.obj \
+    $(_OBJ_DIR)\ia64\shfvocx.obj \
+    $(_OBJ_DIR)\ia64\stdafx.obj \
+    $(_OBJ_DIR)\ia64\stdenum.obj \
+    $(_OBJ_DIR)\ia64\mruex.obj \
+    $(_OBJ_DIR)\ia64\desktop.obj \
+    $(_OBJ_DIR)\ia64\dde.obj \
+    $(_OBJ_DIR)\ia64\sendto.obj \
+    $(_OBJ_DIR)\ia64\cmdfile.obj \
+    $(_OBJ_DIR)\ia64\utils.obj
+
+PASS0_IA64_OBJECTS=
+

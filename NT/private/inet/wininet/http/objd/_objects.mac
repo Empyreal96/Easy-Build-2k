@@ -1,0 +1,100 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\add.obj \
+    $(_OBJ_DIR)\alpha\cache.obj \
+    $(_OBJ_DIR)\alpha\chunk.obj \
+    $(_OBJ_DIR)\alpha\cookie.obj \
+    $(_OBJ_DIR)\alpha\dav.obj \
+    $(_OBJ_DIR)\alpha\headers.obj \
+    $(_OBJ_DIR)\alpha\httptime.obj \
+    $(_OBJ_DIR)\alpha\makeconn.obj \
+    $(_OBJ_DIR)\alpha\open.obj \
+    $(_OBJ_DIR)\alpha\prefetch.obj \
+    $(_OBJ_DIR)\alpha\query.obj \
+    $(_OBJ_DIR)\alpha\read.obj \
+    $(_OBJ_DIR)\alpha\redirect.obj \
+    $(_OBJ_DIR)\alpha\request.obj \
+    $(_OBJ_DIR)\alpha\response.obj \
+    $(_OBJ_DIR)\alpha\send.obj \
+    $(_OBJ_DIR)\alpha\sendapi.obj \
+    $(_OBJ_DIR)\alpha\sendreq.obj \
+    $(_OBJ_DIR)\alpha\socket.obj \
+    $(_OBJ_DIR)\alpha\write.obj \
+    $(_OBJ_DIR)\alpha\hhead.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\add.obj \
+    $(_OBJ_DIR)\alpha64\cache.obj \
+    $(_OBJ_DIR)\alpha64\chunk.obj \
+    $(_OBJ_DIR)\alpha64\cookie.obj \
+    $(_OBJ_DIR)\alpha64\dav.obj \
+    $(_OBJ_DIR)\alpha64\headers.obj \
+    $(_OBJ_DIR)\alpha64\httptime.obj \
+    $(_OBJ_DIR)\alpha64\makeconn.obj \
+    $(_OBJ_DIR)\alpha64\open.obj \
+    $(_OBJ_DIR)\alpha64\prefetch.obj \
+    $(_OBJ_DIR)\alpha64\query.obj \
+    $(_OBJ_DIR)\alpha64\read.obj \
+    $(_OBJ_DIR)\alpha64\redirect.obj \
+    $(_OBJ_DIR)\alpha64\request.obj \
+    $(_OBJ_DIR)\alpha64\response.obj \
+    $(_OBJ_DIR)\alpha64\send.obj \
+    $(_OBJ_DIR)\alpha64\sendapi.obj \
+    $(_OBJ_DIR)\alpha64\sendreq.obj \
+    $(_OBJ_DIR)\alpha64\socket.obj \
+    $(_OBJ_DIR)\alpha64\write.obj \
+    $(_OBJ_DIR)\alpha64\hhead.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\add.obj \
+    $(_OBJ_DIR)\i386\cache.obj \
+    $(_OBJ_DIR)\i386\chunk.obj \
+    $(_OBJ_DIR)\i386\cookie.obj \
+    $(_OBJ_DIR)\i386\dav.obj \
+    $(_OBJ_DIR)\i386\headers.obj \
+    $(_OBJ_DIR)\i386\httptime.obj \
+    $(_OBJ_DIR)\i386\makeconn.obj \
+    $(_OBJ_DIR)\i386\open.obj \
+    $(_OBJ_DIR)\i386\prefetch.obj \
+    $(_OBJ_DIR)\i386\query.obj \
+    $(_OBJ_DIR)\i386\read.obj \
+    $(_OBJ_DIR)\i386\redirect.obj \
+    $(_OBJ_DIR)\i386\request.obj \
+    $(_OBJ_DIR)\i386\response.obj \
+    $(_OBJ_DIR)\i386\send.obj \
+    $(_OBJ_DIR)\i386\sendapi.obj \
+    $(_OBJ_DIR)\i386\sendreq.obj \
+    $(_OBJ_DIR)\i386\socket.obj \
+    $(_OBJ_DIR)\i386\write.obj \
+    $(_OBJ_DIR)\i386\hhead.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\add.obj \
+    $(_OBJ_DIR)\ia64\cache.obj \
+    $(_OBJ_DIR)\ia64\chunk.obj \
+    $(_OBJ_DIR)\ia64\cookie.obj \
+    $(_OBJ_DIR)\ia64\dav.obj \
+    $(_OBJ_DIR)\ia64\headers.obj \
+    $(_OBJ_DIR)\ia64\httptime.obj \
+    $(_OBJ_DIR)\ia64\makeconn.obj \
+    $(_OBJ_DIR)\ia64\open.obj \
+    $(_OBJ_DIR)\ia64\prefetch.obj \
+    $(_OBJ_DIR)\ia64\query.obj \
+    $(_OBJ_DIR)\ia64\read.obj \
+    $(_OBJ_DIR)\ia64\redirect.obj \
+    $(_OBJ_DIR)\ia64\request.obj \
+    $(_OBJ_DIR)\ia64\response.obj \
+    $(_OBJ_DIR)\ia64\send.obj \
+    $(_OBJ_DIR)\ia64\sendapi.obj \
+    $(_OBJ_DIR)\ia64\sendreq.obj \
+    $(_OBJ_DIR)\ia64\socket.obj \
+    $(_OBJ_DIR)\ia64\write.obj \
+    $(_OBJ_DIR)\ia64\hhead.obj
+
+PASS0_IA64_OBJECTS=
+

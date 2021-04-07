@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\gcinst.obj \
+    $(_OBJ_DIR)\alpha\group.obj \
+    $(_OBJ_DIR)\alpha\util.obj \
+    $(_OBJ_DIR)\alpha\init.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\gcinst.obj \
+    $(_OBJ_DIR)\alpha64\group.obj \
+    $(_OBJ_DIR)\alpha64\util.obj \
+    $(_OBJ_DIR)\alpha64\init.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\gcinst.obj \
+    $(_OBJ_DIR)\i386\group.obj \
+    $(_OBJ_DIR)\i386\util.obj \
+    $(_OBJ_DIR)\i386\init.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\gcinst.obj \
+    $(_OBJ_DIR)\ia64\group.obj \
+    $(_OBJ_DIR)\ia64\util.obj \
+    $(_OBJ_DIR)\ia64\init.obj
+
+PASS0_IA64_OBJECTS=
+

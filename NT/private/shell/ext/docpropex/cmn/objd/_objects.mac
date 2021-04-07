@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\ptserver_i.obj \
+    $(_OBJ_DIR)\alpha\pchsink.obj \
+    $(_OBJ_DIR)\alpha\cpool.obj \
+    $(_OBJ_DIR)\alpha\propvar.obj \
+    $(_OBJ_DIR)\alpha\ptutil.obj \
+    $(_OBJ_DIR)\alpha\ptsniff.obj \
+    $(_OBJ_DIR)\alpha\ptdebug.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\ptserver.h \
+    $(PASS0_UUIDDIR)\ptserver.c
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\ptserver_i.obj \
+    $(_OBJ_DIR)\alpha64\pchsink.obj \
+    $(_OBJ_DIR)\alpha64\cpool.obj \
+    $(_OBJ_DIR)\alpha64\propvar.obj \
+    $(_OBJ_DIR)\alpha64\ptutil.obj \
+    $(_OBJ_DIR)\alpha64\ptsniff.obj \
+    $(_OBJ_DIR)\alpha64\ptdebug.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\ptserver.h \
+    $(PASS0_UUIDDIR)\ptserver.c
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\ptserver_i.obj \
+    $(_OBJ_DIR)\i386\pchsink.obj \
+    $(_OBJ_DIR)\i386\cpool.obj \
+    $(_OBJ_DIR)\i386\propvar.obj \
+    $(_OBJ_DIR)\i386\ptutil.obj \
+    $(_OBJ_DIR)\i386\ptsniff.obj \
+    $(_OBJ_DIR)\i386\ptdebug.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\ptserver.h \
+    $(PASS0_UUIDDIR)\ptserver.c
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\ptserver_i.obj \
+    $(_OBJ_DIR)\ia64\pchsink.obj \
+    $(_OBJ_DIR)\ia64\cpool.obj \
+    $(_OBJ_DIR)\ia64\propvar.obj \
+    $(_OBJ_DIR)\ia64\ptutil.obj \
+    $(_OBJ_DIR)\ia64\ptsniff.obj \
+    $(_OBJ_DIR)\ia64\ptdebug.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\ptserver.h \
+    $(PASS0_UUIDDIR)\ptserver.c
+

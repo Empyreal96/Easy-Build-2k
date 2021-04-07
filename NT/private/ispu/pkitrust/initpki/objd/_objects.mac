@@ -1,0 +1,40 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\initpki.res \
+    $(_OBJ_DIR)\alpha\initpki.obj \
+    $(_OBJ_DIR)\alpha\initacl.obj \
+    $(_OBJ_DIR)\alpha\mvcerts.obj \
+    $(_OBJ_DIR)\alpha\pkireg.obj \
+    $(_OBJ_DIR)\alpha\tcrack.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\initpki.res \
+    $(_OBJ_DIR)\alpha64\initpki.obj \
+    $(_OBJ_DIR)\alpha64\initacl.obj \
+    $(_OBJ_DIR)\alpha64\mvcerts.obj \
+    $(_OBJ_DIR)\alpha64\pkireg.obj \
+    $(_OBJ_DIR)\alpha64\tcrack.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\initpki.res \
+    $(_OBJ_DIR)\i386\initpki.obj \
+    $(_OBJ_DIR)\i386\initacl.obj \
+    $(_OBJ_DIR)\i386\mvcerts.obj \
+    $(_OBJ_DIR)\i386\pkireg.obj \
+    $(_OBJ_DIR)\i386\tcrack.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\initpki.res \
+    $(_OBJ_DIR)\ia64\initpki.obj \
+    $(_OBJ_DIR)\ia64\initacl.obj \
+    $(_OBJ_DIR)\ia64\mvcerts.obj \
+    $(_OBJ_DIR)\ia64\pkireg.obj \
+    $(_OBJ_DIR)\ia64\tcrack.obj
+
+PASS0_IA64_OBJECTS=
+

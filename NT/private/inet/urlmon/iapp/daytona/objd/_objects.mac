@@ -1,0 +1,36 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\cnet.obj \
+    $(_OBJ_DIR)\alpha\cnethttp.obj \
+    $(_OBJ_DIR)\alpha\cnetsimp.obj \
+    $(_OBJ_DIR)\alpha\cnetstrm.obj \
+    $(_OBJ_DIR)\alpha\curl.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\cnet.obj \
+    $(_OBJ_DIR)\alpha64\cnethttp.obj \
+    $(_OBJ_DIR)\alpha64\cnetsimp.obj \
+    $(_OBJ_DIR)\alpha64\cnetstrm.obj \
+    $(_OBJ_DIR)\alpha64\curl.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\cnet.obj \
+    $(_OBJ_DIR)\i386\cnethttp.obj \
+    $(_OBJ_DIR)\i386\cnetsimp.obj \
+    $(_OBJ_DIR)\i386\cnetstrm.obj \
+    $(_OBJ_DIR)\i386\curl.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\cnet.obj \
+    $(_OBJ_DIR)\ia64\cnethttp.obj \
+    $(_OBJ_DIR)\ia64\cnetsimp.obj \
+    $(_OBJ_DIR)\ia64\cnetstrm.obj \
+    $(_OBJ_DIR)\ia64\curl.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\access.res \
+    $(_OBJ_DIR)\alpha\access.obj \
+    $(_OBJ_DIR)\alpha\accrare.obj \
+    $(_OBJ_DIR)\alpha\display.obj \
+    $(_OBJ_DIR)\alpha\fltrkeys.obj \
+    $(_OBJ_DIR)\alpha\general.obj \
+    $(_OBJ_DIR)\alpha\keybd.obj \
+    $(_OBJ_DIR)\alpha\main.obj \
+    $(_OBJ_DIR)\alpha\mouse.obj \
+    $(_OBJ_DIR)\alpha\reg.obj \
+    $(_OBJ_DIR)\alpha\serlkey.obj \
+    $(_OBJ_DIR)\alpha\sound.obj \
+    $(_OBJ_DIR)\alpha\stkykey.obj \
+    $(_OBJ_DIR)\alpha\tgglkeys.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\access.res \
+    $(_OBJ_DIR)\alpha64\access.obj \
+    $(_OBJ_DIR)\alpha64\accrare.obj \
+    $(_OBJ_DIR)\alpha64\display.obj \
+    $(_OBJ_DIR)\alpha64\fltrkeys.obj \
+    $(_OBJ_DIR)\alpha64\general.obj \
+    $(_OBJ_DIR)\alpha64\keybd.obj \
+    $(_OBJ_DIR)\alpha64\main.obj \
+    $(_OBJ_DIR)\alpha64\mouse.obj \
+    $(_OBJ_DIR)\alpha64\reg.obj \
+    $(_OBJ_DIR)\alpha64\serlkey.obj \
+    $(_OBJ_DIR)\alpha64\sound.obj \
+    $(_OBJ_DIR)\alpha64\stkykey.obj \
+    $(_OBJ_DIR)\alpha64\tgglkeys.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\access.res \
+    $(_OBJ_DIR)\i386\access.obj \
+    $(_OBJ_DIR)\i386\accrare.obj \
+    $(_OBJ_DIR)\i386\display.obj \
+    $(_OBJ_DIR)\i386\fltrkeys.obj \
+    $(_OBJ_DIR)\i386\general.obj \
+    $(_OBJ_DIR)\i386\keybd.obj \
+    $(_OBJ_DIR)\i386\main.obj \
+    $(_OBJ_DIR)\i386\mouse.obj \
+    $(_OBJ_DIR)\i386\reg.obj \
+    $(_OBJ_DIR)\i386\serlkey.obj \
+    $(_OBJ_DIR)\i386\sound.obj \
+    $(_OBJ_DIR)\i386\stkykey.obj \
+    $(_OBJ_DIR)\i386\tgglkeys.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\access.res \
+    $(_OBJ_DIR)\ia64\access.obj \
+    $(_OBJ_DIR)\ia64\accrare.obj \
+    $(_OBJ_DIR)\ia64\display.obj \
+    $(_OBJ_DIR)\ia64\fltrkeys.obj \
+    $(_OBJ_DIR)\ia64\general.obj \
+    $(_OBJ_DIR)\ia64\keybd.obj \
+    $(_OBJ_DIR)\ia64\main.obj \
+    $(_OBJ_DIR)\ia64\mouse.obj \
+    $(_OBJ_DIR)\ia64\reg.obj \
+    $(_OBJ_DIR)\ia64\serlkey.obj \
+    $(_OBJ_DIR)\ia64\sound.obj \
+    $(_OBJ_DIR)\ia64\stkykey.obj \
+    $(_OBJ_DIR)\ia64\tgglkeys.obj
+
+PASS0_IA64_OBJECTS=
+

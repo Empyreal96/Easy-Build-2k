@@ -1,0 +1,28 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\bufferedstream.obj \
+    $(_OBJ_DIR)\alpha\xmlstream.obj \
+    $(_OBJ_DIR)\alpha\htmlent.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\bufferedstream.obj \
+    $(_OBJ_DIR)\alpha64\xmlstream.obj \
+    $(_OBJ_DIR)\alpha64\htmlent.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\bufferedstream.obj \
+    $(_OBJ_DIR)\i386\xmlstream.obj \
+    $(_OBJ_DIR)\i386\htmlent.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\bufferedstream.obj \
+    $(_OBJ_DIR)\ia64\xmlstream.obj \
+    $(_OBJ_DIR)\ia64\htmlent.obj
+
+PASS0_IA64_OBJECTS=
+

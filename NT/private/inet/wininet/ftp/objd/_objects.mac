@@ -1,0 +1,60 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\dirlist.obj \
+    $(_OBJ_DIR)\alpha\ftpapia.obj \
+    $(_OBJ_DIR)\alpha\ftpapir.obj \
+    $(_OBJ_DIR)\alpha\ftpapiu.obj \
+    $(_OBJ_DIR)\alpha\ftpapiw.obj \
+    $(_OBJ_DIR)\alpha\ftpinit.obj \
+    $(_OBJ_DIR)\alpha\name.obj \
+    $(_OBJ_DIR)\alpha\namep.obj \
+    $(_OBJ_DIR)\alpha\protocol.obj \
+    $(_OBJ_DIR)\alpha\session.obj \
+    $(_OBJ_DIR)\alpha\tcputil.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\dirlist.obj \
+    $(_OBJ_DIR)\alpha64\ftpapia.obj \
+    $(_OBJ_DIR)\alpha64\ftpapir.obj \
+    $(_OBJ_DIR)\alpha64\ftpapiu.obj \
+    $(_OBJ_DIR)\alpha64\ftpapiw.obj \
+    $(_OBJ_DIR)\alpha64\ftpinit.obj \
+    $(_OBJ_DIR)\alpha64\name.obj \
+    $(_OBJ_DIR)\alpha64\namep.obj \
+    $(_OBJ_DIR)\alpha64\protocol.obj \
+    $(_OBJ_DIR)\alpha64\session.obj \
+    $(_OBJ_DIR)\alpha64\tcputil.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\dirlist.obj \
+    $(_OBJ_DIR)\i386\ftpapia.obj \
+    $(_OBJ_DIR)\i386\ftpapir.obj \
+    $(_OBJ_DIR)\i386\ftpapiu.obj \
+    $(_OBJ_DIR)\i386\ftpapiw.obj \
+    $(_OBJ_DIR)\i386\ftpinit.obj \
+    $(_OBJ_DIR)\i386\name.obj \
+    $(_OBJ_DIR)\i386\namep.obj \
+    $(_OBJ_DIR)\i386\protocol.obj \
+    $(_OBJ_DIR)\i386\session.obj \
+    $(_OBJ_DIR)\i386\tcputil.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\dirlist.obj \
+    $(_OBJ_DIR)\ia64\ftpapia.obj \
+    $(_OBJ_DIR)\ia64\ftpapir.obj \
+    $(_OBJ_DIR)\ia64\ftpapiu.obj \
+    $(_OBJ_DIR)\ia64\ftpapiw.obj \
+    $(_OBJ_DIR)\ia64\ftpinit.obj \
+    $(_OBJ_DIR)\ia64\name.obj \
+    $(_OBJ_DIR)\ia64\namep.obj \
+    $(_OBJ_DIR)\ia64\protocol.obj \
+    $(_OBJ_DIR)\ia64\session.obj \
+    $(_OBJ_DIR)\ia64\tcputil.obj
+
+PASS0_IA64_OBJECTS=
+

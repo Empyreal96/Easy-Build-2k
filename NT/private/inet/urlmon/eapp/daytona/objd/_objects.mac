@@ -1,0 +1,44 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\cmimeft.obj \
+    $(_OBJ_DIR)\alpha\ccodeft.obj \
+    $(_OBJ_DIR)\alpha\clshndlr.obj \
+    $(_OBJ_DIR)\alpha\cdlprot.obj \
+    $(_OBJ_DIR)\alpha\cdlbsc.obj \
+    $(_OBJ_DIR)\alpha\protbase.obj \
+    $(_OBJ_DIR)\alpha\knownhnd.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\cmimeft.obj \
+    $(_OBJ_DIR)\alpha64\ccodeft.obj \
+    $(_OBJ_DIR)\alpha64\clshndlr.obj \
+    $(_OBJ_DIR)\alpha64\cdlprot.obj \
+    $(_OBJ_DIR)\alpha64\cdlbsc.obj \
+    $(_OBJ_DIR)\alpha64\protbase.obj \
+    $(_OBJ_DIR)\alpha64\knownhnd.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\cmimeft.obj \
+    $(_OBJ_DIR)\i386\ccodeft.obj \
+    $(_OBJ_DIR)\i386\clshndlr.obj \
+    $(_OBJ_DIR)\i386\cdlprot.obj \
+    $(_OBJ_DIR)\i386\cdlbsc.obj \
+    $(_OBJ_DIR)\i386\protbase.obj \
+    $(_OBJ_DIR)\i386\knownhnd.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\cmimeft.obj \
+    $(_OBJ_DIR)\ia64\ccodeft.obj \
+    $(_OBJ_DIR)\ia64\clshndlr.obj \
+    $(_OBJ_DIR)\ia64\cdlprot.obj \
+    $(_OBJ_DIR)\ia64\cdlbsc.obj \
+    $(_OBJ_DIR)\ia64\protbase.obj \
+    $(_OBJ_DIR)\ia64\knownhnd.obj
+
+PASS0_IA64_OBJECTS=
+

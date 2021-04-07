@@ -1,0 +1,44 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\regwizctrl.res \
+    $(_OBJ_DIR)\alpha\cathelp.obj \
+    $(_OBJ_DIR)\alpha\crwctrl.obj \
+    $(_OBJ_DIR)\alpha\regwizctrl.obj \
+    $(_OBJ_DIR)\alpha\stdafx.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\regwizctrl.h \
+    $(PASS0_UUIDDIR)\regwizctrl.c
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\regwizctrl.res \
+    $(_OBJ_DIR)\alpha64\cathelp.obj \
+    $(_OBJ_DIR)\alpha64\crwctrl.obj \
+    $(_OBJ_DIR)\alpha64\regwizctrl.obj \
+    $(_OBJ_DIR)\alpha64\stdafx.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\regwizctrl.h \
+    $(PASS0_UUIDDIR)\regwizctrl.c
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\regwizctrl.res \
+    $(_OBJ_DIR)\i386\cathelp.obj \
+    $(_OBJ_DIR)\i386\crwctrl.obj \
+    $(_OBJ_DIR)\i386\regwizctrl.obj \
+    $(_OBJ_DIR)\i386\stdafx.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\regwizctrl.h \
+    $(PASS0_UUIDDIR)\regwizctrl.c
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\regwizctrl.res \
+    $(_OBJ_DIR)\ia64\cathelp.obj \
+    $(_OBJ_DIR)\ia64\crwctrl.obj \
+    $(_OBJ_DIR)\ia64\regwizctrl.obj \
+    $(_OBJ_DIR)\ia64\stdafx.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\regwizctrl.h \
+    $(PASS0_UUIDDIR)\regwizctrl.c
+

@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\adler32.obj \
+    $(_OBJ_DIR)\alpha\compress.obj \
+    $(_OBJ_DIR)\alpha\crc32.obj \
+    $(_OBJ_DIR)\alpha\deflate.obj \
+    $(_OBJ_DIR)\alpha\gzio.obj \
+    $(_OBJ_DIR)\alpha\infblock.obj \
+    $(_OBJ_DIR)\alpha\infcodes.obj \
+    $(_OBJ_DIR)\alpha\inffast.obj \
+    $(_OBJ_DIR)\alpha\inflate.obj \
+    $(_OBJ_DIR)\alpha\inftrees.obj \
+    $(_OBJ_DIR)\alpha\infutil.obj \
+    $(_OBJ_DIR)\alpha\trees.obj \
+    $(_OBJ_DIR)\alpha\uncompr.obj \
+    $(_OBJ_DIR)\alpha\zutil.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\adler32.obj \
+    $(_OBJ_DIR)\alpha64\compress.obj \
+    $(_OBJ_DIR)\alpha64\crc32.obj \
+    $(_OBJ_DIR)\alpha64\deflate.obj \
+    $(_OBJ_DIR)\alpha64\gzio.obj \
+    $(_OBJ_DIR)\alpha64\infblock.obj \
+    $(_OBJ_DIR)\alpha64\infcodes.obj \
+    $(_OBJ_DIR)\alpha64\inffast.obj \
+    $(_OBJ_DIR)\alpha64\inflate.obj \
+    $(_OBJ_DIR)\alpha64\inftrees.obj \
+    $(_OBJ_DIR)\alpha64\infutil.obj \
+    $(_OBJ_DIR)\alpha64\trees.obj \
+    $(_OBJ_DIR)\alpha64\uncompr.obj \
+    $(_OBJ_DIR)\alpha64\zutil.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\adler32.obj \
+    $(_OBJ_DIR)\i386\compress.obj \
+    $(_OBJ_DIR)\i386\crc32.obj \
+    $(_OBJ_DIR)\i386\deflate.obj \
+    $(_OBJ_DIR)\i386\gzio.obj \
+    $(_OBJ_DIR)\i386\infblock.obj \
+    $(_OBJ_DIR)\i386\infcodes.obj \
+    $(_OBJ_DIR)\i386\inffast.obj \
+    $(_OBJ_DIR)\i386\inflate.obj \
+    $(_OBJ_DIR)\i386\inftrees.obj \
+    $(_OBJ_DIR)\i386\infutil.obj \
+    $(_OBJ_DIR)\i386\trees.obj \
+    $(_OBJ_DIR)\i386\uncompr.obj \
+    $(_OBJ_DIR)\i386\zutil.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\adler32.obj \
+    $(_OBJ_DIR)\ia64\compress.obj \
+    $(_OBJ_DIR)\ia64\crc32.obj \
+    $(_OBJ_DIR)\ia64\deflate.obj \
+    $(_OBJ_DIR)\ia64\gzio.obj \
+    $(_OBJ_DIR)\ia64\infblock.obj \
+    $(_OBJ_DIR)\ia64\infcodes.obj \
+    $(_OBJ_DIR)\ia64\inffast.obj \
+    $(_OBJ_DIR)\ia64\inflate.obj \
+    $(_OBJ_DIR)\ia64\inftrees.obj \
+    $(_OBJ_DIR)\ia64\infutil.obj \
+    $(_OBJ_DIR)\ia64\trees.obj \
+    $(_OBJ_DIR)\ia64\uncompr.obj \
+    $(_OBJ_DIR)\ia64\zutil.obj
+
+PASS0_IA64_OBJECTS=
+

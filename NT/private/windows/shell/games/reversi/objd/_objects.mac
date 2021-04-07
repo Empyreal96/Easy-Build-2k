@@ -1,0 +1,28 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\res.res \
+    $(_OBJ_DIR)\alpha\reversi.obj \
+    $(_OBJ_DIR)\alpha\rev.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\res.res \
+    $(_OBJ_DIR)\alpha64\reversi.obj \
+    $(_OBJ_DIR)\alpha64\rev.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\res.res \
+    $(_OBJ_DIR)\i386\reversi.obj \
+    $(_OBJ_DIR)\i386\rev.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\res.res \
+    $(_OBJ_DIR)\ia64\reversi.obj \
+    $(_OBJ_DIR)\ia64\rev.obj
+
+PASS0_IA64_OBJECTS=
+

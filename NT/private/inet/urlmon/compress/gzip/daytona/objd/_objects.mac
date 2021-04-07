@@ -1,0 +1,116 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\maketbl.obj \
+    $(_OBJ_DIR)\alpha\definit.obj \
+    $(_OBJ_DIR)\alpha\deftree.obj \
+    $(_OBJ_DIR)\alpha\optfmtch.obj \
+    $(_OBJ_DIR)\alpha\infdyna.obj \
+    $(_OBJ_DIR)\alpha\infuncmp.obj \
+    $(_OBJ_DIR)\alpha\stddebug.obj \
+    $(_OBJ_DIR)\alpha\fstenc.obj \
+    $(_OBJ_DIR)\alpha\optdebug.obj \
+    $(_OBJ_DIR)\alpha\defmisc.obj \
+    $(_OBJ_DIR)\alpha\output.obj \
+    $(_OBJ_DIR)\alpha\fstdebug.obj \
+    $(_OBJ_DIR)\alpha\inflate.obj \
+    $(_OBJ_DIR)\alpha\stdenc.obj \
+    $(_OBJ_DIR)\alpha\optenc.obj \
+    $(_OBJ_DIR)\alpha\stdblock.obj \
+    $(_OBJ_DIR)\alpha\optblock.obj \
+    $(_OBJ_DIR)\alpha\infinput.obj \
+    $(_OBJ_DIR)\alpha\deflate.obj \
+    $(_OBJ_DIR)\alpha\api.obj \
+    $(_OBJ_DIR)\alpha\gzip.obj \
+    $(_OBJ_DIR)\alpha\infstatic.obj \
+    $(_OBJ_DIR)\alpha\comninit.obj \
+    $(_OBJ_DIR)\alpha\infinit.obj \
+    $(_OBJ_DIR)\alpha\inftree.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\maketbl.obj \
+    $(_OBJ_DIR)\alpha64\definit.obj \
+    $(_OBJ_DIR)\alpha64\deftree.obj \
+    $(_OBJ_DIR)\alpha64\optfmtch.obj \
+    $(_OBJ_DIR)\alpha64\infdyna.obj \
+    $(_OBJ_DIR)\alpha64\infuncmp.obj \
+    $(_OBJ_DIR)\alpha64\stddebug.obj \
+    $(_OBJ_DIR)\alpha64\fstenc.obj \
+    $(_OBJ_DIR)\alpha64\optdebug.obj \
+    $(_OBJ_DIR)\alpha64\defmisc.obj \
+    $(_OBJ_DIR)\alpha64\output.obj \
+    $(_OBJ_DIR)\alpha64\fstdebug.obj \
+    $(_OBJ_DIR)\alpha64\inflate.obj \
+    $(_OBJ_DIR)\alpha64\stdenc.obj \
+    $(_OBJ_DIR)\alpha64\optenc.obj \
+    $(_OBJ_DIR)\alpha64\stdblock.obj \
+    $(_OBJ_DIR)\alpha64\optblock.obj \
+    $(_OBJ_DIR)\alpha64\infinput.obj \
+    $(_OBJ_DIR)\alpha64\deflate.obj \
+    $(_OBJ_DIR)\alpha64\api.obj \
+    $(_OBJ_DIR)\alpha64\gzip.obj \
+    $(_OBJ_DIR)\alpha64\infstatic.obj \
+    $(_OBJ_DIR)\alpha64\comninit.obj \
+    $(_OBJ_DIR)\alpha64\infinit.obj \
+    $(_OBJ_DIR)\alpha64\inftree.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\maketbl.obj \
+    $(_OBJ_DIR)\i386\definit.obj \
+    $(_OBJ_DIR)\i386\deftree.obj \
+    $(_OBJ_DIR)\i386\optfmtch.obj \
+    $(_OBJ_DIR)\i386\infdyna.obj \
+    $(_OBJ_DIR)\i386\infuncmp.obj \
+    $(_OBJ_DIR)\i386\stddebug.obj \
+    $(_OBJ_DIR)\i386\fstenc.obj \
+    $(_OBJ_DIR)\i386\optdebug.obj \
+    $(_OBJ_DIR)\i386\defmisc.obj \
+    $(_OBJ_DIR)\i386\output.obj \
+    $(_OBJ_DIR)\i386\fstdebug.obj \
+    $(_OBJ_DIR)\i386\inflate.obj \
+    $(_OBJ_DIR)\i386\stdenc.obj \
+    $(_OBJ_DIR)\i386\optenc.obj \
+    $(_OBJ_DIR)\i386\stdblock.obj \
+    $(_OBJ_DIR)\i386\optblock.obj \
+    $(_OBJ_DIR)\i386\infinput.obj \
+    $(_OBJ_DIR)\i386\deflate.obj \
+    $(_OBJ_DIR)\i386\api.obj \
+    $(_OBJ_DIR)\i386\gzip.obj \
+    $(_OBJ_DIR)\i386\infstatic.obj \
+    $(_OBJ_DIR)\i386\comninit.obj \
+    $(_OBJ_DIR)\i386\infinit.obj \
+    $(_OBJ_DIR)\i386\inftree.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\maketbl.obj \
+    $(_OBJ_DIR)\ia64\definit.obj \
+    $(_OBJ_DIR)\ia64\deftree.obj \
+    $(_OBJ_DIR)\ia64\optfmtch.obj \
+    $(_OBJ_DIR)\ia64\infdyna.obj \
+    $(_OBJ_DIR)\ia64\infuncmp.obj \
+    $(_OBJ_DIR)\ia64\stddebug.obj \
+    $(_OBJ_DIR)\ia64\fstenc.obj \
+    $(_OBJ_DIR)\ia64\optdebug.obj \
+    $(_OBJ_DIR)\ia64\defmisc.obj \
+    $(_OBJ_DIR)\ia64\output.obj \
+    $(_OBJ_DIR)\ia64\fstdebug.obj \
+    $(_OBJ_DIR)\ia64\inflate.obj \
+    $(_OBJ_DIR)\ia64\stdenc.obj \
+    $(_OBJ_DIR)\ia64\optenc.obj \
+    $(_OBJ_DIR)\ia64\stdblock.obj \
+    $(_OBJ_DIR)\ia64\optblock.obj \
+    $(_OBJ_DIR)\ia64\infinput.obj \
+    $(_OBJ_DIR)\ia64\deflate.obj \
+    $(_OBJ_DIR)\ia64\api.obj \
+    $(_OBJ_DIR)\ia64\gzip.obj \
+    $(_OBJ_DIR)\ia64\infstatic.obj \
+    $(_OBJ_DIR)\ia64\comninit.obj \
+    $(_OBJ_DIR)\ia64\infinit.obj \
+    $(_OBJ_DIR)\ia64\inftree.obj
+
+PASS0_IA64_OBJECTS=
+

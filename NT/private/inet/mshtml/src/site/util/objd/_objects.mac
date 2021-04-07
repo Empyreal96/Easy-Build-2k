@@ -1,0 +1,144 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\array.obj \
+    $(_OBJ_DIR)\alpha\mime64.obj \
+    $(_OBJ_DIR)\alpha\altfont.obj \
+    $(_OBJ_DIR)\alpha\cfpf.obj \
+    $(_OBJ_DIR)\alpha\clrngprs.obj \
+    $(_OBJ_DIR)\alpha\collbase.obj \
+    $(_OBJ_DIR)\alpha\collect.obj \
+    $(_OBJ_DIR)\alpha\dimm.obj \
+    $(_OBJ_DIR)\alpha\datcache.obj \
+    $(_OBJ_DIR)\alpha\domcoll.obj \
+    $(_OBJ_DIR)\alpha\eventobj.obj \
+    $(_OBJ_DIR)\alpha\fontinfo.obj \
+    $(_OBJ_DIR)\alpha\filtcol.obj \
+    $(_OBJ_DIR)\alpha\intl.obj \
+    $(_OBJ_DIR)\alpha\numconv.obj \
+    $(_OBJ_DIR)\alpha\omrect.obj \
+    $(_OBJ_DIR)\alpha\optshold.obj \
+    $(_OBJ_DIR)\alpha\postdata.obj \
+    $(_OBJ_DIR)\alpha\propbag.obj \
+    $(_OBJ_DIR)\alpha\recalc.obj \
+    $(_OBJ_DIR)\alpha\sbbase.obj \
+    $(_OBJ_DIR)\alpha\sbutil.obj \
+    $(_OBJ_DIR)\alpha\shape.obj \
+    $(_OBJ_DIR)\alpha\strbuf.obj \
+    $(_OBJ_DIR)\alpha\switches.obj \
+    $(_OBJ_DIR)\alpha\textxfrm.obj \
+    $(_OBJ_DIR)\alpha\unipart.obj \
+    $(_OBJ_DIR)\alpha\unisid.obj \
+    $(_OBJ_DIR)\alpha\uniwbk.obj \
+    $(_OBJ_DIR)\alpha\unidir.obj \
+    $(_OBJ_DIR)\alpha\uniprop.obj \
+    $(_OBJ_DIR)\alpha\xmlns.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\array.obj \
+    $(_OBJ_DIR)\alpha64\mime64.obj \
+    $(_OBJ_DIR)\alpha64\altfont.obj \
+    $(_OBJ_DIR)\alpha64\cfpf.obj \
+    $(_OBJ_DIR)\alpha64\clrngprs.obj \
+    $(_OBJ_DIR)\alpha64\collbase.obj \
+    $(_OBJ_DIR)\alpha64\collect.obj \
+    $(_OBJ_DIR)\alpha64\dimm.obj \
+    $(_OBJ_DIR)\alpha64\datcache.obj \
+    $(_OBJ_DIR)\alpha64\domcoll.obj \
+    $(_OBJ_DIR)\alpha64\eventobj.obj \
+    $(_OBJ_DIR)\alpha64\fontinfo.obj \
+    $(_OBJ_DIR)\alpha64\filtcol.obj \
+    $(_OBJ_DIR)\alpha64\intl.obj \
+    $(_OBJ_DIR)\alpha64\numconv.obj \
+    $(_OBJ_DIR)\alpha64\omrect.obj \
+    $(_OBJ_DIR)\alpha64\optshold.obj \
+    $(_OBJ_DIR)\alpha64\postdata.obj \
+    $(_OBJ_DIR)\alpha64\propbag.obj \
+    $(_OBJ_DIR)\alpha64\recalc.obj \
+    $(_OBJ_DIR)\alpha64\sbbase.obj \
+    $(_OBJ_DIR)\alpha64\sbutil.obj \
+    $(_OBJ_DIR)\alpha64\shape.obj \
+    $(_OBJ_DIR)\alpha64\strbuf.obj \
+    $(_OBJ_DIR)\alpha64\switches.obj \
+    $(_OBJ_DIR)\alpha64\textxfrm.obj \
+    $(_OBJ_DIR)\alpha64\unipart.obj \
+    $(_OBJ_DIR)\alpha64\unisid.obj \
+    $(_OBJ_DIR)\alpha64\uniwbk.obj \
+    $(_OBJ_DIR)\alpha64\unidir.obj \
+    $(_OBJ_DIR)\alpha64\uniprop.obj \
+    $(_OBJ_DIR)\alpha64\xmlns.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\array.obj \
+    $(_OBJ_DIR)\i386\mime64.obj \
+    $(_OBJ_DIR)\i386\altfont.obj \
+    $(_OBJ_DIR)\i386\cfpf.obj \
+    $(_OBJ_DIR)\i386\clrngprs.obj \
+    $(_OBJ_DIR)\i386\collbase.obj \
+    $(_OBJ_DIR)\i386\collect.obj \
+    $(_OBJ_DIR)\i386\dimm.obj \
+    $(_OBJ_DIR)\i386\datcache.obj \
+    $(_OBJ_DIR)\i386\domcoll.obj \
+    $(_OBJ_DIR)\i386\eventobj.obj \
+    $(_OBJ_DIR)\i386\fontinfo.obj \
+    $(_OBJ_DIR)\i386\filtcol.obj \
+    $(_OBJ_DIR)\i386\intl.obj \
+    $(_OBJ_DIR)\i386\numconv.obj \
+    $(_OBJ_DIR)\i386\omrect.obj \
+    $(_OBJ_DIR)\i386\optshold.obj \
+    $(_OBJ_DIR)\i386\postdata.obj \
+    $(_OBJ_DIR)\i386\propbag.obj \
+    $(_OBJ_DIR)\i386\recalc.obj \
+    $(_OBJ_DIR)\i386\sbbase.obj \
+    $(_OBJ_DIR)\i386\sbutil.obj \
+    $(_OBJ_DIR)\i386\shape.obj \
+    $(_OBJ_DIR)\i386\strbuf.obj \
+    $(_OBJ_DIR)\i386\switches.obj \
+    $(_OBJ_DIR)\i386\textxfrm.obj \
+    $(_OBJ_DIR)\i386\unipart.obj \
+    $(_OBJ_DIR)\i386\unisid.obj \
+    $(_OBJ_DIR)\i386\uniwbk.obj \
+    $(_OBJ_DIR)\i386\unidir.obj \
+    $(_OBJ_DIR)\i386\uniprop.obj \
+    $(_OBJ_DIR)\i386\xmlns.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\array.obj \
+    $(_OBJ_DIR)\ia64\mime64.obj \
+    $(_OBJ_DIR)\ia64\altfont.obj \
+    $(_OBJ_DIR)\ia64\cfpf.obj \
+    $(_OBJ_DIR)\ia64\clrngprs.obj \
+    $(_OBJ_DIR)\ia64\collbase.obj \
+    $(_OBJ_DIR)\ia64\collect.obj \
+    $(_OBJ_DIR)\ia64\dimm.obj \
+    $(_OBJ_DIR)\ia64\datcache.obj \
+    $(_OBJ_DIR)\ia64\domcoll.obj \
+    $(_OBJ_DIR)\ia64\eventobj.obj \
+    $(_OBJ_DIR)\ia64\fontinfo.obj \
+    $(_OBJ_DIR)\ia64\filtcol.obj \
+    $(_OBJ_DIR)\ia64\intl.obj \
+    $(_OBJ_DIR)\ia64\numconv.obj \
+    $(_OBJ_DIR)\ia64\omrect.obj \
+    $(_OBJ_DIR)\ia64\optshold.obj \
+    $(_OBJ_DIR)\ia64\postdata.obj \
+    $(_OBJ_DIR)\ia64\propbag.obj \
+    $(_OBJ_DIR)\ia64\recalc.obj \
+    $(_OBJ_DIR)\ia64\sbbase.obj \
+    $(_OBJ_DIR)\ia64\sbutil.obj \
+    $(_OBJ_DIR)\ia64\shape.obj \
+    $(_OBJ_DIR)\ia64\strbuf.obj \
+    $(_OBJ_DIR)\ia64\switches.obj \
+    $(_OBJ_DIR)\ia64\textxfrm.obj \
+    $(_OBJ_DIR)\ia64\unipart.obj \
+    $(_OBJ_DIR)\ia64\unisid.obj \
+    $(_OBJ_DIR)\ia64\uniwbk.obj \
+    $(_OBJ_DIR)\ia64\unidir.obj \
+    $(_OBJ_DIR)\ia64\uniprop.obj \
+    $(_OBJ_DIR)\ia64\xmlns.obj
+
+PASS0_IA64_OBJECTS=
+

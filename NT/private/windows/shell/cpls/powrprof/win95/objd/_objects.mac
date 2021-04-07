@@ -1,0 +1,36 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\powrprof.res \
+    $(_OBJ_DIR)\alpha\powrprof.obj \
+    $(_OBJ_DIR)\alpha\reghelp.obj \
+    $(_OBJ_DIR)\alpha\merge.obj \
+    $(_OBJ_DIR)\alpha\debug.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\powrprof.res \
+    $(_OBJ_DIR)\alpha64\powrprof.obj \
+    $(_OBJ_DIR)\alpha64\reghelp.obj \
+    $(_OBJ_DIR)\alpha64\merge.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\powrprof.res \
+    $(_OBJ_DIR)\i386\powrprof.obj \
+    $(_OBJ_DIR)\i386\reghelp.obj \
+    $(_OBJ_DIR)\i386\merge.obj \
+    $(_OBJ_DIR)\i386\debug.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\powrprof.res \
+    $(_OBJ_DIR)\ia64\powrprof.obj \
+    $(_OBJ_DIR)\ia64\reghelp.obj \
+    $(_OBJ_DIR)\ia64\merge.obj \
+    $(_OBJ_DIR)\ia64\debug.obj
+
+PASS0_IA64_OBJECTS=
+

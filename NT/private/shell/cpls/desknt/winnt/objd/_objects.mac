@@ -1,0 +1,84 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\desk.res \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\backdlg.obj \
+    $(_OBJ_DIR)\alpha\globals.obj \
+    $(_OBJ_DIR)\alpha\desk.obj \
+    $(_OBJ_DIR)\alpha\pattern.obj \
+    $(_OBJ_DIR)\alpha\backprev.obj \
+    $(_OBJ_DIR)\alpha\ssdlg.obj \
+    $(_OBJ_DIR)\alpha\exe.obj \
+    $(_OBJ_DIR)\alpha\lookdlg.obj \
+    $(_OBJ_DIR)\alpha\lookprev.obj \
+    $(_OBJ_DIR)\alpha\color2.obj \
+    $(_OBJ_DIR)\alpha\colorpic.obj \
+    $(_OBJ_DIR)\alpha\setdrw.obj \
+    $(_OBJ_DIR)\alpha\setinit.obj \
+    $(_OBJ_DIR)\alpha\install.obj \
+    $(_OBJ_DIR)\alpha\settings.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\desk.res \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\backdlg.obj \
+    $(_OBJ_DIR)\alpha64\globals.obj \
+    $(_OBJ_DIR)\alpha64\desk.obj \
+    $(_OBJ_DIR)\alpha64\pattern.obj \
+    $(_OBJ_DIR)\alpha64\backprev.obj \
+    $(_OBJ_DIR)\alpha64\ssdlg.obj \
+    $(_OBJ_DIR)\alpha64\exe.obj \
+    $(_OBJ_DIR)\alpha64\lookdlg.obj \
+    $(_OBJ_DIR)\alpha64\lookprev.obj \
+    $(_OBJ_DIR)\alpha64\color2.obj \
+    $(_OBJ_DIR)\alpha64\colorpic.obj \
+    $(_OBJ_DIR)\alpha64\setdrw.obj \
+    $(_OBJ_DIR)\alpha64\setinit.obj \
+    $(_OBJ_DIR)\alpha64\install.obj \
+    $(_OBJ_DIR)\alpha64\settings.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\desk.res \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\backdlg.obj \
+    $(_OBJ_DIR)\i386\globals.obj \
+    $(_OBJ_DIR)\i386\desk.obj \
+    $(_OBJ_DIR)\i386\pattern.obj \
+    $(_OBJ_DIR)\i386\backprev.obj \
+    $(_OBJ_DIR)\i386\ssdlg.obj \
+    $(_OBJ_DIR)\i386\exe.obj \
+    $(_OBJ_DIR)\i386\lookdlg.obj \
+    $(_OBJ_DIR)\i386\lookprev.obj \
+    $(_OBJ_DIR)\i386\color2.obj \
+    $(_OBJ_DIR)\i386\colorpic.obj \
+    $(_OBJ_DIR)\i386\setdrw.obj \
+    $(_OBJ_DIR)\i386\setinit.obj \
+    $(_OBJ_DIR)\i386\install.obj \
+    $(_OBJ_DIR)\i386\settings.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\desk.res \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\backdlg.obj \
+    $(_OBJ_DIR)\ia64\globals.obj \
+    $(_OBJ_DIR)\ia64\desk.obj \
+    $(_OBJ_DIR)\ia64\pattern.obj \
+    $(_OBJ_DIR)\ia64\backprev.obj \
+    $(_OBJ_DIR)\ia64\ssdlg.obj \
+    $(_OBJ_DIR)\ia64\exe.obj \
+    $(_OBJ_DIR)\ia64\lookdlg.obj \
+    $(_OBJ_DIR)\ia64\lookprev.obj \
+    $(_OBJ_DIR)\ia64\color2.obj \
+    $(_OBJ_DIR)\ia64\colorpic.obj \
+    $(_OBJ_DIR)\ia64\setdrw.obj \
+    $(_OBJ_DIR)\ia64\setinit.obj \
+    $(_OBJ_DIR)\ia64\install.obj \
+    $(_OBJ_DIR)\ia64\settings.obj
+
+PASS0_IA64_OBJECTS=
+

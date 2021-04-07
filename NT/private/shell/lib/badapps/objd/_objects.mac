@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\utils.obj \
+    $(_OBJ_DIR)\alpha\version.obj \
+    $(_OBJ_DIR)\alpha\modules.obj \
+    $(_OBJ_DIR)\alpha\badapps.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\utils.obj \
+    $(_OBJ_DIR)\alpha64\version.obj \
+    $(_OBJ_DIR)\alpha64\modules.obj \
+    $(_OBJ_DIR)\alpha64\badapps.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\utils.obj \
+    $(_OBJ_DIR)\i386\version.obj \
+    $(_OBJ_DIR)\i386\modules.obj \
+    $(_OBJ_DIR)\i386\badapps.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\utils.obj \
+    $(_OBJ_DIR)\ia64\version.obj \
+    $(_OBJ_DIR)\ia64\modules.obj \
+    $(_OBJ_DIR)\ia64\badapps.obj
+
+PASS0_IA64_OBJECTS=
+

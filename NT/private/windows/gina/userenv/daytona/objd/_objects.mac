@@ -1,0 +1,100 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\userenv.res \
+    $(_OBJ_DIR)\alpha\copydir.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\dllload.obj \
+    $(_OBJ_DIR)\alpha\envvar.obj \
+    $(_OBJ_DIR)\alpha\events.obj \
+    $(_OBJ_DIR)\alpha\globals.obj \
+    $(_OBJ_DIR)\alpha\gpnotif.obj \
+    $(_OBJ_DIR)\alpha\gpt.obj \
+    $(_OBJ_DIR)\alpha\hkcr.obj \
+    $(_OBJ_DIR)\alpha\migrate.obj \
+    $(_OBJ_DIR)\alpha\policy.obj \
+    $(_OBJ_DIR)\alpha\profile.obj \
+    $(_OBJ_DIR)\alpha\setup.obj \
+    $(_OBJ_DIR)\alpha\sid.obj \
+    $(_OBJ_DIR)\alpha\stubs.obj \
+    $(_OBJ_DIR)\alpha\userenv.obj \
+    $(_OBJ_DIR)\alpha\userdiff.obj \
+    $(_OBJ_DIR)\alpha\util.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\uevents.h \
+    $(PASS0_SOURCEDIR)\uevents.rc
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\userenv.res \
+    $(_OBJ_DIR)\alpha64\copydir.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\dllload.obj \
+    $(_OBJ_DIR)\alpha64\envvar.obj \
+    $(_OBJ_DIR)\alpha64\events.obj \
+    $(_OBJ_DIR)\alpha64\globals.obj \
+    $(_OBJ_DIR)\alpha64\gpnotif.obj \
+    $(_OBJ_DIR)\alpha64\gpt.obj \
+    $(_OBJ_DIR)\alpha64\hkcr.obj \
+    $(_OBJ_DIR)\alpha64\migrate.obj \
+    $(_OBJ_DIR)\alpha64\policy.obj \
+    $(_OBJ_DIR)\alpha64\profile.obj \
+    $(_OBJ_DIR)\alpha64\setup.obj \
+    $(_OBJ_DIR)\alpha64\sid.obj \
+    $(_OBJ_DIR)\alpha64\stubs.obj \
+    $(_OBJ_DIR)\alpha64\userenv.obj \
+    $(_OBJ_DIR)\alpha64\userdiff.obj \
+    $(_OBJ_DIR)\alpha64\util.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\uevents.h \
+    $(PASS0_SOURCEDIR)\uevents.rc
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\userenv.res \
+    $(_OBJ_DIR)\i386\copydir.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\dllload.obj \
+    $(_OBJ_DIR)\i386\envvar.obj \
+    $(_OBJ_DIR)\i386\events.obj \
+    $(_OBJ_DIR)\i386\globals.obj \
+    $(_OBJ_DIR)\i386\gpnotif.obj \
+    $(_OBJ_DIR)\i386\gpt.obj \
+    $(_OBJ_DIR)\i386\hkcr.obj \
+    $(_OBJ_DIR)\i386\migrate.obj \
+    $(_OBJ_DIR)\i386\policy.obj \
+    $(_OBJ_DIR)\i386\profile.obj \
+    $(_OBJ_DIR)\i386\setup.obj \
+    $(_OBJ_DIR)\i386\sid.obj \
+    $(_OBJ_DIR)\i386\stubs.obj \
+    $(_OBJ_DIR)\i386\userenv.obj \
+    $(_OBJ_DIR)\i386\userdiff.obj \
+    $(_OBJ_DIR)\i386\util.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\uevents.h \
+    $(PASS0_SOURCEDIR)\uevents.rc
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\userenv.res \
+    $(_OBJ_DIR)\ia64\copydir.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\dllload.obj \
+    $(_OBJ_DIR)\ia64\envvar.obj \
+    $(_OBJ_DIR)\ia64\events.obj \
+    $(_OBJ_DIR)\ia64\globals.obj \
+    $(_OBJ_DIR)\ia64\gpnotif.obj \
+    $(_OBJ_DIR)\ia64\gpt.obj \
+    $(_OBJ_DIR)\ia64\hkcr.obj \
+    $(_OBJ_DIR)\ia64\migrate.obj \
+    $(_OBJ_DIR)\ia64\policy.obj \
+    $(_OBJ_DIR)\ia64\profile.obj \
+    $(_OBJ_DIR)\ia64\setup.obj \
+    $(_OBJ_DIR)\ia64\sid.obj \
+    $(_OBJ_DIR)\ia64\stubs.obj \
+    $(_OBJ_DIR)\ia64\userenv.obj \
+    $(_OBJ_DIR)\ia64\userdiff.obj \
+    $(_OBJ_DIR)\ia64\util.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\uevents.h \
+    $(PASS0_SOURCEDIR)\uevents.rc
+

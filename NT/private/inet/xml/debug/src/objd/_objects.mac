@@ -1,0 +1,84 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\f3debug.res \
+    $(_OBJ_DIR)\alpha\allocspy.obj \
+    $(_OBJ_DIR)\alpha\assert.obj \
+    $(_OBJ_DIR)\alpha\assertui.obj \
+    $(_OBJ_DIR)\alpha\dbgalloc.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\debugui.obj \
+    $(_OBJ_DIR)\alpha\ffail.obj \
+    $(_OBJ_DIR)\alpha\iwatch.obj \
+    $(_OBJ_DIR)\alpha\magic.obj \
+    $(_OBJ_DIR)\alpha\meter.obj \
+    $(_OBJ_DIR)\alpha\perftags.obj \
+    $(_OBJ_DIR)\alpha\simfail.obj \
+    $(_OBJ_DIR)\alpha\view.obj \
+    $(_OBJ_DIR)\alpha\ws.obj \
+    $(_OBJ_DIR)\alpha\othrthrd.obj \
+    $(_OBJ_DIR)\alpha\wsprintf.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\f3debug.res \
+    $(_OBJ_DIR)\alpha64\allocspy.obj \
+    $(_OBJ_DIR)\alpha64\assert.obj \
+    $(_OBJ_DIR)\alpha64\assertui.obj \
+    $(_OBJ_DIR)\alpha64\dbgalloc.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\debugui.obj \
+    $(_OBJ_DIR)\alpha64\ffail.obj \
+    $(_OBJ_DIR)\alpha64\iwatch.obj \
+    $(_OBJ_DIR)\alpha64\magic.obj \
+    $(_OBJ_DIR)\alpha64\meter.obj \
+    $(_OBJ_DIR)\alpha64\perftags.obj \
+    $(_OBJ_DIR)\alpha64\simfail.obj \
+    $(_OBJ_DIR)\alpha64\view.obj \
+    $(_OBJ_DIR)\alpha64\ws.obj \
+    $(_OBJ_DIR)\alpha64\othrthrd.obj \
+    $(_OBJ_DIR)\alpha64\wsprintf.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\f3debug.res \
+    $(_OBJ_DIR)\i386\allocspy.obj \
+    $(_OBJ_DIR)\i386\assert.obj \
+    $(_OBJ_DIR)\i386\assertui.obj \
+    $(_OBJ_DIR)\i386\dbgalloc.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\debugui.obj \
+    $(_OBJ_DIR)\i386\ffail.obj \
+    $(_OBJ_DIR)\i386\iwatch.obj \
+    $(_OBJ_DIR)\i386\magic.obj \
+    $(_OBJ_DIR)\i386\meter.obj \
+    $(_OBJ_DIR)\i386\perftags.obj \
+    $(_OBJ_DIR)\i386\simfail.obj \
+    $(_OBJ_DIR)\i386\view.obj \
+    $(_OBJ_DIR)\i386\ws.obj \
+    $(_OBJ_DIR)\i386\othrthrd.obj \
+    $(_OBJ_DIR)\i386\wsprintf.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\f3debug.res \
+    $(_OBJ_DIR)\ia64\allocspy.obj \
+    $(_OBJ_DIR)\ia64\assert.obj \
+    $(_OBJ_DIR)\ia64\assertui.obj \
+    $(_OBJ_DIR)\ia64\dbgalloc.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\debugui.obj \
+    $(_OBJ_DIR)\ia64\ffail.obj \
+    $(_OBJ_DIR)\ia64\iwatch.obj \
+    $(_OBJ_DIR)\ia64\magic.obj \
+    $(_OBJ_DIR)\ia64\meter.obj \
+    $(_OBJ_DIR)\ia64\perftags.obj \
+    $(_OBJ_DIR)\ia64\simfail.obj \
+    $(_OBJ_DIR)\ia64\view.obj \
+    $(_OBJ_DIR)\ia64\ws.obj \
+    $(_OBJ_DIR)\ia64\othrthrd.obj \
+    $(_OBJ_DIR)\ia64\wsprintf.obj
+
+PASS0_IA64_OBJECTS=
+

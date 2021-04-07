@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\obinit.obj \
+    $(_OBJ_DIR)\alpha\obcreate.obj \
+    $(_OBJ_DIR)\alpha\obhandle.obj \
+    $(_OBJ_DIR)\alpha\obinsert.obj \
+    $(_OBJ_DIR)\alpha\obref.obj \
+    $(_OBJ_DIR)\alpha\obse.obj \
+    $(_OBJ_DIR)\alpha\obtype.obj \
+    $(_OBJ_DIR)\alpha\obdir.obj \
+    $(_OBJ_DIR)\alpha\obdevmap.obj \
+    $(_OBJ_DIR)\alpha\oblink.obj \
+    $(_OBJ_DIR)\alpha\obclose.obj \
+    $(_OBJ_DIR)\alpha\obquery.obj \
+    $(_OBJ_DIR)\alpha\obsdata.obj \
+    $(_OBJ_DIR)\alpha\obwait.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\obinit.obj \
+    $(_OBJ_DIR)\alpha64\obcreate.obj \
+    $(_OBJ_DIR)\alpha64\obhandle.obj \
+    $(_OBJ_DIR)\alpha64\obinsert.obj \
+    $(_OBJ_DIR)\alpha64\obref.obj \
+    $(_OBJ_DIR)\alpha64\obse.obj \
+    $(_OBJ_DIR)\alpha64\obtype.obj \
+    $(_OBJ_DIR)\alpha64\obdir.obj \
+    $(_OBJ_DIR)\alpha64\obdevmap.obj \
+    $(_OBJ_DIR)\alpha64\oblink.obj \
+    $(_OBJ_DIR)\alpha64\obclose.obj \
+    $(_OBJ_DIR)\alpha64\obquery.obj \
+    $(_OBJ_DIR)\alpha64\obsdata.obj \
+    $(_OBJ_DIR)\alpha64\obwait.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\obinit.obj \
+    $(_OBJ_DIR)\i386\obcreate.obj \
+    $(_OBJ_DIR)\i386\obhandle.obj \
+    $(_OBJ_DIR)\i386\obinsert.obj \
+    $(_OBJ_DIR)\i386\obref.obj \
+    $(_OBJ_DIR)\i386\obse.obj \
+    $(_OBJ_DIR)\i386\obtype.obj \
+    $(_OBJ_DIR)\i386\obdir.obj \
+    $(_OBJ_DIR)\i386\obdevmap.obj \
+    $(_OBJ_DIR)\i386\oblink.obj \
+    $(_OBJ_DIR)\i386\obclose.obj \
+    $(_OBJ_DIR)\i386\obquery.obj \
+    $(_OBJ_DIR)\i386\obsdata.obj \
+    $(_OBJ_DIR)\i386\obwait.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\obinit.obj \
+    $(_OBJ_DIR)\ia64\obcreate.obj \
+    $(_OBJ_DIR)\ia64\obhandle.obj \
+    $(_OBJ_DIR)\ia64\obinsert.obj \
+    $(_OBJ_DIR)\ia64\obref.obj \
+    $(_OBJ_DIR)\ia64\obse.obj \
+    $(_OBJ_DIR)\ia64\obtype.obj \
+    $(_OBJ_DIR)\ia64\obdir.obj \
+    $(_OBJ_DIR)\ia64\obdevmap.obj \
+    $(_OBJ_DIR)\ia64\oblink.obj \
+    $(_OBJ_DIR)\ia64\obclose.obj \
+    $(_OBJ_DIR)\ia64\obquery.obj \
+    $(_OBJ_DIR)\ia64\obsdata.obj \
+    $(_OBJ_DIR)\ia64\obwait.obj
+
+PASS0_IA64_OBJECTS=
+

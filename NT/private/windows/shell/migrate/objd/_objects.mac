@@ -1,0 +1,40 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\res.res \
+    $(_OBJ_DIR)\alpha\shmcvt1.obj \
+    $(_OBJ_DIR)\alpha\profile.obj \
+    $(_OBJ_DIR)\alpha\gradient.obj \
+    $(_OBJ_DIR)\alpha\shmgrate.obj \
+    $(_OBJ_DIR)\alpha\schemnt5.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\res.res \
+    $(_OBJ_DIR)\alpha64\shmcvt1.obj \
+    $(_OBJ_DIR)\alpha64\profile.obj \
+    $(_OBJ_DIR)\alpha64\gradient.obj \
+    $(_OBJ_DIR)\alpha64\shmgrate.obj \
+    $(_OBJ_DIR)\alpha64\schemnt5.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\res.res \
+    $(_OBJ_DIR)\i386\shmcvt1.obj \
+    $(_OBJ_DIR)\i386\profile.obj \
+    $(_OBJ_DIR)\i386\gradient.obj \
+    $(_OBJ_DIR)\i386\shmgrate.obj \
+    $(_OBJ_DIR)\i386\schemnt5.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\res.res \
+    $(_OBJ_DIR)\ia64\shmcvt1.obj \
+    $(_OBJ_DIR)\ia64\profile.obj \
+    $(_OBJ_DIR)\ia64\gradient.obj \
+    $(_OBJ_DIR)\ia64\shmgrate.obj \
+    $(_OBJ_DIR)\ia64\schemnt5.obj
+
+PASS0_IA64_OBJECTS=
+

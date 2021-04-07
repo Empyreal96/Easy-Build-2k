@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\applist.obj \
+    $(_OBJ_DIR)\alpha\appwiz.obj \
+    $(_OBJ_DIR)\alpha\browse.obj \
+    $(_OBJ_DIR)\alpha\confopt.obj \
+    $(_OBJ_DIR)\alpha\dump.obj \
+    $(_OBJ_DIR)\alpha\dllload.obj \
+    $(_OBJ_DIR)\alpha\folder.obj \
+    $(_OBJ_DIR)\alpha\gettitle.obj \
+    $(_OBJ_DIR)\alpha\link.obj \
+    $(_OBJ_DIR)\alpha\msdos.obj \
+    $(_OBJ_DIR)\alpha\pickicon.obj \
+    $(_OBJ_DIR)\alpha\setup.obj \
+    $(_OBJ_DIR)\alpha\uninstal.obj \
+    $(_OBJ_DIR)\alpha\chgusr.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\applist.obj \
+    $(_OBJ_DIR)\alpha64\appwiz.obj \
+    $(_OBJ_DIR)\alpha64\browse.obj \
+    $(_OBJ_DIR)\alpha64\confopt.obj \
+    $(_OBJ_DIR)\alpha64\dump.obj \
+    $(_OBJ_DIR)\alpha64\dllload.obj \
+    $(_OBJ_DIR)\alpha64\folder.obj \
+    $(_OBJ_DIR)\alpha64\gettitle.obj \
+    $(_OBJ_DIR)\alpha64\link.obj \
+    $(_OBJ_DIR)\alpha64\msdos.obj \
+    $(_OBJ_DIR)\alpha64\pickicon.obj \
+    $(_OBJ_DIR)\alpha64\setup.obj \
+    $(_OBJ_DIR)\alpha64\uninstal.obj \
+    $(_OBJ_DIR)\alpha64\chgusr.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\applist.obj \
+    $(_OBJ_DIR)\i386\appwiz.obj \
+    $(_OBJ_DIR)\i386\browse.obj \
+    $(_OBJ_DIR)\i386\confopt.obj \
+    $(_OBJ_DIR)\i386\dump.obj \
+    $(_OBJ_DIR)\i386\dllload.obj \
+    $(_OBJ_DIR)\i386\folder.obj \
+    $(_OBJ_DIR)\i386\gettitle.obj \
+    $(_OBJ_DIR)\i386\link.obj \
+    $(_OBJ_DIR)\i386\msdos.obj \
+    $(_OBJ_DIR)\i386\pickicon.obj \
+    $(_OBJ_DIR)\i386\setup.obj \
+    $(_OBJ_DIR)\i386\uninstal.obj \
+    $(_OBJ_DIR)\i386\chgusr.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\applist.obj \
+    $(_OBJ_DIR)\ia64\appwiz.obj \
+    $(_OBJ_DIR)\ia64\browse.obj \
+    $(_OBJ_DIR)\ia64\confopt.obj \
+    $(_OBJ_DIR)\ia64\dump.obj \
+    $(_OBJ_DIR)\ia64\dllload.obj \
+    $(_OBJ_DIR)\ia64\folder.obj \
+    $(_OBJ_DIR)\ia64\gettitle.obj \
+    $(_OBJ_DIR)\ia64\link.obj \
+    $(_OBJ_DIR)\ia64\msdos.obj \
+    $(_OBJ_DIR)\ia64\pickicon.obj \
+    $(_OBJ_DIR)\ia64\setup.obj \
+    $(_OBJ_DIR)\ia64\uninstal.obj \
+    $(_OBJ_DIR)\ia64\chgusr.obj
+
+PASS0_IA64_OBJECTS=
+

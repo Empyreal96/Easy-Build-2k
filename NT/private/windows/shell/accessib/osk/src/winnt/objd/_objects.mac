@@ -1,0 +1,76 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\osk.res \
+    $(_OBJ_DIR)\alpha\about.obj \
+    $(_OBJ_DIR)\alpha\credits.obj \
+    $(_OBJ_DIR)\alpha\dgsett.obj \
+    $(_OBJ_DIR)\alpha\fileutil.obj \
+    $(_OBJ_DIR)\alpha\kbfunc.obj \
+    $(_OBJ_DIR)\alpha\kbmain.obj \
+    $(_OBJ_DIR)\alpha\ms32dll.obj \
+    $(_OBJ_DIR)\alpha\init_end.obj \
+    $(_OBJ_DIR)\alpha\scan.obj \
+    $(_OBJ_DIR)\alpha\sdgutil.obj \
+    $(_OBJ_DIR)\alpha\thanks.obj \
+    $(_OBJ_DIR)\alpha\dgadvsca.obj \
+    $(_OBJ_DIR)\alpha\dgupgrad.obj \
+    $(_OBJ_DIR)\alpha\journal.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\osk.res \
+    $(_OBJ_DIR)\alpha64\about.obj \
+    $(_OBJ_DIR)\alpha64\credits.obj \
+    $(_OBJ_DIR)\alpha64\dgsett.obj \
+    $(_OBJ_DIR)\alpha64\fileutil.obj \
+    $(_OBJ_DIR)\alpha64\kbfunc.obj \
+    $(_OBJ_DIR)\alpha64\kbmain.obj \
+    $(_OBJ_DIR)\alpha64\ms32dll.obj \
+    $(_OBJ_DIR)\alpha64\init_end.obj \
+    $(_OBJ_DIR)\alpha64\scan.obj \
+    $(_OBJ_DIR)\alpha64\sdgutil.obj \
+    $(_OBJ_DIR)\alpha64\thanks.obj \
+    $(_OBJ_DIR)\alpha64\dgadvsca.obj \
+    $(_OBJ_DIR)\alpha64\dgupgrad.obj \
+    $(_OBJ_DIR)\alpha64\journal.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\osk.res \
+    $(_OBJ_DIR)\i386\about.obj \
+    $(_OBJ_DIR)\i386\credits.obj \
+    $(_OBJ_DIR)\i386\dgsett.obj \
+    $(_OBJ_DIR)\i386\fileutil.obj \
+    $(_OBJ_DIR)\i386\kbfunc.obj \
+    $(_OBJ_DIR)\i386\kbmain.obj \
+    $(_OBJ_DIR)\i386\ms32dll.obj \
+    $(_OBJ_DIR)\i386\init_end.obj \
+    $(_OBJ_DIR)\i386\scan.obj \
+    $(_OBJ_DIR)\i386\sdgutil.obj \
+    $(_OBJ_DIR)\i386\thanks.obj \
+    $(_OBJ_DIR)\i386\dgadvsca.obj \
+    $(_OBJ_DIR)\i386\dgupgrad.obj \
+    $(_OBJ_DIR)\i386\journal.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\osk.res \
+    $(_OBJ_DIR)\ia64\about.obj \
+    $(_OBJ_DIR)\ia64\credits.obj \
+    $(_OBJ_DIR)\ia64\dgsett.obj \
+    $(_OBJ_DIR)\ia64\fileutil.obj \
+    $(_OBJ_DIR)\ia64\kbfunc.obj \
+    $(_OBJ_DIR)\ia64\kbmain.obj \
+    $(_OBJ_DIR)\ia64\ms32dll.obj \
+    $(_OBJ_DIR)\ia64\init_end.obj \
+    $(_OBJ_DIR)\ia64\scan.obj \
+    $(_OBJ_DIR)\ia64\sdgutil.obj \
+    $(_OBJ_DIR)\ia64\thanks.obj \
+    $(_OBJ_DIR)\ia64\dgadvsca.obj \
+    $(_OBJ_DIR)\ia64\dgupgrad.obj \
+    $(_OBJ_DIR)\ia64\journal.obj
+
+PASS0_IA64_OBJECTS=
+

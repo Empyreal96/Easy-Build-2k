@@ -1,0 +1,124 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\dll.obj \
+    $(_OBJ_DIR)\alpha\util.obj \
+    $(_OBJ_DIR)\alpha\filelist.obj \
+    $(_OBJ_DIR)\alpha\msgbox.obj \
+    $(_OBJ_DIR)\alpha\shellex.obj \
+    $(_OBJ_DIR)\alpha\update.obj \
+    $(_OBJ_DIR)\alpha\volclean.obj \
+    $(_OBJ_DIR)\alpha\cscentry.obj \
+    $(_OBJ_DIR)\alpha\cscst.obj \
+    $(_OBJ_DIR)\alpha\strings.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\atlcvt.obj \
+    $(_OBJ_DIR)\alpha\admin.obj \
+    $(_OBJ_DIR)\alpha\osver.obj \
+    $(_OBJ_DIR)\alpha\folder.obj \
+    $(_OBJ_DIR)\alpha\enum.obj \
+    $(_OBJ_DIR)\alpha\items.obj \
+    $(_OBJ_DIR)\alpha\security.obj \
+    $(_OBJ_DIR)\alpha\idldata.obj \
+    $(_OBJ_DIR)\alpha\idlhelp.obj \
+    $(_OBJ_DIR)\alpha\fmtetc.obj \
+    $(_OBJ_DIR)\alpha\firstpin.obj \
+    $(_OBJ_DIR)\alpha\statdlg.obj \
+    $(_OBJ_DIR)\alpha\uihooks.obj \
+    $(_OBJ_DIR)\alpha\fopendlg.obj \
+    $(_OBJ_DIR)\alpha\eventlog.obj \
+    $(_OBJ_DIR)\alpha\sharecnx.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\dll.obj \
+    $(_OBJ_DIR)\alpha64\util.obj \
+    $(_OBJ_DIR)\alpha64\filelist.obj \
+    $(_OBJ_DIR)\alpha64\msgbox.obj \
+    $(_OBJ_DIR)\alpha64\shellex.obj \
+    $(_OBJ_DIR)\alpha64\update.obj \
+    $(_OBJ_DIR)\alpha64\volclean.obj \
+    $(_OBJ_DIR)\alpha64\cscentry.obj \
+    $(_OBJ_DIR)\alpha64\cscst.obj \
+    $(_OBJ_DIR)\alpha64\strings.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\atlcvt.obj \
+    $(_OBJ_DIR)\alpha64\admin.obj \
+    $(_OBJ_DIR)\alpha64\osver.obj \
+    $(_OBJ_DIR)\alpha64\folder.obj \
+    $(_OBJ_DIR)\alpha64\enum.obj \
+    $(_OBJ_DIR)\alpha64\items.obj \
+    $(_OBJ_DIR)\alpha64\security.obj \
+    $(_OBJ_DIR)\alpha64\idldata.obj \
+    $(_OBJ_DIR)\alpha64\idlhelp.obj \
+    $(_OBJ_DIR)\alpha64\fmtetc.obj \
+    $(_OBJ_DIR)\alpha64\firstpin.obj \
+    $(_OBJ_DIR)\alpha64\statdlg.obj \
+    $(_OBJ_DIR)\alpha64\uihooks.obj \
+    $(_OBJ_DIR)\alpha64\fopendlg.obj \
+    $(_OBJ_DIR)\alpha64\eventlog.obj \
+    $(_OBJ_DIR)\alpha64\sharecnx.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\dll.obj \
+    $(_OBJ_DIR)\i386\util.obj \
+    $(_OBJ_DIR)\i386\filelist.obj \
+    $(_OBJ_DIR)\i386\msgbox.obj \
+    $(_OBJ_DIR)\i386\shellex.obj \
+    $(_OBJ_DIR)\i386\update.obj \
+    $(_OBJ_DIR)\i386\volclean.obj \
+    $(_OBJ_DIR)\i386\cscentry.obj \
+    $(_OBJ_DIR)\i386\cscst.obj \
+    $(_OBJ_DIR)\i386\strings.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\atlcvt.obj \
+    $(_OBJ_DIR)\i386\admin.obj \
+    $(_OBJ_DIR)\i386\osver.obj \
+    $(_OBJ_DIR)\i386\folder.obj \
+    $(_OBJ_DIR)\i386\enum.obj \
+    $(_OBJ_DIR)\i386\items.obj \
+    $(_OBJ_DIR)\i386\security.obj \
+    $(_OBJ_DIR)\i386\idldata.obj \
+    $(_OBJ_DIR)\i386\idlhelp.obj \
+    $(_OBJ_DIR)\i386\fmtetc.obj \
+    $(_OBJ_DIR)\i386\firstpin.obj \
+    $(_OBJ_DIR)\i386\statdlg.obj \
+    $(_OBJ_DIR)\i386\uihooks.obj \
+    $(_OBJ_DIR)\i386\fopendlg.obj \
+    $(_OBJ_DIR)\i386\eventlog.obj \
+    $(_OBJ_DIR)\i386\sharecnx.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\dll.obj \
+    $(_OBJ_DIR)\ia64\util.obj \
+    $(_OBJ_DIR)\ia64\filelist.obj \
+    $(_OBJ_DIR)\ia64\msgbox.obj \
+    $(_OBJ_DIR)\ia64\shellex.obj \
+    $(_OBJ_DIR)\ia64\update.obj \
+    $(_OBJ_DIR)\ia64\volclean.obj \
+    $(_OBJ_DIR)\ia64\cscentry.obj \
+    $(_OBJ_DIR)\ia64\cscst.obj \
+    $(_OBJ_DIR)\ia64\strings.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\atlcvt.obj \
+    $(_OBJ_DIR)\ia64\admin.obj \
+    $(_OBJ_DIR)\ia64\osver.obj \
+    $(_OBJ_DIR)\ia64\folder.obj \
+    $(_OBJ_DIR)\ia64\enum.obj \
+    $(_OBJ_DIR)\ia64\items.obj \
+    $(_OBJ_DIR)\ia64\security.obj \
+    $(_OBJ_DIR)\ia64\idldata.obj \
+    $(_OBJ_DIR)\ia64\idlhelp.obj \
+    $(_OBJ_DIR)\ia64\fmtetc.obj \
+    $(_OBJ_DIR)\ia64\firstpin.obj \
+    $(_OBJ_DIR)\ia64\statdlg.obj \
+    $(_OBJ_DIR)\ia64\uihooks.obj \
+    $(_OBJ_DIR)\ia64\fopendlg.obj \
+    $(_OBJ_DIR)\ia64\eventlog.obj \
+    $(_OBJ_DIR)\ia64\sharecnx.obj
+
+PASS0_IA64_OBJECTS=
+

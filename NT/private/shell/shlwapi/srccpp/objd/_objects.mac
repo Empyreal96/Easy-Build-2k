@@ -1,0 +1,104 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\aboutinf.obj \
+    $(_OBJ_DIR)\alpha\connect.obj \
+    $(_OBJ_DIR)\alpha\datablok.obj \
+    $(_OBJ_DIR)\alpha\gcount.obj \
+    $(_OBJ_DIR)\alpha\fstream.obj \
+    $(_OBJ_DIR)\alpha\strmwrap.obj \
+    $(_OBJ_DIR)\alpha\httpfnc.obj \
+    $(_OBJ_DIR)\alpha\mime.obj \
+    $(_OBJ_DIR)\alpha\mlui.obj \
+    $(_OBJ_DIR)\alpha\nullstm.obj \
+    $(_OBJ_DIR)\alpha\qistub.obj \
+    $(_OBJ_DIR)\alpha\security.obj \
+    $(_OBJ_DIR)\alpha\stream.obj \
+    $(_OBJ_DIR)\alpha\tpstimer.obj \
+    $(_OBJ_DIR)\alpha\tpsutil.obj \
+    $(_OBJ_DIR)\alpha\tpswork.obj \
+    $(_OBJ_DIR)\alpha\tpswait.obj \
+    $(_OBJ_DIR)\alpha\urlpars.obj \
+    $(_OBJ_DIR)\alpha\util.obj \
+    $(_OBJ_DIR)\alpha\machinfo.obj \
+    $(_OBJ_DIR)\alpha\inistr.obj \
+    $(_OBJ_DIR)\alpha\itfwrap.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\aboutinf.obj \
+    $(_OBJ_DIR)\alpha64\connect.obj \
+    $(_OBJ_DIR)\alpha64\datablok.obj \
+    $(_OBJ_DIR)\alpha64\gcount.obj \
+    $(_OBJ_DIR)\alpha64\fstream.obj \
+    $(_OBJ_DIR)\alpha64\strmwrap.obj \
+    $(_OBJ_DIR)\alpha64\httpfnc.obj \
+    $(_OBJ_DIR)\alpha64\mime.obj \
+    $(_OBJ_DIR)\alpha64\mlui.obj \
+    $(_OBJ_DIR)\alpha64\nullstm.obj \
+    $(_OBJ_DIR)\alpha64\qistub.obj \
+    $(_OBJ_DIR)\alpha64\security.obj \
+    $(_OBJ_DIR)\alpha64\stream.obj \
+    $(_OBJ_DIR)\alpha64\tpstimer.obj \
+    $(_OBJ_DIR)\alpha64\tpsutil.obj \
+    $(_OBJ_DIR)\alpha64\tpswork.obj \
+    $(_OBJ_DIR)\alpha64\tpswait.obj \
+    $(_OBJ_DIR)\alpha64\urlpars.obj \
+    $(_OBJ_DIR)\alpha64\util.obj \
+    $(_OBJ_DIR)\alpha64\machinfo.obj \
+    $(_OBJ_DIR)\alpha64\inistr.obj \
+    $(_OBJ_DIR)\alpha64\itfwrap.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\aboutinf.obj \
+    $(_OBJ_DIR)\i386\connect.obj \
+    $(_OBJ_DIR)\i386\datablok.obj \
+    $(_OBJ_DIR)\i386\gcount.obj \
+    $(_OBJ_DIR)\i386\fstream.obj \
+    $(_OBJ_DIR)\i386\strmwrap.obj \
+    $(_OBJ_DIR)\i386\httpfnc.obj \
+    $(_OBJ_DIR)\i386\mime.obj \
+    $(_OBJ_DIR)\i386\mlui.obj \
+    $(_OBJ_DIR)\i386\nullstm.obj \
+    $(_OBJ_DIR)\i386\qistub.obj \
+    $(_OBJ_DIR)\i386\security.obj \
+    $(_OBJ_DIR)\i386\stream.obj \
+    $(_OBJ_DIR)\i386\tpstimer.obj \
+    $(_OBJ_DIR)\i386\tpsutil.obj \
+    $(_OBJ_DIR)\i386\tpswork.obj \
+    $(_OBJ_DIR)\i386\tpswait.obj \
+    $(_OBJ_DIR)\i386\urlpars.obj \
+    $(_OBJ_DIR)\i386\util.obj \
+    $(_OBJ_DIR)\i386\machinfo.obj \
+    $(_OBJ_DIR)\i386\inistr.obj \
+    $(_OBJ_DIR)\i386\itfwrap.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\aboutinf.obj \
+    $(_OBJ_DIR)\ia64\connect.obj \
+    $(_OBJ_DIR)\ia64\datablok.obj \
+    $(_OBJ_DIR)\ia64\gcount.obj \
+    $(_OBJ_DIR)\ia64\fstream.obj \
+    $(_OBJ_DIR)\ia64\strmwrap.obj \
+    $(_OBJ_DIR)\ia64\httpfnc.obj \
+    $(_OBJ_DIR)\ia64\mime.obj \
+    $(_OBJ_DIR)\ia64\mlui.obj \
+    $(_OBJ_DIR)\ia64\nullstm.obj \
+    $(_OBJ_DIR)\ia64\qistub.obj \
+    $(_OBJ_DIR)\ia64\security.obj \
+    $(_OBJ_DIR)\ia64\stream.obj \
+    $(_OBJ_DIR)\ia64\tpstimer.obj \
+    $(_OBJ_DIR)\ia64\tpsutil.obj \
+    $(_OBJ_DIR)\ia64\tpswork.obj \
+    $(_OBJ_DIR)\ia64\tpswait.obj \
+    $(_OBJ_DIR)\ia64\urlpars.obj \
+    $(_OBJ_DIR)\ia64\util.obj \
+    $(_OBJ_DIR)\ia64\machinfo.obj \
+    $(_OBJ_DIR)\ia64\inistr.obj \
+    $(_OBJ_DIR)\ia64\itfwrap.obj
+
+PASS0_IA64_OBJECTS=
+

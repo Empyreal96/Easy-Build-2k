@@ -1,0 +1,36 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\coreid.obj \
+    $(_OBJ_DIR)\alpha\coreidpr.obj \
+    $(_OBJ_DIR)\alpha\multimon.obj \
+    $(_OBJ_DIR)\alpha\objextid.obj \
+    $(_OBJ_DIR)\alpha\dbuuid.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\coreid.obj \
+    $(_OBJ_DIR)\alpha64\coreidpr.obj \
+    $(_OBJ_DIR)\alpha64\multimon.obj \
+    $(_OBJ_DIR)\alpha64\objextid.obj \
+    $(_OBJ_DIR)\alpha64\dbuuid.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\coreid.obj \
+    $(_OBJ_DIR)\i386\coreidpr.obj \
+    $(_OBJ_DIR)\i386\multimon.obj \
+    $(_OBJ_DIR)\i386\objextid.obj \
+    $(_OBJ_DIR)\i386\dbuuid.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\coreid.obj \
+    $(_OBJ_DIR)\ia64\coreidpr.obj \
+    $(_OBJ_DIR)\ia64\multimon.obj \
+    $(_OBJ_DIR)\ia64\objextid.obj \
+    $(_OBJ_DIR)\ia64\dbuuid.obj
+
+PASS0_IA64_OBJECTS=
+

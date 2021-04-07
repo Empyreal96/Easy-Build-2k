@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\urlguids.obj \
+    $(_OBJ_DIR)\alpha\tls.obj \
+    $(_OBJ_DIR)\alpha\urldll.obj \
+    $(_OBJ_DIR)\alpha\urlcf.obj \
+    $(_OBJ_DIR)\alpha\urlapi.obj \
+    $(_OBJ_DIR)\alpha\enumfetc.obj \
+    $(_OBJ_DIR)\alpha\media.obj \
+    $(_OBJ_DIR)\alpha\mpxbsc.obj \
+    $(_OBJ_DIR)\alpha\selfreg.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\urlguids.obj \
+    $(_OBJ_DIR)\alpha64\tls.obj \
+    $(_OBJ_DIR)\alpha64\urldll.obj \
+    $(_OBJ_DIR)\alpha64\urlcf.obj \
+    $(_OBJ_DIR)\alpha64\urlapi.obj \
+    $(_OBJ_DIR)\alpha64\enumfetc.obj \
+    $(_OBJ_DIR)\alpha64\media.obj \
+    $(_OBJ_DIR)\alpha64\mpxbsc.obj \
+    $(_OBJ_DIR)\alpha64\selfreg.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\urlguids.obj \
+    $(_OBJ_DIR)\i386\tls.obj \
+    $(_OBJ_DIR)\i386\urldll.obj \
+    $(_OBJ_DIR)\i386\urlcf.obj \
+    $(_OBJ_DIR)\i386\urlapi.obj \
+    $(_OBJ_DIR)\i386\enumfetc.obj \
+    $(_OBJ_DIR)\i386\media.obj \
+    $(_OBJ_DIR)\i386\mpxbsc.obj \
+    $(_OBJ_DIR)\i386\selfreg.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\urlguids.obj \
+    $(_OBJ_DIR)\ia64\tls.obj \
+    $(_OBJ_DIR)\ia64\urldll.obj \
+    $(_OBJ_DIR)\ia64\urlcf.obj \
+    $(_OBJ_DIR)\ia64\urlapi.obj \
+    $(_OBJ_DIR)\ia64\enumfetc.obj \
+    $(_OBJ_DIR)\ia64\media.obj \
+    $(_OBJ_DIR)\ia64\mpxbsc.obj \
+    $(_OBJ_DIR)\ia64\selfreg.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\msswch.res \
+    $(_OBJ_DIR)\alpha\dbg.obj \
+    $(_OBJ_DIR)\alpha\dbgerr.obj \
+    $(_OBJ_DIR)\alpha\msswch.obj \
+    $(_OBJ_DIR)\alpha\swchcom.obj \
+    $(_OBJ_DIR)\alpha\swchjoy.obj \
+    $(_OBJ_DIR)\alpha\swchkey.obj \
+    $(_OBJ_DIR)\alpha\swchlist.obj \
+    $(_OBJ_DIR)\alpha\swchlpt.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\msswch.res \
+    $(_OBJ_DIR)\alpha64\dbg.obj \
+    $(_OBJ_DIR)\alpha64\dbgerr.obj \
+    $(_OBJ_DIR)\alpha64\msswch.obj \
+    $(_OBJ_DIR)\alpha64\swchcom.obj \
+    $(_OBJ_DIR)\alpha64\swchjoy.obj \
+    $(_OBJ_DIR)\alpha64\swchkey.obj \
+    $(_OBJ_DIR)\alpha64\swchlist.obj \
+    $(_OBJ_DIR)\alpha64\swchlpt.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\msswch.res \
+    $(_OBJ_DIR)\i386\dbg.obj \
+    $(_OBJ_DIR)\i386\dbgerr.obj \
+    $(_OBJ_DIR)\i386\msswch.obj \
+    $(_OBJ_DIR)\i386\swchcom.obj \
+    $(_OBJ_DIR)\i386\swchjoy.obj \
+    $(_OBJ_DIR)\i386\swchkey.obj \
+    $(_OBJ_DIR)\i386\swchlist.obj \
+    $(_OBJ_DIR)\i386\swchlpt.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\msswch.res \
+    $(_OBJ_DIR)\ia64\dbg.obj \
+    $(_OBJ_DIR)\ia64\dbgerr.obj \
+    $(_OBJ_DIR)\ia64\msswch.obj \
+    $(_OBJ_DIR)\ia64\swchcom.obj \
+    $(_OBJ_DIR)\ia64\swchjoy.obj \
+    $(_OBJ_DIR)\ia64\swchkey.obj \
+    $(_OBJ_DIR)\ia64\swchlist.obj \
+    $(_OBJ_DIR)\ia64\swchlpt.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,80 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\assert.obj \
+    $(_OBJ_DIR)\alpha\bitmap.obj \
+    $(_OBJ_DIR)\alpha\cnvint.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\imagedir.obj \
+    $(_OBJ_DIR)\alpha\checksum.obj \
+    $(_OBJ_DIR)\alpha\compress.obj \
+    $(_OBJ_DIR)\alpha\ldrreloc.obj \
+    $(_OBJ_DIR)\alpha\lznt1.obj \
+    $(_OBJ_DIR)\alpha\time.obj \
+    $(_OBJ_DIR)\alpha\nlsxlat.obj \
+    $(_OBJ_DIR)\alpha\debugstb.obj \
+    $(_OBJ_DIR)\alpha\largeint.obj \
+    $(_OBJ_DIR)\alpha\lzntaxp.obj \
+    $(_OBJ_DIR)\alpha\ntcurteb.obj \
+    $(_OBJ_DIR)\alpha\mvmem.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\assert.obj \
+    $(_OBJ_DIR)\alpha64\bitmap.obj \
+    $(_OBJ_DIR)\alpha64\cnvint.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\imagedir.obj \
+    $(_OBJ_DIR)\alpha64\checksum.obj \
+    $(_OBJ_DIR)\alpha64\compress.obj \
+    $(_OBJ_DIR)\alpha64\ldrreloc.obj \
+    $(_OBJ_DIR)\alpha64\lznt1.obj \
+    $(_OBJ_DIR)\alpha64\time.obj \
+    $(_OBJ_DIR)\alpha64\nlsxlat.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\debug2.obj \
+    $(_OBJ_DIR)\i386\ioaccess.obj \
+    $(_OBJ_DIR)\i386\largeint.obj \
+    $(_OBJ_DIR)\i386\lzntx86.obj \
+    $(_OBJ_DIR)\i386\movemem.obj \
+    $(_OBJ_DIR)\i386\ntcurteb.obj \
+    $(_OBJ_DIR)\i386\divlarge.obj \
+    $(_OBJ_DIR)\i386\debug3.obj \
+    $(_OBJ_DIR)\i386\assert.obj \
+    $(_OBJ_DIR)\i386\bitmap.obj \
+    $(_OBJ_DIR)\i386\cnvint.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\imagedir.obj \
+    $(_OBJ_DIR)\i386\checksum.obj \
+    $(_OBJ_DIR)\i386\compress.obj \
+    $(_OBJ_DIR)\i386\ldrreloc.obj \
+    $(_OBJ_DIR)\i386\lznt1.obj \
+    $(_OBJ_DIR)\i386\time.obj \
+    $(_OBJ_DIR)\i386\nlsxlat.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\largeic.obj \
+    $(_OBJ_DIR)\ia64\miscc.obj \
+    $(_OBJ_DIR)\ia64\assert.obj \
+    $(_OBJ_DIR)\ia64\bitmap.obj \
+    $(_OBJ_DIR)\ia64\cnvint.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\imagedir.obj \
+    $(_OBJ_DIR)\ia64\checksum.obj \
+    $(_OBJ_DIR)\ia64\compress.obj \
+    $(_OBJ_DIR)\ia64\ldrreloc.obj \
+    $(_OBJ_DIR)\ia64\lznt1.obj \
+    $(_OBJ_DIR)\ia64\time.obj \
+    $(_OBJ_DIR)\ia64\nlsxlat.obj \
+    $(_OBJ_DIR)\ia64\debugstb.obj \
+    $(_OBJ_DIR)\ia64\largeint.obj \
+    $(_OBJ_DIR)\ia64\chksum.obj \
+    $(_OBJ_DIR)\ia64\chkstk.obj \
+    $(_OBJ_DIR)\ia64\fillmem.obj
+
+PASS0_IA64_OBJECTS=
+

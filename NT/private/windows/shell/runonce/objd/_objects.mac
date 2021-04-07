@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\runonce.res \
+    $(_OBJ_DIR)\alpha\romain.obj \
+    $(_OBJ_DIR)\alpha\runonce.obj \
+    $(_OBJ_DIR)\alpha\init.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\runonce.res \
+    $(_OBJ_DIR)\alpha64\romain.obj \
+    $(_OBJ_DIR)\alpha64\runonce.obj \
+    $(_OBJ_DIR)\alpha64\init.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\runonce.res \
+    $(_OBJ_DIR)\i386\romain.obj \
+    $(_OBJ_DIR)\i386\runonce.obj \
+    $(_OBJ_DIR)\i386\init.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\runonce.res \
+    $(_OBJ_DIR)\ia64\romain.obj \
+    $(_OBJ_DIR)\ia64\runonce.obj \
+    $(_OBJ_DIR)\ia64\init.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\ss3dfo.res \
+    $(_OBJ_DIR)\alpha\ss3dfo.obj \
+    $(_OBJ_DIR)\alpha\gendrop.obj \
+    $(_OBJ_DIR)\alpha\genexpld.obj \
+    $(_OBJ_DIR)\alpha\genlem.obj \
+    $(_OBJ_DIR)\alpha\genstrip.obj \
+    $(_OBJ_DIR)\alpha\gentex.obj \
+    $(_OBJ_DIR)\alpha\genwin.obj \
+    $(_OBJ_DIR)\alpha\mesh.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\ss3dfo.res \
+    $(_OBJ_DIR)\alpha64\ss3dfo.obj \
+    $(_OBJ_DIR)\alpha64\gendrop.obj \
+    $(_OBJ_DIR)\alpha64\genexpld.obj \
+    $(_OBJ_DIR)\alpha64\genlem.obj \
+    $(_OBJ_DIR)\alpha64\genstrip.obj \
+    $(_OBJ_DIR)\alpha64\gentex.obj \
+    $(_OBJ_DIR)\alpha64\genwin.obj \
+    $(_OBJ_DIR)\alpha64\mesh.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\ss3dfo.res \
+    $(_OBJ_DIR)\i386\ss3dfo.obj \
+    $(_OBJ_DIR)\i386\gendrop.obj \
+    $(_OBJ_DIR)\i386\genexpld.obj \
+    $(_OBJ_DIR)\i386\genlem.obj \
+    $(_OBJ_DIR)\i386\genstrip.obj \
+    $(_OBJ_DIR)\i386\gentex.obj \
+    $(_OBJ_DIR)\i386\genwin.obj \
+    $(_OBJ_DIR)\i386\mesh.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\ss3dfo.res \
+    $(_OBJ_DIR)\ia64\ss3dfo.obj \
+    $(_OBJ_DIR)\ia64\gendrop.obj \
+    $(_OBJ_DIR)\ia64\genexpld.obj \
+    $(_OBJ_DIR)\ia64\genlem.obj \
+    $(_OBJ_DIR)\ia64\genstrip.obj \
+    $(_OBJ_DIR)\ia64\gentex.obj \
+    $(_OBJ_DIR)\ia64\genwin.obj \
+    $(_OBJ_DIR)\ia64\mesh.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,68 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\change.obj \
+    $(_OBJ_DIR)\alpha\coerce.obj \
+    $(_OBJ_DIR)\alpha\colinfo.obj \
+    $(_OBJ_DIR)\alpha\locate.obj \
+    $(_OBJ_DIR)\alpha\newrow.obj \
+    $(_OBJ_DIR)\alpha\property.obj \
+    $(_OBJ_DIR)\alpha\rowhndl.obj \
+    $(_OBJ_DIR)\alpha\rowset.obj \
+    $(_OBJ_DIR)\alpha\scroll.obj \
+    $(_OBJ_DIR)\alpha\seek.obj \
+    $(_OBJ_DIR)\alpha\stdevent.obj \
+    $(_OBJ_DIR)\alpha\async.obj \
+    $(_OBJ_DIR)\alpha\testnile.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\change.obj \
+    $(_OBJ_DIR)\alpha64\coerce.obj \
+    $(_OBJ_DIR)\alpha64\colinfo.obj \
+    $(_OBJ_DIR)\alpha64\locate.obj \
+    $(_OBJ_DIR)\alpha64\newrow.obj \
+    $(_OBJ_DIR)\alpha64\property.obj \
+    $(_OBJ_DIR)\alpha64\rowhndl.obj \
+    $(_OBJ_DIR)\alpha64\rowset.obj \
+    $(_OBJ_DIR)\alpha64\scroll.obj \
+    $(_OBJ_DIR)\alpha64\seek.obj \
+    $(_OBJ_DIR)\alpha64\stdevent.obj \
+    $(_OBJ_DIR)\alpha64\async.obj \
+    $(_OBJ_DIR)\alpha64\testnile.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\change.obj \
+    $(_OBJ_DIR)\i386\coerce.obj \
+    $(_OBJ_DIR)\i386\colinfo.obj \
+    $(_OBJ_DIR)\i386\locate.obj \
+    $(_OBJ_DIR)\i386\newrow.obj \
+    $(_OBJ_DIR)\i386\property.obj \
+    $(_OBJ_DIR)\i386\rowhndl.obj \
+    $(_OBJ_DIR)\i386\rowset.obj \
+    $(_OBJ_DIR)\i386\scroll.obj \
+    $(_OBJ_DIR)\i386\seek.obj \
+    $(_OBJ_DIR)\i386\stdevent.obj \
+    $(_OBJ_DIR)\i386\async.obj \
+    $(_OBJ_DIR)\i386\testnile.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\change.obj \
+    $(_OBJ_DIR)\ia64\coerce.obj \
+    $(_OBJ_DIR)\ia64\colinfo.obj \
+    $(_OBJ_DIR)\ia64\locate.obj \
+    $(_OBJ_DIR)\ia64\newrow.obj \
+    $(_OBJ_DIR)\ia64\property.obj \
+    $(_OBJ_DIR)\ia64\rowhndl.obj \
+    $(_OBJ_DIR)\ia64\rowset.obj \
+    $(_OBJ_DIR)\ia64\scroll.obj \
+    $(_OBJ_DIR)\ia64\seek.obj \
+    $(_OBJ_DIR)\ia64\stdevent.obj \
+    $(_OBJ_DIR)\ia64\async.obj \
+    $(_OBJ_DIR)\ia64\testnile.obj
+
+PASS0_IA64_OBJECTS=
+

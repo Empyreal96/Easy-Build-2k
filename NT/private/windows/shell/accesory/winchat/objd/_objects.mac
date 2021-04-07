@@ -1,0 +1,40 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\winchat.res \
+    $(_OBJ_DIR)\alpha\dde.obj \
+    $(_OBJ_DIR)\alpha\dialogs.obj \
+    $(_OBJ_DIR)\alpha\wcinit.obj \
+    $(_OBJ_DIR)\alpha\winchat.obj \
+    $(_OBJ_DIR)\alpha\globals.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\winchat.res \
+    $(_OBJ_DIR)\alpha64\dde.obj \
+    $(_OBJ_DIR)\alpha64\dialogs.obj \
+    $(_OBJ_DIR)\alpha64\wcinit.obj \
+    $(_OBJ_DIR)\alpha64\winchat.obj \
+    $(_OBJ_DIR)\alpha64\globals.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\winchat.res \
+    $(_OBJ_DIR)\i386\dde.obj \
+    $(_OBJ_DIR)\i386\dialogs.obj \
+    $(_OBJ_DIR)\i386\wcinit.obj \
+    $(_OBJ_DIR)\i386\winchat.obj \
+    $(_OBJ_DIR)\i386\globals.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\winchat.res \
+    $(_OBJ_DIR)\ia64\dde.obj \
+    $(_OBJ_DIR)\ia64\dialogs.obj \
+    $(_OBJ_DIR)\ia64\wcinit.obj \
+    $(_OBJ_DIR)\ia64\winchat.obj \
+    $(_OBJ_DIR)\ia64\globals.obj
+
+PASS0_IA64_OBJECTS=
+

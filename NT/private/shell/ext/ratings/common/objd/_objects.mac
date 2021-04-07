@@ -1,0 +1,216 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\bufbase.obj \
+    $(_OBJ_DIR)\alpha\buffer.obj \
+    $(_OBJ_DIR)\alpha\npassert.obj \
+    $(_OBJ_DIR)\alpha\alloc.obj \
+    $(_OBJ_DIR)\alpha\strcmp.obj \
+    $(_OBJ_DIR)\alpha\strupr.obj \
+    $(_OBJ_DIR)\alpha\stratol.obj \
+    $(_OBJ_DIR)\alpha\strassgn.obj \
+    $(_OBJ_DIR)\alpha\strncpy.obj \
+    $(_OBJ_DIR)\alpha\strrchr.obj \
+    $(_OBJ_DIR)\alpha\stricmp.obj \
+    $(_OBJ_DIR)\alpha\strspn.obj \
+    $(_OBJ_DIR)\alpha\stris.obj \
+    $(_OBJ_DIR)\alpha\string.obj \
+    $(_OBJ_DIR)\alpha\strnchar.obj \
+    $(_OBJ_DIR)\alpha\strload.obj \
+    $(_OBJ_DIR)\alpha\strprof.obj \
+    $(_OBJ_DIR)\alpha\strrss.obj \
+    $(_OBJ_DIR)\alpha\strchr.obj \
+    $(_OBJ_DIR)\alpha\strcat.obj \
+    $(_OBJ_DIR)\alpha\strmisc.obj \
+    $(_OBJ_DIR)\alpha\strnicmp.obj \
+    $(_OBJ_DIR)\alpha\strcspn.obj \
+    $(_OBJ_DIR)\alpha\strdss.obj \
+    $(_OBJ_DIR)\alpha\strtok.obj \
+    $(_OBJ_DIR)\alpha\strinsrt.obj \
+    $(_OBJ_DIR)\alpha\strstr.obj \
+    $(_OBJ_DIR)\alpha\stristr.obj \
+    $(_OBJ_DIR)\alpha\stratoi.obj \
+    $(_OBJ_DIR)\alpha\strqss.obj \
+    $(_OBJ_DIR)\alpha\strncmp.obj \
+    $(_OBJ_DIR)\alpha\istr.obj \
+    $(_OBJ_DIR)\alpha\istraux.obj \
+    $(_OBJ_DIR)\alpha\strparty.obj \
+    $(_OBJ_DIR)\alpha\npmsg.obj \
+    $(_OBJ_DIR)\alpha\npgenerr.obj \
+    $(_OBJ_DIR)\alpha\iconlbox.obj \
+    $(_OBJ_DIR)\alpha\regentry.obj \
+    $(_OBJ_DIR)\alpha\convtime.obj \
+    $(_OBJ_DIR)\alpha\dostime.obj \
+    $(_OBJ_DIR)\alpha\timedata.obj \
+    $(_OBJ_DIR)\alpha\purecall.obj \
+    $(_OBJ_DIR)\alpha\sched.obj \
+    $(_OBJ_DIR)\alpha\str.obj \
+    $(_OBJ_DIR)\alpha\chr.obj \
+    $(_OBJ_DIR)\alpha\cmp.obj \
+    $(_OBJ_DIR)\alpha\spn.obj \
+    $(_OBJ_DIR)\alpha\upr.obj \
+    $(_OBJ_DIR)\alpha\cpycat.obj \
+    $(_OBJ_DIR)\alpha\initstr.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\bufbase.obj \
+    $(_OBJ_DIR)\alpha64\buffer.obj \
+    $(_OBJ_DIR)\alpha64\npassert.obj \
+    $(_OBJ_DIR)\alpha64\alloc.obj \
+    $(_OBJ_DIR)\alpha64\strcmp.obj \
+    $(_OBJ_DIR)\alpha64\strupr.obj \
+    $(_OBJ_DIR)\alpha64\stratol.obj \
+    $(_OBJ_DIR)\alpha64\strassgn.obj \
+    $(_OBJ_DIR)\alpha64\strncpy.obj \
+    $(_OBJ_DIR)\alpha64\strrchr.obj \
+    $(_OBJ_DIR)\alpha64\stricmp.obj \
+    $(_OBJ_DIR)\alpha64\strspn.obj \
+    $(_OBJ_DIR)\alpha64\stris.obj \
+    $(_OBJ_DIR)\alpha64\string.obj \
+    $(_OBJ_DIR)\alpha64\strnchar.obj \
+    $(_OBJ_DIR)\alpha64\strload.obj \
+    $(_OBJ_DIR)\alpha64\strprof.obj \
+    $(_OBJ_DIR)\alpha64\strrss.obj \
+    $(_OBJ_DIR)\alpha64\strchr.obj \
+    $(_OBJ_DIR)\alpha64\strcat.obj \
+    $(_OBJ_DIR)\alpha64\strmisc.obj \
+    $(_OBJ_DIR)\alpha64\strnicmp.obj \
+    $(_OBJ_DIR)\alpha64\strcspn.obj \
+    $(_OBJ_DIR)\alpha64\strdss.obj \
+    $(_OBJ_DIR)\alpha64\strtok.obj \
+    $(_OBJ_DIR)\alpha64\strinsrt.obj \
+    $(_OBJ_DIR)\alpha64\strstr.obj \
+    $(_OBJ_DIR)\alpha64\stristr.obj \
+    $(_OBJ_DIR)\alpha64\stratoi.obj \
+    $(_OBJ_DIR)\alpha64\strqss.obj \
+    $(_OBJ_DIR)\alpha64\strncmp.obj \
+    $(_OBJ_DIR)\alpha64\istr.obj \
+    $(_OBJ_DIR)\alpha64\istraux.obj \
+    $(_OBJ_DIR)\alpha64\strparty.obj \
+    $(_OBJ_DIR)\alpha64\npmsg.obj \
+    $(_OBJ_DIR)\alpha64\npgenerr.obj \
+    $(_OBJ_DIR)\alpha64\iconlbox.obj \
+    $(_OBJ_DIR)\alpha64\regentry.obj \
+    $(_OBJ_DIR)\alpha64\convtime.obj \
+    $(_OBJ_DIR)\alpha64\dostime.obj \
+    $(_OBJ_DIR)\alpha64\timedata.obj \
+    $(_OBJ_DIR)\alpha64\purecall.obj \
+    $(_OBJ_DIR)\alpha64\sched.obj \
+    $(_OBJ_DIR)\alpha64\str.obj \
+    $(_OBJ_DIR)\alpha64\chr.obj \
+    $(_OBJ_DIR)\alpha64\cmp.obj \
+    $(_OBJ_DIR)\alpha64\spn.obj \
+    $(_OBJ_DIR)\alpha64\upr.obj \
+    $(_OBJ_DIR)\alpha64\cpycat.obj \
+    $(_OBJ_DIR)\alpha64\initstr.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\bufbase.obj \
+    $(_OBJ_DIR)\i386\buffer.obj \
+    $(_OBJ_DIR)\i386\npassert.obj \
+    $(_OBJ_DIR)\i386\alloc.obj \
+    $(_OBJ_DIR)\i386\strcmp.obj \
+    $(_OBJ_DIR)\i386\strupr.obj \
+    $(_OBJ_DIR)\i386\stratol.obj \
+    $(_OBJ_DIR)\i386\strassgn.obj \
+    $(_OBJ_DIR)\i386\strncpy.obj \
+    $(_OBJ_DIR)\i386\strrchr.obj \
+    $(_OBJ_DIR)\i386\stricmp.obj \
+    $(_OBJ_DIR)\i386\strspn.obj \
+    $(_OBJ_DIR)\i386\stris.obj \
+    $(_OBJ_DIR)\i386\string.obj \
+    $(_OBJ_DIR)\i386\strnchar.obj \
+    $(_OBJ_DIR)\i386\strload.obj \
+    $(_OBJ_DIR)\i386\strprof.obj \
+    $(_OBJ_DIR)\i386\strrss.obj \
+    $(_OBJ_DIR)\i386\strchr.obj \
+    $(_OBJ_DIR)\i386\strcat.obj \
+    $(_OBJ_DIR)\i386\strmisc.obj \
+    $(_OBJ_DIR)\i386\strnicmp.obj \
+    $(_OBJ_DIR)\i386\strcspn.obj \
+    $(_OBJ_DIR)\i386\strdss.obj \
+    $(_OBJ_DIR)\i386\strtok.obj \
+    $(_OBJ_DIR)\i386\strinsrt.obj \
+    $(_OBJ_DIR)\i386\strstr.obj \
+    $(_OBJ_DIR)\i386\stristr.obj \
+    $(_OBJ_DIR)\i386\stratoi.obj \
+    $(_OBJ_DIR)\i386\strqss.obj \
+    $(_OBJ_DIR)\i386\strncmp.obj \
+    $(_OBJ_DIR)\i386\istr.obj \
+    $(_OBJ_DIR)\i386\istraux.obj \
+    $(_OBJ_DIR)\i386\strparty.obj \
+    $(_OBJ_DIR)\i386\npmsg.obj \
+    $(_OBJ_DIR)\i386\npgenerr.obj \
+    $(_OBJ_DIR)\i386\iconlbox.obj \
+    $(_OBJ_DIR)\i386\regentry.obj \
+    $(_OBJ_DIR)\i386\convtime.obj \
+    $(_OBJ_DIR)\i386\dostime.obj \
+    $(_OBJ_DIR)\i386\timedata.obj \
+    $(_OBJ_DIR)\i386\purecall.obj \
+    $(_OBJ_DIR)\i386\sched.obj \
+    $(_OBJ_DIR)\i386\str.obj \
+    $(_OBJ_DIR)\i386\chr.obj \
+    $(_OBJ_DIR)\i386\cmp.obj \
+    $(_OBJ_DIR)\i386\spn.obj \
+    $(_OBJ_DIR)\i386\upr.obj \
+    $(_OBJ_DIR)\i386\cpycat.obj \
+    $(_OBJ_DIR)\i386\initstr.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\bufbase.obj \
+    $(_OBJ_DIR)\ia64\buffer.obj \
+    $(_OBJ_DIR)\ia64\npassert.obj \
+    $(_OBJ_DIR)\ia64\alloc.obj \
+    $(_OBJ_DIR)\ia64\strcmp.obj \
+    $(_OBJ_DIR)\ia64\strupr.obj \
+    $(_OBJ_DIR)\ia64\stratol.obj \
+    $(_OBJ_DIR)\ia64\strassgn.obj \
+    $(_OBJ_DIR)\ia64\strncpy.obj \
+    $(_OBJ_DIR)\ia64\strrchr.obj \
+    $(_OBJ_DIR)\ia64\stricmp.obj \
+    $(_OBJ_DIR)\ia64\strspn.obj \
+    $(_OBJ_DIR)\ia64\stris.obj \
+    $(_OBJ_DIR)\ia64\string.obj \
+    $(_OBJ_DIR)\ia64\strnchar.obj \
+    $(_OBJ_DIR)\ia64\strload.obj \
+    $(_OBJ_DIR)\ia64\strprof.obj \
+    $(_OBJ_DIR)\ia64\strrss.obj \
+    $(_OBJ_DIR)\ia64\strchr.obj \
+    $(_OBJ_DIR)\ia64\strcat.obj \
+    $(_OBJ_DIR)\ia64\strmisc.obj \
+    $(_OBJ_DIR)\ia64\strnicmp.obj \
+    $(_OBJ_DIR)\ia64\strcspn.obj \
+    $(_OBJ_DIR)\ia64\strdss.obj \
+    $(_OBJ_DIR)\ia64\strtok.obj \
+    $(_OBJ_DIR)\ia64\strinsrt.obj \
+    $(_OBJ_DIR)\ia64\strstr.obj \
+    $(_OBJ_DIR)\ia64\stristr.obj \
+    $(_OBJ_DIR)\ia64\stratoi.obj \
+    $(_OBJ_DIR)\ia64\strqss.obj \
+    $(_OBJ_DIR)\ia64\strncmp.obj \
+    $(_OBJ_DIR)\ia64\istr.obj \
+    $(_OBJ_DIR)\ia64\istraux.obj \
+    $(_OBJ_DIR)\ia64\strparty.obj \
+    $(_OBJ_DIR)\ia64\npmsg.obj \
+    $(_OBJ_DIR)\ia64\npgenerr.obj \
+    $(_OBJ_DIR)\ia64\iconlbox.obj \
+    $(_OBJ_DIR)\ia64\regentry.obj \
+    $(_OBJ_DIR)\ia64\convtime.obj \
+    $(_OBJ_DIR)\ia64\dostime.obj \
+    $(_OBJ_DIR)\ia64\timedata.obj \
+    $(_OBJ_DIR)\ia64\purecall.obj \
+    $(_OBJ_DIR)\ia64\sched.obj \
+    $(_OBJ_DIR)\ia64\str.obj \
+    $(_OBJ_DIR)\ia64\chr.obj \
+    $(_OBJ_DIR)\ia64\cmp.obj \
+    $(_OBJ_DIR)\ia64\spn.obj \
+    $(_OBJ_DIR)\ia64\upr.obj \
+    $(_OBJ_DIR)\ia64\cpycat.obj \
+    $(_OBJ_DIR)\ia64\initstr.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,28 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\url.obj \
+    $(_OBJ_DIR)\alpha\urlstream.obj \
+    $(_OBJ_DIR)\alpha\urlcallback.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\url.obj \
+    $(_OBJ_DIR)\alpha64\urlstream.obj \
+    $(_OBJ_DIR)\alpha64\urlcallback.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\url.obj \
+    $(_OBJ_DIR)\i386\urlstream.obj \
+    $(_OBJ_DIR)\i386\urlcallback.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\url.obj \
+    $(_OBJ_DIR)\ia64\urlstream.obj \
+    $(_OBJ_DIR)\ia64\urlcallback.obj
+
+PASS0_IA64_OBJECTS=
+

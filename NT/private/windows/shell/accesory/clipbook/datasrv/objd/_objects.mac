@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\clipsrv.res \
+    $(_OBJ_DIR)\alpha\callback.obj \
+    $(_OBJ_DIR)\alpha\ddeutil.obj \
+    $(_OBJ_DIR)\alpha\islocal.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\clipsrv.res \
+    $(_OBJ_DIR)\alpha64\callback.obj \
+    $(_OBJ_DIR)\alpha64\ddeutil.obj \
+    $(_OBJ_DIR)\alpha64\islocal.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\clipsrv.res \
+    $(_OBJ_DIR)\i386\callback.obj \
+    $(_OBJ_DIR)\i386\ddeutil.obj \
+    $(_OBJ_DIR)\i386\islocal.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\clipsrv.res \
+    $(_OBJ_DIR)\ia64\callback.obj \
+    $(_OBJ_DIR)\ia64\ddeutil.obj \
+    $(_OBJ_DIR)\ia64\islocal.obj
+
+PASS0_IA64_OBJECTS=
+

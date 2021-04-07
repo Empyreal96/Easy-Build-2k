@@ -1,0 +1,88 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\buffer.obj \
+    $(_OBJ_DIR)\alpha\caddrlst.obj \
+    $(_OBJ_DIR)\alpha\fsm.obj \
+    $(_OBJ_DIR)\alpha\handle.obj \
+    $(_OBJ_DIR)\alpha\bgtask.obj \
+    $(_OBJ_DIR)\alpha\icasync.obj \
+    $(_OBJ_DIR)\alpha\icsocket.obj \
+    $(_OBJ_DIR)\alpha\icstring.obj \
+    $(_OBJ_DIR)\alpha\iwinsock.obj \
+    $(_OBJ_DIR)\alpha\parsers.obj \
+    $(_OBJ_DIR)\alpha\priolist.obj \
+    $(_OBJ_DIR)\alpha\rescache.obj \
+    $(_OBJ_DIR)\alpha\reslock.obj \
+    $(_OBJ_DIR)\alpha\secinit.obj \
+    $(_OBJ_DIR)\alpha\serialst.obj \
+    $(_OBJ_DIR)\alpha\servinfo.obj \
+    $(_OBJ_DIR)\alpha\ssocket.obj \
+    $(_OBJ_DIR)\alpha\util.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\buffer.obj \
+    $(_OBJ_DIR)\alpha64\caddrlst.obj \
+    $(_OBJ_DIR)\alpha64\fsm.obj \
+    $(_OBJ_DIR)\alpha64\handle.obj \
+    $(_OBJ_DIR)\alpha64\bgtask.obj \
+    $(_OBJ_DIR)\alpha64\icasync.obj \
+    $(_OBJ_DIR)\alpha64\icsocket.obj \
+    $(_OBJ_DIR)\alpha64\icstring.obj \
+    $(_OBJ_DIR)\alpha64\iwinsock.obj \
+    $(_OBJ_DIR)\alpha64\parsers.obj \
+    $(_OBJ_DIR)\alpha64\priolist.obj \
+    $(_OBJ_DIR)\alpha64\rescache.obj \
+    $(_OBJ_DIR)\alpha64\reslock.obj \
+    $(_OBJ_DIR)\alpha64\secinit.obj \
+    $(_OBJ_DIR)\alpha64\serialst.obj \
+    $(_OBJ_DIR)\alpha64\servinfo.obj \
+    $(_OBJ_DIR)\alpha64\ssocket.obj \
+    $(_OBJ_DIR)\alpha64\util.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\buffer.obj \
+    $(_OBJ_DIR)\i386\caddrlst.obj \
+    $(_OBJ_DIR)\i386\fsm.obj \
+    $(_OBJ_DIR)\i386\handle.obj \
+    $(_OBJ_DIR)\i386\bgtask.obj \
+    $(_OBJ_DIR)\i386\icasync.obj \
+    $(_OBJ_DIR)\i386\icsocket.obj \
+    $(_OBJ_DIR)\i386\icstring.obj \
+    $(_OBJ_DIR)\i386\iwinsock.obj \
+    $(_OBJ_DIR)\i386\parsers.obj \
+    $(_OBJ_DIR)\i386\priolist.obj \
+    $(_OBJ_DIR)\i386\rescache.obj \
+    $(_OBJ_DIR)\i386\reslock.obj \
+    $(_OBJ_DIR)\i386\secinit.obj \
+    $(_OBJ_DIR)\i386\serialst.obj \
+    $(_OBJ_DIR)\i386\servinfo.obj \
+    $(_OBJ_DIR)\i386\ssocket.obj \
+    $(_OBJ_DIR)\i386\util.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\buffer.obj \
+    $(_OBJ_DIR)\ia64\caddrlst.obj \
+    $(_OBJ_DIR)\ia64\fsm.obj \
+    $(_OBJ_DIR)\ia64\handle.obj \
+    $(_OBJ_DIR)\ia64\bgtask.obj \
+    $(_OBJ_DIR)\ia64\icasync.obj \
+    $(_OBJ_DIR)\ia64\icsocket.obj \
+    $(_OBJ_DIR)\ia64\icstring.obj \
+    $(_OBJ_DIR)\ia64\iwinsock.obj \
+    $(_OBJ_DIR)\ia64\parsers.obj \
+    $(_OBJ_DIR)\ia64\priolist.obj \
+    $(_OBJ_DIR)\ia64\rescache.obj \
+    $(_OBJ_DIR)\ia64\reslock.obj \
+    $(_OBJ_DIR)\ia64\secinit.obj \
+    $(_OBJ_DIR)\ia64\serialst.obj \
+    $(_OBJ_DIR)\ia64\servinfo.obj \
+    $(_OBJ_DIR)\ia64\ssocket.obj \
+    $(_OBJ_DIR)\ia64\util.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,28 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\urlmon.res
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\urlerr.h \
+    $(PASS0_SOURCEDIR)\urlerr.rc
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\urlmon.res
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\urlerr.h \
+    $(PASS0_SOURCEDIR)\urlerr.rc
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\urlmon.res
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\urlerr.h \
+    $(PASS0_SOURCEDIR)\urlerr.rc
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\urlmon.res
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\urlerr.h \
+    $(PASS0_SOURCEDIR)\urlerr.rc
+

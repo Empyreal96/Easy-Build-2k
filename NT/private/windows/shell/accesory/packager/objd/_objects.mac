@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\packager.res \
+    $(_OBJ_DIR)\alpha\cmdlink.obj \
+    $(_OBJ_DIR)\alpha\dlgprocs.obj \
+    $(_OBJ_DIR)\alpha\embed.obj \
+    $(_OBJ_DIR)\alpha\filedlgs.obj \
+    $(_OBJ_DIR)\alpha\globals.obj \
+    $(_OBJ_DIR)\alpha\icon.obj \
+    $(_OBJ_DIR)\alpha\packager.obj \
+    $(_OBJ_DIR)\alpha\pane.obj \
+    $(_OBJ_DIR)\alpha\picture.obj \
+    $(_OBJ_DIR)\alpha\register.obj \
+    $(_OBJ_DIR)\alpha\server.obj \
+    $(_OBJ_DIR)\alpha\stream.obj \
+    $(_OBJ_DIR)\alpha\virtable.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\packager.res \
+    $(_OBJ_DIR)\alpha64\cmdlink.obj \
+    $(_OBJ_DIR)\alpha64\dlgprocs.obj \
+    $(_OBJ_DIR)\alpha64\embed.obj \
+    $(_OBJ_DIR)\alpha64\filedlgs.obj \
+    $(_OBJ_DIR)\alpha64\globals.obj \
+    $(_OBJ_DIR)\alpha64\icon.obj \
+    $(_OBJ_DIR)\alpha64\packager.obj \
+    $(_OBJ_DIR)\alpha64\pane.obj \
+    $(_OBJ_DIR)\alpha64\picture.obj \
+    $(_OBJ_DIR)\alpha64\register.obj \
+    $(_OBJ_DIR)\alpha64\server.obj \
+    $(_OBJ_DIR)\alpha64\stream.obj \
+    $(_OBJ_DIR)\alpha64\virtable.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\packager.res \
+    $(_OBJ_DIR)\i386\cmdlink.obj \
+    $(_OBJ_DIR)\i386\dlgprocs.obj \
+    $(_OBJ_DIR)\i386\embed.obj \
+    $(_OBJ_DIR)\i386\filedlgs.obj \
+    $(_OBJ_DIR)\i386\globals.obj \
+    $(_OBJ_DIR)\i386\icon.obj \
+    $(_OBJ_DIR)\i386\packager.obj \
+    $(_OBJ_DIR)\i386\pane.obj \
+    $(_OBJ_DIR)\i386\picture.obj \
+    $(_OBJ_DIR)\i386\register.obj \
+    $(_OBJ_DIR)\i386\server.obj \
+    $(_OBJ_DIR)\i386\stream.obj \
+    $(_OBJ_DIR)\i386\virtable.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\packager.res \
+    $(_OBJ_DIR)\ia64\cmdlink.obj \
+    $(_OBJ_DIR)\ia64\dlgprocs.obj \
+    $(_OBJ_DIR)\ia64\embed.obj \
+    $(_OBJ_DIR)\ia64\filedlgs.obj \
+    $(_OBJ_DIR)\ia64\globals.obj \
+    $(_OBJ_DIR)\ia64\icon.obj \
+    $(_OBJ_DIR)\ia64\packager.obj \
+    $(_OBJ_DIR)\ia64\pane.obj \
+    $(_OBJ_DIR)\ia64\picture.obj \
+    $(_OBJ_DIR)\ia64\register.obj \
+    $(_OBJ_DIR)\ia64\server.obj \
+    $(_OBJ_DIR)\ia64\stream.obj \
+    $(_OBJ_DIR)\ia64\virtable.obj
+
+PASS0_IA64_OBJECTS=
+

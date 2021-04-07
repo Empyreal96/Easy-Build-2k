@@ -1,0 +1,24 @@
+ALPHA_OBJECTS=
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\urlmki.h \
+    $(PASS0_UUIDDIR)\urlmki.c
+
+ALPHA64_OBJECTS=
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\urlmki.h \
+    $(PASS0_UUIDDIR)\urlmki.c
+
+386_OBJECTS=
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\urlmki.h \
+    $(PASS0_UUIDDIR)\urlmki.c
+
+IA64_OBJECTS=
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\urlmki.h \
+    $(PASS0_UUIDDIR)\urlmki.c
+

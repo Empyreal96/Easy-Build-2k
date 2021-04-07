@@ -1,0 +1,90 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\bindi.obj \
+    $(_OBJ_DIR)\alpha\checksum.obj \
+    $(_OBJ_DIR)\alpha\dbgexts.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\imagedir.obj \
+    $(_OBJ_DIR)\alpha\imagehlp.obj \
+    $(_OBJ_DIR)\alpha\map.obj \
+    $(_OBJ_DIR)\alpha\pdb.obj \
+    $(_OBJ_DIR)\alpha\rebasei.obj \
+    $(_OBJ_DIR)\alpha\symbols.obj \
+    $(_OBJ_DIR)\alpha\symbolsp.obj \
+    $(_OBJ_DIR)\alpha\walk.obj \
+    $(_OBJ_DIR)\alpha\walkx86.obj \
+    $(_OBJ_DIR)\alpha\walkmip.obj \
+    $(_OBJ_DIR)\alpha\walkalp.obj \
+    $(_OBJ_DIR)\alpha\walkppc.obj \
+    $(_OBJ_DIR)\alpha\dice.obj \
+    $(_OBJ_DIR)\alpha\undecsym.obj \
+    $(_OBJ_DIR)\alpha\chksum.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\bindi.obj \
+    $(_OBJ_DIR)\alpha64\checksum.obj \
+    $(_OBJ_DIR)\alpha64\dbgexts.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\imagedir.obj \
+    $(_OBJ_DIR)\alpha64\imagehlp.obj \
+    $(_OBJ_DIR)\alpha64\map.obj \
+    $(_OBJ_DIR)\alpha64\pdb.obj \
+    $(_OBJ_DIR)\alpha64\rebasei.obj \
+    $(_OBJ_DIR)\alpha64\symbols.obj \
+    $(_OBJ_DIR)\alpha64\symbolsp.obj \
+    $(_OBJ_DIR)\alpha64\walk.obj \
+    $(_OBJ_DIR)\alpha64\walkx86.obj \
+    $(_OBJ_DIR)\alpha64\walkmip.obj \
+    $(_OBJ_DIR)\alpha64\walkalp.obj \
+    $(_OBJ_DIR)\alpha64\walkppc.obj \
+    $(_OBJ_DIR)\alpha64\dice.obj \
+    $(_OBJ_DIR)\alpha64\undecsym.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\chksum.obj \
+    $(_OBJ_DIR)\i386\bindi.obj \
+    $(_OBJ_DIR)\i386\checksum.obj \
+    $(_OBJ_DIR)\i386\dbgexts.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\imagedir.obj \
+    $(_OBJ_DIR)\i386\imagehlp.obj \
+    $(_OBJ_DIR)\i386\map.obj \
+    $(_OBJ_DIR)\i386\pdb.obj \
+    $(_OBJ_DIR)\i386\rebasei.obj \
+    $(_OBJ_DIR)\i386\symbols.obj \
+    $(_OBJ_DIR)\i386\symbolsp.obj \
+    $(_OBJ_DIR)\i386\walk.obj \
+    $(_OBJ_DIR)\i386\walkx86.obj \
+    $(_OBJ_DIR)\i386\walkmip.obj \
+    $(_OBJ_DIR)\i386\walkalp.obj \
+    $(_OBJ_DIR)\i386\walkppc.obj \
+    $(_OBJ_DIR)\i386\dice.obj \
+    $(_OBJ_DIR)\i386\undecsym.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\bindi.obj \
+    $(_OBJ_DIR)\ia64\checksum.obj \
+    $(_OBJ_DIR)\ia64\dbgexts.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\imagedir.obj \
+    $(_OBJ_DIR)\ia64\imagehlp.obj \
+    $(_OBJ_DIR)\ia64\map.obj \
+    $(_OBJ_DIR)\ia64\pdb.obj \
+    $(_OBJ_DIR)\ia64\rebasei.obj \
+    $(_OBJ_DIR)\ia64\symbols.obj \
+    $(_OBJ_DIR)\ia64\symbolsp.obj \
+    $(_OBJ_DIR)\ia64\walk.obj \
+    $(_OBJ_DIR)\ia64\walkx86.obj \
+    $(_OBJ_DIR)\ia64\walkmip.obj \
+    $(_OBJ_DIR)\ia64\walkalp.obj \
+    $(_OBJ_DIR)\ia64\walkppc.obj \
+    $(_OBJ_DIR)\ia64\dice.obj \
+    $(_OBJ_DIR)\ia64\undecsym.obj
+
+PASS0_IA64_OBJECTS=
+

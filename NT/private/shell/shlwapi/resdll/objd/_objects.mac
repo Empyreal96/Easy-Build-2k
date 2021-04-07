@@ -1,0 +1,20 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\shlwaplc.res
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\shlwaplc.res
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\shlwaplc.res
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\shlwaplc.res
+
+PASS0_IA64_OBJECTS=
+

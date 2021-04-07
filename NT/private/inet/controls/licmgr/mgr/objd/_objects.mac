@@ -1,0 +1,40 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\mgr.res \
+    $(_OBJ_DIR)\alpha\mgrpch.obj \
+    $(_OBJ_DIR)\alpha\array.obj \
+    $(_OBJ_DIR)\alpha\guids.obj \
+    $(_OBJ_DIR)\alpha\main.obj \
+    $(_OBJ_DIR)\alpha\persist.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\mgr.res \
+    $(_OBJ_DIR)\alpha64\mgrpch.obj \
+    $(_OBJ_DIR)\alpha64\array.obj \
+    $(_OBJ_DIR)\alpha64\guids.obj \
+    $(_OBJ_DIR)\alpha64\main.obj \
+    $(_OBJ_DIR)\alpha64\persist.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\mgr.res \
+    $(_OBJ_DIR)\i386\mgrpch.obj \
+    $(_OBJ_DIR)\i386\array.obj \
+    $(_OBJ_DIR)\i386\guids.obj \
+    $(_OBJ_DIR)\i386\main.obj \
+    $(_OBJ_DIR)\i386\persist.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\mgr.res \
+    $(_OBJ_DIR)\ia64\mgrpch.obj \
+    $(_OBJ_DIR)\ia64\array.obj \
+    $(_OBJ_DIR)\ia64\guids.obj \
+    $(_OBJ_DIR)\ia64\main.obj \
+    $(_OBJ_DIR)\ia64\persist.obj
+
+PASS0_IA64_OBJECTS=
+

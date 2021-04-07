@@ -1,0 +1,88 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\actsaver.res \
+    $(_OBJ_DIR)\alpha\actsaver.obj \
+    $(_OBJ_DIR)\alpha\atlimpl.obj \
+    $(_OBJ_DIR)\alpha\bsc.obj \
+    $(_OBJ_DIR)\alpha\cfgdlg.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\dib.obj \
+    $(_OBJ_DIR)\alpha\pidllist.obj \
+    $(_OBJ_DIR)\alpha\preview.obj \
+    $(_OBJ_DIR)\alpha\regini.obj \
+    $(_OBJ_DIR)\alpha\saver.obj \
+    $(_OBJ_DIR)\alpha\sswnd.obj \
+    $(_OBJ_DIR)\alpha\statreg.obj \
+    $(_OBJ_DIR)\alpha\strclass.obj \
+    $(_OBJ_DIR)\alpha\toolbar.obj \
+    $(_OBJ_DIR)\alpha\wnd.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\actsaver.h \
+    $(PASS0_UUIDDIR)\actsaver.c
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\actsaver.res \
+    $(_OBJ_DIR)\alpha64\actsaver.obj \
+    $(_OBJ_DIR)\alpha64\atlimpl.obj \
+    $(_OBJ_DIR)\alpha64\bsc.obj \
+    $(_OBJ_DIR)\alpha64\cfgdlg.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\dib.obj \
+    $(_OBJ_DIR)\alpha64\pidllist.obj \
+    $(_OBJ_DIR)\alpha64\preview.obj \
+    $(_OBJ_DIR)\alpha64\regini.obj \
+    $(_OBJ_DIR)\alpha64\saver.obj \
+    $(_OBJ_DIR)\alpha64\sswnd.obj \
+    $(_OBJ_DIR)\alpha64\statreg.obj \
+    $(_OBJ_DIR)\alpha64\strclass.obj \
+    $(_OBJ_DIR)\alpha64\toolbar.obj \
+    $(_OBJ_DIR)\alpha64\wnd.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\actsaver.h \
+    $(PASS0_UUIDDIR)\actsaver.c
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\actsaver.res \
+    $(_OBJ_DIR)\i386\actsaver.obj \
+    $(_OBJ_DIR)\i386\atlimpl.obj \
+    $(_OBJ_DIR)\i386\bsc.obj \
+    $(_OBJ_DIR)\i386\cfgdlg.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\dib.obj \
+    $(_OBJ_DIR)\i386\pidllist.obj \
+    $(_OBJ_DIR)\i386\preview.obj \
+    $(_OBJ_DIR)\i386\regini.obj \
+    $(_OBJ_DIR)\i386\saver.obj \
+    $(_OBJ_DIR)\i386\sswnd.obj \
+    $(_OBJ_DIR)\i386\statreg.obj \
+    $(_OBJ_DIR)\i386\strclass.obj \
+    $(_OBJ_DIR)\i386\toolbar.obj \
+    $(_OBJ_DIR)\i386\wnd.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\actsaver.h \
+    $(PASS0_UUIDDIR)\actsaver.c
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\actsaver.res \
+    $(_OBJ_DIR)\ia64\actsaver.obj \
+    $(_OBJ_DIR)\ia64\atlimpl.obj \
+    $(_OBJ_DIR)\ia64\bsc.obj \
+    $(_OBJ_DIR)\ia64\cfgdlg.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\dib.obj \
+    $(_OBJ_DIR)\ia64\pidllist.obj \
+    $(_OBJ_DIR)\ia64\preview.obj \
+    $(_OBJ_DIR)\ia64\regini.obj \
+    $(_OBJ_DIR)\ia64\saver.obj \
+    $(_OBJ_DIR)\ia64\sswnd.obj \
+    $(_OBJ_DIR)\ia64\statreg.obj \
+    $(_OBJ_DIR)\ia64\strclass.obj \
+    $(_OBJ_DIR)\ia64\toolbar.obj \
+    $(_OBJ_DIR)\ia64\wnd.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\actsaver.h \
+    $(PASS0_UUIDDIR)\actsaver.c
+

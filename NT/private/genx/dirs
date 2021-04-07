@@ -1,0 +1,9 @@
+ dirs= \
+    nls        \
+    windows    \
+    shell      \
+    security   \
+    types      \
+    ntos       \
+    eventlog   \
+    ie

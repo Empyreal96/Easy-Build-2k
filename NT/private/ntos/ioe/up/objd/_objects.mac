@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\ioeapi.obj \
+    $(_OBJ_DIR)\alpha\ioerr.obj \
+    $(_OBJ_DIR)\alpha\data.obj \
+    $(_OBJ_DIR)\alpha\trace.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\ioeapi.obj \
+    $(_OBJ_DIR)\alpha64\ioerr.obj \
+    $(_OBJ_DIR)\alpha64\data.obj \
+    $(_OBJ_DIR)\alpha64\trace.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\ioeapi.obj \
+    $(_OBJ_DIR)\i386\ioerr.obj \
+    $(_OBJ_DIR)\i386\data.obj \
+    $(_OBJ_DIR)\i386\trace.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\ioeapi.obj \
+    $(_OBJ_DIR)\ia64\ioerr.obj \
+    $(_OBJ_DIR)\ia64\data.obj \
+    $(_OBJ_DIR)\ia64\trace.obj
+
+PASS0_IA64_OBJECTS=
+

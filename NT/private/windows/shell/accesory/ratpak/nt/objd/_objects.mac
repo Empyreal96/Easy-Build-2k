@@ -1,0 +1,68 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\rat.obj \
+    $(_OBJ_DIR)\alpha\num.obj \
+    $(_OBJ_DIR)\alpha\conv.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\itrans.obj \
+    $(_OBJ_DIR)\alpha\trans.obj \
+    $(_OBJ_DIR)\alpha\transh.obj \
+    $(_OBJ_DIR)\alpha\itransh.obj \
+    $(_OBJ_DIR)\alpha\support.obj \
+    $(_OBJ_DIR)\alpha\logic.obj \
+    $(_OBJ_DIR)\alpha\fact.obj \
+    $(_OBJ_DIR)\alpha\basex.obj \
+    $(_OBJ_DIR)\alpha\exp.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\rat.obj \
+    $(_OBJ_DIR)\alpha64\num.obj \
+    $(_OBJ_DIR)\alpha64\conv.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\itrans.obj \
+    $(_OBJ_DIR)\alpha64\trans.obj \
+    $(_OBJ_DIR)\alpha64\transh.obj \
+    $(_OBJ_DIR)\alpha64\itransh.obj \
+    $(_OBJ_DIR)\alpha64\support.obj \
+    $(_OBJ_DIR)\alpha64\logic.obj \
+    $(_OBJ_DIR)\alpha64\fact.obj \
+    $(_OBJ_DIR)\alpha64\basex.obj \
+    $(_OBJ_DIR)\alpha64\exp.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\rat.obj \
+    $(_OBJ_DIR)\i386\num.obj \
+    $(_OBJ_DIR)\i386\conv.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\itrans.obj \
+    $(_OBJ_DIR)\i386\trans.obj \
+    $(_OBJ_DIR)\i386\transh.obj \
+    $(_OBJ_DIR)\i386\itransh.obj \
+    $(_OBJ_DIR)\i386\support.obj \
+    $(_OBJ_DIR)\i386\logic.obj \
+    $(_OBJ_DIR)\i386\fact.obj \
+    $(_OBJ_DIR)\i386\basex.obj \
+    $(_OBJ_DIR)\i386\exp.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\rat.obj \
+    $(_OBJ_DIR)\ia64\num.obj \
+    $(_OBJ_DIR)\ia64\conv.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\itrans.obj \
+    $(_OBJ_DIR)\ia64\trans.obj \
+    $(_OBJ_DIR)\ia64\transh.obj \
+    $(_OBJ_DIR)\ia64\itransh.obj \
+    $(_OBJ_DIR)\ia64\support.obj \
+    $(_OBJ_DIR)\ia64\logic.obj \
+    $(_OBJ_DIR)\ia64\fact.obj \
+    $(_OBJ_DIR)\ia64\basex.obj \
+    $(_OBJ_DIR)\ia64\exp.obj
+
+PASS0_IA64_OBJECTS=
+

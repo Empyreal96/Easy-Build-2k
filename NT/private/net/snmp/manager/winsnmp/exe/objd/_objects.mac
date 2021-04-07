@@ -1,0 +1,24 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\snmptrap.res \
+    $(_OBJ_DIR)\alpha\snmptrap.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\snmptrap.res \
+    $(_OBJ_DIR)\alpha64\snmptrap.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\snmptrap.res \
+    $(_OBJ_DIR)\i386\snmptrap.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\snmptrap.res \
+    $(_OBJ_DIR)\ia64\snmptrap.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,104 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\accwiz.res \
+    $(_OBJ_DIR)\alpha\accwiz.obj \
+    $(_OBJ_DIR)\alpha\curschme.obj \
+    $(_OBJ_DIR)\alpha\dlgfonts.obj \
+    $(_OBJ_DIR)\alpha\lookdlg.obj \
+    $(_OBJ_DIR)\alpha\lookprev.obj \
+    $(_OBJ_DIR)\alpha\precomp.obj \
+    $(_OBJ_DIR)\alpha\pgbase.obj \
+    $(_OBJ_DIR)\alpha\pgfinish.obj \
+    $(_OBJ_DIR)\alpha\pggenric.obj \
+    $(_OBJ_DIR)\alpha\pglokprv.obj \
+    $(_OBJ_DIR)\alpha\pgmsebut.obj \
+    $(_OBJ_DIR)\alpha\pgmsecur.obj \
+    $(_OBJ_DIR)\alpha\pgsvedef.obj \
+    $(_OBJ_DIR)\alpha\pgsvefil.obj \
+    $(_OBJ_DIR)\alpha\pgtmeout.obj \
+    $(_OBJ_DIR)\alpha\pgnwelcome.obj \
+    $(_OBJ_DIR)\alpha\pgwelco2.obj \
+    $(_OBJ_DIR)\alpha\pgwelcom.obj \
+    $(_OBJ_DIR)\alpha\pgwizopt.obj \
+    $(_OBJ_DIR)\alpha\schemes.obj \
+    $(_OBJ_DIR)\alpha\select.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\accwiz.res \
+    $(_OBJ_DIR)\alpha64\accwiz.obj \
+    $(_OBJ_DIR)\alpha64\curschme.obj \
+    $(_OBJ_DIR)\alpha64\dlgfonts.obj \
+    $(_OBJ_DIR)\alpha64\lookdlg.obj \
+    $(_OBJ_DIR)\alpha64\lookprev.obj \
+    $(_OBJ_DIR)\alpha64\precomp.obj \
+    $(_OBJ_DIR)\alpha64\pgbase.obj \
+    $(_OBJ_DIR)\alpha64\pgfinish.obj \
+    $(_OBJ_DIR)\alpha64\pggenric.obj \
+    $(_OBJ_DIR)\alpha64\pglokprv.obj \
+    $(_OBJ_DIR)\alpha64\pgmsebut.obj \
+    $(_OBJ_DIR)\alpha64\pgmsecur.obj \
+    $(_OBJ_DIR)\alpha64\pgsvedef.obj \
+    $(_OBJ_DIR)\alpha64\pgsvefil.obj \
+    $(_OBJ_DIR)\alpha64\pgtmeout.obj \
+    $(_OBJ_DIR)\alpha64\pgnwelcome.obj \
+    $(_OBJ_DIR)\alpha64\pgwelco2.obj \
+    $(_OBJ_DIR)\alpha64\pgwelcom.obj \
+    $(_OBJ_DIR)\alpha64\pgwizopt.obj \
+    $(_OBJ_DIR)\alpha64\schemes.obj \
+    $(_OBJ_DIR)\alpha64\select.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\accwiz.res \
+    $(_OBJ_DIR)\i386\accwiz.obj \
+    $(_OBJ_DIR)\i386\curschme.obj \
+    $(_OBJ_DIR)\i386\dlgfonts.obj \
+    $(_OBJ_DIR)\i386\lookdlg.obj \
+    $(_OBJ_DIR)\i386\lookprev.obj \
+    $(_OBJ_DIR)\i386\precomp.obj \
+    $(_OBJ_DIR)\i386\pgbase.obj \
+    $(_OBJ_DIR)\i386\pgfinish.obj \
+    $(_OBJ_DIR)\i386\pggenric.obj \
+    $(_OBJ_DIR)\i386\pglokprv.obj \
+    $(_OBJ_DIR)\i386\pgmsebut.obj \
+    $(_OBJ_DIR)\i386\pgmsecur.obj \
+    $(_OBJ_DIR)\i386\pgsvedef.obj \
+    $(_OBJ_DIR)\i386\pgsvefil.obj \
+    $(_OBJ_DIR)\i386\pgtmeout.obj \
+    $(_OBJ_DIR)\i386\pgnwelcome.obj \
+    $(_OBJ_DIR)\i386\pgwelco2.obj \
+    $(_OBJ_DIR)\i386\pgwelcom.obj \
+    $(_OBJ_DIR)\i386\pgwizopt.obj \
+    $(_OBJ_DIR)\i386\schemes.obj \
+    $(_OBJ_DIR)\i386\select.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\accwiz.res \
+    $(_OBJ_DIR)\ia64\accwiz.obj \
+    $(_OBJ_DIR)\ia64\curschme.obj \
+    $(_OBJ_DIR)\ia64\dlgfonts.obj \
+    $(_OBJ_DIR)\ia64\lookdlg.obj \
+    $(_OBJ_DIR)\ia64\lookprev.obj \
+    $(_OBJ_DIR)\ia64\precomp.obj \
+    $(_OBJ_DIR)\ia64\pgbase.obj \
+    $(_OBJ_DIR)\ia64\pgfinish.obj \
+    $(_OBJ_DIR)\ia64\pggenric.obj \
+    $(_OBJ_DIR)\ia64\pglokprv.obj \
+    $(_OBJ_DIR)\ia64\pgmsebut.obj \
+    $(_OBJ_DIR)\ia64\pgmsecur.obj \
+    $(_OBJ_DIR)\ia64\pgsvedef.obj \
+    $(_OBJ_DIR)\ia64\pgsvefil.obj \
+    $(_OBJ_DIR)\ia64\pgtmeout.obj \
+    $(_OBJ_DIR)\ia64\pgnwelcome.obj \
+    $(_OBJ_DIR)\ia64\pgwelco2.obj \
+    $(_OBJ_DIR)\ia64\pgwelcom.obj \
+    $(_OBJ_DIR)\ia64\pgwizopt.obj \
+    $(_OBJ_DIR)\ia64\schemes.obj \
+    $(_OBJ_DIR)\ia64\select.obj
+
+PASS0_IA64_OBJECTS=
+

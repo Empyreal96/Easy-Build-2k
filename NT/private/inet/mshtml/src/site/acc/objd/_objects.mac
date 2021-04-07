@@ -1,0 +1,92 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\accutil.obj \
+    $(_OBJ_DIR)\alpha\accbase.obj \
+    $(_OBJ_DIR)\alpha\accelem.obj \
+    $(_OBJ_DIR)\alpha\accwind.obj \
+    $(_OBJ_DIR)\alpha\accbody.obj \
+    $(_OBJ_DIR)\alpha\accanch.obj \
+    $(_OBJ_DIR)\alpha\accarea.obj \
+    $(_OBJ_DIR)\alpha\accbtn.obj \
+    $(_OBJ_DIR)\alpha\accimg.obj \
+    $(_OBJ_DIR)\alpha\acccheck.obj \
+    $(_OBJ_DIR)\alpha\accinimg.obj \
+    $(_OBJ_DIR)\alpha\accedit.obj \
+    $(_OBJ_DIR)\alpha\accradio.obj \
+    $(_OBJ_DIR)\alpha\accmarq.obj \
+    $(_OBJ_DIR)\alpha\accframe.obj \
+    $(_OBJ_DIR)\alpha\accobj.obj \
+    $(_OBJ_DIR)\alpha\acctable.obj \
+    $(_OBJ_DIR)\alpha\acctab.obj \
+    $(_OBJ_DIR)\alpha\accsel.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\accutil.obj \
+    $(_OBJ_DIR)\alpha64\accbase.obj \
+    $(_OBJ_DIR)\alpha64\accelem.obj \
+    $(_OBJ_DIR)\alpha64\accwind.obj \
+    $(_OBJ_DIR)\alpha64\accbody.obj \
+    $(_OBJ_DIR)\alpha64\accanch.obj \
+    $(_OBJ_DIR)\alpha64\accarea.obj \
+    $(_OBJ_DIR)\alpha64\accbtn.obj \
+    $(_OBJ_DIR)\alpha64\accimg.obj \
+    $(_OBJ_DIR)\alpha64\acccheck.obj \
+    $(_OBJ_DIR)\alpha64\accinimg.obj \
+    $(_OBJ_DIR)\alpha64\accedit.obj \
+    $(_OBJ_DIR)\alpha64\accradio.obj \
+    $(_OBJ_DIR)\alpha64\accmarq.obj \
+    $(_OBJ_DIR)\alpha64\accframe.obj \
+    $(_OBJ_DIR)\alpha64\accobj.obj \
+    $(_OBJ_DIR)\alpha64\acctable.obj \
+    $(_OBJ_DIR)\alpha64\acctab.obj \
+    $(_OBJ_DIR)\alpha64\accsel.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\accutil.obj \
+    $(_OBJ_DIR)\i386\accbase.obj \
+    $(_OBJ_DIR)\i386\accelem.obj \
+    $(_OBJ_DIR)\i386\accwind.obj \
+    $(_OBJ_DIR)\i386\accbody.obj \
+    $(_OBJ_DIR)\i386\accanch.obj \
+    $(_OBJ_DIR)\i386\accarea.obj \
+    $(_OBJ_DIR)\i386\accbtn.obj \
+    $(_OBJ_DIR)\i386\accimg.obj \
+    $(_OBJ_DIR)\i386\acccheck.obj \
+    $(_OBJ_DIR)\i386\accinimg.obj \
+    $(_OBJ_DIR)\i386\accedit.obj \
+    $(_OBJ_DIR)\i386\accradio.obj \
+    $(_OBJ_DIR)\i386\accmarq.obj \
+    $(_OBJ_DIR)\i386\accframe.obj \
+    $(_OBJ_DIR)\i386\accobj.obj \
+    $(_OBJ_DIR)\i386\acctable.obj \
+    $(_OBJ_DIR)\i386\acctab.obj \
+    $(_OBJ_DIR)\i386\accsel.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\accutil.obj \
+    $(_OBJ_DIR)\ia64\accbase.obj \
+    $(_OBJ_DIR)\ia64\accelem.obj \
+    $(_OBJ_DIR)\ia64\accwind.obj \
+    $(_OBJ_DIR)\ia64\accbody.obj \
+    $(_OBJ_DIR)\ia64\accanch.obj \
+    $(_OBJ_DIR)\ia64\accarea.obj \
+    $(_OBJ_DIR)\ia64\accbtn.obj \
+    $(_OBJ_DIR)\ia64\accimg.obj \
+    $(_OBJ_DIR)\ia64\acccheck.obj \
+    $(_OBJ_DIR)\ia64\accinimg.obj \
+    $(_OBJ_DIR)\ia64\accedit.obj \
+    $(_OBJ_DIR)\ia64\accradio.obj \
+    $(_OBJ_DIR)\ia64\accmarq.obj \
+    $(_OBJ_DIR)\ia64\accframe.obj \
+    $(_OBJ_DIR)\ia64\accobj.obj \
+    $(_OBJ_DIR)\ia64\acctable.obj \
+    $(_OBJ_DIR)\ia64\acctab.obj \
+    $(_OBJ_DIR)\ia64\accsel.obj
+
+PASS0_IA64_OBJECTS=
+

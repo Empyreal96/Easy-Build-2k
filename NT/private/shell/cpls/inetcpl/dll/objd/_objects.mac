@@ -1,0 +1,96 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\inetcpl.res \
+    $(_OBJ_DIR)\alpha\advanced.obj \
+    $(_OBJ_DIR)\alpha\cachecpl.obj \
+    $(_OBJ_DIR)\alpha\clsutil.obj \
+    $(_OBJ_DIR)\alpha\connectn.obj \
+    $(_OBJ_DIR)\alpha\content.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\dlylddll.obj \
+    $(_OBJ_DIR)\alpha\fonts.obj \
+    $(_OBJ_DIR)\alpha\general.obj \
+    $(_OBJ_DIR)\alpha\inethelp.obj \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\lang.obj \
+    $(_OBJ_DIR)\alpha\mainwnd.obj \
+    $(_OBJ_DIR)\alpha\process.obj \
+    $(_OBJ_DIR)\alpha\programs.obj \
+    $(_OBJ_DIR)\alpha\proxysup.obj \
+    $(_OBJ_DIR)\alpha\regutil.obj \
+    $(_OBJ_DIR)\alpha\security.obj \
+    $(_OBJ_DIR)\alpha\util.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\inetcpl.res \
+    $(_OBJ_DIR)\alpha64\advanced.obj \
+    $(_OBJ_DIR)\alpha64\cachecpl.obj \
+    $(_OBJ_DIR)\alpha64\clsutil.obj \
+    $(_OBJ_DIR)\alpha64\connectn.obj \
+    $(_OBJ_DIR)\alpha64\content.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\dlylddll.obj \
+    $(_OBJ_DIR)\alpha64\fonts.obj \
+    $(_OBJ_DIR)\alpha64\general.obj \
+    $(_OBJ_DIR)\alpha64\inethelp.obj \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\lang.obj \
+    $(_OBJ_DIR)\alpha64\mainwnd.obj \
+    $(_OBJ_DIR)\alpha64\process.obj \
+    $(_OBJ_DIR)\alpha64\programs.obj \
+    $(_OBJ_DIR)\alpha64\proxysup.obj \
+    $(_OBJ_DIR)\alpha64\regutil.obj \
+    $(_OBJ_DIR)\alpha64\security.obj \
+    $(_OBJ_DIR)\alpha64\util.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\inetcpl.res \
+    $(_OBJ_DIR)\i386\advanced.obj \
+    $(_OBJ_DIR)\i386\cachecpl.obj \
+    $(_OBJ_DIR)\i386\clsutil.obj \
+    $(_OBJ_DIR)\i386\connectn.obj \
+    $(_OBJ_DIR)\i386\content.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\dlylddll.obj \
+    $(_OBJ_DIR)\i386\fonts.obj \
+    $(_OBJ_DIR)\i386\general.obj \
+    $(_OBJ_DIR)\i386\inethelp.obj \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\lang.obj \
+    $(_OBJ_DIR)\i386\mainwnd.obj \
+    $(_OBJ_DIR)\i386\process.obj \
+    $(_OBJ_DIR)\i386\programs.obj \
+    $(_OBJ_DIR)\i386\proxysup.obj \
+    $(_OBJ_DIR)\i386\regutil.obj \
+    $(_OBJ_DIR)\i386\security.obj \
+    $(_OBJ_DIR)\i386\util.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\inetcpl.res \
+    $(_OBJ_DIR)\ia64\advanced.obj \
+    $(_OBJ_DIR)\ia64\cachecpl.obj \
+    $(_OBJ_DIR)\ia64\clsutil.obj \
+    $(_OBJ_DIR)\ia64\connectn.obj \
+    $(_OBJ_DIR)\ia64\content.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\dlylddll.obj \
+    $(_OBJ_DIR)\ia64\fonts.obj \
+    $(_OBJ_DIR)\ia64\general.obj \
+    $(_OBJ_DIR)\ia64\inethelp.obj \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\lang.obj \
+    $(_OBJ_DIR)\ia64\mainwnd.obj \
+    $(_OBJ_DIR)\ia64\process.obj \
+    $(_OBJ_DIR)\ia64\programs.obj \
+    $(_OBJ_DIR)\ia64\proxysup.obj \
+    $(_OBJ_DIR)\ia64\regutil.obj \
+    $(_OBJ_DIR)\ia64\security.obj \
+    $(_OBJ_DIR)\ia64\util.obj
+
+PASS0_IA64_OBJECTS=
+

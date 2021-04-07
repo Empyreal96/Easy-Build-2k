@@ -1,0 +1,24 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\apithk.obj \
+    $(_OBJ_DIR)\alpha\nt5.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\apithk.obj \
+    $(_OBJ_DIR)\alpha64\nt5.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\apithk.obj \
+    $(_OBJ_DIR)\i386\nt5.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\apithk.obj \
+    $(_OBJ_DIR)\ia64\nt5.obj
+
+PASS0_IA64_OBJECTS=
+

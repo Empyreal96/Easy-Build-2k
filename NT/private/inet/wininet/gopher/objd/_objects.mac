@@ -1,0 +1,56 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\buffer.obj \
+    $(_OBJ_DIR)\alpha\gfrapia.obj \
+    $(_OBJ_DIR)\alpha\gfrapir.obj \
+    $(_OBJ_DIR)\alpha\gfrapiu.obj \
+    $(_OBJ_DIR)\alpha\gfrapiw.obj \
+    $(_OBJ_DIR)\alpha\gfrinit.obj \
+    $(_OBJ_DIR)\alpha\parse.obj \
+    $(_OBJ_DIR)\alpha\session.obj \
+    $(_OBJ_DIR)\alpha\sockets.obj \
+    $(_OBJ_DIR)\alpha\view.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\buffer.obj \
+    $(_OBJ_DIR)\alpha64\gfrapia.obj \
+    $(_OBJ_DIR)\alpha64\gfrapir.obj \
+    $(_OBJ_DIR)\alpha64\gfrapiu.obj \
+    $(_OBJ_DIR)\alpha64\gfrapiw.obj \
+    $(_OBJ_DIR)\alpha64\gfrinit.obj \
+    $(_OBJ_DIR)\alpha64\parse.obj \
+    $(_OBJ_DIR)\alpha64\session.obj \
+    $(_OBJ_DIR)\alpha64\sockets.obj \
+    $(_OBJ_DIR)\alpha64\view.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\buffer.obj \
+    $(_OBJ_DIR)\i386\gfrapia.obj \
+    $(_OBJ_DIR)\i386\gfrapir.obj \
+    $(_OBJ_DIR)\i386\gfrapiu.obj \
+    $(_OBJ_DIR)\i386\gfrapiw.obj \
+    $(_OBJ_DIR)\i386\gfrinit.obj \
+    $(_OBJ_DIR)\i386\parse.obj \
+    $(_OBJ_DIR)\i386\session.obj \
+    $(_OBJ_DIR)\i386\sockets.obj \
+    $(_OBJ_DIR)\i386\view.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\buffer.obj \
+    $(_OBJ_DIR)\ia64\gfrapia.obj \
+    $(_OBJ_DIR)\ia64\gfrapir.obj \
+    $(_OBJ_DIR)\ia64\gfrapiu.obj \
+    $(_OBJ_DIR)\ia64\gfrapiw.obj \
+    $(_OBJ_DIR)\ia64\gfrinit.obj \
+    $(_OBJ_DIR)\ia64\parse.obj \
+    $(_OBJ_DIR)\ia64\session.obj \
+    $(_OBJ_DIR)\ia64\sockets.obj \
+    $(_OBJ_DIR)\ia64\view.obj
+
+PASS0_IA64_OBJECTS=
+

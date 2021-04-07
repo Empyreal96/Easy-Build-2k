@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\ltable.obj \
+    $(_OBJ_DIR)\alpha\ltablekb.obj \
+    $(_OBJ_DIR)\alpha\ltableom.obj \
+    $(_OBJ_DIR)\alpha\ltcalc.obj \
+    $(_OBJ_DIR)\alpha\ltdata.obj \
+    $(_OBJ_DIR)\alpha\ltdraw.obj \
+    $(_OBJ_DIR)\alpha\ltpos.obj \
+    $(_OBJ_DIR)\alpha\ltcell.obj \
+    $(_OBJ_DIR)\alpha\ltrowcol.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\ltable.obj \
+    $(_OBJ_DIR)\alpha64\ltablekb.obj \
+    $(_OBJ_DIR)\alpha64\ltableom.obj \
+    $(_OBJ_DIR)\alpha64\ltcalc.obj \
+    $(_OBJ_DIR)\alpha64\ltdata.obj \
+    $(_OBJ_DIR)\alpha64\ltdraw.obj \
+    $(_OBJ_DIR)\alpha64\ltpos.obj \
+    $(_OBJ_DIR)\alpha64\ltcell.obj \
+    $(_OBJ_DIR)\alpha64\ltrowcol.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\ltable.obj \
+    $(_OBJ_DIR)\i386\ltablekb.obj \
+    $(_OBJ_DIR)\i386\ltableom.obj \
+    $(_OBJ_DIR)\i386\ltcalc.obj \
+    $(_OBJ_DIR)\i386\ltdata.obj \
+    $(_OBJ_DIR)\i386\ltdraw.obj \
+    $(_OBJ_DIR)\i386\ltpos.obj \
+    $(_OBJ_DIR)\i386\ltcell.obj \
+    $(_OBJ_DIR)\i386\ltrowcol.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\ltable.obj \
+    $(_OBJ_DIR)\ia64\ltablekb.obj \
+    $(_OBJ_DIR)\ia64\ltableom.obj \
+    $(_OBJ_DIR)\ia64\ltcalc.obj \
+    $(_OBJ_DIR)\ia64\ltdata.obj \
+    $(_OBJ_DIR)\ia64\ltdraw.obj \
+    $(_OBJ_DIR)\ia64\ltpos.obj \
+    $(_OBJ_DIR)\ia64\ltcell.obj \
+    $(_OBJ_DIR)\ia64\ltrowcol.obj
+
+PASS0_IA64_OBJECTS=
+

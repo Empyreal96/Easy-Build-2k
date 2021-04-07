@@ -1,0 +1,104 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\extract.obj \
+    $(_OBJ_DIR)\alpha\fdidll.obj \
+    $(_OBJ_DIR)\alpha\jit.obj \
+    $(_OBJ_DIR)\alpha\jsetup.obj \
+    $(_OBJ_DIR)\alpha\duman.obj \
+    $(_OBJ_DIR)\alpha\cdlapi.obj \
+    $(_OBJ_DIR)\alpha\isctrl.obj \
+    $(_OBJ_DIR)\alpha\helpers.obj \
+    $(_OBJ_DIR)\alpha\cdl.obj \
+    $(_OBJ_DIR)\alpha\dl.obj \
+    $(_OBJ_DIR)\alpha\client.obj \
+    $(_OBJ_DIR)\alpha\clist.obj \
+    $(_OBJ_DIR)\alpha\packet.obj \
+    $(_OBJ_DIR)\alpha\csetup.obj \
+    $(_OBJ_DIR)\alpha\hooks.obj \
+    $(_OBJ_DIR)\alpha\wvt.obj \
+    $(_OBJ_DIR)\alpha\peldr.obj \
+    $(_OBJ_DIR)\alpha\langcode.obj \
+    $(_OBJ_DIR)\alpha\dbglog.obj \
+    $(_OBJ_DIR)\alpha\softdist.obj \
+    $(_OBJ_DIR)\alpha\logo3bsc.obj \
+    $(_OBJ_DIR)\alpha\getlpath.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\extract.obj \
+    $(_OBJ_DIR)\alpha64\fdidll.obj \
+    $(_OBJ_DIR)\alpha64\jit.obj \
+    $(_OBJ_DIR)\alpha64\jsetup.obj \
+    $(_OBJ_DIR)\alpha64\duman.obj \
+    $(_OBJ_DIR)\alpha64\cdlapi.obj \
+    $(_OBJ_DIR)\alpha64\isctrl.obj \
+    $(_OBJ_DIR)\alpha64\helpers.obj \
+    $(_OBJ_DIR)\alpha64\cdl.obj \
+    $(_OBJ_DIR)\alpha64\dl.obj \
+    $(_OBJ_DIR)\alpha64\client.obj \
+    $(_OBJ_DIR)\alpha64\clist.obj \
+    $(_OBJ_DIR)\alpha64\packet.obj \
+    $(_OBJ_DIR)\alpha64\csetup.obj \
+    $(_OBJ_DIR)\alpha64\hooks.obj \
+    $(_OBJ_DIR)\alpha64\wvt.obj \
+    $(_OBJ_DIR)\alpha64\peldr.obj \
+    $(_OBJ_DIR)\alpha64\langcode.obj \
+    $(_OBJ_DIR)\alpha64\dbglog.obj \
+    $(_OBJ_DIR)\alpha64\softdist.obj \
+    $(_OBJ_DIR)\alpha64\logo3bsc.obj \
+    $(_OBJ_DIR)\alpha64\getlpath.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\extract.obj \
+    $(_OBJ_DIR)\i386\fdidll.obj \
+    $(_OBJ_DIR)\i386\jit.obj \
+    $(_OBJ_DIR)\i386\jsetup.obj \
+    $(_OBJ_DIR)\i386\duman.obj \
+    $(_OBJ_DIR)\i386\cdlapi.obj \
+    $(_OBJ_DIR)\i386\isctrl.obj \
+    $(_OBJ_DIR)\i386\helpers.obj \
+    $(_OBJ_DIR)\i386\cdl.obj \
+    $(_OBJ_DIR)\i386\dl.obj \
+    $(_OBJ_DIR)\i386\client.obj \
+    $(_OBJ_DIR)\i386\clist.obj \
+    $(_OBJ_DIR)\i386\packet.obj \
+    $(_OBJ_DIR)\i386\csetup.obj \
+    $(_OBJ_DIR)\i386\hooks.obj \
+    $(_OBJ_DIR)\i386\wvt.obj \
+    $(_OBJ_DIR)\i386\peldr.obj \
+    $(_OBJ_DIR)\i386\langcode.obj \
+    $(_OBJ_DIR)\i386\dbglog.obj \
+    $(_OBJ_DIR)\i386\softdist.obj \
+    $(_OBJ_DIR)\i386\logo3bsc.obj \
+    $(_OBJ_DIR)\i386\getlpath.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\extract.obj \
+    $(_OBJ_DIR)\ia64\fdidll.obj \
+    $(_OBJ_DIR)\ia64\jit.obj \
+    $(_OBJ_DIR)\ia64\jsetup.obj \
+    $(_OBJ_DIR)\ia64\duman.obj \
+    $(_OBJ_DIR)\ia64\cdlapi.obj \
+    $(_OBJ_DIR)\ia64\isctrl.obj \
+    $(_OBJ_DIR)\ia64\helpers.obj \
+    $(_OBJ_DIR)\ia64\cdl.obj \
+    $(_OBJ_DIR)\ia64\dl.obj \
+    $(_OBJ_DIR)\ia64\client.obj \
+    $(_OBJ_DIR)\ia64\clist.obj \
+    $(_OBJ_DIR)\ia64\packet.obj \
+    $(_OBJ_DIR)\ia64\csetup.obj \
+    $(_OBJ_DIR)\ia64\hooks.obj \
+    $(_OBJ_DIR)\ia64\wvt.obj \
+    $(_OBJ_DIR)\ia64\peldr.obj \
+    $(_OBJ_DIR)\ia64\langcode.obj \
+    $(_OBJ_DIR)\ia64\dbglog.obj \
+    $(_OBJ_DIR)\ia64\softdist.obj \
+    $(_OBJ_DIR)\ia64\logo3bsc.obj \
+    $(_OBJ_DIR)\ia64\getlpath.obj
+
+PASS0_IA64_OBJECTS=
+

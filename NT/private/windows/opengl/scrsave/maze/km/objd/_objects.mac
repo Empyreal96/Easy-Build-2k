@@ -1,0 +1,40 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\maze.res \
+    $(_OBJ_DIR)\alpha\genmaze.obj \
+    $(_OBJ_DIR)\alpha\glmaze.obj \
+    $(_OBJ_DIR)\alpha\ssmaze.obj \
+    $(_OBJ_DIR)\alpha\slvmaze.obj \
+    $(_OBJ_DIR)\alpha\dialog.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\maze.res \
+    $(_OBJ_DIR)\alpha64\genmaze.obj \
+    $(_OBJ_DIR)\alpha64\glmaze.obj \
+    $(_OBJ_DIR)\alpha64\ssmaze.obj \
+    $(_OBJ_DIR)\alpha64\slvmaze.obj \
+    $(_OBJ_DIR)\alpha64\dialog.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\maze.res \
+    $(_OBJ_DIR)\i386\genmaze.obj \
+    $(_OBJ_DIR)\i386\glmaze.obj \
+    $(_OBJ_DIR)\i386\ssmaze.obj \
+    $(_OBJ_DIR)\i386\slvmaze.obj \
+    $(_OBJ_DIR)\i386\dialog.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\maze.res \
+    $(_OBJ_DIR)\ia64\genmaze.obj \
+    $(_OBJ_DIR)\ia64\glmaze.obj \
+    $(_OBJ_DIR)\ia64\ssmaze.obj \
+    $(_OBJ_DIR)\ia64\slvmaze.obj \
+    $(_OBJ_DIR)\ia64\dialog.obj
+
+PASS0_IA64_OBJECTS=
+

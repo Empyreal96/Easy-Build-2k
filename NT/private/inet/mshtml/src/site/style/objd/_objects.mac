@@ -1,0 +1,56 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\sheets.obj \
+    $(_OBJ_DIR)\alpha\sheetcol.obj \
+    $(_OBJ_DIR)\alpha\atblocks.obj \
+    $(_OBJ_DIR)\alpha\fontface.obj \
+    $(_OBJ_DIR)\alpha\t2emwrap.obj \
+    $(_OBJ_DIR)\alpha\sprop.obj \
+    $(_OBJ_DIR)\alpha\style.obj \
+    $(_OBJ_DIR)\alpha\rulescol.obj \
+    $(_OBJ_DIR)\alpha\rulestyl.obj \
+    $(_OBJ_DIR)\alpha\curstyle.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\sheets.obj \
+    $(_OBJ_DIR)\alpha64\sheetcol.obj \
+    $(_OBJ_DIR)\alpha64\atblocks.obj \
+    $(_OBJ_DIR)\alpha64\fontface.obj \
+    $(_OBJ_DIR)\alpha64\t2emwrap.obj \
+    $(_OBJ_DIR)\alpha64\sprop.obj \
+    $(_OBJ_DIR)\alpha64\style.obj \
+    $(_OBJ_DIR)\alpha64\rulescol.obj \
+    $(_OBJ_DIR)\alpha64\rulestyl.obj \
+    $(_OBJ_DIR)\alpha64\curstyle.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\sheets.obj \
+    $(_OBJ_DIR)\i386\sheetcol.obj \
+    $(_OBJ_DIR)\i386\atblocks.obj \
+    $(_OBJ_DIR)\i386\fontface.obj \
+    $(_OBJ_DIR)\i386\t2emwrap.obj \
+    $(_OBJ_DIR)\i386\sprop.obj \
+    $(_OBJ_DIR)\i386\style.obj \
+    $(_OBJ_DIR)\i386\rulescol.obj \
+    $(_OBJ_DIR)\i386\rulestyl.obj \
+    $(_OBJ_DIR)\i386\curstyle.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\sheets.obj \
+    $(_OBJ_DIR)\ia64\sheetcol.obj \
+    $(_OBJ_DIR)\ia64\atblocks.obj \
+    $(_OBJ_DIR)\ia64\fontface.obj \
+    $(_OBJ_DIR)\ia64\t2emwrap.obj \
+    $(_OBJ_DIR)\ia64\sprop.obj \
+    $(_OBJ_DIR)\ia64\style.obj \
+    $(_OBJ_DIR)\ia64\rulescol.obj \
+    $(_OBJ_DIR)\ia64\rulestyl.obj \
+    $(_OBJ_DIR)\ia64\curstyle.obj
+
+PASS0_IA64_OBJECTS=
+

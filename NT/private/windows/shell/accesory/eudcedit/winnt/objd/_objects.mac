@@ -1,0 +1,148 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\eudcedit.res \
+    $(_OBJ_DIR)\alpha\imeblink.obj \
+    $(_OBJ_DIR)\alpha\imelist.obj \
+    $(_OBJ_DIR)\alpha\assocdlg.obj \
+    $(_OBJ_DIR)\alpha\blinkdlg.obj \
+    $(_OBJ_DIR)\alpha\bmpope.obj \
+    $(_OBJ_DIR)\alpha\code.obj \
+    $(_OBJ_DIR)\alpha\create.obj \
+    $(_OBJ_DIR)\alpha\dataif.obj \
+    $(_OBJ_DIR)\alpha\editwnd.obj \
+    $(_OBJ_DIR)\alpha\eten.obj \
+    $(_OBJ_DIR)\alpha\eudcdlg.obj \
+    $(_OBJ_DIR)\alpha\eudcedit.obj \
+    $(_OBJ_DIR)\alpha\eudclist.obj \
+    $(_OBJ_DIR)\alpha\eudcrang.obj \
+    $(_OBJ_DIR)\alpha\fitconic.obj \
+    $(_OBJ_DIR)\alpha\gagedlg.obj \
+    $(_OBJ_DIR)\alpha\guidebar.obj \
+    $(_OBJ_DIR)\alpha\import.obj \
+    $(_OBJ_DIR)\alpha\imprtdlg.obj \
+    $(_OBJ_DIR)\alpha\mainfrm.obj \
+    $(_OBJ_DIR)\alpha\makepoly.obj \
+    $(_OBJ_DIR)\alpha\refrdlg.obj \
+    $(_OBJ_DIR)\alpha\refrlist.obj \
+    $(_OBJ_DIR)\alpha\refrwnd.obj \
+    $(_OBJ_DIR)\alpha\registry.obj \
+    $(_OBJ_DIR)\alpha\rotatdlg.obj \
+    $(_OBJ_DIR)\alpha\smooth.obj \
+    $(_OBJ_DIR)\alpha\ttffile.obj \
+    $(_OBJ_DIR)\alpha\util.obj \
+    $(_OBJ_DIR)\alpha\vdata.obj \
+    $(_OBJ_DIR)\alpha\w31jbmp.obj \
+    $(_OBJ_DIR)\alpha\w31jeudc.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\eudcedit.res \
+    $(_OBJ_DIR)\alpha64\imeblink.obj \
+    $(_OBJ_DIR)\alpha64\imelist.obj \
+    $(_OBJ_DIR)\alpha64\assocdlg.obj \
+    $(_OBJ_DIR)\alpha64\blinkdlg.obj \
+    $(_OBJ_DIR)\alpha64\bmpope.obj \
+    $(_OBJ_DIR)\alpha64\code.obj \
+    $(_OBJ_DIR)\alpha64\create.obj \
+    $(_OBJ_DIR)\alpha64\dataif.obj \
+    $(_OBJ_DIR)\alpha64\editwnd.obj \
+    $(_OBJ_DIR)\alpha64\eten.obj \
+    $(_OBJ_DIR)\alpha64\eudcdlg.obj \
+    $(_OBJ_DIR)\alpha64\eudcedit.obj \
+    $(_OBJ_DIR)\alpha64\eudclist.obj \
+    $(_OBJ_DIR)\alpha64\eudcrang.obj \
+    $(_OBJ_DIR)\alpha64\fitconic.obj \
+    $(_OBJ_DIR)\alpha64\gagedlg.obj \
+    $(_OBJ_DIR)\alpha64\guidebar.obj \
+    $(_OBJ_DIR)\alpha64\import.obj \
+    $(_OBJ_DIR)\alpha64\imprtdlg.obj \
+    $(_OBJ_DIR)\alpha64\mainfrm.obj \
+    $(_OBJ_DIR)\alpha64\makepoly.obj \
+    $(_OBJ_DIR)\alpha64\refrdlg.obj \
+    $(_OBJ_DIR)\alpha64\refrlist.obj \
+    $(_OBJ_DIR)\alpha64\refrwnd.obj \
+    $(_OBJ_DIR)\alpha64\registry.obj \
+    $(_OBJ_DIR)\alpha64\rotatdlg.obj \
+    $(_OBJ_DIR)\alpha64\smooth.obj \
+    $(_OBJ_DIR)\alpha64\ttffile.obj \
+    $(_OBJ_DIR)\alpha64\util.obj \
+    $(_OBJ_DIR)\alpha64\vdata.obj \
+    $(_OBJ_DIR)\alpha64\w31jbmp.obj \
+    $(_OBJ_DIR)\alpha64\w31jeudc.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\eudcedit.res \
+    $(_OBJ_DIR)\i386\imeblink.obj \
+    $(_OBJ_DIR)\i386\imelist.obj \
+    $(_OBJ_DIR)\i386\assocdlg.obj \
+    $(_OBJ_DIR)\i386\blinkdlg.obj \
+    $(_OBJ_DIR)\i386\bmpope.obj \
+    $(_OBJ_DIR)\i386\code.obj \
+    $(_OBJ_DIR)\i386\create.obj \
+    $(_OBJ_DIR)\i386\dataif.obj \
+    $(_OBJ_DIR)\i386\editwnd.obj \
+    $(_OBJ_DIR)\i386\eten.obj \
+    $(_OBJ_DIR)\i386\eudcdlg.obj \
+    $(_OBJ_DIR)\i386\eudcedit.obj \
+    $(_OBJ_DIR)\i386\eudclist.obj \
+    $(_OBJ_DIR)\i386\eudcrang.obj \
+    $(_OBJ_DIR)\i386\fitconic.obj \
+    $(_OBJ_DIR)\i386\gagedlg.obj \
+    $(_OBJ_DIR)\i386\guidebar.obj \
+    $(_OBJ_DIR)\i386\import.obj \
+    $(_OBJ_DIR)\i386\imprtdlg.obj \
+    $(_OBJ_DIR)\i386\mainfrm.obj \
+    $(_OBJ_DIR)\i386\makepoly.obj \
+    $(_OBJ_DIR)\i386\refrdlg.obj \
+    $(_OBJ_DIR)\i386\refrlist.obj \
+    $(_OBJ_DIR)\i386\refrwnd.obj \
+    $(_OBJ_DIR)\i386\registry.obj \
+    $(_OBJ_DIR)\i386\rotatdlg.obj \
+    $(_OBJ_DIR)\i386\smooth.obj \
+    $(_OBJ_DIR)\i386\ttffile.obj \
+    $(_OBJ_DIR)\i386\util.obj \
+    $(_OBJ_DIR)\i386\vdata.obj \
+    $(_OBJ_DIR)\i386\w31jbmp.obj \
+    $(_OBJ_DIR)\i386\w31jeudc.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\eudcedit.res \
+    $(_OBJ_DIR)\ia64\imeblink.obj \
+    $(_OBJ_DIR)\ia64\imelist.obj \
+    $(_OBJ_DIR)\ia64\assocdlg.obj \
+    $(_OBJ_DIR)\ia64\blinkdlg.obj \
+    $(_OBJ_DIR)\ia64\bmpope.obj \
+    $(_OBJ_DIR)\ia64\code.obj \
+    $(_OBJ_DIR)\ia64\create.obj \
+    $(_OBJ_DIR)\ia64\dataif.obj \
+    $(_OBJ_DIR)\ia64\editwnd.obj \
+    $(_OBJ_DIR)\ia64\eten.obj \
+    $(_OBJ_DIR)\ia64\eudcdlg.obj \
+    $(_OBJ_DIR)\ia64\eudcedit.obj \
+    $(_OBJ_DIR)\ia64\eudclist.obj \
+    $(_OBJ_DIR)\ia64\eudcrang.obj \
+    $(_OBJ_DIR)\ia64\fitconic.obj \
+    $(_OBJ_DIR)\ia64\gagedlg.obj \
+    $(_OBJ_DIR)\ia64\guidebar.obj \
+    $(_OBJ_DIR)\ia64\import.obj \
+    $(_OBJ_DIR)\ia64\imprtdlg.obj \
+    $(_OBJ_DIR)\ia64\mainfrm.obj \
+    $(_OBJ_DIR)\ia64\makepoly.obj \
+    $(_OBJ_DIR)\ia64\refrdlg.obj \
+    $(_OBJ_DIR)\ia64\refrlist.obj \
+    $(_OBJ_DIR)\ia64\refrwnd.obj \
+    $(_OBJ_DIR)\ia64\registry.obj \
+    $(_OBJ_DIR)\ia64\rotatdlg.obj \
+    $(_OBJ_DIR)\ia64\smooth.obj \
+    $(_OBJ_DIR)\ia64\ttffile.obj \
+    $(_OBJ_DIR)\ia64\util.obj \
+    $(_OBJ_DIR)\ia64\vdata.obj \
+    $(_OBJ_DIR)\ia64\w31jbmp.obj \
+    $(_OBJ_DIR)\ia64\w31jeudc.obj
+
+PASS0_IA64_OBJECTS=
+

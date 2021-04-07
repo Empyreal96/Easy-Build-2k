@@ -1,0 +1,213 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\base.res \
+    $(_OBJ_DIR)\alpha\context.obj \
+    $(_OBJ_DIR)\alpha\backup.obj \
+    $(_OBJ_DIR)\alpha\beep.obj \
+    $(_OBJ_DIR)\alpha\compname.obj \
+    $(_OBJ_DIR)\alpha\curdir.obj \
+    $(_OBJ_DIR)\alpha\datetime.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\dir.obj \
+    $(_OBJ_DIR)\alpha\dllatom.obj \
+    $(_OBJ_DIR)\alpha\dllini.obj \
+    $(_OBJ_DIR)\alpha\dosdev.obj \
+    $(_OBJ_DIR)\alpha\error.obj \
+    $(_OBJ_DIR)\alpha\filefind.obj \
+    $(_OBJ_DIR)\alpha\filehops.obj \
+    $(_OBJ_DIR)\alpha\filemap.obj \
+    $(_OBJ_DIR)\alpha\filemisc.obj \
+    $(_OBJ_DIR)\alpha\fileopcr.obj \
+    $(_OBJ_DIR)\alpha\gmem.obj \
+    $(_OBJ_DIR)\alpha\handle.obj \
+    $(_OBJ_DIR)\alpha\baseinit.obj \
+    $(_OBJ_DIR)\alpha\lcompat.obj \
+    $(_OBJ_DIR)\alpha\lmem.obj \
+    $(_OBJ_DIR)\alpha\mailslot.obj \
+    $(_OBJ_DIR)\alpha\message.obj \
+    $(_OBJ_DIR)\alpha\module.obj \
+    $(_OBJ_DIR)\alpha\namepipe.obj \
+    $(_OBJ_DIR)\alpha\pathmisc.obj \
+    $(_OBJ_DIR)\alpha\perfctr.obj \
+    $(_OBJ_DIR)\alpha\pipe.obj \
+    $(_OBJ_DIR)\alpha\power.obj \
+    $(_OBJ_DIR)\alpha\process.obj \
+    $(_OBJ_DIR)\alpha\sessdev.obj \
+    $(_OBJ_DIR)\alpha\support.obj \
+    $(_OBJ_DIR)\alpha\synch.obj \
+    $(_OBJ_DIR)\alpha\termutil.obj \
+    $(_OBJ_DIR)\alpha\thread.obj \
+    $(_OBJ_DIR)\alpha\toolhelp.obj \
+    $(_OBJ_DIR)\alpha\ustubs.obj \
+    $(_OBJ_DIR)\alpha\comm.obj \
+    $(_OBJ_DIR)\alpha\vdm.obj \
+    $(_OBJ_DIR)\alpha\volmount.obj \
+    $(_OBJ_DIR)\alpha\updres.obj \
+    $(_OBJ_DIR)\alpha\blddcb.obj \
+    $(_OBJ_DIR)\alpha\tapeapi.obj \
+    $(_OBJ_DIR)\alpha\job.obj \
+    $(_OBJ_DIR)\alpha\winlinks.obj \
+    $(_OBJ_DIR)\alpha\w98stubs.obj \
+    $(_OBJ_DIR)\alpha\critsect.obj \
+    $(_OBJ_DIR)\alpha\thunk.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\base.res \
+    $(_OBJ_DIR)\alpha64\backup.obj \
+    $(_OBJ_DIR)\alpha64\beep.obj \
+    $(_OBJ_DIR)\alpha64\compname.obj \
+    $(_OBJ_DIR)\alpha64\curdir.obj \
+    $(_OBJ_DIR)\alpha64\datetime.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\dir.obj \
+    $(_OBJ_DIR)\alpha64\dllatom.obj \
+    $(_OBJ_DIR)\alpha64\dllini.obj \
+    $(_OBJ_DIR)\alpha64\dosdev.obj \
+    $(_OBJ_DIR)\alpha64\error.obj \
+    $(_OBJ_DIR)\alpha64\filefind.obj \
+    $(_OBJ_DIR)\alpha64\filehops.obj \
+    $(_OBJ_DIR)\alpha64\filemap.obj \
+    $(_OBJ_DIR)\alpha64\filemisc.obj \
+    $(_OBJ_DIR)\alpha64\fileopcr.obj \
+    $(_OBJ_DIR)\alpha64\gmem.obj \
+    $(_OBJ_DIR)\alpha64\handle.obj \
+    $(_OBJ_DIR)\alpha64\baseinit.obj \
+    $(_OBJ_DIR)\alpha64\lcompat.obj \
+    $(_OBJ_DIR)\alpha64\lmem.obj \
+    $(_OBJ_DIR)\alpha64\mailslot.obj \
+    $(_OBJ_DIR)\alpha64\message.obj \
+    $(_OBJ_DIR)\alpha64\module.obj \
+    $(_OBJ_DIR)\alpha64\namepipe.obj \
+    $(_OBJ_DIR)\alpha64\pathmisc.obj \
+    $(_OBJ_DIR)\alpha64\perfctr.obj \
+    $(_OBJ_DIR)\alpha64\pipe.obj \
+    $(_OBJ_DIR)\alpha64\power.obj \
+    $(_OBJ_DIR)\alpha64\process.obj \
+    $(_OBJ_DIR)\alpha64\sessdev.obj \
+    $(_OBJ_DIR)\alpha64\support.obj \
+    $(_OBJ_DIR)\alpha64\synch.obj \
+    $(_OBJ_DIR)\alpha64\termutil.obj \
+    $(_OBJ_DIR)\alpha64\thread.obj \
+    $(_OBJ_DIR)\alpha64\toolhelp.obj \
+    $(_OBJ_DIR)\alpha64\ustubs.obj \
+    $(_OBJ_DIR)\alpha64\comm.obj \
+    $(_OBJ_DIR)\alpha64\vdm.obj \
+    $(_OBJ_DIR)\alpha64\volmount.obj \
+    $(_OBJ_DIR)\alpha64\updres.obj \
+    $(_OBJ_DIR)\alpha64\blddcb.obj \
+    $(_OBJ_DIR)\alpha64\tapeapi.obj \
+    $(_OBJ_DIR)\alpha64\job.obj \
+    $(_OBJ_DIR)\alpha64\winlinks.obj \
+    $(_OBJ_DIR)\alpha64\w98stubs.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\base.res \
+    $(_OBJ_DIR)\i386\critsect.obj \
+    $(_OBJ_DIR)\i386\thunk.obj \
+    $(_OBJ_DIR)\i386\context.obj \
+    $(_OBJ_DIR)\i386\backup.obj \
+    $(_OBJ_DIR)\i386\beep.obj \
+    $(_OBJ_DIR)\i386\compname.obj \
+    $(_OBJ_DIR)\i386\curdir.obj \
+    $(_OBJ_DIR)\i386\datetime.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\dir.obj \
+    $(_OBJ_DIR)\i386\dllatom.obj \
+    $(_OBJ_DIR)\i386\dllini.obj \
+    $(_OBJ_DIR)\i386\dosdev.obj \
+    $(_OBJ_DIR)\i386\error.obj \
+    $(_OBJ_DIR)\i386\filefind.obj \
+    $(_OBJ_DIR)\i386\filehops.obj \
+    $(_OBJ_DIR)\i386\filemap.obj \
+    $(_OBJ_DIR)\i386\filemisc.obj \
+    $(_OBJ_DIR)\i386\fileopcr.obj \
+    $(_OBJ_DIR)\i386\gmem.obj \
+    $(_OBJ_DIR)\i386\handle.obj \
+    $(_OBJ_DIR)\i386\baseinit.obj \
+    $(_OBJ_DIR)\i386\lcompat.obj \
+    $(_OBJ_DIR)\i386\lmem.obj \
+    $(_OBJ_DIR)\i386\mailslot.obj \
+    $(_OBJ_DIR)\i386\message.obj \
+    $(_OBJ_DIR)\i386\module.obj \
+    $(_OBJ_DIR)\i386\namepipe.obj \
+    $(_OBJ_DIR)\i386\pathmisc.obj \
+    $(_OBJ_DIR)\i386\perfctr.obj \
+    $(_OBJ_DIR)\i386\pipe.obj \
+    $(_OBJ_DIR)\i386\power.obj \
+    $(_OBJ_DIR)\i386\process.obj \
+    $(_OBJ_DIR)\i386\sessdev.obj \
+    $(_OBJ_DIR)\i386\support.obj \
+    $(_OBJ_DIR)\i386\synch.obj \
+    $(_OBJ_DIR)\i386\termutil.obj \
+    $(_OBJ_DIR)\i386\thread.obj \
+    $(_OBJ_DIR)\i386\toolhelp.obj \
+    $(_OBJ_DIR)\i386\ustubs.obj \
+    $(_OBJ_DIR)\i386\comm.obj \
+    $(_OBJ_DIR)\i386\vdm.obj \
+    $(_OBJ_DIR)\i386\volmount.obj \
+    $(_OBJ_DIR)\i386\updres.obj \
+    $(_OBJ_DIR)\i386\blddcb.obj \
+    $(_OBJ_DIR)\i386\tapeapi.obj \
+    $(_OBJ_DIR)\i386\job.obj \
+    $(_OBJ_DIR)\i386\winlinks.obj \
+    $(_OBJ_DIR)\i386\w98stubs.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\base.res \
+    $(_OBJ_DIR)\ia64\context.obj \
+    $(_OBJ_DIR)\ia64\backup.obj \
+    $(_OBJ_DIR)\ia64\beep.obj \
+    $(_OBJ_DIR)\ia64\compname.obj \
+    $(_OBJ_DIR)\ia64\curdir.obj \
+    $(_OBJ_DIR)\ia64\datetime.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\dir.obj \
+    $(_OBJ_DIR)\ia64\dllatom.obj \
+    $(_OBJ_DIR)\ia64\dllini.obj \
+    $(_OBJ_DIR)\ia64\dosdev.obj \
+    $(_OBJ_DIR)\ia64\error.obj \
+    $(_OBJ_DIR)\ia64\filefind.obj \
+    $(_OBJ_DIR)\ia64\filehops.obj \
+    $(_OBJ_DIR)\ia64\filemap.obj \
+    $(_OBJ_DIR)\ia64\filemisc.obj \
+    $(_OBJ_DIR)\ia64\fileopcr.obj \
+    $(_OBJ_DIR)\ia64\gmem.obj \
+    $(_OBJ_DIR)\ia64\handle.obj \
+    $(_OBJ_DIR)\ia64\baseinit.obj \
+    $(_OBJ_DIR)\ia64\lcompat.obj \
+    $(_OBJ_DIR)\ia64\lmem.obj \
+    $(_OBJ_DIR)\ia64\mailslot.obj \
+    $(_OBJ_DIR)\ia64\message.obj \
+    $(_OBJ_DIR)\ia64\module.obj \
+    $(_OBJ_DIR)\ia64\namepipe.obj \
+    $(_OBJ_DIR)\ia64\pathmisc.obj \
+    $(_OBJ_DIR)\ia64\perfctr.obj \
+    $(_OBJ_DIR)\ia64\pipe.obj \
+    $(_OBJ_DIR)\ia64\power.obj \
+    $(_OBJ_DIR)\ia64\process.obj \
+    $(_OBJ_DIR)\ia64\sessdev.obj \
+    $(_OBJ_DIR)\ia64\support.obj \
+    $(_OBJ_DIR)\ia64\synch.obj \
+    $(_OBJ_DIR)\ia64\termutil.obj \
+    $(_OBJ_DIR)\ia64\thread.obj \
+    $(_OBJ_DIR)\ia64\toolhelp.obj \
+    $(_OBJ_DIR)\ia64\ustubs.obj \
+    $(_OBJ_DIR)\ia64\comm.obj \
+    $(_OBJ_DIR)\ia64\vdm.obj \
+    $(_OBJ_DIR)\ia64\volmount.obj \
+    $(_OBJ_DIR)\ia64\updres.obj \
+    $(_OBJ_DIR)\ia64\blddcb.obj \
+    $(_OBJ_DIR)\ia64\tapeapi.obj \
+    $(_OBJ_DIR)\ia64\job.obj \
+    $(_OBJ_DIR)\ia64\winlinks.obj \
+    $(_OBJ_DIR)\ia64\w98stubs.obj \
+    $(_OBJ_DIR)\ia64\critsect.obj \
+    $(_OBJ_DIR)\ia64\thunk.obj
+
+PASS0_IA64_OBJECTS=
+

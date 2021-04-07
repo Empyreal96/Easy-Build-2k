@@ -1,0 +1,84 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\explorer.res \
+    $(_OBJ_DIR)\alpha\cfgstart.obj \
+    $(_OBJ_DIR)\alpha\deskconf.obj \
+    $(_OBJ_DIR)\alpha\muext.obj \
+    $(_OBJ_DIR)\alpha\multimon.obj \
+    $(_OBJ_DIR)\alpha\task.obj \
+    $(_OBJ_DIR)\alpha\tray.obj \
+    $(_OBJ_DIR)\alpha\trayclok.obj \
+    $(_OBJ_DIR)\alpha\traynot.obj \
+    $(_OBJ_DIR)\alpha\dllload.obj \
+    $(_OBJ_DIR)\alpha\bandsite.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\initcab.obj \
+    $(_OBJ_DIR)\alpha\libx.obj \
+    $(_OBJ_DIR)\alpha\startmnu.obj \
+    $(_OBJ_DIR)\alpha\taskband.obj \
+    $(_OBJ_DIR)\alpha\taskbar.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\explorer.res \
+    $(_OBJ_DIR)\alpha64\cfgstart.obj \
+    $(_OBJ_DIR)\alpha64\deskconf.obj \
+    $(_OBJ_DIR)\alpha64\muext.obj \
+    $(_OBJ_DIR)\alpha64\multimon.obj \
+    $(_OBJ_DIR)\alpha64\task.obj \
+    $(_OBJ_DIR)\alpha64\tray.obj \
+    $(_OBJ_DIR)\alpha64\trayclok.obj \
+    $(_OBJ_DIR)\alpha64\traynot.obj \
+    $(_OBJ_DIR)\alpha64\dllload.obj \
+    $(_OBJ_DIR)\alpha64\bandsite.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\initcab.obj \
+    $(_OBJ_DIR)\alpha64\libx.obj \
+    $(_OBJ_DIR)\alpha64\startmnu.obj \
+    $(_OBJ_DIR)\alpha64\taskband.obj \
+    $(_OBJ_DIR)\alpha64\taskbar.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\explorer.res \
+    $(_OBJ_DIR)\i386\cfgstart.obj \
+    $(_OBJ_DIR)\i386\deskconf.obj \
+    $(_OBJ_DIR)\i386\muext.obj \
+    $(_OBJ_DIR)\i386\multimon.obj \
+    $(_OBJ_DIR)\i386\task.obj \
+    $(_OBJ_DIR)\i386\tray.obj \
+    $(_OBJ_DIR)\i386\trayclok.obj \
+    $(_OBJ_DIR)\i386\traynot.obj \
+    $(_OBJ_DIR)\i386\dllload.obj \
+    $(_OBJ_DIR)\i386\bandsite.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\initcab.obj \
+    $(_OBJ_DIR)\i386\libx.obj \
+    $(_OBJ_DIR)\i386\startmnu.obj \
+    $(_OBJ_DIR)\i386\taskband.obj \
+    $(_OBJ_DIR)\i386\taskbar.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\explorer.res \
+    $(_OBJ_DIR)\ia64\cfgstart.obj \
+    $(_OBJ_DIR)\ia64\deskconf.obj \
+    $(_OBJ_DIR)\ia64\muext.obj \
+    $(_OBJ_DIR)\ia64\multimon.obj \
+    $(_OBJ_DIR)\ia64\task.obj \
+    $(_OBJ_DIR)\ia64\tray.obj \
+    $(_OBJ_DIR)\ia64\trayclok.obj \
+    $(_OBJ_DIR)\ia64\traynot.obj \
+    $(_OBJ_DIR)\ia64\dllload.obj \
+    $(_OBJ_DIR)\ia64\bandsite.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\initcab.obj \
+    $(_OBJ_DIR)\ia64\libx.obj \
+    $(_OBJ_DIR)\ia64\startmnu.obj \
+    $(_OBJ_DIR)\ia64\taskband.obj \
+    $(_OBJ_DIR)\ia64\taskbar.obj
+
+PASS0_IA64_OBJECTS=
+

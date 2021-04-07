@@ -1,0 +1,88 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\occache.res \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\folder.obj \
+    $(_OBJ_DIR)\alpha\view.obj \
+    $(_OBJ_DIR)\alpha\enum.obj \
+    $(_OBJ_DIR)\alpha\item.obj \
+    $(_OBJ_DIR)\alpha\general.obj \
+    $(_OBJ_DIR)\alpha\persist.obj \
+    $(_OBJ_DIR)\alpha\property.obj \
+    $(_OBJ_DIR)\alpha\menu.obj \
+    $(_OBJ_DIR)\alpha\parseinf.obj \
+    $(_OBJ_DIR)\alpha\cleanoc.obj \
+    $(_OBJ_DIR)\alpha\utils.obj \
+    $(_OBJ_DIR)\alpha\filenode.obj \
+    $(_OBJ_DIR)\alpha\cdlbsc.obj \
+    $(_OBJ_DIR)\alpha\dlg.obj \
+    $(_OBJ_DIR)\alpha\emptyvol.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\occache.res \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\folder.obj \
+    $(_OBJ_DIR)\alpha64\view.obj \
+    $(_OBJ_DIR)\alpha64\enum.obj \
+    $(_OBJ_DIR)\alpha64\item.obj \
+    $(_OBJ_DIR)\alpha64\general.obj \
+    $(_OBJ_DIR)\alpha64\persist.obj \
+    $(_OBJ_DIR)\alpha64\property.obj \
+    $(_OBJ_DIR)\alpha64\menu.obj \
+    $(_OBJ_DIR)\alpha64\parseinf.obj \
+    $(_OBJ_DIR)\alpha64\cleanoc.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj \
+    $(_OBJ_DIR)\alpha64\filenode.obj \
+    $(_OBJ_DIR)\alpha64\cdlbsc.obj \
+    $(_OBJ_DIR)\alpha64\dlg.obj \
+    $(_OBJ_DIR)\alpha64\emptyvol.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\occache.res \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\folder.obj \
+    $(_OBJ_DIR)\i386\view.obj \
+    $(_OBJ_DIR)\i386\enum.obj \
+    $(_OBJ_DIR)\i386\item.obj \
+    $(_OBJ_DIR)\i386\general.obj \
+    $(_OBJ_DIR)\i386\persist.obj \
+    $(_OBJ_DIR)\i386\property.obj \
+    $(_OBJ_DIR)\i386\menu.obj \
+    $(_OBJ_DIR)\i386\parseinf.obj \
+    $(_OBJ_DIR)\i386\cleanoc.obj \
+    $(_OBJ_DIR)\i386\utils.obj \
+    $(_OBJ_DIR)\i386\filenode.obj \
+    $(_OBJ_DIR)\i386\cdlbsc.obj \
+    $(_OBJ_DIR)\i386\dlg.obj \
+    $(_OBJ_DIR)\i386\emptyvol.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\occache.res \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\folder.obj \
+    $(_OBJ_DIR)\ia64\view.obj \
+    $(_OBJ_DIR)\ia64\enum.obj \
+    $(_OBJ_DIR)\ia64\item.obj \
+    $(_OBJ_DIR)\ia64\general.obj \
+    $(_OBJ_DIR)\ia64\persist.obj \
+    $(_OBJ_DIR)\ia64\property.obj \
+    $(_OBJ_DIR)\ia64\menu.obj \
+    $(_OBJ_DIR)\ia64\parseinf.obj \
+    $(_OBJ_DIR)\ia64\cleanoc.obj \
+    $(_OBJ_DIR)\ia64\utils.obj \
+    $(_OBJ_DIR)\ia64\filenode.obj \
+    $(_OBJ_DIR)\ia64\cdlbsc.obj \
+    $(_OBJ_DIR)\ia64\dlg.obj \
+    $(_OBJ_DIR)\ia64\emptyvol.obj
+
+PASS0_IA64_OBJECTS=
+

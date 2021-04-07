@@ -1,0 +1,44 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\hotplug.res \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\miscutil.obj \
+    $(_OBJ_DIR)\alpha\hotplug.obj \
+    $(_OBJ_DIR)\alpha\devtree.obj \
+    $(_OBJ_DIR)\alpha\rconfirm.obj \
+    $(_OBJ_DIR)\alpha\notify.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\hotplug.res \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\miscutil.obj \
+    $(_OBJ_DIR)\alpha64\hotplug.obj \
+    $(_OBJ_DIR)\alpha64\devtree.obj \
+    $(_OBJ_DIR)\alpha64\rconfirm.obj \
+    $(_OBJ_DIR)\alpha64\notify.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\hotplug.res \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\miscutil.obj \
+    $(_OBJ_DIR)\i386\hotplug.obj \
+    $(_OBJ_DIR)\i386\devtree.obj \
+    $(_OBJ_DIR)\i386\rconfirm.obj \
+    $(_OBJ_DIR)\i386\notify.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\hotplug.res \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\miscutil.obj \
+    $(_OBJ_DIR)\ia64\hotplug.obj \
+    $(_OBJ_DIR)\ia64\devtree.obj \
+    $(_OBJ_DIR)\ia64\rconfirm.obj \
+    $(_OBJ_DIR)\ia64\notify.obj
+
+PASS0_IA64_OBJECTS=
+

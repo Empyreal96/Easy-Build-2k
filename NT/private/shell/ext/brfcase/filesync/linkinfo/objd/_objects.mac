@@ -1,0 +1,84 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\linkinfo.res \
+    $(_OBJ_DIR)\alpha\canon.obj \
+    $(_OBJ_DIR)\alpha\cnrlink.obj \
+    $(_OBJ_DIR)\alpha\dllinit.obj \
+    $(_OBJ_DIR)\alpha\linkinfo.obj \
+    $(_OBJ_DIR)\alpha\server.obj \
+    $(_OBJ_DIR)\alpha\util.obj \
+    $(_OBJ_DIR)\alpha\volumeid.obj \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\serial.obj \
+    $(_OBJ_DIR)\alpha\memmgr.obj \
+    $(_OBJ_DIR)\alpha\valid.obj \
+    $(_OBJ_DIR)\alpha\comc.obj \
+    $(_OBJ_DIR)\alpha\inifile.obj \
+    $(_OBJ_DIR)\alpha\resstr.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\nothunk.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\linkinfo.res \
+    $(_OBJ_DIR)\alpha64\canon.obj \
+    $(_OBJ_DIR)\alpha64\cnrlink.obj \
+    $(_OBJ_DIR)\alpha64\dllinit.obj \
+    $(_OBJ_DIR)\alpha64\linkinfo.obj \
+    $(_OBJ_DIR)\alpha64\server.obj \
+    $(_OBJ_DIR)\alpha64\util.obj \
+    $(_OBJ_DIR)\alpha64\volumeid.obj \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\serial.obj \
+    $(_OBJ_DIR)\alpha64\memmgr.obj \
+    $(_OBJ_DIR)\alpha64\valid.obj \
+    $(_OBJ_DIR)\alpha64\comc.obj \
+    $(_OBJ_DIR)\alpha64\inifile.obj \
+    $(_OBJ_DIR)\alpha64\resstr.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\nothunk.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\linkinfo.res \
+    $(_OBJ_DIR)\i386\canon.obj \
+    $(_OBJ_DIR)\i386\cnrlink.obj \
+    $(_OBJ_DIR)\i386\dllinit.obj \
+    $(_OBJ_DIR)\i386\linkinfo.obj \
+    $(_OBJ_DIR)\i386\server.obj \
+    $(_OBJ_DIR)\i386\util.obj \
+    $(_OBJ_DIR)\i386\volumeid.obj \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\serial.obj \
+    $(_OBJ_DIR)\i386\memmgr.obj \
+    $(_OBJ_DIR)\i386\valid.obj \
+    $(_OBJ_DIR)\i386\comc.obj \
+    $(_OBJ_DIR)\i386\inifile.obj \
+    $(_OBJ_DIR)\i386\resstr.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\nothunk.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\linkinfo.res \
+    $(_OBJ_DIR)\ia64\canon.obj \
+    $(_OBJ_DIR)\ia64\cnrlink.obj \
+    $(_OBJ_DIR)\ia64\dllinit.obj \
+    $(_OBJ_DIR)\ia64\linkinfo.obj \
+    $(_OBJ_DIR)\ia64\server.obj \
+    $(_OBJ_DIR)\ia64\util.obj \
+    $(_OBJ_DIR)\ia64\volumeid.obj \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\serial.obj \
+    $(_OBJ_DIR)\ia64\memmgr.obj \
+    $(_OBJ_DIR)\ia64\valid.obj \
+    $(_OBJ_DIR)\ia64\comc.obj \
+    $(_OBJ_DIR)\ia64\inifile.obj \
+    $(_OBJ_DIR)\ia64\resstr.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\nothunk.obj
+
+PASS0_IA64_OBJECTS=
+

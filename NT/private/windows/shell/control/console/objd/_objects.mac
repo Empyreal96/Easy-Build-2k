@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\console.res \
+    $(_OBJ_DIR)\alpha\console.obj \
+    $(_OBJ_DIR)\alpha\fontdlg.obj \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\link.obj \
+    $(_OBJ_DIR)\alpha\misc.obj \
+    $(_OBJ_DIR)\alpha\preview.obj \
+    $(_OBJ_DIR)\alpha\registry.obj \
+    $(_OBJ_DIR)\alpha\dbcs.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\console.res \
+    $(_OBJ_DIR)\alpha64\console.obj \
+    $(_OBJ_DIR)\alpha64\fontdlg.obj \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\link.obj \
+    $(_OBJ_DIR)\alpha64\misc.obj \
+    $(_OBJ_DIR)\alpha64\preview.obj \
+    $(_OBJ_DIR)\alpha64\registry.obj \
+    $(_OBJ_DIR)\alpha64\dbcs.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\console.res \
+    $(_OBJ_DIR)\i386\console.obj \
+    $(_OBJ_DIR)\i386\fontdlg.obj \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\link.obj \
+    $(_OBJ_DIR)\i386\misc.obj \
+    $(_OBJ_DIR)\i386\preview.obj \
+    $(_OBJ_DIR)\i386\registry.obj \
+    $(_OBJ_DIR)\i386\dbcs.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\console.res \
+    $(_OBJ_DIR)\ia64\console.obj \
+    $(_OBJ_DIR)\ia64\fontdlg.obj \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\link.obj \
+    $(_OBJ_DIR)\ia64\misc.obj \
+    $(_OBJ_DIR)\ia64\preview.obj \
+    $(_OBJ_DIR)\ia64\registry.obj \
+    $(_OBJ_DIR)\ia64\dbcs.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\optex.obj \
+    $(_OBJ_DIR)\alpha\prfdata.obj \
+    $(_OBJ_DIR)\alpha\msxmlprfdatamap.obj \
+    $(_OBJ_DIR)\alpha\msxmlprfcounters.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\optex.obj \
+    $(_OBJ_DIR)\alpha64\prfdata.obj \
+    $(_OBJ_DIR)\alpha64\msxmlprfdatamap.obj \
+    $(_OBJ_DIR)\alpha64\msxmlprfcounters.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\optex.obj \
+    $(_OBJ_DIR)\i386\prfdata.obj \
+    $(_OBJ_DIR)\i386\msxmlprfdatamap.obj \
+    $(_OBJ_DIR)\i386\msxmlprfcounters.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\optex.obj \
+    $(_OBJ_DIR)\ia64\prfdata.obj \
+    $(_OBJ_DIR)\ia64\msxmlprfdatamap.obj \
+    $(_OBJ_DIR)\ia64\msxmlprfcounters.obj
+
+PASS0_IA64_OBJECTS=
+

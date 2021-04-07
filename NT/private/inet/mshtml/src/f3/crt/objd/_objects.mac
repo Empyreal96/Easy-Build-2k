@@ -1,0 +1,76 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\dllcrt0.obj \
+    $(_OBJ_DIR)\alpha\sbheap.obj \
+    $(_OBJ_DIR)\alpha\ti_utils.obj \
+    $(_OBJ_DIR)\alpha\atexit.obj \
+    $(_OBJ_DIR)\alpha\atox.obj \
+    $(_OBJ_DIR)\alpha\crt0dat.obj \
+    $(_OBJ_DIR)\alpha\dllmain1.obj \
+    $(_OBJ_DIR)\alpha\dllmain2.obj \
+    $(_OBJ_DIR)\alpha\dllmain3.obj \
+    $(_OBJ_DIR)\alpha\dllmain4.obj \
+    $(_OBJ_DIR)\alpha\strtol.obj \
+    $(_OBJ_DIR)\alpha\strutil.obj \
+    $(_OBJ_DIR)\alpha\wcstok.obj \
+    $(_OBJ_DIR)\alpha\wcstol.obj \
+    $(_OBJ_DIR)\alpha\dbgstk.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\dllcrt0.obj \
+    $(_OBJ_DIR)\alpha64\sbheap.obj \
+    $(_OBJ_DIR)\alpha64\ti_utils.obj \
+    $(_OBJ_DIR)\alpha64\atexit.obj \
+    $(_OBJ_DIR)\alpha64\atox.obj \
+    $(_OBJ_DIR)\alpha64\crt0dat.obj \
+    $(_OBJ_DIR)\alpha64\dllmain1.obj \
+    $(_OBJ_DIR)\alpha64\dllmain2.obj \
+    $(_OBJ_DIR)\alpha64\dllmain3.obj \
+    $(_OBJ_DIR)\alpha64\dllmain4.obj \
+    $(_OBJ_DIR)\alpha64\strtol.obj \
+    $(_OBJ_DIR)\alpha64\strutil.obj \
+    $(_OBJ_DIR)\alpha64\wcstok.obj \
+    $(_OBJ_DIR)\alpha64\wcstol.obj \
+    $(_OBJ_DIR)\alpha64\dbgstk.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\dllcrt0.obj \
+    $(_OBJ_DIR)\i386\sbheap.obj \
+    $(_OBJ_DIR)\i386\ti_utils.obj \
+    $(_OBJ_DIR)\i386\atexit.obj \
+    $(_OBJ_DIR)\i386\atox.obj \
+    $(_OBJ_DIR)\i386\crt0dat.obj \
+    $(_OBJ_DIR)\i386\dllmain1.obj \
+    $(_OBJ_DIR)\i386\dllmain2.obj \
+    $(_OBJ_DIR)\i386\dllmain3.obj \
+    $(_OBJ_DIR)\i386\dllmain4.obj \
+    $(_OBJ_DIR)\i386\strtol.obj \
+    $(_OBJ_DIR)\i386\strutil.obj \
+    $(_OBJ_DIR)\i386\wcstok.obj \
+    $(_OBJ_DIR)\i386\wcstol.obj \
+    $(_OBJ_DIR)\i386\dbgstk.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\dllcrt0.obj \
+    $(_OBJ_DIR)\ia64\sbheap.obj \
+    $(_OBJ_DIR)\ia64\ti_utils.obj \
+    $(_OBJ_DIR)\ia64\atexit.obj \
+    $(_OBJ_DIR)\ia64\atox.obj \
+    $(_OBJ_DIR)\ia64\crt0dat.obj \
+    $(_OBJ_DIR)\ia64\dllmain1.obj \
+    $(_OBJ_DIR)\ia64\dllmain2.obj \
+    $(_OBJ_DIR)\ia64\dllmain3.obj \
+    $(_OBJ_DIR)\ia64\dllmain4.obj \
+    $(_OBJ_DIR)\ia64\strtol.obj \
+    $(_OBJ_DIR)\ia64\strutil.obj \
+    $(_OBJ_DIR)\ia64\wcstok.obj \
+    $(_OBJ_DIR)\ia64\wcstol.obj \
+    $(_OBJ_DIR)\ia64\dbgstk.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,40 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\debugmem.obj \
+    $(_OBJ_DIR)\alpha\exceptn.obj \
+    $(_OBJ_DIR)\alpha\handle.obj \
+    $(_OBJ_DIR)\alpha\inetdbg.obj \
+    $(_OBJ_DIR)\alpha\perfdiag.obj \
+    $(_OBJ_DIR)\alpha\rprintf.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\debugmem.obj \
+    $(_OBJ_DIR)\alpha64\exceptn.obj \
+    $(_OBJ_DIR)\alpha64\handle.obj \
+    $(_OBJ_DIR)\alpha64\inetdbg.obj \
+    $(_OBJ_DIR)\alpha64\perfdiag.obj \
+    $(_OBJ_DIR)\alpha64\rprintf.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\debugmem.obj \
+    $(_OBJ_DIR)\i386\exceptn.obj \
+    $(_OBJ_DIR)\i386\handle.obj \
+    $(_OBJ_DIR)\i386\inetdbg.obj \
+    $(_OBJ_DIR)\i386\perfdiag.obj \
+    $(_OBJ_DIR)\i386\rprintf.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\debugmem.obj \
+    $(_OBJ_DIR)\ia64\exceptn.obj \
+    $(_OBJ_DIR)\ia64\handle.obj \
+    $(_OBJ_DIR)\ia64\inetdbg.obj \
+    $(_OBJ_DIR)\ia64\perfdiag.obj \
+    $(_OBJ_DIR)\ia64\rprintf.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,40 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\pathw.obj \
+    $(_OBJ_DIR)\alpha\nativew.obj \
+    $(_OBJ_DIR)\alpha\assocapi.obj \
+    $(_OBJ_DIR)\alpha\time.obj \
+    $(_OBJ_DIR)\alpha\unicwrap.obj \
+    $(_OBJ_DIR)\alpha\regw.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\pathw.obj \
+    $(_OBJ_DIR)\alpha64\nativew.obj \
+    $(_OBJ_DIR)\alpha64\assocapi.obj \
+    $(_OBJ_DIR)\alpha64\time.obj \
+    $(_OBJ_DIR)\alpha64\unicwrap.obj \
+    $(_OBJ_DIR)\alpha64\regw.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\pathw.obj \
+    $(_OBJ_DIR)\i386\nativew.obj \
+    $(_OBJ_DIR)\i386\assocapi.obj \
+    $(_OBJ_DIR)\i386\time.obj \
+    $(_OBJ_DIR)\i386\unicwrap.obj \
+    $(_OBJ_DIR)\i386\regw.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\pathw.obj \
+    $(_OBJ_DIR)\ia64\nativew.obj \
+    $(_OBJ_DIR)\ia64\assocapi.obj \
+    $(_OBJ_DIR)\ia64\time.obj \
+    $(_OBJ_DIR)\ia64\unicwrap.obj \
+    $(_OBJ_DIR)\ia64\regw.obj
+
+PASS0_IA64_OBJECTS=
+

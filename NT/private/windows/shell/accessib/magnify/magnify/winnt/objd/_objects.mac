@@ -1,0 +1,48 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\magnify.res \
+    $(_OBJ_DIR)\alpha\appbar.obj \
+    $(_OBJ_DIR)\alpha\fastdib.obj \
+    $(_OBJ_DIR)\alpha\magbar.obj \
+    $(_OBJ_DIR)\alpha\magdlg.obj \
+    $(_OBJ_DIR)\alpha\magnify.obj \
+    $(_OBJ_DIR)\alpha\numedit.obj \
+    $(_OBJ_DIR)\alpha\zoomrect.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\magnify.res \
+    $(_OBJ_DIR)\alpha64\appbar.obj \
+    $(_OBJ_DIR)\alpha64\fastdib.obj \
+    $(_OBJ_DIR)\alpha64\magbar.obj \
+    $(_OBJ_DIR)\alpha64\magdlg.obj \
+    $(_OBJ_DIR)\alpha64\magnify.obj \
+    $(_OBJ_DIR)\alpha64\numedit.obj \
+    $(_OBJ_DIR)\alpha64\zoomrect.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\magnify.res \
+    $(_OBJ_DIR)\i386\appbar.obj \
+    $(_OBJ_DIR)\i386\fastdib.obj \
+    $(_OBJ_DIR)\i386\magbar.obj \
+    $(_OBJ_DIR)\i386\magdlg.obj \
+    $(_OBJ_DIR)\i386\magnify.obj \
+    $(_OBJ_DIR)\i386\numedit.obj \
+    $(_OBJ_DIR)\i386\zoomrect.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\magnify.res \
+    $(_OBJ_DIR)\ia64\appbar.obj \
+    $(_OBJ_DIR)\ia64\fastdib.obj \
+    $(_OBJ_DIR)\ia64\magbar.obj \
+    $(_OBJ_DIR)\ia64\magdlg.obj \
+    $(_OBJ_DIR)\ia64\magnify.obj \
+    $(_OBJ_DIR)\ia64\numedit.obj \
+    $(_OBJ_DIR)\ia64\zoomrect.obj
+
+PASS0_IA64_OBJECTS=
+

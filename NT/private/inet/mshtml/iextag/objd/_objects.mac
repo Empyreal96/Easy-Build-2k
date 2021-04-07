@@ -1,0 +1,64 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\iextag.res \
+    $(_OBJ_DIR)\alpha\httpwf.obj \
+    $(_OBJ_DIR)\alpha\ancrclk.obj \
+    $(_OBJ_DIR)\alpha\utils.obj \
+    $(_OBJ_DIR)\alpha\cvariant.obj \
+    $(_OBJ_DIR)\alpha\iextag.obj \
+    $(_OBJ_DIR)\alpha\peerfact.obj \
+    $(_OBJ_DIR)\alpha\ccaps.obj \
+    $(_OBJ_DIR)\alpha\homepg.obj \
+    $(_OBJ_DIR)\alpha\persist.obj \
+    $(_OBJ_DIR)\alpha\userdata.obj \
+    $(_OBJ_DIR)\alpha\download.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\iextag.res \
+    $(_OBJ_DIR)\alpha64\httpwf.obj \
+    $(_OBJ_DIR)\alpha64\ancrclk.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj \
+    $(_OBJ_DIR)\alpha64\cvariant.obj \
+    $(_OBJ_DIR)\alpha64\iextag.obj \
+    $(_OBJ_DIR)\alpha64\peerfact.obj \
+    $(_OBJ_DIR)\alpha64\ccaps.obj \
+    $(_OBJ_DIR)\alpha64\homepg.obj \
+    $(_OBJ_DIR)\alpha64\persist.obj \
+    $(_OBJ_DIR)\alpha64\userdata.obj \
+    $(_OBJ_DIR)\alpha64\download.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\iextag.res \
+    $(_OBJ_DIR)\i386\httpwf.obj \
+    $(_OBJ_DIR)\i386\ancrclk.obj \
+    $(_OBJ_DIR)\i386\utils.obj \
+    $(_OBJ_DIR)\i386\cvariant.obj \
+    $(_OBJ_DIR)\i386\iextag.obj \
+    $(_OBJ_DIR)\i386\peerfact.obj \
+    $(_OBJ_DIR)\i386\ccaps.obj \
+    $(_OBJ_DIR)\i386\homepg.obj \
+    $(_OBJ_DIR)\i386\persist.obj \
+    $(_OBJ_DIR)\i386\userdata.obj \
+    $(_OBJ_DIR)\i386\download.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\iextag.res \
+    $(_OBJ_DIR)\ia64\httpwf.obj \
+    $(_OBJ_DIR)\ia64\ancrclk.obj \
+    $(_OBJ_DIR)\ia64\utils.obj \
+    $(_OBJ_DIR)\ia64\cvariant.obj \
+    $(_OBJ_DIR)\ia64\iextag.obj \
+    $(_OBJ_DIR)\ia64\peerfact.obj \
+    $(_OBJ_DIR)\ia64\ccaps.obj \
+    $(_OBJ_DIR)\ia64\homepg.obj \
+    $(_OBJ_DIR)\ia64\persist.obj \
+    $(_OBJ_DIR)\ia64\userdata.obj \
+    $(_OBJ_DIR)\ia64\download.obj
+
+PASS0_IA64_OBJECTS=
+

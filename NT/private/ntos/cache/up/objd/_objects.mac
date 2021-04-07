@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\cachedat.obj \
+    $(_OBJ_DIR)\alpha\cachesub.obj \
+    $(_OBJ_DIR)\alpha\copysup.obj \
+    $(_OBJ_DIR)\alpha\fssup.obj \
+    $(_OBJ_DIR)\alpha\lazyrite.obj \
+    $(_OBJ_DIR)\alpha\logsup.obj \
+    $(_OBJ_DIR)\alpha\mdlsup.obj \
+    $(_OBJ_DIR)\alpha\pinsup.obj \
+    $(_OBJ_DIR)\alpha\vacbsup.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\cachedat.obj \
+    $(_OBJ_DIR)\alpha64\cachesub.obj \
+    $(_OBJ_DIR)\alpha64\copysup.obj \
+    $(_OBJ_DIR)\alpha64\fssup.obj \
+    $(_OBJ_DIR)\alpha64\lazyrite.obj \
+    $(_OBJ_DIR)\alpha64\logsup.obj \
+    $(_OBJ_DIR)\alpha64\mdlsup.obj \
+    $(_OBJ_DIR)\alpha64\pinsup.obj \
+    $(_OBJ_DIR)\alpha64\vacbsup.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\cachedat.obj \
+    $(_OBJ_DIR)\i386\cachesub.obj \
+    $(_OBJ_DIR)\i386\copysup.obj \
+    $(_OBJ_DIR)\i386\fssup.obj \
+    $(_OBJ_DIR)\i386\lazyrite.obj \
+    $(_OBJ_DIR)\i386\logsup.obj \
+    $(_OBJ_DIR)\i386\mdlsup.obj \
+    $(_OBJ_DIR)\i386\pinsup.obj \
+    $(_OBJ_DIR)\i386\vacbsup.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\cachedat.obj \
+    $(_OBJ_DIR)\ia64\cachesub.obj \
+    $(_OBJ_DIR)\ia64\copysup.obj \
+    $(_OBJ_DIR)\ia64\fssup.obj \
+    $(_OBJ_DIR)\ia64\lazyrite.obj \
+    $(_OBJ_DIR)\ia64\logsup.obj \
+    $(_OBJ_DIR)\ia64\mdlsup.obj \
+    $(_OBJ_DIR)\ia64\pinsup.obj \
+    $(_OBJ_DIR)\ia64\vacbsup.obj
+
+PASS0_IA64_OBJECTS=
+

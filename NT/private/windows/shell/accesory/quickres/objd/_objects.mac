@@ -1,0 +1,28 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\quickres.res \
+    $(_OBJ_DIR)\alpha\registry.obj \
+    $(_OBJ_DIR)\alpha\quickres.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\quickres.res \
+    $(_OBJ_DIR)\alpha64\registry.obj \
+    $(_OBJ_DIR)\alpha64\quickres.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\quickres.res \
+    $(_OBJ_DIR)\i386\registry.obj \
+    $(_OBJ_DIR)\i386\quickres.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\quickres.res \
+    $(_OBJ_DIR)\ia64\registry.obj \
+    $(_OBJ_DIR)\ia64\quickres.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,92 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\securitymanager.obj \
+    $(_OBJ_DIR)\alpha\oawrap.obj \
+    $(_OBJ_DIR)\alpha\runtime.obj \
+    $(_OBJ_DIR)\alpha\xtlkeywords.obj \
+    $(_OBJ_DIR)\alpha\action.obj \
+    $(_OBJ_DIR)\alpha\copyaction.obj \
+    $(_OBJ_DIR)\alpha\evalaction.obj \
+    $(_OBJ_DIR)\alpha\getitemaction.obj \
+    $(_OBJ_DIR)\alpha\nodenameaction.obj \
+    $(_OBJ_DIR)\alpha\ifaction.obj \
+    $(_OBJ_DIR)\alpha\repeataction.obj \
+    $(_OBJ_DIR)\alpha\scriptaction.obj \
+    $(_OBJ_DIR)\alpha\templateaction.obj \
+    $(_OBJ_DIR)\alpha\usetemplatesaction.obj \
+    $(_OBJ_DIR)\alpha\actionframe.obj \
+    $(_OBJ_DIR)\alpha\templateframe.obj \
+    $(_OBJ_DIR)\alpha\processor.obj \
+    $(_OBJ_DIR)\alpha\scriptengine.obj \
+    $(_OBJ_DIR)\alpha\scriptsite.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\securitymanager.obj \
+    $(_OBJ_DIR)\alpha64\oawrap.obj \
+    $(_OBJ_DIR)\alpha64\runtime.obj \
+    $(_OBJ_DIR)\alpha64\xtlkeywords.obj \
+    $(_OBJ_DIR)\alpha64\action.obj \
+    $(_OBJ_DIR)\alpha64\copyaction.obj \
+    $(_OBJ_DIR)\alpha64\evalaction.obj \
+    $(_OBJ_DIR)\alpha64\getitemaction.obj \
+    $(_OBJ_DIR)\alpha64\nodenameaction.obj \
+    $(_OBJ_DIR)\alpha64\ifaction.obj \
+    $(_OBJ_DIR)\alpha64\repeataction.obj \
+    $(_OBJ_DIR)\alpha64\scriptaction.obj \
+    $(_OBJ_DIR)\alpha64\templateaction.obj \
+    $(_OBJ_DIR)\alpha64\usetemplatesaction.obj \
+    $(_OBJ_DIR)\alpha64\actionframe.obj \
+    $(_OBJ_DIR)\alpha64\templateframe.obj \
+    $(_OBJ_DIR)\alpha64\processor.obj \
+    $(_OBJ_DIR)\alpha64\scriptengine.obj \
+    $(_OBJ_DIR)\alpha64\scriptsite.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\securitymanager.obj \
+    $(_OBJ_DIR)\i386\oawrap.obj \
+    $(_OBJ_DIR)\i386\runtime.obj \
+    $(_OBJ_DIR)\i386\xtlkeywords.obj \
+    $(_OBJ_DIR)\i386\action.obj \
+    $(_OBJ_DIR)\i386\copyaction.obj \
+    $(_OBJ_DIR)\i386\evalaction.obj \
+    $(_OBJ_DIR)\i386\getitemaction.obj \
+    $(_OBJ_DIR)\i386\nodenameaction.obj \
+    $(_OBJ_DIR)\i386\ifaction.obj \
+    $(_OBJ_DIR)\i386\repeataction.obj \
+    $(_OBJ_DIR)\i386\scriptaction.obj \
+    $(_OBJ_DIR)\i386\templateaction.obj \
+    $(_OBJ_DIR)\i386\usetemplatesaction.obj \
+    $(_OBJ_DIR)\i386\actionframe.obj \
+    $(_OBJ_DIR)\i386\templateframe.obj \
+    $(_OBJ_DIR)\i386\processor.obj \
+    $(_OBJ_DIR)\i386\scriptengine.obj \
+    $(_OBJ_DIR)\i386\scriptsite.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\securitymanager.obj \
+    $(_OBJ_DIR)\ia64\oawrap.obj \
+    $(_OBJ_DIR)\ia64\runtime.obj \
+    $(_OBJ_DIR)\ia64\xtlkeywords.obj \
+    $(_OBJ_DIR)\ia64\action.obj \
+    $(_OBJ_DIR)\ia64\copyaction.obj \
+    $(_OBJ_DIR)\ia64\evalaction.obj \
+    $(_OBJ_DIR)\ia64\getitemaction.obj \
+    $(_OBJ_DIR)\ia64\nodenameaction.obj \
+    $(_OBJ_DIR)\ia64\ifaction.obj \
+    $(_OBJ_DIR)\ia64\repeataction.obj \
+    $(_OBJ_DIR)\ia64\scriptaction.obj \
+    $(_OBJ_DIR)\ia64\templateaction.obj \
+    $(_OBJ_DIR)\ia64\usetemplatesaction.obj \
+    $(_OBJ_DIR)\ia64\actionframe.obj \
+    $(_OBJ_DIR)\ia64\templateframe.obj \
+    $(_OBJ_DIR)\ia64\processor.obj \
+    $(_OBJ_DIR)\ia64\scriptengine.obj \
+    $(_OBJ_DIR)\ia64\scriptsite.obj
+
+PASS0_IA64_OBJECTS=
+

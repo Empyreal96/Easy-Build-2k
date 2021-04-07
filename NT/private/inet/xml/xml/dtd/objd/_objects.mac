@@ -1,0 +1,56 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\xmlnames.obj \
+    $(_OBJ_DIR)\alpha\entity.obj \
+    $(_OBJ_DIR)\alpha\attdef.obj \
+    $(_OBJ_DIR)\alpha\contentmodel.obj \
+    $(_OBJ_DIR)\alpha\dtd.obj \
+    $(_OBJ_DIR)\alpha\elementdecl.obj \
+    $(_OBJ_DIR)\alpha\notation.obj \
+    $(_OBJ_DIR)\alpha\dtdstate.obj \
+    $(_OBJ_DIR)\alpha\dtdnodefactory.obj \
+    $(_OBJ_DIR)\alpha\validationfactory.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\xmlnames.obj \
+    $(_OBJ_DIR)\alpha64\entity.obj \
+    $(_OBJ_DIR)\alpha64\attdef.obj \
+    $(_OBJ_DIR)\alpha64\contentmodel.obj \
+    $(_OBJ_DIR)\alpha64\dtd.obj \
+    $(_OBJ_DIR)\alpha64\elementdecl.obj \
+    $(_OBJ_DIR)\alpha64\notation.obj \
+    $(_OBJ_DIR)\alpha64\dtdstate.obj \
+    $(_OBJ_DIR)\alpha64\dtdnodefactory.obj \
+    $(_OBJ_DIR)\alpha64\validationfactory.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\xmlnames.obj \
+    $(_OBJ_DIR)\i386\entity.obj \
+    $(_OBJ_DIR)\i386\attdef.obj \
+    $(_OBJ_DIR)\i386\contentmodel.obj \
+    $(_OBJ_DIR)\i386\dtd.obj \
+    $(_OBJ_DIR)\i386\elementdecl.obj \
+    $(_OBJ_DIR)\i386\notation.obj \
+    $(_OBJ_DIR)\i386\dtdstate.obj \
+    $(_OBJ_DIR)\i386\dtdnodefactory.obj \
+    $(_OBJ_DIR)\i386\validationfactory.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\xmlnames.obj \
+    $(_OBJ_DIR)\ia64\entity.obj \
+    $(_OBJ_DIR)\ia64\attdef.obj \
+    $(_OBJ_DIR)\ia64\contentmodel.obj \
+    $(_OBJ_DIR)\ia64\dtd.obj \
+    $(_OBJ_DIR)\ia64\elementdecl.obj \
+    $(_OBJ_DIR)\ia64\notation.obj \
+    $(_OBJ_DIR)\ia64\dtdstate.obj \
+    $(_OBJ_DIR)\ia64\dtdnodefactory.obj \
+    $(_OBJ_DIR)\ia64\validationfactory.obj
+
+PASS0_IA64_OBJECTS=
+

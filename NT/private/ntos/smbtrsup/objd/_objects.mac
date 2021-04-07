@@ -1,0 +1,24 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\smbtrsup.res \
+    $(_OBJ_DIR)\alpha\smbtrsup.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\smbtrsup.res \
+    $(_OBJ_DIR)\alpha64\smbtrsup.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\smbtrsup.res \
+    $(_OBJ_DIR)\i386\smbtrsup.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\smbtrsup.res \
+    $(_OBJ_DIR)\ia64\smbtrsup.obj
+
+PASS0_IA64_OBJECTS=
+

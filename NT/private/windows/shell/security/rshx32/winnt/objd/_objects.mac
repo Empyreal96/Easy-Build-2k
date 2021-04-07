@@ -1,0 +1,44 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\rshx32.res \
+    $(_OBJ_DIR)\alpha\rshx32.obj \
+    $(_OBJ_DIR)\alpha\cstrings.obj \
+    $(_OBJ_DIR)\alpha\si.obj \
+    $(_OBJ_DIR)\alpha\ntfssi.obj \
+    $(_OBJ_DIR)\alpha\printsi.obj \
+    $(_OBJ_DIR)\alpha\util.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\rshx32.res \
+    $(_OBJ_DIR)\alpha64\rshx32.obj \
+    $(_OBJ_DIR)\alpha64\cstrings.obj \
+    $(_OBJ_DIR)\alpha64\si.obj \
+    $(_OBJ_DIR)\alpha64\ntfssi.obj \
+    $(_OBJ_DIR)\alpha64\printsi.obj \
+    $(_OBJ_DIR)\alpha64\util.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\rshx32.res \
+    $(_OBJ_DIR)\i386\rshx32.obj \
+    $(_OBJ_DIR)\i386\cstrings.obj \
+    $(_OBJ_DIR)\i386\si.obj \
+    $(_OBJ_DIR)\i386\ntfssi.obj \
+    $(_OBJ_DIR)\i386\printsi.obj \
+    $(_OBJ_DIR)\i386\util.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\rshx32.res \
+    $(_OBJ_DIR)\ia64\rshx32.obj \
+    $(_OBJ_DIR)\ia64\cstrings.obj \
+    $(_OBJ_DIR)\ia64\si.obj \
+    $(_OBJ_DIR)\ia64\ntfssi.obj \
+    $(_OBJ_DIR)\ia64\printsi.obj \
+    $(_OBJ_DIR)\ia64\util.obj
+
+PASS0_IA64_OBJECTS=
+

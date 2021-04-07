@@ -1,0 +1,132 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\devmgr.res \
+    $(_OBJ_DIR)\alpha\devmgr.obj \
+    $(_OBJ_DIR)\alpha\about.obj \
+    $(_OBJ_DIR)\alpha\tsmisc.obj \
+    $(_OBJ_DIR)\alpha\tswizard.obj \
+    $(_OBJ_DIR)\alpha\devpopg.obj \
+    $(_OBJ_DIR)\alpha\sysinfo.obj \
+    $(_OBJ_DIR)\alpha\prndlg.obj \
+    $(_OBJ_DIR)\alpha\printer.obj \
+    $(_OBJ_DIR)\alpha\compdata.obj \
+    $(_OBJ_DIR)\alpha\componet.obj \
+    $(_OBJ_DIR)\alpha\factory.obj \
+    $(_OBJ_DIR)\alpha\utils.obj \
+    $(_OBJ_DIR)\alpha\globals.obj \
+    $(_OBJ_DIR)\alpha\cfolder.obj \
+    $(_OBJ_DIR)\alpha\cnode.obj \
+    $(_OBJ_DIR)\alpha\machine.obj \
+    $(_OBJ_DIR)\alpha\dataobj.obj \
+    $(_OBJ_DIR)\alpha\events.obj \
+    $(_OBJ_DIR)\alpha\genpage.obj \
+    $(_OBJ_DIR)\alpha\clsgenpg.obj \
+    $(_OBJ_DIR)\alpha\devgenpg.obj \
+    $(_OBJ_DIR)\alpha\hwprof.obj \
+    $(_OBJ_DIR)\alpha\cdriver.obj \
+    $(_OBJ_DIR)\alpha\devdrvpg.obj \
+    $(_OBJ_DIR)\alpha\devrmdlg.obj \
+    $(_OBJ_DIR)\alpha\api.obj \
+    $(_OBJ_DIR)\alpha\proppage.obj \
+    $(_OBJ_DIR)\alpha\hwtab.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\devmgr.res \
+    $(_OBJ_DIR)\alpha64\devmgr.obj \
+    $(_OBJ_DIR)\alpha64\about.obj \
+    $(_OBJ_DIR)\alpha64\tsmisc.obj \
+    $(_OBJ_DIR)\alpha64\tswizard.obj \
+    $(_OBJ_DIR)\alpha64\devpopg.obj \
+    $(_OBJ_DIR)\alpha64\sysinfo.obj \
+    $(_OBJ_DIR)\alpha64\prndlg.obj \
+    $(_OBJ_DIR)\alpha64\printer.obj \
+    $(_OBJ_DIR)\alpha64\compdata.obj \
+    $(_OBJ_DIR)\alpha64\componet.obj \
+    $(_OBJ_DIR)\alpha64\factory.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj \
+    $(_OBJ_DIR)\alpha64\globals.obj \
+    $(_OBJ_DIR)\alpha64\cfolder.obj \
+    $(_OBJ_DIR)\alpha64\cnode.obj \
+    $(_OBJ_DIR)\alpha64\machine.obj \
+    $(_OBJ_DIR)\alpha64\dataobj.obj \
+    $(_OBJ_DIR)\alpha64\events.obj \
+    $(_OBJ_DIR)\alpha64\genpage.obj \
+    $(_OBJ_DIR)\alpha64\clsgenpg.obj \
+    $(_OBJ_DIR)\alpha64\devgenpg.obj \
+    $(_OBJ_DIR)\alpha64\hwprof.obj \
+    $(_OBJ_DIR)\alpha64\cdriver.obj \
+    $(_OBJ_DIR)\alpha64\devdrvpg.obj \
+    $(_OBJ_DIR)\alpha64\devrmdlg.obj \
+    $(_OBJ_DIR)\alpha64\api.obj \
+    $(_OBJ_DIR)\alpha64\proppage.obj \
+    $(_OBJ_DIR)\alpha64\hwtab.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\devmgr.res \
+    $(_OBJ_DIR)\i386\devmgr.obj \
+    $(_OBJ_DIR)\i386\about.obj \
+    $(_OBJ_DIR)\i386\tsmisc.obj \
+    $(_OBJ_DIR)\i386\tswizard.obj \
+    $(_OBJ_DIR)\i386\devpopg.obj \
+    $(_OBJ_DIR)\i386\sysinfo.obj \
+    $(_OBJ_DIR)\i386\prndlg.obj \
+    $(_OBJ_DIR)\i386\printer.obj \
+    $(_OBJ_DIR)\i386\compdata.obj \
+    $(_OBJ_DIR)\i386\componet.obj \
+    $(_OBJ_DIR)\i386\factory.obj \
+    $(_OBJ_DIR)\i386\utils.obj \
+    $(_OBJ_DIR)\i386\globals.obj \
+    $(_OBJ_DIR)\i386\cfolder.obj \
+    $(_OBJ_DIR)\i386\cnode.obj \
+    $(_OBJ_DIR)\i386\machine.obj \
+    $(_OBJ_DIR)\i386\dataobj.obj \
+    $(_OBJ_DIR)\i386\events.obj \
+    $(_OBJ_DIR)\i386\genpage.obj \
+    $(_OBJ_DIR)\i386\clsgenpg.obj \
+    $(_OBJ_DIR)\i386\devgenpg.obj \
+    $(_OBJ_DIR)\i386\hwprof.obj \
+    $(_OBJ_DIR)\i386\cdriver.obj \
+    $(_OBJ_DIR)\i386\devdrvpg.obj \
+    $(_OBJ_DIR)\i386\devrmdlg.obj \
+    $(_OBJ_DIR)\i386\api.obj \
+    $(_OBJ_DIR)\i386\proppage.obj \
+    $(_OBJ_DIR)\i386\hwtab.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\devmgr.res \
+    $(_OBJ_DIR)\ia64\devmgr.obj \
+    $(_OBJ_DIR)\ia64\about.obj \
+    $(_OBJ_DIR)\ia64\tsmisc.obj \
+    $(_OBJ_DIR)\ia64\tswizard.obj \
+    $(_OBJ_DIR)\ia64\devpopg.obj \
+    $(_OBJ_DIR)\ia64\sysinfo.obj \
+    $(_OBJ_DIR)\ia64\prndlg.obj \
+    $(_OBJ_DIR)\ia64\printer.obj \
+    $(_OBJ_DIR)\ia64\compdata.obj \
+    $(_OBJ_DIR)\ia64\componet.obj \
+    $(_OBJ_DIR)\ia64\factory.obj \
+    $(_OBJ_DIR)\ia64\utils.obj \
+    $(_OBJ_DIR)\ia64\globals.obj \
+    $(_OBJ_DIR)\ia64\cfolder.obj \
+    $(_OBJ_DIR)\ia64\cnode.obj \
+    $(_OBJ_DIR)\ia64\machine.obj \
+    $(_OBJ_DIR)\ia64\dataobj.obj \
+    $(_OBJ_DIR)\ia64\events.obj \
+    $(_OBJ_DIR)\ia64\genpage.obj \
+    $(_OBJ_DIR)\ia64\clsgenpg.obj \
+    $(_OBJ_DIR)\ia64\devgenpg.obj \
+    $(_OBJ_DIR)\ia64\hwprof.obj \
+    $(_OBJ_DIR)\ia64\cdriver.obj \
+    $(_OBJ_DIR)\ia64\devdrvpg.obj \
+    $(_OBJ_DIR)\ia64\devrmdlg.obj \
+    $(_OBJ_DIR)\ia64\api.obj \
+    $(_OBJ_DIR)\ia64\proppage.obj \
+    $(_OBJ_DIR)\ia64\hwtab.obj
+
+PASS0_IA64_OBJECTS=
+

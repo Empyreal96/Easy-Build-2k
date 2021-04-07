@@ -1,0 +1,56 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\mssip32.obj \
+    $(_OBJ_DIR)\alpha\sipobj.obj \
+    $(_OBJ_DIR)\alpha\sipobjpe.obj \
+    $(_OBJ_DIR)\alpha\sipobjcb.obj \
+    $(_OBJ_DIR)\alpha\sipobjfl.obj \
+    $(_OBJ_DIR)\alpha\sipobjct.obj \
+    $(_OBJ_DIR)\alpha\sipobjjv.obj \
+    $(_OBJ_DIR)\alpha\sipobjss.obj \
+    $(_OBJ_DIR)\alpha\jvimage.obj \
+    $(_OBJ_DIR)\alpha\peimage2.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\mssip32.obj \
+    $(_OBJ_DIR)\alpha64\sipobj.obj \
+    $(_OBJ_DIR)\alpha64\sipobjpe.obj \
+    $(_OBJ_DIR)\alpha64\sipobjcb.obj \
+    $(_OBJ_DIR)\alpha64\sipobjfl.obj \
+    $(_OBJ_DIR)\alpha64\sipobjct.obj \
+    $(_OBJ_DIR)\alpha64\sipobjjv.obj \
+    $(_OBJ_DIR)\alpha64\sipobjss.obj \
+    $(_OBJ_DIR)\alpha64\jvimage.obj \
+    $(_OBJ_DIR)\alpha64\peimage2.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\mssip32.obj \
+    $(_OBJ_DIR)\i386\sipobj.obj \
+    $(_OBJ_DIR)\i386\sipobjpe.obj \
+    $(_OBJ_DIR)\i386\sipobjcb.obj \
+    $(_OBJ_DIR)\i386\sipobjfl.obj \
+    $(_OBJ_DIR)\i386\sipobjct.obj \
+    $(_OBJ_DIR)\i386\sipobjjv.obj \
+    $(_OBJ_DIR)\i386\sipobjss.obj \
+    $(_OBJ_DIR)\i386\jvimage.obj \
+    $(_OBJ_DIR)\i386\peimage2.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\mssip32.obj \
+    $(_OBJ_DIR)\ia64\sipobj.obj \
+    $(_OBJ_DIR)\ia64\sipobjpe.obj \
+    $(_OBJ_DIR)\ia64\sipobjcb.obj \
+    $(_OBJ_DIR)\ia64\sipobjfl.obj \
+    $(_OBJ_DIR)\ia64\sipobjct.obj \
+    $(_OBJ_DIR)\ia64\sipobjjv.obj \
+    $(_OBJ_DIR)\ia64\sipobjss.obj \
+    $(_OBJ_DIR)\ia64\jvimage.obj \
+    $(_OBJ_DIR)\ia64\peimage2.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,28 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\ehr.obj \
+    $(_OBJ_DIR)\alpha\frameset.obj \
+    $(_OBJ_DIR)\alpha\e1d.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\ehr.obj \
+    $(_OBJ_DIR)\alpha64\frameset.obj \
+    $(_OBJ_DIR)\alpha64\e1d.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\ehr.obj \
+    $(_OBJ_DIR)\i386\frameset.obj \
+    $(_OBJ_DIR)\i386\e1d.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\ehr.obj \
+    $(_OBJ_DIR)\ia64\frameset.obj \
+    $(_OBJ_DIR)\ia64\e1d.obj
+
+PASS0_IA64_OBJECTS=
+

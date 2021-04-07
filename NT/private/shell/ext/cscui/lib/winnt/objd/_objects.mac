@@ -1,0 +1,24 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\cscui.res \
+    $(_OBJ_DIR)\alpha\uuid.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\cscui.res \
+    $(_OBJ_DIR)\alpha64\uuid.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\cscui.res \
+    $(_OBJ_DIR)\i386\uuid.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\cscui.res \
+    $(_OBJ_DIR)\ia64\uuid.obj
+
+PASS0_IA64_OBJECTS=
+

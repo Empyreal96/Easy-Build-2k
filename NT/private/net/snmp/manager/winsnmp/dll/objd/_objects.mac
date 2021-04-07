@@ -1,0 +1,60 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\wsnmp32.res \
+    $(_OBJ_DIR)\alpha\wsnmp_bn.obj \
+    $(_OBJ_DIR)\alpha\wsnmp_cf.obj \
+    $(_OBJ_DIR)\alpha\wsnmp_db.obj \
+    $(_OBJ_DIR)\alpha\wsnmp_ec.obj \
+    $(_OBJ_DIR)\alpha\wsnmp_ma.obj \
+    $(_OBJ_DIR)\alpha\wsnmp_no.obj \
+    $(_OBJ_DIR)\alpha\wsnmp_pd.obj \
+    $(_OBJ_DIR)\alpha\wsnmp_ut.obj \
+    $(_OBJ_DIR)\alpha\wsnmp_vb.obj \
+    $(_OBJ_DIR)\alpha\wsnmp_sp.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\wsnmp32.res \
+    $(_OBJ_DIR)\alpha64\wsnmp_bn.obj \
+    $(_OBJ_DIR)\alpha64\wsnmp_cf.obj \
+    $(_OBJ_DIR)\alpha64\wsnmp_db.obj \
+    $(_OBJ_DIR)\alpha64\wsnmp_ec.obj \
+    $(_OBJ_DIR)\alpha64\wsnmp_ma.obj \
+    $(_OBJ_DIR)\alpha64\wsnmp_no.obj \
+    $(_OBJ_DIR)\alpha64\wsnmp_pd.obj \
+    $(_OBJ_DIR)\alpha64\wsnmp_ut.obj \
+    $(_OBJ_DIR)\alpha64\wsnmp_vb.obj \
+    $(_OBJ_DIR)\alpha64\wsnmp_sp.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\wsnmp32.res \
+    $(_OBJ_DIR)\i386\wsnmp_bn.obj \
+    $(_OBJ_DIR)\i386\wsnmp_cf.obj \
+    $(_OBJ_DIR)\i386\wsnmp_db.obj \
+    $(_OBJ_DIR)\i386\wsnmp_ec.obj \
+    $(_OBJ_DIR)\i386\wsnmp_ma.obj \
+    $(_OBJ_DIR)\i386\wsnmp_no.obj \
+    $(_OBJ_DIR)\i386\wsnmp_pd.obj \
+    $(_OBJ_DIR)\i386\wsnmp_ut.obj \
+    $(_OBJ_DIR)\i386\wsnmp_vb.obj \
+    $(_OBJ_DIR)\i386\wsnmp_sp.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\wsnmp32.res \
+    $(_OBJ_DIR)\ia64\wsnmp_bn.obj \
+    $(_OBJ_DIR)\ia64\wsnmp_cf.obj \
+    $(_OBJ_DIR)\ia64\wsnmp_db.obj \
+    $(_OBJ_DIR)\ia64\wsnmp_ec.obj \
+    $(_OBJ_DIR)\ia64\wsnmp_ma.obj \
+    $(_OBJ_DIR)\ia64\wsnmp_no.obj \
+    $(_OBJ_DIR)\ia64\wsnmp_pd.obj \
+    $(_OBJ_DIR)\ia64\wsnmp_ut.obj \
+    $(_OBJ_DIR)\ia64\wsnmp_vb.obj \
+    $(_OBJ_DIR)\ia64\wsnmp_sp.obj
+
+PASS0_IA64_OBJECTS=
+

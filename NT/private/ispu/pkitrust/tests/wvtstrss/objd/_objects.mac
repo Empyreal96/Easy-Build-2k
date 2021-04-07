@@ -1,0 +1,24 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\wvtstrss.res \
+    $(_OBJ_DIR)\alpha\wvtstrss.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\wvtstrss.res \
+    $(_OBJ_DIR)\alpha64\wvtstrss.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\wvtstrss.res \
+    $(_OBJ_DIR)\i386\wvtstrss.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\wvtstrss.res \
+    $(_OBJ_DIR)\ia64\wvtstrss.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,36 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\sendmail.res \
+    $(_OBJ_DIR)\alpha\sendmail.obj \
+    $(_OBJ_DIR)\alpha\comdll.obj \
+    $(_OBJ_DIR)\alpha\desklink.obj \
+    $(_OBJ_DIR)\alpha\debug.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\sendmail.res \
+    $(_OBJ_DIR)\alpha64\sendmail.obj \
+    $(_OBJ_DIR)\alpha64\comdll.obj \
+    $(_OBJ_DIR)\alpha64\desklink.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\sendmail.res \
+    $(_OBJ_DIR)\i386\sendmail.obj \
+    $(_OBJ_DIR)\i386\comdll.obj \
+    $(_OBJ_DIR)\i386\desklink.obj \
+    $(_OBJ_DIR)\i386\debug.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\sendmail.res \
+    $(_OBJ_DIR)\ia64\sendmail.obj \
+    $(_OBJ_DIR)\ia64\comdll.obj \
+    $(_OBJ_DIR)\ia64\desklink.obj \
+    $(_OBJ_DIR)\ia64\debug.obj
+
+PASS0_IA64_OBJECTS=
+

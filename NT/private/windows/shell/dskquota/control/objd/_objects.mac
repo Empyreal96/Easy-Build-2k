@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\dskquota.res \
+    $(_OBJ_DIR)\alpha\connect.obj \
+    $(_OBJ_DIR)\alpha\control.obj \
+    $(_OBJ_DIR)\alpha\dskquota.obj \
+    $(_OBJ_DIR)\alpha\factory.obj \
+    $(_OBJ_DIR)\alpha\fsobject.obj \
+    $(_OBJ_DIR)\alpha\oadisp.obj \
+    $(_OBJ_DIR)\alpha\sidcache.obj \
+    $(_OBJ_DIR)\alpha\sidname.obj \
+    $(_OBJ_DIR)\alpha\user.obj \
+    $(_OBJ_DIR)\alpha\userenum.obj \
+    $(_OBJ_DIR)\alpha\userbat.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\dispatch.h \
+    $(PASS0_UUIDDIR)\dispatch.c
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\dskquota.res \
+    $(_OBJ_DIR)\alpha64\connect.obj \
+    $(_OBJ_DIR)\alpha64\control.obj \
+    $(_OBJ_DIR)\alpha64\dskquota.obj \
+    $(_OBJ_DIR)\alpha64\factory.obj \
+    $(_OBJ_DIR)\alpha64\fsobject.obj \
+    $(_OBJ_DIR)\alpha64\oadisp.obj \
+    $(_OBJ_DIR)\alpha64\sidcache.obj \
+    $(_OBJ_DIR)\alpha64\sidname.obj \
+    $(_OBJ_DIR)\alpha64\user.obj \
+    $(_OBJ_DIR)\alpha64\userenum.obj \
+    $(_OBJ_DIR)\alpha64\userbat.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\dispatch.h \
+    $(PASS0_UUIDDIR)\dispatch.c
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\dskquota.res \
+    $(_OBJ_DIR)\i386\connect.obj \
+    $(_OBJ_DIR)\i386\control.obj \
+    $(_OBJ_DIR)\i386\dskquota.obj \
+    $(_OBJ_DIR)\i386\factory.obj \
+    $(_OBJ_DIR)\i386\fsobject.obj \
+    $(_OBJ_DIR)\i386\oadisp.obj \
+    $(_OBJ_DIR)\i386\sidcache.obj \
+    $(_OBJ_DIR)\i386\sidname.obj \
+    $(_OBJ_DIR)\i386\user.obj \
+    $(_OBJ_DIR)\i386\userenum.obj \
+    $(_OBJ_DIR)\i386\userbat.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\dispatch.h \
+    $(PASS0_UUIDDIR)\dispatch.c
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\dskquota.res \
+    $(_OBJ_DIR)\ia64\connect.obj \
+    $(_OBJ_DIR)\ia64\control.obj \
+    $(_OBJ_DIR)\ia64\dskquota.obj \
+    $(_OBJ_DIR)\ia64\factory.obj \
+    $(_OBJ_DIR)\ia64\fsobject.obj \
+    $(_OBJ_DIR)\ia64\oadisp.obj \
+    $(_OBJ_DIR)\ia64\sidcache.obj \
+    $(_OBJ_DIR)\ia64\sidname.obj \
+    $(_OBJ_DIR)\ia64\user.obj \
+    $(_OBJ_DIR)\ia64\userenum.obj \
+    $(_OBJ_DIR)\ia64\userbat.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\dispatch.h \
+    $(PASS0_UUIDDIR)\dispatch.c
+

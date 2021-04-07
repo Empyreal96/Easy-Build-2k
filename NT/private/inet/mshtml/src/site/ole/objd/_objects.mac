@@ -1,0 +1,84 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\olebindh.obj \
+    $(_OBJ_DIR)\alpha\clstab.obj \
+    $(_OBJ_DIR)\alpha\codeload.obj \
+    $(_OBJ_DIR)\alpha\eobject.obj \
+    $(_OBJ_DIR)\alpha\frame.obj \
+    $(_OBJ_DIR)\alpha\frmsite.obj \
+    $(_OBJ_DIR)\alpha\iframe.obj \
+    $(_OBJ_DIR)\alpha\oleclnt.obj \
+    $(_OBJ_DIR)\alpha\olecpc.obj \
+    $(_OBJ_DIR)\alpha\olesite.obj \
+    $(_OBJ_DIR)\alpha\olesitdb.obj \
+    $(_OBJ_DIR)\alpha\olexobj.obj \
+    $(_OBJ_DIR)\alpha\pluginst.obj \
+    $(_OBJ_DIR)\alpha\safety.obj \
+    $(_OBJ_DIR)\alpha\scrptlet.obj \
+    $(_OBJ_DIR)\alpha\scrpctrl.obj \
+    $(_OBJ_DIR)\alpha\scrsbobj.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\olebindh.obj \
+    $(_OBJ_DIR)\alpha64\clstab.obj \
+    $(_OBJ_DIR)\alpha64\codeload.obj \
+    $(_OBJ_DIR)\alpha64\eobject.obj \
+    $(_OBJ_DIR)\alpha64\frame.obj \
+    $(_OBJ_DIR)\alpha64\frmsite.obj \
+    $(_OBJ_DIR)\alpha64\iframe.obj \
+    $(_OBJ_DIR)\alpha64\oleclnt.obj \
+    $(_OBJ_DIR)\alpha64\olecpc.obj \
+    $(_OBJ_DIR)\alpha64\olesite.obj \
+    $(_OBJ_DIR)\alpha64\olesitdb.obj \
+    $(_OBJ_DIR)\alpha64\olexobj.obj \
+    $(_OBJ_DIR)\alpha64\pluginst.obj \
+    $(_OBJ_DIR)\alpha64\safety.obj \
+    $(_OBJ_DIR)\alpha64\scrptlet.obj \
+    $(_OBJ_DIR)\alpha64\scrpctrl.obj \
+    $(_OBJ_DIR)\alpha64\scrsbobj.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\olebindh.obj \
+    $(_OBJ_DIR)\i386\clstab.obj \
+    $(_OBJ_DIR)\i386\codeload.obj \
+    $(_OBJ_DIR)\i386\eobject.obj \
+    $(_OBJ_DIR)\i386\frame.obj \
+    $(_OBJ_DIR)\i386\frmsite.obj \
+    $(_OBJ_DIR)\i386\iframe.obj \
+    $(_OBJ_DIR)\i386\oleclnt.obj \
+    $(_OBJ_DIR)\i386\olecpc.obj \
+    $(_OBJ_DIR)\i386\olesite.obj \
+    $(_OBJ_DIR)\i386\olesitdb.obj \
+    $(_OBJ_DIR)\i386\olexobj.obj \
+    $(_OBJ_DIR)\i386\pluginst.obj \
+    $(_OBJ_DIR)\i386\safety.obj \
+    $(_OBJ_DIR)\i386\scrptlet.obj \
+    $(_OBJ_DIR)\i386\scrpctrl.obj \
+    $(_OBJ_DIR)\i386\scrsbobj.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\olebindh.obj \
+    $(_OBJ_DIR)\ia64\clstab.obj \
+    $(_OBJ_DIR)\ia64\codeload.obj \
+    $(_OBJ_DIR)\ia64\eobject.obj \
+    $(_OBJ_DIR)\ia64\frame.obj \
+    $(_OBJ_DIR)\ia64\frmsite.obj \
+    $(_OBJ_DIR)\ia64\iframe.obj \
+    $(_OBJ_DIR)\ia64\oleclnt.obj \
+    $(_OBJ_DIR)\ia64\olecpc.obj \
+    $(_OBJ_DIR)\ia64\olesite.obj \
+    $(_OBJ_DIR)\ia64\olesitdb.obj \
+    $(_OBJ_DIR)\ia64\olexobj.obj \
+    $(_OBJ_DIR)\ia64\pluginst.obj \
+    $(_OBJ_DIR)\ia64\safety.obj \
+    $(_OBJ_DIR)\ia64\scrptlet.obj \
+    $(_OBJ_DIR)\ia64\scrpctrl.obj \
+    $(_OBJ_DIR)\ia64\scrsbobj.obj
+
+PASS0_IA64_OBJECTS=
+

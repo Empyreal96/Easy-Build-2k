@@ -1,0 +1,36 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\xmldso.obj \
+    $(_OBJ_DIR)\alpha\xmlrowset.obj \
+    $(_OBJ_DIR)\alpha\ospwrap.obj \
+    $(_OBJ_DIR)\alpha\datasrc.obj \
+    $(_OBJ_DIR)\alpha\dsoctrl.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\xmldso.obj \
+    $(_OBJ_DIR)\alpha64\xmlrowset.obj \
+    $(_OBJ_DIR)\alpha64\ospwrap.obj \
+    $(_OBJ_DIR)\alpha64\datasrc.obj \
+    $(_OBJ_DIR)\alpha64\dsoctrl.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\xmldso.obj \
+    $(_OBJ_DIR)\i386\xmlrowset.obj \
+    $(_OBJ_DIR)\i386\ospwrap.obj \
+    $(_OBJ_DIR)\i386\datasrc.obj \
+    $(_OBJ_DIR)\i386\dsoctrl.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\xmldso.obj \
+    $(_OBJ_DIR)\ia64\xmlrowset.obj \
+    $(_OBJ_DIR)\ia64\ospwrap.obj \
+    $(_OBJ_DIR)\ia64\datasrc.obj \
+    $(_OBJ_DIR)\ia64\dsoctrl.obj
+
+PASS0_IA64_OBJECTS=
+

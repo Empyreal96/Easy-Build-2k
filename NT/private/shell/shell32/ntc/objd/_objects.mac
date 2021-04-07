@@ -1,0 +1,104 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\cbthook.obj \
+    $(_OBJ_DIR)\alpha\nothunk.obj \
+    $(_OBJ_DIR)\alpha\start.obj \
+    $(_OBJ_DIR)\alpha\thunktxt.obj \
+    $(_OBJ_DIR)\alpha\pifdat.obj \
+    $(_OBJ_DIR)\alpha\piffnt.obj \
+    $(_OBJ_DIR)\alpha\pifhot.obj \
+    $(_OBJ_DIR)\alpha\pifinf.obj \
+    $(_OBJ_DIR)\alpha\piflib.obj \
+    $(_OBJ_DIR)\alpha\pifmem.obj \
+    $(_OBJ_DIR)\alpha\pifmgr.obj \
+    $(_OBJ_DIR)\alpha\pifmsc.obj \
+    $(_OBJ_DIR)\alpha\pifprg.obj \
+    $(_OBJ_DIR)\alpha\pifsub.obj \
+    $(_OBJ_DIR)\alpha\pifvid.obj \
+    $(_OBJ_DIR)\alpha\lnkcon.obj \
+    $(_OBJ_DIR)\alpha\lnkfnt.obj \
+    $(_OBJ_DIR)\alpha\lnkprev.obj \
+    $(_OBJ_DIR)\alpha\lnkmisc.obj \
+    $(_OBJ_DIR)\alpha\dbcs.obj \
+    $(_OBJ_DIR)\alpha\oemhard.obj \
+    $(_OBJ_DIR)\alpha\proxynt.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\cbthook.obj \
+    $(_OBJ_DIR)\alpha64\nothunk.obj \
+    $(_OBJ_DIR)\alpha64\start.obj \
+    $(_OBJ_DIR)\alpha64\thunktxt.obj \
+    $(_OBJ_DIR)\alpha64\pifdat.obj \
+    $(_OBJ_DIR)\alpha64\piffnt.obj \
+    $(_OBJ_DIR)\alpha64\pifhot.obj \
+    $(_OBJ_DIR)\alpha64\pifinf.obj \
+    $(_OBJ_DIR)\alpha64\piflib.obj \
+    $(_OBJ_DIR)\alpha64\pifmem.obj \
+    $(_OBJ_DIR)\alpha64\pifmgr.obj \
+    $(_OBJ_DIR)\alpha64\pifmsc.obj \
+    $(_OBJ_DIR)\alpha64\pifprg.obj \
+    $(_OBJ_DIR)\alpha64\pifsub.obj \
+    $(_OBJ_DIR)\alpha64\pifvid.obj \
+    $(_OBJ_DIR)\alpha64\lnkcon.obj \
+    $(_OBJ_DIR)\alpha64\lnkfnt.obj \
+    $(_OBJ_DIR)\alpha64\lnkprev.obj \
+    $(_OBJ_DIR)\alpha64\lnkmisc.obj \
+    $(_OBJ_DIR)\alpha64\dbcs.obj \
+    $(_OBJ_DIR)\alpha64\oemhard.obj \
+    $(_OBJ_DIR)\alpha64\proxynt.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\cbthook.obj \
+    $(_OBJ_DIR)\i386\nothunk.obj \
+    $(_OBJ_DIR)\i386\start.obj \
+    $(_OBJ_DIR)\i386\thunktxt.obj \
+    $(_OBJ_DIR)\i386\pifdat.obj \
+    $(_OBJ_DIR)\i386\piffnt.obj \
+    $(_OBJ_DIR)\i386\pifhot.obj \
+    $(_OBJ_DIR)\i386\pifinf.obj \
+    $(_OBJ_DIR)\i386\piflib.obj \
+    $(_OBJ_DIR)\i386\pifmem.obj \
+    $(_OBJ_DIR)\i386\pifmgr.obj \
+    $(_OBJ_DIR)\i386\pifmsc.obj \
+    $(_OBJ_DIR)\i386\pifprg.obj \
+    $(_OBJ_DIR)\i386\pifsub.obj \
+    $(_OBJ_DIR)\i386\pifvid.obj \
+    $(_OBJ_DIR)\i386\lnkcon.obj \
+    $(_OBJ_DIR)\i386\lnkfnt.obj \
+    $(_OBJ_DIR)\i386\lnkprev.obj \
+    $(_OBJ_DIR)\i386\lnkmisc.obj \
+    $(_OBJ_DIR)\i386\dbcs.obj \
+    $(_OBJ_DIR)\i386\oemhard.obj \
+    $(_OBJ_DIR)\i386\proxynt.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\cbthook.obj \
+    $(_OBJ_DIR)\ia64\nothunk.obj \
+    $(_OBJ_DIR)\ia64\start.obj \
+    $(_OBJ_DIR)\ia64\thunktxt.obj \
+    $(_OBJ_DIR)\ia64\pifdat.obj \
+    $(_OBJ_DIR)\ia64\piffnt.obj \
+    $(_OBJ_DIR)\ia64\pifhot.obj \
+    $(_OBJ_DIR)\ia64\pifinf.obj \
+    $(_OBJ_DIR)\ia64\piflib.obj \
+    $(_OBJ_DIR)\ia64\pifmem.obj \
+    $(_OBJ_DIR)\ia64\pifmgr.obj \
+    $(_OBJ_DIR)\ia64\pifmsc.obj \
+    $(_OBJ_DIR)\ia64\pifprg.obj \
+    $(_OBJ_DIR)\ia64\pifsub.obj \
+    $(_OBJ_DIR)\ia64\pifvid.obj \
+    $(_OBJ_DIR)\ia64\lnkcon.obj \
+    $(_OBJ_DIR)\ia64\lnkfnt.obj \
+    $(_OBJ_DIR)\ia64\lnkprev.obj \
+    $(_OBJ_DIR)\ia64\lnkmisc.obj \
+    $(_OBJ_DIR)\ia64\dbcs.obj \
+    $(_OBJ_DIR)\ia64\oemhard.obj \
+    $(_OBJ_DIR)\ia64\proxynt.obj
+
+PASS0_IA64_OBJECTS=
+

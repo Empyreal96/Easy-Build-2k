@@ -1,0 +1,64 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\shwizard.res \
+    $(_OBJ_DIR)\alpha\shwizard.obj \
+    $(_OBJ_DIR)\alpha\shwizutl.obj \
+    $(_OBJ_DIR)\alpha\strtpage.obj \
+    $(_OBJ_DIR)\alpha\pagea3.obj \
+    $(_OBJ_DIR)\alpha\paget1.obj \
+    $(_OBJ_DIR)\alpha\finisht.obj \
+    $(_OBJ_DIR)\alpha\pagermv.obj \
+    $(_OBJ_DIR)\alpha\comment.obj \
+    $(_OBJ_DIR)\alpha\finishr.obj \
+    $(_OBJ_DIR)\alpha\welcome.obj \
+    $(_OBJ_DIR)\alpha\common.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\shwizard.res \
+    $(_OBJ_DIR)\alpha64\shwizard.obj \
+    $(_OBJ_DIR)\alpha64\shwizutl.obj \
+    $(_OBJ_DIR)\alpha64\strtpage.obj \
+    $(_OBJ_DIR)\alpha64\pagea3.obj \
+    $(_OBJ_DIR)\alpha64\paget1.obj \
+    $(_OBJ_DIR)\alpha64\finisht.obj \
+    $(_OBJ_DIR)\alpha64\pagermv.obj \
+    $(_OBJ_DIR)\alpha64\comment.obj \
+    $(_OBJ_DIR)\alpha64\finishr.obj \
+    $(_OBJ_DIR)\alpha64\welcome.obj \
+    $(_OBJ_DIR)\alpha64\common.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\shwizard.res \
+    $(_OBJ_DIR)\i386\shwizard.obj \
+    $(_OBJ_DIR)\i386\shwizutl.obj \
+    $(_OBJ_DIR)\i386\strtpage.obj \
+    $(_OBJ_DIR)\i386\pagea3.obj \
+    $(_OBJ_DIR)\i386\paget1.obj \
+    $(_OBJ_DIR)\i386\finisht.obj \
+    $(_OBJ_DIR)\i386\pagermv.obj \
+    $(_OBJ_DIR)\i386\comment.obj \
+    $(_OBJ_DIR)\i386\finishr.obj \
+    $(_OBJ_DIR)\i386\welcome.obj \
+    $(_OBJ_DIR)\i386\common.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\shwizard.res \
+    $(_OBJ_DIR)\ia64\shwizard.obj \
+    $(_OBJ_DIR)\ia64\shwizutl.obj \
+    $(_OBJ_DIR)\ia64\strtpage.obj \
+    $(_OBJ_DIR)\ia64\pagea3.obj \
+    $(_OBJ_DIR)\ia64\paget1.obj \
+    $(_OBJ_DIR)\ia64\finisht.obj \
+    $(_OBJ_DIR)\ia64\pagermv.obj \
+    $(_OBJ_DIR)\ia64\comment.obj \
+    $(_OBJ_DIR)\ia64\finishr.obj \
+    $(_OBJ_DIR)\ia64\welcome.obj \
+    $(_OBJ_DIR)\ia64\common.obj
+
+PASS0_IA64_OBJECTS=
+

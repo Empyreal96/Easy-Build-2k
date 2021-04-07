@@ -1,0 +1,48 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\bufferedstream.obj \
+    $(_OBJ_DIR)\alpha\expando.obj \
+    $(_OBJ_DIR)\alpha\behaviour.obj \
+    $(_OBJ_DIR)\alpha\xmlview.obj \
+    $(_OBJ_DIR)\alpha\viewerfactory.obj \
+    $(_OBJ_DIR)\alpha\filestream.obj \
+    $(_OBJ_DIR)\alpha\mimedownload.obj \
+    $(_OBJ_DIR)\alpha\callback.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\bufferedstream.obj \
+    $(_OBJ_DIR)\alpha64\expando.obj \
+    $(_OBJ_DIR)\alpha64\behaviour.obj \
+    $(_OBJ_DIR)\alpha64\xmlview.obj \
+    $(_OBJ_DIR)\alpha64\viewerfactory.obj \
+    $(_OBJ_DIR)\alpha64\filestream.obj \
+    $(_OBJ_DIR)\alpha64\mimedownload.obj \
+    $(_OBJ_DIR)\alpha64\callback.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\bufferedstream.obj \
+    $(_OBJ_DIR)\i386\expando.obj \
+    $(_OBJ_DIR)\i386\behaviour.obj \
+    $(_OBJ_DIR)\i386\xmlview.obj \
+    $(_OBJ_DIR)\i386\viewerfactory.obj \
+    $(_OBJ_DIR)\i386\filestream.obj \
+    $(_OBJ_DIR)\i386\mimedownload.obj \
+    $(_OBJ_DIR)\i386\callback.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\bufferedstream.obj \
+    $(_OBJ_DIR)\ia64\expando.obj \
+    $(_OBJ_DIR)\ia64\behaviour.obj \
+    $(_OBJ_DIR)\ia64\xmlview.obj \
+    $(_OBJ_DIR)\ia64\viewerfactory.obj \
+    $(_OBJ_DIR)\ia64\filestream.obj \
+    $(_OBJ_DIR)\ia64\mimedownload.obj \
+    $(_OBJ_DIR)\ia64\callback.obj
+
+PASS0_IA64_OBJECTS=
+

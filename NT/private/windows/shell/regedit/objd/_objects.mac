@@ -1,0 +1,76 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\regbined.obj \
+    $(_OBJ_DIR)\alpha\regcdhk.obj \
+    $(_OBJ_DIR)\alpha\regdebug.obj \
+    $(_OBJ_DIR)\alpha\regdwded.obj \
+    $(_OBJ_DIR)\alpha\regedit.obj \
+    $(_OBJ_DIR)\alpha\regfile.obj \
+    $(_OBJ_DIR)\alpha\regfind.obj \
+    $(_OBJ_DIR)\alpha\regkey.obj \
+    $(_OBJ_DIR)\alpha\regmain.obj \
+    $(_OBJ_DIR)\alpha\regmisc.obj \
+    $(_OBJ_DIR)\alpha\regnet.obj \
+    $(_OBJ_DIR)\alpha\regporte.obj \
+    $(_OBJ_DIR)\alpha\regprint.obj \
+    $(_OBJ_DIR)\alpha\regstred.obj \
+    $(_OBJ_DIR)\alpha\regvalue.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\regbined.obj \
+    $(_OBJ_DIR)\alpha64\regcdhk.obj \
+    $(_OBJ_DIR)\alpha64\regdebug.obj \
+    $(_OBJ_DIR)\alpha64\regdwded.obj \
+    $(_OBJ_DIR)\alpha64\regedit.obj \
+    $(_OBJ_DIR)\alpha64\regfile.obj \
+    $(_OBJ_DIR)\alpha64\regfind.obj \
+    $(_OBJ_DIR)\alpha64\regkey.obj \
+    $(_OBJ_DIR)\alpha64\regmain.obj \
+    $(_OBJ_DIR)\alpha64\regmisc.obj \
+    $(_OBJ_DIR)\alpha64\regnet.obj \
+    $(_OBJ_DIR)\alpha64\regporte.obj \
+    $(_OBJ_DIR)\alpha64\regprint.obj \
+    $(_OBJ_DIR)\alpha64\regstred.obj \
+    $(_OBJ_DIR)\alpha64\regvalue.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\regbined.obj \
+    $(_OBJ_DIR)\i386\regcdhk.obj \
+    $(_OBJ_DIR)\i386\regdebug.obj \
+    $(_OBJ_DIR)\i386\regdwded.obj \
+    $(_OBJ_DIR)\i386\regedit.obj \
+    $(_OBJ_DIR)\i386\regfile.obj \
+    $(_OBJ_DIR)\i386\regfind.obj \
+    $(_OBJ_DIR)\i386\regkey.obj \
+    $(_OBJ_DIR)\i386\regmain.obj \
+    $(_OBJ_DIR)\i386\regmisc.obj \
+    $(_OBJ_DIR)\i386\regnet.obj \
+    $(_OBJ_DIR)\i386\regporte.obj \
+    $(_OBJ_DIR)\i386\regprint.obj \
+    $(_OBJ_DIR)\i386\regstred.obj \
+    $(_OBJ_DIR)\i386\regvalue.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\regbined.obj \
+    $(_OBJ_DIR)\ia64\regcdhk.obj \
+    $(_OBJ_DIR)\ia64\regdebug.obj \
+    $(_OBJ_DIR)\ia64\regdwded.obj \
+    $(_OBJ_DIR)\ia64\regedit.obj \
+    $(_OBJ_DIR)\ia64\regfile.obj \
+    $(_OBJ_DIR)\ia64\regfind.obj \
+    $(_OBJ_DIR)\ia64\regkey.obj \
+    $(_OBJ_DIR)\ia64\regmain.obj \
+    $(_OBJ_DIR)\ia64\regmisc.obj \
+    $(_OBJ_DIR)\ia64\regnet.obj \
+    $(_OBJ_DIR)\ia64\regporte.obj \
+    $(_OBJ_DIR)\ia64\regprint.obj \
+    $(_OBJ_DIR)\ia64\regstred.obj \
+    $(_OBJ_DIR)\ia64\regvalue.obj
+
+PASS0_IA64_OBJECTS=
+

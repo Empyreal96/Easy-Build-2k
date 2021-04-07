@@ -1,0 +1,64 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\ipersistmoniker.obj \
+    $(_OBJ_DIR)\alpha\ipersiststream.obj \
+    $(_OBJ_DIR)\alpha\printstream.obj \
+    $(_OBJ_DIR)\alpha\file.obj \
+    $(_OBJ_DIR)\alpha\fileinputstream.obj \
+    $(_OBJ_DIR)\alpha\fileoutputstream.obj \
+    $(_OBJ_DIR)\alpha\istreaminputstream.obj \
+    $(_OBJ_DIR)\alpha\istreamoutputstream.obj \
+    $(_OBJ_DIR)\alpha\stringbufferoutputstream.obj \
+    $(_OBJ_DIR)\alpha\cstdio.obj \
+    $(_OBJ_DIR)\alpha\outputstream.obj \
+    $(_OBJ_DIR)\alpha\stringstream.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\ipersistmoniker.obj \
+    $(_OBJ_DIR)\alpha64\ipersiststream.obj \
+    $(_OBJ_DIR)\alpha64\printstream.obj \
+    $(_OBJ_DIR)\alpha64\file.obj \
+    $(_OBJ_DIR)\alpha64\fileinputstream.obj \
+    $(_OBJ_DIR)\alpha64\fileoutputstream.obj \
+    $(_OBJ_DIR)\alpha64\istreaminputstream.obj \
+    $(_OBJ_DIR)\alpha64\istreamoutputstream.obj \
+    $(_OBJ_DIR)\alpha64\stringbufferoutputstream.obj \
+    $(_OBJ_DIR)\alpha64\cstdio.obj \
+    $(_OBJ_DIR)\alpha64\outputstream.obj \
+    $(_OBJ_DIR)\alpha64\stringstream.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\ipersistmoniker.obj \
+    $(_OBJ_DIR)\i386\ipersiststream.obj \
+    $(_OBJ_DIR)\i386\printstream.obj \
+    $(_OBJ_DIR)\i386\file.obj \
+    $(_OBJ_DIR)\i386\fileinputstream.obj \
+    $(_OBJ_DIR)\i386\fileoutputstream.obj \
+    $(_OBJ_DIR)\i386\istreaminputstream.obj \
+    $(_OBJ_DIR)\i386\istreamoutputstream.obj \
+    $(_OBJ_DIR)\i386\stringbufferoutputstream.obj \
+    $(_OBJ_DIR)\i386\cstdio.obj \
+    $(_OBJ_DIR)\i386\outputstream.obj \
+    $(_OBJ_DIR)\i386\stringstream.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\ipersistmoniker.obj \
+    $(_OBJ_DIR)\ia64\ipersiststream.obj \
+    $(_OBJ_DIR)\ia64\printstream.obj \
+    $(_OBJ_DIR)\ia64\file.obj \
+    $(_OBJ_DIR)\ia64\fileinputstream.obj \
+    $(_OBJ_DIR)\ia64\fileoutputstream.obj \
+    $(_OBJ_DIR)\ia64\istreaminputstream.obj \
+    $(_OBJ_DIR)\ia64\istreamoutputstream.obj \
+    $(_OBJ_DIR)\ia64\stringbufferoutputstream.obj \
+    $(_OBJ_DIR)\ia64\cstdio.obj \
+    $(_OBJ_DIR)\ia64\outputstream.obj \
+    $(_OBJ_DIR)\ia64\stringstream.obj
+
+PASS0_IA64_OBJECTS=
+

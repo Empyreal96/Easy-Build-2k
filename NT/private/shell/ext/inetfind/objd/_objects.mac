@@ -1,0 +1,44 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\inetfind.res \
+    $(_OBJ_DIR)\alpha\fnd.obj \
+    $(_OBJ_DIR)\alpha\fndcf.obj \
+    $(_OBJ_DIR)\alpha\fndcm.obj \
+    $(_OBJ_DIR)\alpha\mem.obj \
+    $(_OBJ_DIR)\alpha\common.obj \
+    $(_OBJ_DIR)\alpha\assert.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\inetfind.res \
+    $(_OBJ_DIR)\alpha64\fnd.obj \
+    $(_OBJ_DIR)\alpha64\fndcf.obj \
+    $(_OBJ_DIR)\alpha64\fndcm.obj \
+    $(_OBJ_DIR)\alpha64\mem.obj \
+    $(_OBJ_DIR)\alpha64\common.obj \
+    $(_OBJ_DIR)\alpha64\assert.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\inetfind.res \
+    $(_OBJ_DIR)\i386\fnd.obj \
+    $(_OBJ_DIR)\i386\fndcf.obj \
+    $(_OBJ_DIR)\i386\fndcm.obj \
+    $(_OBJ_DIR)\i386\mem.obj \
+    $(_OBJ_DIR)\i386\common.obj \
+    $(_OBJ_DIR)\i386\assert.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\inetfind.res \
+    $(_OBJ_DIR)\ia64\fnd.obj \
+    $(_OBJ_DIR)\ia64\fndcf.obj \
+    $(_OBJ_DIR)\ia64\fndcm.obj \
+    $(_OBJ_DIR)\ia64\mem.obj \
+    $(_OBJ_DIR)\ia64\common.obj \
+    $(_OBJ_DIR)\ia64\assert.obj
+
+PASS0_IA64_OBJECTS=
+

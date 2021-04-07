@@ -1,0 +1,48 @@
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(132) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(140) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(148) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(156) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(164) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(172) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(180) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(188) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(196) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(204) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(212) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(220) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(228) : warning Main Line Code
+dll\wow6432\usrstubs_entry1(10) : warning Macro Called From
+dll\wow6432\i386\usrstubs.asm(236) : warning Main Line Code
+ke\up\macroloop(3) : warning iteration 1: Macro Called From 
+ke\up\macroloop(8) : warning iteration 1: Macro Called From 
+ke\up\revpush(16) : warning Macro Called From
+ke\up\stdcall(3) : warning Macro Called From
+ke\i386\ctxswap.asm(1142) : warning Main Line Code
+ke\mp\macroloop(3) : warning iteration 1: Macro Called From 
+ke\mp\macroloop(8) : warning iteration 1: Macro Called From 
+ke\mp\revpush(16) : warning Macro Called From
+ke\mp\stdcall(3) : warning Macro Called From
+ke\i386\ctxswap.asm(1142) : warning Main Line Code
+ke\pae\macroloop(3) : warning iteration 1: Macro Called From 
+ke\pae\macroloop(8) : warning iteration 1: Macro Called From 
+ke\pae\revpush(16) : warning Macro Called From
+ke\pae\stdcall(3) : warning Macro Called From
+ke\i386\ctxswap.asm(1142) : warning Main Line Code
+ke\paemp\macroloop(3) : warning iteration 1: Macro Called From 
+ke\paemp\macroloop(8) : warning iteration 1: Macro Called From 
+ke\paemp\revpush(16) : warning Macro Called From
+ke\paemp\stdcall(3) : warning Macro Called From
+ke\i386\ctxswap.asm(1142) : warning Main Line Code

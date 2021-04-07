@@ -1,0 +1,24 @@
+ALPHA_OBJECTS=
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\imgfilt.h \
+    $(PASS0_UUIDDIR)\imgfilt.c
+
+ALPHA64_OBJECTS=
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\imgfilt.h \
+    $(PASS0_UUIDDIR)\imgfilt.c
+
+386_OBJECTS=
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\imgfilt.h \
+    $(PASS0_UUIDDIR)\imgfilt.c
+
+IA64_OBJECTS=
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\imgfilt.h \
+    $(PASS0_UUIDDIR)\imgfilt.c
+

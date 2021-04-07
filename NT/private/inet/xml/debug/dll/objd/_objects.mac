@@ -1,0 +1,24 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\msxmldbg.res \
+    $(_OBJ_DIR)\alpha\dll.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\msxmldbg.res \
+    $(_OBJ_DIR)\alpha64\dll.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\msxmldbg.res \
+    $(_OBJ_DIR)\i386\dll.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\msxmldbg.res \
+    $(_OBJ_DIR)\ia64\dll.obj
+
+PASS0_IA64_OBJECTS=
+

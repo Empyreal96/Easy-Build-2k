@@ -1,0 +1,36 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\shguids.obj \
+    $(_OBJ_DIR)\alpha\shappmgr_i.obj \
+    $(_OBJ_DIR)\alpha\shldisp_i.obj \
+    $(_OBJ_DIR)\alpha\shldispp_i.obj \
+    $(_OBJ_DIR)\alpha\webvw_i.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\shguids.obj \
+    $(_OBJ_DIR)\alpha64\shappmgr_i.obj \
+    $(_OBJ_DIR)\alpha64\shldisp_i.obj \
+    $(_OBJ_DIR)\alpha64\shldispp_i.obj \
+    $(_OBJ_DIR)\alpha64\webvw_i.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\shguids.obj \
+    $(_OBJ_DIR)\i386\shappmgr_i.obj \
+    $(_OBJ_DIR)\i386\shldisp_i.obj \
+    $(_OBJ_DIR)\i386\shldispp_i.obj \
+    $(_OBJ_DIR)\i386\webvw_i.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\shguids.obj \
+    $(_OBJ_DIR)\ia64\shappmgr_i.obj \
+    $(_OBJ_DIR)\ia64\shldisp_i.obj \
+    $(_OBJ_DIR)\ia64\shldispp_i.obj \
+    $(_OBJ_DIR)\ia64\webvw_i.obj
+
+PASS0_IA64_OBJECTS=
+

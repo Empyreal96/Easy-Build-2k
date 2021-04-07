@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\cachesup.obj \
+    $(_OBJ_DIR)\alpha\lbcbsup.obj \
+    $(_OBJ_DIR)\alpha\lfsdata.obj \
+    $(_OBJ_DIR)\alpha\logpgsup.obj \
+    $(_OBJ_DIR)\alpha\logrcsup.obj \
+    $(_OBJ_DIR)\alpha\lsnsup.obj \
+    $(_OBJ_DIR)\alpha\querylog.obj \
+    $(_OBJ_DIR)\alpha\registry.obj \
+    $(_OBJ_DIR)\alpha\restart.obj \
+    $(_OBJ_DIR)\alpha\rstrtsup.obj \
+    $(_OBJ_DIR)\alpha\strucsup.obj \
+    $(_OBJ_DIR)\alpha\sysinit.obj \
+    $(_OBJ_DIR)\alpha\verfysup.obj \
+    $(_OBJ_DIR)\alpha\write.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\cachesup.obj \
+    $(_OBJ_DIR)\alpha64\lbcbsup.obj \
+    $(_OBJ_DIR)\alpha64\lfsdata.obj \
+    $(_OBJ_DIR)\alpha64\logpgsup.obj \
+    $(_OBJ_DIR)\alpha64\logrcsup.obj \
+    $(_OBJ_DIR)\alpha64\lsnsup.obj \
+    $(_OBJ_DIR)\alpha64\querylog.obj \
+    $(_OBJ_DIR)\alpha64\registry.obj \
+    $(_OBJ_DIR)\alpha64\restart.obj \
+    $(_OBJ_DIR)\alpha64\rstrtsup.obj \
+    $(_OBJ_DIR)\alpha64\strucsup.obj \
+    $(_OBJ_DIR)\alpha64\sysinit.obj \
+    $(_OBJ_DIR)\alpha64\verfysup.obj \
+    $(_OBJ_DIR)\alpha64\write.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\cachesup.obj \
+    $(_OBJ_DIR)\i386\lbcbsup.obj \
+    $(_OBJ_DIR)\i386\lfsdata.obj \
+    $(_OBJ_DIR)\i386\logpgsup.obj \
+    $(_OBJ_DIR)\i386\logrcsup.obj \
+    $(_OBJ_DIR)\i386\lsnsup.obj \
+    $(_OBJ_DIR)\i386\querylog.obj \
+    $(_OBJ_DIR)\i386\registry.obj \
+    $(_OBJ_DIR)\i386\restart.obj \
+    $(_OBJ_DIR)\i386\rstrtsup.obj \
+    $(_OBJ_DIR)\i386\strucsup.obj \
+    $(_OBJ_DIR)\i386\sysinit.obj \
+    $(_OBJ_DIR)\i386\verfysup.obj \
+    $(_OBJ_DIR)\i386\write.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\cachesup.obj \
+    $(_OBJ_DIR)\ia64\lbcbsup.obj \
+    $(_OBJ_DIR)\ia64\lfsdata.obj \
+    $(_OBJ_DIR)\ia64\logpgsup.obj \
+    $(_OBJ_DIR)\ia64\logrcsup.obj \
+    $(_OBJ_DIR)\ia64\lsnsup.obj \
+    $(_OBJ_DIR)\ia64\querylog.obj \
+    $(_OBJ_DIR)\ia64\registry.obj \
+    $(_OBJ_DIR)\ia64\restart.obj \
+    $(_OBJ_DIR)\ia64\rstrtsup.obj \
+    $(_OBJ_DIR)\ia64\strucsup.obj \
+    $(_OBJ_DIR)\ia64\sysinit.obj \
+    $(_OBJ_DIR)\ia64\verfysup.obj \
+    $(_OBJ_DIR)\ia64\write.obj
+
+PASS0_IA64_OBJECTS=
+

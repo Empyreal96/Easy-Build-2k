@@ -1,0 +1,104 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\app.res \
+    $(_OBJ_DIR)\alpha\permpage.obj \
+    $(_OBJ_DIR)\alpha\dlgbase.obj \
+    $(_OBJ_DIR)\alpha\dlgnew.obj \
+    $(_OBJ_DIR)\alpha\dllmain.obj \
+    $(_OBJ_DIR)\alpha\dutil.obj \
+    $(_OBJ_DIR)\alpha\enum.obj \
+    $(_OBJ_DIR)\alpha\ole.obj \
+    $(_OBJ_DIR)\alpha\menu.obj \
+    $(_OBJ_DIR)\alpha\menusp.obj \
+    $(_OBJ_DIR)\alpha\menubg.obj \
+    $(_OBJ_DIR)\alpha\menuutil.obj \
+    $(_OBJ_DIR)\alpha\pfolder.obj \
+    $(_OBJ_DIR)\alpha\rcomp.obj \
+    $(_OBJ_DIR)\alpha\sdetails.obj \
+    $(_OBJ_DIR)\alpha\sfolder.obj \
+    $(_OBJ_DIR)\alpha\shrinfo.obj \
+    $(_OBJ_DIR)\alpha\shrpage.obj \
+    $(_OBJ_DIR)\alpha\util.obj \
+    $(_OBJ_DIR)\alpha\xicon.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\messages.h \
+    $(PASS0_SOURCEDIR)\messages.rc
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\app.res \
+    $(_OBJ_DIR)\alpha64\permpage.obj \
+    $(_OBJ_DIR)\alpha64\dlgbase.obj \
+    $(_OBJ_DIR)\alpha64\dlgnew.obj \
+    $(_OBJ_DIR)\alpha64\dllmain.obj \
+    $(_OBJ_DIR)\alpha64\dutil.obj \
+    $(_OBJ_DIR)\alpha64\enum.obj \
+    $(_OBJ_DIR)\alpha64\ole.obj \
+    $(_OBJ_DIR)\alpha64\menu.obj \
+    $(_OBJ_DIR)\alpha64\menusp.obj \
+    $(_OBJ_DIR)\alpha64\menubg.obj \
+    $(_OBJ_DIR)\alpha64\menuutil.obj \
+    $(_OBJ_DIR)\alpha64\pfolder.obj \
+    $(_OBJ_DIR)\alpha64\rcomp.obj \
+    $(_OBJ_DIR)\alpha64\sdetails.obj \
+    $(_OBJ_DIR)\alpha64\sfolder.obj \
+    $(_OBJ_DIR)\alpha64\shrinfo.obj \
+    $(_OBJ_DIR)\alpha64\shrpage.obj \
+    $(_OBJ_DIR)\alpha64\util.obj \
+    $(_OBJ_DIR)\alpha64\xicon.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\messages.h \
+    $(PASS0_SOURCEDIR)\messages.rc
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\app.res \
+    $(_OBJ_DIR)\i386\permpage.obj \
+    $(_OBJ_DIR)\i386\dlgbase.obj \
+    $(_OBJ_DIR)\i386\dlgnew.obj \
+    $(_OBJ_DIR)\i386\dllmain.obj \
+    $(_OBJ_DIR)\i386\dutil.obj \
+    $(_OBJ_DIR)\i386\enum.obj \
+    $(_OBJ_DIR)\i386\ole.obj \
+    $(_OBJ_DIR)\i386\menu.obj \
+    $(_OBJ_DIR)\i386\menusp.obj \
+    $(_OBJ_DIR)\i386\menubg.obj \
+    $(_OBJ_DIR)\i386\menuutil.obj \
+    $(_OBJ_DIR)\i386\pfolder.obj \
+    $(_OBJ_DIR)\i386\rcomp.obj \
+    $(_OBJ_DIR)\i386\sdetails.obj \
+    $(_OBJ_DIR)\i386\sfolder.obj \
+    $(_OBJ_DIR)\i386\shrinfo.obj \
+    $(_OBJ_DIR)\i386\shrpage.obj \
+    $(_OBJ_DIR)\i386\util.obj \
+    $(_OBJ_DIR)\i386\xicon.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\messages.h \
+    $(PASS0_SOURCEDIR)\messages.rc
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\app.res \
+    $(_OBJ_DIR)\ia64\permpage.obj \
+    $(_OBJ_DIR)\ia64\dlgbase.obj \
+    $(_OBJ_DIR)\ia64\dlgnew.obj \
+    $(_OBJ_DIR)\ia64\dllmain.obj \
+    $(_OBJ_DIR)\ia64\dutil.obj \
+    $(_OBJ_DIR)\ia64\enum.obj \
+    $(_OBJ_DIR)\ia64\ole.obj \
+    $(_OBJ_DIR)\ia64\menu.obj \
+    $(_OBJ_DIR)\ia64\menusp.obj \
+    $(_OBJ_DIR)\ia64\menubg.obj \
+    $(_OBJ_DIR)\ia64\menuutil.obj \
+    $(_OBJ_DIR)\ia64\pfolder.obj \
+    $(_OBJ_DIR)\ia64\rcomp.obj \
+    $(_OBJ_DIR)\ia64\sdetails.obj \
+    $(_OBJ_DIR)\ia64\sfolder.obj \
+    $(_OBJ_DIR)\ia64\shrinfo.obj \
+    $(_OBJ_DIR)\ia64\shrpage.obj \
+    $(_OBJ_DIR)\ia64\util.obj \
+    $(_OBJ_DIR)\ia64\xicon.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\messages.h \
+    $(PASS0_SOURCEDIR)\messages.rc
+

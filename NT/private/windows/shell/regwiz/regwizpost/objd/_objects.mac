@@ -1,0 +1,56 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\atkinter.obj \
+    $(_OBJ_DIR)\alpha\atk_inet.obj \
+    $(_OBJ_DIR)\alpha\atk_ras.obj \
+    $(_OBJ_DIR)\alpha\connect.obj \
+    $(_OBJ_DIR)\alpha\dconv.obj \
+    $(_OBJ_DIR)\alpha\ithread.obj \
+    $(_OBJ_DIR)\alpha\phone.obj \
+    $(_OBJ_DIR)\alpha\rwpost.obj \
+    $(_OBJ_DIR)\alpha\tcp.obj \
+    $(_OBJ_DIR)\alpha\util.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\atkinter.obj \
+    $(_OBJ_DIR)\alpha64\atk_inet.obj \
+    $(_OBJ_DIR)\alpha64\atk_ras.obj \
+    $(_OBJ_DIR)\alpha64\connect.obj \
+    $(_OBJ_DIR)\alpha64\dconv.obj \
+    $(_OBJ_DIR)\alpha64\ithread.obj \
+    $(_OBJ_DIR)\alpha64\phone.obj \
+    $(_OBJ_DIR)\alpha64\rwpost.obj \
+    $(_OBJ_DIR)\alpha64\tcp.obj \
+    $(_OBJ_DIR)\alpha64\util.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\atkinter.obj \
+    $(_OBJ_DIR)\i386\atk_inet.obj \
+    $(_OBJ_DIR)\i386\atk_ras.obj \
+    $(_OBJ_DIR)\i386\connect.obj \
+    $(_OBJ_DIR)\i386\dconv.obj \
+    $(_OBJ_DIR)\i386\ithread.obj \
+    $(_OBJ_DIR)\i386\phone.obj \
+    $(_OBJ_DIR)\i386\rwpost.obj \
+    $(_OBJ_DIR)\i386\tcp.obj \
+    $(_OBJ_DIR)\i386\util.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\atkinter.obj \
+    $(_OBJ_DIR)\ia64\atk_inet.obj \
+    $(_OBJ_DIR)\ia64\atk_ras.obj \
+    $(_OBJ_DIR)\ia64\connect.obj \
+    $(_OBJ_DIR)\ia64\dconv.obj \
+    $(_OBJ_DIR)\ia64\ithread.obj \
+    $(_OBJ_DIR)\ia64\phone.obj \
+    $(_OBJ_DIR)\ia64\rwpost.obj \
+    $(_OBJ_DIR)\ia64\tcp.obj \
+    $(_OBJ_DIR)\ia64\util.obj
+
+PASS0_IA64_OBJECTS=
+

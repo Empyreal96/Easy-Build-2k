@@ -1,0 +1,68 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\resource.res \
+    $(_OBJ_DIR)\alpha\cstrings.obj \
+    $(_OBJ_DIR)\alpha\dataobj.obj \
+    $(_OBJ_DIR)\alpha\dll.obj \
+    $(_OBJ_DIR)\alpha\enum.obj \
+    $(_OBJ_DIR)\alpha\folder.obj \
+    $(_OBJ_DIR)\alpha\idlist.obj \
+    $(_OBJ_DIR)\alpha\ui.obj \
+    $(_OBJ_DIR)\alpha\menu.obj \
+    $(_OBJ_DIR)\alpha\datautil.obj \
+    $(_OBJ_DIR)\alpha\dka.obj \
+    $(_OBJ_DIR)\alpha\shprsht.obj \
+    $(_OBJ_DIR)\alpha\dlshell.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\resource.res \
+    $(_OBJ_DIR)\alpha64\cstrings.obj \
+    $(_OBJ_DIR)\alpha64\dataobj.obj \
+    $(_OBJ_DIR)\alpha64\dll.obj \
+    $(_OBJ_DIR)\alpha64\enum.obj \
+    $(_OBJ_DIR)\alpha64\folder.obj \
+    $(_OBJ_DIR)\alpha64\idlist.obj \
+    $(_OBJ_DIR)\alpha64\ui.obj \
+    $(_OBJ_DIR)\alpha64\menu.obj \
+    $(_OBJ_DIR)\alpha64\datautil.obj \
+    $(_OBJ_DIR)\alpha64\dka.obj \
+    $(_OBJ_DIR)\alpha64\shprsht.obj \
+    $(_OBJ_DIR)\alpha64\dlshell.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\resource.res \
+    $(_OBJ_DIR)\i386\cstrings.obj \
+    $(_OBJ_DIR)\i386\dataobj.obj \
+    $(_OBJ_DIR)\i386\dll.obj \
+    $(_OBJ_DIR)\i386\enum.obj \
+    $(_OBJ_DIR)\i386\folder.obj \
+    $(_OBJ_DIR)\i386\idlist.obj \
+    $(_OBJ_DIR)\i386\ui.obj \
+    $(_OBJ_DIR)\i386\menu.obj \
+    $(_OBJ_DIR)\i386\datautil.obj \
+    $(_OBJ_DIR)\i386\dka.obj \
+    $(_OBJ_DIR)\i386\shprsht.obj \
+    $(_OBJ_DIR)\i386\dlshell.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\resource.res \
+    $(_OBJ_DIR)\ia64\cstrings.obj \
+    $(_OBJ_DIR)\ia64\dataobj.obj \
+    $(_OBJ_DIR)\ia64\dll.obj \
+    $(_OBJ_DIR)\ia64\enum.obj \
+    $(_OBJ_DIR)\ia64\folder.obj \
+    $(_OBJ_DIR)\ia64\idlist.obj \
+    $(_OBJ_DIR)\ia64\ui.obj \
+    $(_OBJ_DIR)\ia64\menu.obj \
+    $(_OBJ_DIR)\ia64\datautil.obj \
+    $(_OBJ_DIR)\ia64\dka.obj \
+    $(_OBJ_DIR)\ia64\shprsht.obj \
+    $(_OBJ_DIR)\ia64\dlshell.obj
+
+PASS0_IA64_OBJECTS=
+

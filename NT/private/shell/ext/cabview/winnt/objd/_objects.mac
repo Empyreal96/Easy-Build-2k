@@ -1,0 +1,68 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\cabview.res \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\fdidll.obj \
+    $(_OBJ_DIR)\alpha\cabitms.obj \
+    $(_OBJ_DIR)\alpha\dataobj.obj \
+    $(_OBJ_DIR)\alpha\dlg.obj \
+    $(_OBJ_DIR)\alpha\enum.obj \
+    $(_OBJ_DIR)\alpha\folder.obj \
+    $(_OBJ_DIR)\alpha\icon.obj \
+    $(_OBJ_DIR)\alpha\menu.obj \
+    $(_OBJ_DIR)\alpha\thisdll.obj \
+    $(_OBJ_DIR)\alpha\unknown.obj \
+    $(_OBJ_DIR)\alpha\xicon.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\cabview.res \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\fdidll.obj \
+    $(_OBJ_DIR)\alpha64\cabitms.obj \
+    $(_OBJ_DIR)\alpha64\dataobj.obj \
+    $(_OBJ_DIR)\alpha64\dlg.obj \
+    $(_OBJ_DIR)\alpha64\enum.obj \
+    $(_OBJ_DIR)\alpha64\folder.obj \
+    $(_OBJ_DIR)\alpha64\icon.obj \
+    $(_OBJ_DIR)\alpha64\menu.obj \
+    $(_OBJ_DIR)\alpha64\thisdll.obj \
+    $(_OBJ_DIR)\alpha64\unknown.obj \
+    $(_OBJ_DIR)\alpha64\xicon.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\cabview.res \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\fdidll.obj \
+    $(_OBJ_DIR)\i386\cabitms.obj \
+    $(_OBJ_DIR)\i386\dataobj.obj \
+    $(_OBJ_DIR)\i386\dlg.obj \
+    $(_OBJ_DIR)\i386\enum.obj \
+    $(_OBJ_DIR)\i386\folder.obj \
+    $(_OBJ_DIR)\i386\icon.obj \
+    $(_OBJ_DIR)\i386\menu.obj \
+    $(_OBJ_DIR)\i386\thisdll.obj \
+    $(_OBJ_DIR)\i386\unknown.obj \
+    $(_OBJ_DIR)\i386\xicon.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\cabview.res \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\fdidll.obj \
+    $(_OBJ_DIR)\ia64\cabitms.obj \
+    $(_OBJ_DIR)\ia64\dataobj.obj \
+    $(_OBJ_DIR)\ia64\dlg.obj \
+    $(_OBJ_DIR)\ia64\enum.obj \
+    $(_OBJ_DIR)\ia64\folder.obj \
+    $(_OBJ_DIR)\ia64\icon.obj \
+    $(_OBJ_DIR)\ia64\menu.obj \
+    $(_OBJ_DIR)\ia64\thisdll.obj \
+    $(_OBJ_DIR)\ia64\unknown.obj \
+    $(_OBJ_DIR)\ia64\xicon.obj
+
+PASS0_IA64_OBJECTS=
+

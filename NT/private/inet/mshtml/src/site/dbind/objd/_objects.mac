@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\binder.obj \
+    $(_OBJ_DIR)\alpha\provider.obj \
+    $(_OBJ_DIR)\alpha\consumer.obj \
+    $(_OBJ_DIR)\alpha\dmembmgr.obj \
+    $(_OBJ_DIR)\alpha\currec.obj \
+    $(_OBJ_DIR)\alpha\dbtask.obj \
+    $(_OBJ_DIR)\alpha\convert.obj \
+    $(_OBJ_DIR)\alpha\dbinding.obj \
+    $(_OBJ_DIR)\alpha\detail.obj \
+    $(_OBJ_DIR)\alpha\drecgen.obj \
+    $(_OBJ_DIR)\alpha\ospmrshl.obj \
+    $(_OBJ_DIR)\alpha\bmkcoll.obj \
+    $(_OBJ_DIR)\alpha\simpdc.obj \
+    $(_OBJ_DIR)\alpha\trdntosp.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\binder.obj \
+    $(_OBJ_DIR)\alpha64\provider.obj \
+    $(_OBJ_DIR)\alpha64\consumer.obj \
+    $(_OBJ_DIR)\alpha64\dmembmgr.obj \
+    $(_OBJ_DIR)\alpha64\currec.obj \
+    $(_OBJ_DIR)\alpha64\dbtask.obj \
+    $(_OBJ_DIR)\alpha64\convert.obj \
+    $(_OBJ_DIR)\alpha64\dbinding.obj \
+    $(_OBJ_DIR)\alpha64\detail.obj \
+    $(_OBJ_DIR)\alpha64\drecgen.obj \
+    $(_OBJ_DIR)\alpha64\ospmrshl.obj \
+    $(_OBJ_DIR)\alpha64\bmkcoll.obj \
+    $(_OBJ_DIR)\alpha64\simpdc.obj \
+    $(_OBJ_DIR)\alpha64\trdntosp.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\binder.obj \
+    $(_OBJ_DIR)\i386\provider.obj \
+    $(_OBJ_DIR)\i386\consumer.obj \
+    $(_OBJ_DIR)\i386\dmembmgr.obj \
+    $(_OBJ_DIR)\i386\currec.obj \
+    $(_OBJ_DIR)\i386\dbtask.obj \
+    $(_OBJ_DIR)\i386\convert.obj \
+    $(_OBJ_DIR)\i386\dbinding.obj \
+    $(_OBJ_DIR)\i386\detail.obj \
+    $(_OBJ_DIR)\i386\drecgen.obj \
+    $(_OBJ_DIR)\i386\ospmrshl.obj \
+    $(_OBJ_DIR)\i386\bmkcoll.obj \
+    $(_OBJ_DIR)\i386\simpdc.obj \
+    $(_OBJ_DIR)\i386\trdntosp.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\binder.obj \
+    $(_OBJ_DIR)\ia64\provider.obj \
+    $(_OBJ_DIR)\ia64\consumer.obj \
+    $(_OBJ_DIR)\ia64\dmembmgr.obj \
+    $(_OBJ_DIR)\ia64\currec.obj \
+    $(_OBJ_DIR)\ia64\dbtask.obj \
+    $(_OBJ_DIR)\ia64\convert.obj \
+    $(_OBJ_DIR)\ia64\dbinding.obj \
+    $(_OBJ_DIR)\ia64\detail.obj \
+    $(_OBJ_DIR)\ia64\drecgen.obj \
+    $(_OBJ_DIR)\ia64\ospmrshl.obj \
+    $(_OBJ_DIR)\ia64\bmkcoll.obj \
+    $(_OBJ_DIR)\ia64\simpdc.obj \
+    $(_OBJ_DIR)\ia64\trdntosp.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,84 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\msrating.res \
+    $(_OBJ_DIR)\alpha\ratguid.obj \
+    $(_OBJ_DIR)\alpha\msrating.obj \
+    $(_OBJ_DIR)\alpha\roll.obj \
+    $(_OBJ_DIR)\alpha\rors.obj \
+    $(_OBJ_DIR)\alpha\rocycle.obj \
+    $(_OBJ_DIR)\alpha\mslubase.obj \
+    $(_OBJ_DIR)\alpha\ratings.obj \
+    $(_OBJ_DIR)\alpha\superpw.obj \
+    $(_OBJ_DIR)\alpha\msludlg.obj \
+    $(_OBJ_DIR)\alpha\parselbl.obj \
+    $(_OBJ_DIR)\alpha\picsuser.obj \
+    $(_OBJ_DIR)\alpha\comobj.obj \
+    $(_OBJ_DIR)\alpha\parserat.obj \
+    $(_OBJ_DIR)\alpha\filedlg.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\picsrule.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\msrating.res \
+    $(_OBJ_DIR)\alpha64\ratguid.obj \
+    $(_OBJ_DIR)\alpha64\msrating.obj \
+    $(_OBJ_DIR)\alpha64\roll.obj \
+    $(_OBJ_DIR)\alpha64\rors.obj \
+    $(_OBJ_DIR)\alpha64\rocycle.obj \
+    $(_OBJ_DIR)\alpha64\mslubase.obj \
+    $(_OBJ_DIR)\alpha64\ratings.obj \
+    $(_OBJ_DIR)\alpha64\superpw.obj \
+    $(_OBJ_DIR)\alpha64\msludlg.obj \
+    $(_OBJ_DIR)\alpha64\parselbl.obj \
+    $(_OBJ_DIR)\alpha64\picsuser.obj \
+    $(_OBJ_DIR)\alpha64\comobj.obj \
+    $(_OBJ_DIR)\alpha64\parserat.obj \
+    $(_OBJ_DIR)\alpha64\filedlg.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\picsrule.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\msrating.res \
+    $(_OBJ_DIR)\i386\ratguid.obj \
+    $(_OBJ_DIR)\i386\msrating.obj \
+    $(_OBJ_DIR)\i386\roll.obj \
+    $(_OBJ_DIR)\i386\rors.obj \
+    $(_OBJ_DIR)\i386\rocycle.obj \
+    $(_OBJ_DIR)\i386\mslubase.obj \
+    $(_OBJ_DIR)\i386\ratings.obj \
+    $(_OBJ_DIR)\i386\superpw.obj \
+    $(_OBJ_DIR)\i386\msludlg.obj \
+    $(_OBJ_DIR)\i386\parselbl.obj \
+    $(_OBJ_DIR)\i386\picsuser.obj \
+    $(_OBJ_DIR)\i386\comobj.obj \
+    $(_OBJ_DIR)\i386\parserat.obj \
+    $(_OBJ_DIR)\i386\filedlg.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\picsrule.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\msrating.res \
+    $(_OBJ_DIR)\ia64\ratguid.obj \
+    $(_OBJ_DIR)\ia64\msrating.obj \
+    $(_OBJ_DIR)\ia64\roll.obj \
+    $(_OBJ_DIR)\ia64\rors.obj \
+    $(_OBJ_DIR)\ia64\rocycle.obj \
+    $(_OBJ_DIR)\ia64\mslubase.obj \
+    $(_OBJ_DIR)\ia64\ratings.obj \
+    $(_OBJ_DIR)\ia64\superpw.obj \
+    $(_OBJ_DIR)\ia64\msludlg.obj \
+    $(_OBJ_DIR)\ia64\parselbl.obj \
+    $(_OBJ_DIR)\ia64\picsuser.obj \
+    $(_OBJ_DIR)\ia64\comobj.obj \
+    $(_OBJ_DIR)\ia64\parserat.obj \
+    $(_OBJ_DIR)\ia64\filedlg.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\picsrule.obj
+
+PASS0_IA64_OBJECTS=
+

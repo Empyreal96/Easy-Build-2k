@@ -1,0 +1,15 @@
+/*++ BUILD Version: ????     Increment this if a change has global effects
+
+Copyright (c) 1990-1999  Microsoft Corporation
+
+Module Name:
+
+    commctrl.rh
+
+Abstract:
+
+    This module defines the 32-Bit Windows resource codes from commctrl.h.
+
+Revision History:
+
+--*/

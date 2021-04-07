@@ -1,0 +1,24 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\arbiter.obj \
+    $(_OBJ_DIR)\alpha\debug.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\arbiter.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\arbiter.obj \
+    $(_OBJ_DIR)\i386\debug.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\arbiter.obj \
+    $(_OBJ_DIR)\ia64\debug.obj
+
+PASS0_IA64_OBJECTS=
+

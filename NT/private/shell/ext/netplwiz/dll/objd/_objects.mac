@@ -1,0 +1,124 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\resource.res \
+    $(_OBJ_DIR)\alpha\dll.obj \
+    $(_OBJ_DIR)\alpha\dialog.obj \
+    $(_OBJ_DIR)\alpha\pathpg.obj \
+    $(_OBJ_DIR)\alpha\fldrpg.obj \
+    $(_OBJ_DIR)\alpha\netfinpg.obj \
+    $(_OBJ_DIR)\alpha\ftppg.obj \
+    $(_OBJ_DIR)\alpha\password.obj \
+    $(_OBJ_DIR)\alpha\misc.obj \
+    $(_OBJ_DIR)\alpha\netwiz.obj \
+    $(_OBJ_DIR)\alpha\domain.obj \
+    $(_OBJ_DIR)\alpha\join.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\ulistpg.obj \
+    $(_OBJ_DIR)\alpha\data.obj \
+    $(_OBJ_DIR)\alpha\unpage.obj \
+    $(_OBJ_DIR)\alpha\pwpage.obj \
+    $(_OBJ_DIR)\alpha\grppage.obj \
+    $(_OBJ_DIR)\alpha\netpage.obj \
+    $(_OBJ_DIR)\alpha\autolog.obj \
+    $(_OBJ_DIR)\alpha\secdlg.obj \
+    $(_OBJ_DIR)\alpha\advpg.obj \
+    $(_OBJ_DIR)\alpha\userinfo.obj \
+    $(_OBJ_DIR)\alpha\grpinfo.obj \
+    $(_OBJ_DIR)\alpha\usercom.obj \
+    $(_OBJ_DIR)\alpha\mnddlg.obj \
+    $(_OBJ_DIR)\alpha\netpldat.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\resource.res \
+    $(_OBJ_DIR)\alpha64\dll.obj \
+    $(_OBJ_DIR)\alpha64\dialog.obj \
+    $(_OBJ_DIR)\alpha64\pathpg.obj \
+    $(_OBJ_DIR)\alpha64\fldrpg.obj \
+    $(_OBJ_DIR)\alpha64\netfinpg.obj \
+    $(_OBJ_DIR)\alpha64\ftppg.obj \
+    $(_OBJ_DIR)\alpha64\password.obj \
+    $(_OBJ_DIR)\alpha64\misc.obj \
+    $(_OBJ_DIR)\alpha64\netwiz.obj \
+    $(_OBJ_DIR)\alpha64\domain.obj \
+    $(_OBJ_DIR)\alpha64\join.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\ulistpg.obj \
+    $(_OBJ_DIR)\alpha64\data.obj \
+    $(_OBJ_DIR)\alpha64\unpage.obj \
+    $(_OBJ_DIR)\alpha64\pwpage.obj \
+    $(_OBJ_DIR)\alpha64\grppage.obj \
+    $(_OBJ_DIR)\alpha64\netpage.obj \
+    $(_OBJ_DIR)\alpha64\autolog.obj \
+    $(_OBJ_DIR)\alpha64\secdlg.obj \
+    $(_OBJ_DIR)\alpha64\advpg.obj \
+    $(_OBJ_DIR)\alpha64\userinfo.obj \
+    $(_OBJ_DIR)\alpha64\grpinfo.obj \
+    $(_OBJ_DIR)\alpha64\usercom.obj \
+    $(_OBJ_DIR)\alpha64\mnddlg.obj \
+    $(_OBJ_DIR)\alpha64\netpldat.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\resource.res \
+    $(_OBJ_DIR)\i386\dll.obj \
+    $(_OBJ_DIR)\i386\dialog.obj \
+    $(_OBJ_DIR)\i386\pathpg.obj \
+    $(_OBJ_DIR)\i386\fldrpg.obj \
+    $(_OBJ_DIR)\i386\netfinpg.obj \
+    $(_OBJ_DIR)\i386\ftppg.obj \
+    $(_OBJ_DIR)\i386\password.obj \
+    $(_OBJ_DIR)\i386\misc.obj \
+    $(_OBJ_DIR)\i386\netwiz.obj \
+    $(_OBJ_DIR)\i386\domain.obj \
+    $(_OBJ_DIR)\i386\join.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\ulistpg.obj \
+    $(_OBJ_DIR)\i386\data.obj \
+    $(_OBJ_DIR)\i386\unpage.obj \
+    $(_OBJ_DIR)\i386\pwpage.obj \
+    $(_OBJ_DIR)\i386\grppage.obj \
+    $(_OBJ_DIR)\i386\netpage.obj \
+    $(_OBJ_DIR)\i386\autolog.obj \
+    $(_OBJ_DIR)\i386\secdlg.obj \
+    $(_OBJ_DIR)\i386\advpg.obj \
+    $(_OBJ_DIR)\i386\userinfo.obj \
+    $(_OBJ_DIR)\i386\grpinfo.obj \
+    $(_OBJ_DIR)\i386\usercom.obj \
+    $(_OBJ_DIR)\i386\mnddlg.obj \
+    $(_OBJ_DIR)\i386\netpldat.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\resource.res \
+    $(_OBJ_DIR)\ia64\dll.obj \
+    $(_OBJ_DIR)\ia64\dialog.obj \
+    $(_OBJ_DIR)\ia64\pathpg.obj \
+    $(_OBJ_DIR)\ia64\fldrpg.obj \
+    $(_OBJ_DIR)\ia64\netfinpg.obj \
+    $(_OBJ_DIR)\ia64\ftppg.obj \
+    $(_OBJ_DIR)\ia64\password.obj \
+    $(_OBJ_DIR)\ia64\misc.obj \
+    $(_OBJ_DIR)\ia64\netwiz.obj \
+    $(_OBJ_DIR)\ia64\domain.obj \
+    $(_OBJ_DIR)\ia64\join.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\ulistpg.obj \
+    $(_OBJ_DIR)\ia64\data.obj \
+    $(_OBJ_DIR)\ia64\unpage.obj \
+    $(_OBJ_DIR)\ia64\pwpage.obj \
+    $(_OBJ_DIR)\ia64\grppage.obj \
+    $(_OBJ_DIR)\ia64\netpage.obj \
+    $(_OBJ_DIR)\ia64\autolog.obj \
+    $(_OBJ_DIR)\ia64\secdlg.obj \
+    $(_OBJ_DIR)\ia64\advpg.obj \
+    $(_OBJ_DIR)\ia64\userinfo.obj \
+    $(_OBJ_DIR)\ia64\grpinfo.obj \
+    $(_OBJ_DIR)\ia64\usercom.obj \
+    $(_OBJ_DIR)\ia64\mnddlg.obj \
+    $(_OBJ_DIR)\ia64\netpldat.obj
+
+PASS0_IA64_OBJECTS=
+

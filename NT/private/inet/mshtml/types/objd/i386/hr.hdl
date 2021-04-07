@@ -1,0 +1,25 @@
+
+// D:\NT\private\inet\mshtml\types\objd\i386\hr.hdl
+
+#ifdef _hxx_
+
+#include "D:\NT\private\inet\mshtml\types\objd\i386\hr.h"
+
+
+#endif _hxx_
+
+#undef _hxx_
+
+#ifdef _cxx_
+
+
+#ifndef _PROPDESCS_EXTERNAL
+
+#endif     // _PROPDESCS_EXTERNAL
+//    Cascaded Property get method implementations
+
+
+#endif _cxx_
+
+#undef _cxx_
+

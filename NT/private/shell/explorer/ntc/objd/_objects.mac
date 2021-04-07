@@ -1,0 +1,24 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\nothunk.obj \
+    $(_OBJ_DIR)\alpha\taskman.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\nothunk.obj \
+    $(_OBJ_DIR)\alpha64\taskman.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\nothunk.obj \
+    $(_OBJ_DIR)\i386\taskman.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\nothunk.obj \
+    $(_OBJ_DIR)\ia64\taskman.obj
+
+PASS0_IA64_OBJECTS=
+

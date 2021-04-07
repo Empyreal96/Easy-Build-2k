@@ -1,0 +1,108 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\dhtmled.res \
+    $(_OBJ_DIR)\alpha\ambients.obj \
+    $(_OBJ_DIR)\alpha\deinstab.obj \
+    $(_OBJ_DIR)\alpha\denames.obj \
+    $(_OBJ_DIR)\alpha\dhshwui.obj \
+    $(_OBJ_DIR)\alpha\dhtmled.obj \
+    $(_OBJ_DIR)\alpha\dhtmledit.obj \
+    $(_OBJ_DIR)\alpha\dhuihndl.obj \
+    $(_OBJ_DIR)\alpha\dispexa.obj \
+    $(_OBJ_DIR)\alpha\iadvsink.obj \
+    $(_OBJ_DIR)\alpha\iclisite.obj \
+    $(_OBJ_DIR)\alpha\idocsite.obj \
+    $(_OBJ_DIR)\alpha\iipsite.obj \
+    $(_OBJ_DIR)\alpha\inc.obj \
+    $(_OBJ_DIR)\alpha\ioleobj.obj \
+    $(_OBJ_DIR)\alpha\ipropsink.obj \
+    $(_OBJ_DIR)\alpha\plgprot.obj \
+    $(_OBJ_DIR)\alpha\proxyframe.obj \
+    $(_OBJ_DIR)\alpha\site.obj \
+    $(_OBJ_DIR)\alpha\trifilter.obj \
+    $(_OBJ_DIR)\alpha\win95wrp.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\dhtmled.h \
+    $(PASS0_UUIDDIR)\dhtmled.c
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\dhtmled.res \
+    $(_OBJ_DIR)\alpha64\ambients.obj \
+    $(_OBJ_DIR)\alpha64\deinstab.obj \
+    $(_OBJ_DIR)\alpha64\denames.obj \
+    $(_OBJ_DIR)\alpha64\dhshwui.obj \
+    $(_OBJ_DIR)\alpha64\dhtmled.obj \
+    $(_OBJ_DIR)\alpha64\dhtmledit.obj \
+    $(_OBJ_DIR)\alpha64\dhuihndl.obj \
+    $(_OBJ_DIR)\alpha64\dispexa.obj \
+    $(_OBJ_DIR)\alpha64\iadvsink.obj \
+    $(_OBJ_DIR)\alpha64\iclisite.obj \
+    $(_OBJ_DIR)\alpha64\idocsite.obj \
+    $(_OBJ_DIR)\alpha64\iipsite.obj \
+    $(_OBJ_DIR)\alpha64\inc.obj \
+    $(_OBJ_DIR)\alpha64\ioleobj.obj \
+    $(_OBJ_DIR)\alpha64\ipropsink.obj \
+    $(_OBJ_DIR)\alpha64\plgprot.obj \
+    $(_OBJ_DIR)\alpha64\proxyframe.obj \
+    $(_OBJ_DIR)\alpha64\site.obj \
+    $(_OBJ_DIR)\alpha64\trifilter.obj \
+    $(_OBJ_DIR)\alpha64\win95wrp.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\dhtmled.h \
+    $(PASS0_UUIDDIR)\dhtmled.c
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\dhtmled.res \
+    $(_OBJ_DIR)\i386\ambients.obj \
+    $(_OBJ_DIR)\i386\deinstab.obj \
+    $(_OBJ_DIR)\i386\denames.obj \
+    $(_OBJ_DIR)\i386\dhshwui.obj \
+    $(_OBJ_DIR)\i386\dhtmled.obj \
+    $(_OBJ_DIR)\i386\dhtmledit.obj \
+    $(_OBJ_DIR)\i386\dhuihndl.obj \
+    $(_OBJ_DIR)\i386\dispexa.obj \
+    $(_OBJ_DIR)\i386\iadvsink.obj \
+    $(_OBJ_DIR)\i386\iclisite.obj \
+    $(_OBJ_DIR)\i386\idocsite.obj \
+    $(_OBJ_DIR)\i386\iipsite.obj \
+    $(_OBJ_DIR)\i386\inc.obj \
+    $(_OBJ_DIR)\i386\ioleobj.obj \
+    $(_OBJ_DIR)\i386\ipropsink.obj \
+    $(_OBJ_DIR)\i386\plgprot.obj \
+    $(_OBJ_DIR)\i386\proxyframe.obj \
+    $(_OBJ_DIR)\i386\site.obj \
+    $(_OBJ_DIR)\i386\trifilter.obj \
+    $(_OBJ_DIR)\i386\win95wrp.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\dhtmled.h \
+    $(PASS0_UUIDDIR)\dhtmled.c
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\dhtmled.res \
+    $(_OBJ_DIR)\ia64\ambients.obj \
+    $(_OBJ_DIR)\ia64\deinstab.obj \
+    $(_OBJ_DIR)\ia64\denames.obj \
+    $(_OBJ_DIR)\ia64\dhshwui.obj \
+    $(_OBJ_DIR)\ia64\dhtmled.obj \
+    $(_OBJ_DIR)\ia64\dhtmledit.obj \
+    $(_OBJ_DIR)\ia64\dhuihndl.obj \
+    $(_OBJ_DIR)\ia64\dispexa.obj \
+    $(_OBJ_DIR)\ia64\iadvsink.obj \
+    $(_OBJ_DIR)\ia64\iclisite.obj \
+    $(_OBJ_DIR)\ia64\idocsite.obj \
+    $(_OBJ_DIR)\ia64\iipsite.obj \
+    $(_OBJ_DIR)\ia64\inc.obj \
+    $(_OBJ_DIR)\ia64\ioleobj.obj \
+    $(_OBJ_DIR)\ia64\ipropsink.obj \
+    $(_OBJ_DIR)\ia64\plgprot.obj \
+    $(_OBJ_DIR)\ia64\proxyframe.obj \
+    $(_OBJ_DIR)\ia64\site.obj \
+    $(_OBJ_DIR)\ia64\trifilter.obj \
+    $(_OBJ_DIR)\ia64\win95wrp.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\dhtmled.h \
+    $(PASS0_UUIDDIR)\dhtmled.c
+

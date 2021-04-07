@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\uce.res \
+    $(_OBJ_DIR)\alpha\enumfetc.obj \
+    $(_OBJ_DIR)\alpha\uce.obj \
+    $(_OBJ_DIR)\alpha\codepage.obj \
+    $(_OBJ_DIR)\alpha\utils.obj \
+    $(_OBJ_DIR)\alpha\kd.obj \
+    $(_OBJ_DIR)\alpha\font.obj \
+    $(_OBJ_DIR)\alpha\subset.obj \
+    $(_OBJ_DIR)\alpha\display.obj \
+    $(_OBJ_DIR)\alpha\ucefile.obj \
+    $(_OBJ_DIR)\alpha\gridlist.obj \
+    $(_OBJ_DIR)\alpha\cdataobj.obj \
+    $(_OBJ_DIR)\alpha\cdropsrc.obj \
+    $(_OBJ_DIR)\alpha\oleedit.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\uce.res \
+    $(_OBJ_DIR)\alpha64\enumfetc.obj \
+    $(_OBJ_DIR)\alpha64\uce.obj \
+    $(_OBJ_DIR)\alpha64\codepage.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj \
+    $(_OBJ_DIR)\alpha64\kd.obj \
+    $(_OBJ_DIR)\alpha64\font.obj \
+    $(_OBJ_DIR)\alpha64\subset.obj \
+    $(_OBJ_DIR)\alpha64\display.obj \
+    $(_OBJ_DIR)\alpha64\ucefile.obj \
+    $(_OBJ_DIR)\alpha64\gridlist.obj \
+    $(_OBJ_DIR)\alpha64\cdataobj.obj \
+    $(_OBJ_DIR)\alpha64\cdropsrc.obj \
+    $(_OBJ_DIR)\alpha64\oleedit.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\uce.res \
+    $(_OBJ_DIR)\i386\enumfetc.obj \
+    $(_OBJ_DIR)\i386\uce.obj \
+    $(_OBJ_DIR)\i386\codepage.obj \
+    $(_OBJ_DIR)\i386\utils.obj \
+    $(_OBJ_DIR)\i386\kd.obj \
+    $(_OBJ_DIR)\i386\font.obj \
+    $(_OBJ_DIR)\i386\subset.obj \
+    $(_OBJ_DIR)\i386\display.obj \
+    $(_OBJ_DIR)\i386\ucefile.obj \
+    $(_OBJ_DIR)\i386\gridlist.obj \
+    $(_OBJ_DIR)\i386\cdataobj.obj \
+    $(_OBJ_DIR)\i386\cdropsrc.obj \
+    $(_OBJ_DIR)\i386\oleedit.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\uce.res \
+    $(_OBJ_DIR)\ia64\enumfetc.obj \
+    $(_OBJ_DIR)\ia64\uce.obj \
+    $(_OBJ_DIR)\ia64\codepage.obj \
+    $(_OBJ_DIR)\ia64\utils.obj \
+    $(_OBJ_DIR)\ia64\kd.obj \
+    $(_OBJ_DIR)\ia64\font.obj \
+    $(_OBJ_DIR)\ia64\subset.obj \
+    $(_OBJ_DIR)\ia64\display.obj \
+    $(_OBJ_DIR)\ia64\ucefile.obj \
+    $(_OBJ_DIR)\ia64\gridlist.obj \
+    $(_OBJ_DIR)\ia64\cdataobj.obj \
+    $(_OBJ_DIR)\ia64\cdropsrc.obj \
+    $(_OBJ_DIR)\ia64\oleedit.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,48 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\olestuff.obj \
+    $(_OBJ_DIR)\alpha\ddproxy.obj \
+    $(_OBJ_DIR)\alpha\dlgcvt.obj \
+    $(_OBJ_DIR)\alpha\pager.obj \
+    $(_OBJ_DIR)\alpha\dlgcset.obj \
+    $(_OBJ_DIR)\alpha\selrange.obj \
+    $(_OBJ_DIR)\alpha\fontlink.obj \
+    $(_OBJ_DIR)\alpha\unicwrap.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\olestuff.obj \
+    $(_OBJ_DIR)\alpha64\ddproxy.obj \
+    $(_OBJ_DIR)\alpha64\dlgcvt.obj \
+    $(_OBJ_DIR)\alpha64\pager.obj \
+    $(_OBJ_DIR)\alpha64\dlgcset.obj \
+    $(_OBJ_DIR)\alpha64\selrange.obj \
+    $(_OBJ_DIR)\alpha64\fontlink.obj \
+    $(_OBJ_DIR)\alpha64\unicwrap.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\olestuff.obj \
+    $(_OBJ_DIR)\i386\ddproxy.obj \
+    $(_OBJ_DIR)\i386\dlgcvt.obj \
+    $(_OBJ_DIR)\i386\pager.obj \
+    $(_OBJ_DIR)\i386\dlgcset.obj \
+    $(_OBJ_DIR)\i386\selrange.obj \
+    $(_OBJ_DIR)\i386\fontlink.obj \
+    $(_OBJ_DIR)\i386\unicwrap.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\olestuff.obj \
+    $(_OBJ_DIR)\ia64\ddproxy.obj \
+    $(_OBJ_DIR)\ia64\dlgcvt.obj \
+    $(_OBJ_DIR)\ia64\pager.obj \
+    $(_OBJ_DIR)\ia64\dlgcset.obj \
+    $(_OBJ_DIR)\ia64\selrange.obj \
+    $(_OBJ_DIR)\ia64\fontlink.obj \
+    $(_OBJ_DIR)\ia64\unicwrap.obj
+
+PASS0_IA64_OBJECTS=
+

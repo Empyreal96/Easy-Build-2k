@@ -1,0 +1,76 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\hdwwiz.res \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\hdwwiz.obj \
+    $(_OBJ_DIR)\alpha\getdev.obj \
+    $(_OBJ_DIR)\alpha\remove.obj \
+    $(_OBJ_DIR)\alpha\devcfg.obj \
+    $(_OBJ_DIR)\alpha\taskthd.obj \
+    $(_OBJ_DIR)\alpha\sthread.obj \
+    $(_OBJ_DIR)\alpha\pnpenum.obj \
+    $(_OBJ_DIR)\alpha\install.obj \
+    $(_OBJ_DIR)\alpha\selclass.obj \
+    $(_OBJ_DIR)\alpha\analyze.obj \
+    $(_OBJ_DIR)\alpha\detect.obj \
+    $(_OBJ_DIR)\alpha\finish.obj \
+    $(_OBJ_DIR)\alpha\miscutil.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\hdwwiz.res \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\hdwwiz.obj \
+    $(_OBJ_DIR)\alpha64\getdev.obj \
+    $(_OBJ_DIR)\alpha64\remove.obj \
+    $(_OBJ_DIR)\alpha64\devcfg.obj \
+    $(_OBJ_DIR)\alpha64\taskthd.obj \
+    $(_OBJ_DIR)\alpha64\sthread.obj \
+    $(_OBJ_DIR)\alpha64\pnpenum.obj \
+    $(_OBJ_DIR)\alpha64\install.obj \
+    $(_OBJ_DIR)\alpha64\selclass.obj \
+    $(_OBJ_DIR)\alpha64\analyze.obj \
+    $(_OBJ_DIR)\alpha64\detect.obj \
+    $(_OBJ_DIR)\alpha64\finish.obj \
+    $(_OBJ_DIR)\alpha64\miscutil.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\hdwwiz.res \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\hdwwiz.obj \
+    $(_OBJ_DIR)\i386\getdev.obj \
+    $(_OBJ_DIR)\i386\remove.obj \
+    $(_OBJ_DIR)\i386\devcfg.obj \
+    $(_OBJ_DIR)\i386\taskthd.obj \
+    $(_OBJ_DIR)\i386\sthread.obj \
+    $(_OBJ_DIR)\i386\pnpenum.obj \
+    $(_OBJ_DIR)\i386\install.obj \
+    $(_OBJ_DIR)\i386\selclass.obj \
+    $(_OBJ_DIR)\i386\analyze.obj \
+    $(_OBJ_DIR)\i386\detect.obj \
+    $(_OBJ_DIR)\i386\finish.obj \
+    $(_OBJ_DIR)\i386\miscutil.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\hdwwiz.res \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\hdwwiz.obj \
+    $(_OBJ_DIR)\ia64\getdev.obj \
+    $(_OBJ_DIR)\ia64\remove.obj \
+    $(_OBJ_DIR)\ia64\devcfg.obj \
+    $(_OBJ_DIR)\ia64\taskthd.obj \
+    $(_OBJ_DIR)\ia64\sthread.obj \
+    $(_OBJ_DIR)\ia64\pnpenum.obj \
+    $(_OBJ_DIR)\ia64\install.obj \
+    $(_OBJ_DIR)\ia64\selclass.obj \
+    $(_OBJ_DIR)\ia64\analyze.obj \
+    $(_OBJ_DIR)\ia64\detect.obj \
+    $(_OBJ_DIR)\ia64\finish.obj \
+    $(_OBJ_DIR)\ia64\miscutil.obj
+
+PASS0_IA64_OBJECTS=
+

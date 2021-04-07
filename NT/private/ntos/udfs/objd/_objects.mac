@@ -1,0 +1,124 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\udfs.res \
+    $(_OBJ_DIR)\alpha\allocsup.obj \
+    $(_OBJ_DIR)\alpha\cachesup.obj \
+    $(_OBJ_DIR)\alpha\cleanup.obj \
+    $(_OBJ_DIR)\alpha\close.obj \
+    $(_OBJ_DIR)\alpha\create.obj \
+    $(_OBJ_DIR)\alpha\devctrl.obj \
+    $(_OBJ_DIR)\alpha\deviosup.obj \
+    $(_OBJ_DIR)\alpha\dirctrl.obj \
+    $(_OBJ_DIR)\alpha\dirsup.obj \
+    $(_OBJ_DIR)\alpha\fileinfo.obj \
+    $(_OBJ_DIR)\alpha\filobsup.obj \
+    $(_OBJ_DIR)\alpha\fsctrl.obj \
+    $(_OBJ_DIR)\alpha\fspdisp.obj \
+    $(_OBJ_DIR)\alpha\lockctrl.obj \
+    $(_OBJ_DIR)\alpha\namesup.obj \
+    $(_OBJ_DIR)\alpha\pnp.obj \
+    $(_OBJ_DIR)\alpha\prefxsup.obj \
+    $(_OBJ_DIR)\alpha\read.obj \
+    $(_OBJ_DIR)\alpha\resrcsup.obj \
+    $(_OBJ_DIR)\alpha\strucsup.obj \
+    $(_OBJ_DIR)\alpha\udfdata.obj \
+    $(_OBJ_DIR)\alpha\udfinit.obj \
+    $(_OBJ_DIR)\alpha\verfysup.obj \
+    $(_OBJ_DIR)\alpha\vmcbsup.obj \
+    $(_OBJ_DIR)\alpha\volinfo.obj \
+    $(_OBJ_DIR)\alpha\workque.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\udfs.res \
+    $(_OBJ_DIR)\alpha64\allocsup.obj \
+    $(_OBJ_DIR)\alpha64\cachesup.obj \
+    $(_OBJ_DIR)\alpha64\cleanup.obj \
+    $(_OBJ_DIR)\alpha64\close.obj \
+    $(_OBJ_DIR)\alpha64\create.obj \
+    $(_OBJ_DIR)\alpha64\devctrl.obj \
+    $(_OBJ_DIR)\alpha64\deviosup.obj \
+    $(_OBJ_DIR)\alpha64\dirctrl.obj \
+    $(_OBJ_DIR)\alpha64\dirsup.obj \
+    $(_OBJ_DIR)\alpha64\fileinfo.obj \
+    $(_OBJ_DIR)\alpha64\filobsup.obj \
+    $(_OBJ_DIR)\alpha64\fsctrl.obj \
+    $(_OBJ_DIR)\alpha64\fspdisp.obj \
+    $(_OBJ_DIR)\alpha64\lockctrl.obj \
+    $(_OBJ_DIR)\alpha64\namesup.obj \
+    $(_OBJ_DIR)\alpha64\pnp.obj \
+    $(_OBJ_DIR)\alpha64\prefxsup.obj \
+    $(_OBJ_DIR)\alpha64\read.obj \
+    $(_OBJ_DIR)\alpha64\resrcsup.obj \
+    $(_OBJ_DIR)\alpha64\strucsup.obj \
+    $(_OBJ_DIR)\alpha64\udfdata.obj \
+    $(_OBJ_DIR)\alpha64\udfinit.obj \
+    $(_OBJ_DIR)\alpha64\verfysup.obj \
+    $(_OBJ_DIR)\alpha64\vmcbsup.obj \
+    $(_OBJ_DIR)\alpha64\volinfo.obj \
+    $(_OBJ_DIR)\alpha64\workque.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\udfs.res \
+    $(_OBJ_DIR)\i386\allocsup.obj \
+    $(_OBJ_DIR)\i386\cachesup.obj \
+    $(_OBJ_DIR)\i386\cleanup.obj \
+    $(_OBJ_DIR)\i386\close.obj \
+    $(_OBJ_DIR)\i386\create.obj \
+    $(_OBJ_DIR)\i386\devctrl.obj \
+    $(_OBJ_DIR)\i386\deviosup.obj \
+    $(_OBJ_DIR)\i386\dirctrl.obj \
+    $(_OBJ_DIR)\i386\dirsup.obj \
+    $(_OBJ_DIR)\i386\fileinfo.obj \
+    $(_OBJ_DIR)\i386\filobsup.obj \
+    $(_OBJ_DIR)\i386\fsctrl.obj \
+    $(_OBJ_DIR)\i386\fspdisp.obj \
+    $(_OBJ_DIR)\i386\lockctrl.obj \
+    $(_OBJ_DIR)\i386\namesup.obj \
+    $(_OBJ_DIR)\i386\pnp.obj \
+    $(_OBJ_DIR)\i386\prefxsup.obj \
+    $(_OBJ_DIR)\i386\read.obj \
+    $(_OBJ_DIR)\i386\resrcsup.obj \
+    $(_OBJ_DIR)\i386\strucsup.obj \
+    $(_OBJ_DIR)\i386\udfdata.obj \
+    $(_OBJ_DIR)\i386\udfinit.obj \
+    $(_OBJ_DIR)\i386\verfysup.obj \
+    $(_OBJ_DIR)\i386\vmcbsup.obj \
+    $(_OBJ_DIR)\i386\volinfo.obj \
+    $(_OBJ_DIR)\i386\workque.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\udfs.res \
+    $(_OBJ_DIR)\ia64\allocsup.obj \
+    $(_OBJ_DIR)\ia64\cachesup.obj \
+    $(_OBJ_DIR)\ia64\cleanup.obj \
+    $(_OBJ_DIR)\ia64\close.obj \
+    $(_OBJ_DIR)\ia64\create.obj \
+    $(_OBJ_DIR)\ia64\devctrl.obj \
+    $(_OBJ_DIR)\ia64\deviosup.obj \
+    $(_OBJ_DIR)\ia64\dirctrl.obj \
+    $(_OBJ_DIR)\ia64\dirsup.obj \
+    $(_OBJ_DIR)\ia64\fileinfo.obj \
+    $(_OBJ_DIR)\ia64\filobsup.obj \
+    $(_OBJ_DIR)\ia64\fsctrl.obj \
+    $(_OBJ_DIR)\ia64\fspdisp.obj \
+    $(_OBJ_DIR)\ia64\lockctrl.obj \
+    $(_OBJ_DIR)\ia64\namesup.obj \
+    $(_OBJ_DIR)\ia64\pnp.obj \
+    $(_OBJ_DIR)\ia64\prefxsup.obj \
+    $(_OBJ_DIR)\ia64\read.obj \
+    $(_OBJ_DIR)\ia64\resrcsup.obj \
+    $(_OBJ_DIR)\ia64\strucsup.obj \
+    $(_OBJ_DIR)\ia64\udfdata.obj \
+    $(_OBJ_DIR)\ia64\udfinit.obj \
+    $(_OBJ_DIR)\ia64\verfysup.obj \
+    $(_OBJ_DIR)\ia64\vmcbsup.obj \
+    $(_OBJ_DIR)\ia64\volinfo.obj \
+    $(_OBJ_DIR)\ia64\workque.obj
+
+PASS0_IA64_OBJECTS=
+

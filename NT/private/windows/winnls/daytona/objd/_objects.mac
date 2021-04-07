@@ -1,0 +1,80 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\ansi.obj \
+    $(_OBJ_DIR)\alpha\csrlocal.obj \
+    $(_OBJ_DIR)\alpha\csrtables.obj \
+    $(_OBJ_DIR)\alpha\datetime.obj \
+    $(_OBJ_DIR)\alpha\enum.obj \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\locale.obj \
+    $(_OBJ_DIR)\alpha\map.obj \
+    $(_OBJ_DIR)\alpha\mbcs.obj \
+    $(_OBJ_DIR)\alpha\number.obj \
+    $(_OBJ_DIR)\alpha\section.obj \
+    $(_OBJ_DIR)\alpha\string.obj \
+    $(_OBJ_DIR)\alpha\tables.obj \
+    $(_OBJ_DIR)\alpha\utf.obj \
+    $(_OBJ_DIR)\alpha\util.obj \
+    $(_OBJ_DIR)\alpha\security.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\ansi.obj \
+    $(_OBJ_DIR)\alpha64\csrlocal.obj \
+    $(_OBJ_DIR)\alpha64\csrtables.obj \
+    $(_OBJ_DIR)\alpha64\datetime.obj \
+    $(_OBJ_DIR)\alpha64\enum.obj \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\locale.obj \
+    $(_OBJ_DIR)\alpha64\map.obj \
+    $(_OBJ_DIR)\alpha64\mbcs.obj \
+    $(_OBJ_DIR)\alpha64\number.obj \
+    $(_OBJ_DIR)\alpha64\section.obj \
+    $(_OBJ_DIR)\alpha64\string.obj \
+    $(_OBJ_DIR)\alpha64\tables.obj \
+    $(_OBJ_DIR)\alpha64\utf.obj \
+    $(_OBJ_DIR)\alpha64\util.obj \
+    $(_OBJ_DIR)\alpha64\security.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\ansi.obj \
+    $(_OBJ_DIR)\i386\csrlocal.obj \
+    $(_OBJ_DIR)\i386\csrtables.obj \
+    $(_OBJ_DIR)\i386\datetime.obj \
+    $(_OBJ_DIR)\i386\enum.obj \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\locale.obj \
+    $(_OBJ_DIR)\i386\map.obj \
+    $(_OBJ_DIR)\i386\mbcs.obj \
+    $(_OBJ_DIR)\i386\number.obj \
+    $(_OBJ_DIR)\i386\section.obj \
+    $(_OBJ_DIR)\i386\string.obj \
+    $(_OBJ_DIR)\i386\tables.obj \
+    $(_OBJ_DIR)\i386\utf.obj \
+    $(_OBJ_DIR)\i386\util.obj \
+    $(_OBJ_DIR)\i386\security.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\ansi.obj \
+    $(_OBJ_DIR)\ia64\csrlocal.obj \
+    $(_OBJ_DIR)\ia64\csrtables.obj \
+    $(_OBJ_DIR)\ia64\datetime.obj \
+    $(_OBJ_DIR)\ia64\enum.obj \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\locale.obj \
+    $(_OBJ_DIR)\ia64\map.obj \
+    $(_OBJ_DIR)\ia64\mbcs.obj \
+    $(_OBJ_DIR)\ia64\number.obj \
+    $(_OBJ_DIR)\ia64\section.obj \
+    $(_OBJ_DIR)\ia64\string.obj \
+    $(_OBJ_DIR)\ia64\tables.obj \
+    $(_OBJ_DIR)\ia64\utf.obj \
+    $(_OBJ_DIR)\ia64\util.obj \
+    $(_OBJ_DIR)\ia64\security.obj
+
+PASS0_IA64_OBJECTS=
+

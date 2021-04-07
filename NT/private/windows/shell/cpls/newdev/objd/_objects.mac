@@ -1,0 +1,60 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\newdev.res \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\intro.obj \
+    $(_OBJ_DIR)\alpha\newdev.obj \
+    $(_OBJ_DIR)\alpha\analyze.obj \
+    $(_OBJ_DIR)\alpha\selclass.obj \
+    $(_OBJ_DIR)\alpha\finish.obj \
+    $(_OBJ_DIR)\alpha\update.obj \
+    $(_OBJ_DIR)\alpha\search.obj \
+    $(_OBJ_DIR)\alpha\sthread.obj \
+    $(_OBJ_DIR)\alpha\miscutil.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\newdev.res \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\intro.obj \
+    $(_OBJ_DIR)\alpha64\newdev.obj \
+    $(_OBJ_DIR)\alpha64\analyze.obj \
+    $(_OBJ_DIR)\alpha64\selclass.obj \
+    $(_OBJ_DIR)\alpha64\finish.obj \
+    $(_OBJ_DIR)\alpha64\update.obj \
+    $(_OBJ_DIR)\alpha64\search.obj \
+    $(_OBJ_DIR)\alpha64\sthread.obj \
+    $(_OBJ_DIR)\alpha64\miscutil.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\newdev.res \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\intro.obj \
+    $(_OBJ_DIR)\i386\newdev.obj \
+    $(_OBJ_DIR)\i386\analyze.obj \
+    $(_OBJ_DIR)\i386\selclass.obj \
+    $(_OBJ_DIR)\i386\finish.obj \
+    $(_OBJ_DIR)\i386\update.obj \
+    $(_OBJ_DIR)\i386\search.obj \
+    $(_OBJ_DIR)\i386\sthread.obj \
+    $(_OBJ_DIR)\i386\miscutil.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\newdev.res \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\intro.obj \
+    $(_OBJ_DIR)\ia64\newdev.obj \
+    $(_OBJ_DIR)\ia64\analyze.obj \
+    $(_OBJ_DIR)\ia64\selclass.obj \
+    $(_OBJ_DIR)\ia64\finish.obj \
+    $(_OBJ_DIR)\ia64\update.obj \
+    $(_OBJ_DIR)\ia64\search.obj \
+    $(_OBJ_DIR)\ia64\sthread.obj \
+    $(_OBJ_DIR)\ia64\miscutil.obj
+
+PASS0_IA64_OBJECTS=
+

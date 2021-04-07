@@ -1,0 +1,36 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\zoneutil.obj \
+    $(_OBJ_DIR)\alpha\urlenum.obj \
+    $(_OBJ_DIR)\alpha\regzone.obj \
+    $(_OBJ_DIR)\alpha\zonemgr.obj \
+    $(_OBJ_DIR)\alpha\secmgr.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\zoneutil.obj \
+    $(_OBJ_DIR)\alpha64\urlenum.obj \
+    $(_OBJ_DIR)\alpha64\regzone.obj \
+    $(_OBJ_DIR)\alpha64\zonemgr.obj \
+    $(_OBJ_DIR)\alpha64\secmgr.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\zoneutil.obj \
+    $(_OBJ_DIR)\i386\urlenum.obj \
+    $(_OBJ_DIR)\i386\regzone.obj \
+    $(_OBJ_DIR)\i386\zonemgr.obj \
+    $(_OBJ_DIR)\i386\secmgr.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\zoneutil.obj \
+    $(_OBJ_DIR)\ia64\urlenum.obj \
+    $(_OBJ_DIR)\ia64\regzone.obj \
+    $(_OBJ_DIR)\ia64\zonemgr.obj \
+    $(_OBJ_DIR)\ia64\secmgr.obj
+
+PASS0_IA64_OBJECTS=
+

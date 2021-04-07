@@ -1,0 +1,180 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\mlang.res \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\mimedb.obj \
+    $(_OBJ_DIR)\alpha\mimereg.obj \
+    $(_OBJ_DIR)\alpha\rfc1766.obj \
+    $(_OBJ_DIR)\alpha\enumcp.obj \
+    $(_OBJ_DIR)\alpha\mlang.obj \
+    $(_OBJ_DIR)\alpha\dllload.obj \
+    $(_OBJ_DIR)\alpha\reg.obj \
+    $(_OBJ_DIR)\alpha\utf8obj.obj \
+    $(_OBJ_DIR)\alpha\utf7obj.obj \
+    $(_OBJ_DIR)\alpha\ichrcnv.obj \
+    $(_OBJ_DIR)\alpha\convbase.obj \
+    $(_OBJ_DIR)\alpha\convinet.obj \
+    $(_OBJ_DIR)\alpha\detcbase.obj \
+    $(_OBJ_DIR)\alpha\kscobj.obj \
+    $(_OBJ_DIR)\alpha\eucjobj.obj \
+    $(_OBJ_DIR)\alpha\hzgbobj.obj \
+    $(_OBJ_DIR)\alpha\jisobj.obj \
+    $(_OBJ_DIR)\alpha\convobj.obj \
+    $(_OBJ_DIR)\alpha\mlflink.obj \
+    $(_OBJ_DIR)\alpha\mlstr.obj \
+    $(_OBJ_DIR)\alpha\mlstrw.obj \
+    $(_OBJ_DIR)\alpha\mlstra.obj \
+    $(_OBJ_DIR)\alpha\mlswalk.obj \
+    $(_OBJ_DIR)\alpha\mllbcons.obj \
+    $(_OBJ_DIR)\alpha\attrstr.obj \
+    $(_OBJ_DIR)\alpha\attrstrw.obj \
+    $(_OBJ_DIR)\alpha\attrstra.obj \
+    $(_OBJ_DIR)\alpha\attrloc.obj \
+    $(_OBJ_DIR)\alpha\util.obj \
+    $(_OBJ_DIR)\alpha\fechauto.obj \
+    $(_OBJ_DIR)\alpha\fechmap.obj \
+    $(_OBJ_DIR)\alpha\jislex.obj \
+    $(_OBJ_DIR)\alpha\lcinit.obj \
+    $(_OBJ_DIR)\alpha\detcjpn.obj \
+    $(_OBJ_DIR)\alpha\detckrn.obj \
+    $(_OBJ_DIR)\alpha\cpdetect.obj \
+    $(_OBJ_DIR)\alpha\lcdetect.obj \
+    $(_OBJ_DIR)\alpha\validate.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\mlang.res \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\mimedb.obj \
+    $(_OBJ_DIR)\alpha64\mimereg.obj \
+    $(_OBJ_DIR)\alpha64\rfc1766.obj \
+    $(_OBJ_DIR)\alpha64\enumcp.obj \
+    $(_OBJ_DIR)\alpha64\mlang.obj \
+    $(_OBJ_DIR)\alpha64\dllload.obj \
+    $(_OBJ_DIR)\alpha64\reg.obj \
+    $(_OBJ_DIR)\alpha64\utf8obj.obj \
+    $(_OBJ_DIR)\alpha64\utf7obj.obj \
+    $(_OBJ_DIR)\alpha64\ichrcnv.obj \
+    $(_OBJ_DIR)\alpha64\convbase.obj \
+    $(_OBJ_DIR)\alpha64\convinet.obj \
+    $(_OBJ_DIR)\alpha64\detcbase.obj \
+    $(_OBJ_DIR)\alpha64\kscobj.obj \
+    $(_OBJ_DIR)\alpha64\eucjobj.obj \
+    $(_OBJ_DIR)\alpha64\hzgbobj.obj \
+    $(_OBJ_DIR)\alpha64\jisobj.obj \
+    $(_OBJ_DIR)\alpha64\convobj.obj \
+    $(_OBJ_DIR)\alpha64\mlflink.obj \
+    $(_OBJ_DIR)\alpha64\mlstr.obj \
+    $(_OBJ_DIR)\alpha64\mlstrw.obj \
+    $(_OBJ_DIR)\alpha64\mlstra.obj \
+    $(_OBJ_DIR)\alpha64\mlswalk.obj \
+    $(_OBJ_DIR)\alpha64\mllbcons.obj \
+    $(_OBJ_DIR)\alpha64\attrstr.obj \
+    $(_OBJ_DIR)\alpha64\attrstrw.obj \
+    $(_OBJ_DIR)\alpha64\attrstra.obj \
+    $(_OBJ_DIR)\alpha64\attrloc.obj \
+    $(_OBJ_DIR)\alpha64\util.obj \
+    $(_OBJ_DIR)\alpha64\fechauto.obj \
+    $(_OBJ_DIR)\alpha64\fechmap.obj \
+    $(_OBJ_DIR)\alpha64\jislex.obj \
+    $(_OBJ_DIR)\alpha64\lcinit.obj \
+    $(_OBJ_DIR)\alpha64\detcjpn.obj \
+    $(_OBJ_DIR)\alpha64\detckrn.obj \
+    $(_OBJ_DIR)\alpha64\cpdetect.obj \
+    $(_OBJ_DIR)\alpha64\lcdetect.obj \
+    $(_OBJ_DIR)\alpha64\validate.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\mlang.res \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\mimedb.obj \
+    $(_OBJ_DIR)\i386\mimereg.obj \
+    $(_OBJ_DIR)\i386\rfc1766.obj \
+    $(_OBJ_DIR)\i386\enumcp.obj \
+    $(_OBJ_DIR)\i386\mlang.obj \
+    $(_OBJ_DIR)\i386\dllload.obj \
+    $(_OBJ_DIR)\i386\reg.obj \
+    $(_OBJ_DIR)\i386\utf8obj.obj \
+    $(_OBJ_DIR)\i386\utf7obj.obj \
+    $(_OBJ_DIR)\i386\ichrcnv.obj \
+    $(_OBJ_DIR)\i386\convbase.obj \
+    $(_OBJ_DIR)\i386\convinet.obj \
+    $(_OBJ_DIR)\i386\detcbase.obj \
+    $(_OBJ_DIR)\i386\kscobj.obj \
+    $(_OBJ_DIR)\i386\eucjobj.obj \
+    $(_OBJ_DIR)\i386\hzgbobj.obj \
+    $(_OBJ_DIR)\i386\jisobj.obj \
+    $(_OBJ_DIR)\i386\convobj.obj \
+    $(_OBJ_DIR)\i386\mlflink.obj \
+    $(_OBJ_DIR)\i386\mlstr.obj \
+    $(_OBJ_DIR)\i386\mlstrw.obj \
+    $(_OBJ_DIR)\i386\mlstra.obj \
+    $(_OBJ_DIR)\i386\mlswalk.obj \
+    $(_OBJ_DIR)\i386\mllbcons.obj \
+    $(_OBJ_DIR)\i386\attrstr.obj \
+    $(_OBJ_DIR)\i386\attrstrw.obj \
+    $(_OBJ_DIR)\i386\attrstra.obj \
+    $(_OBJ_DIR)\i386\attrloc.obj \
+    $(_OBJ_DIR)\i386\util.obj \
+    $(_OBJ_DIR)\i386\fechauto.obj \
+    $(_OBJ_DIR)\i386\fechmap.obj \
+    $(_OBJ_DIR)\i386\jislex.obj \
+    $(_OBJ_DIR)\i386\lcinit.obj \
+    $(_OBJ_DIR)\i386\detcjpn.obj \
+    $(_OBJ_DIR)\i386\detckrn.obj \
+    $(_OBJ_DIR)\i386\cpdetect.obj \
+    $(_OBJ_DIR)\i386\lcdetect.obj \
+    $(_OBJ_DIR)\i386\validate.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\mlang.res \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\mimedb.obj \
+    $(_OBJ_DIR)\ia64\mimereg.obj \
+    $(_OBJ_DIR)\ia64\rfc1766.obj \
+    $(_OBJ_DIR)\ia64\enumcp.obj \
+    $(_OBJ_DIR)\ia64\mlang.obj \
+    $(_OBJ_DIR)\ia64\dllload.obj \
+    $(_OBJ_DIR)\ia64\reg.obj \
+    $(_OBJ_DIR)\ia64\utf8obj.obj \
+    $(_OBJ_DIR)\ia64\utf7obj.obj \
+    $(_OBJ_DIR)\ia64\ichrcnv.obj \
+    $(_OBJ_DIR)\ia64\convbase.obj \
+    $(_OBJ_DIR)\ia64\convinet.obj \
+    $(_OBJ_DIR)\ia64\detcbase.obj \
+    $(_OBJ_DIR)\ia64\kscobj.obj \
+    $(_OBJ_DIR)\ia64\eucjobj.obj \
+    $(_OBJ_DIR)\ia64\hzgbobj.obj \
+    $(_OBJ_DIR)\ia64\jisobj.obj \
+    $(_OBJ_DIR)\ia64\convobj.obj \
+    $(_OBJ_DIR)\ia64\mlflink.obj \
+    $(_OBJ_DIR)\ia64\mlstr.obj \
+    $(_OBJ_DIR)\ia64\mlstrw.obj \
+    $(_OBJ_DIR)\ia64\mlstra.obj \
+    $(_OBJ_DIR)\ia64\mlswalk.obj \
+    $(_OBJ_DIR)\ia64\mllbcons.obj \
+    $(_OBJ_DIR)\ia64\attrstr.obj \
+    $(_OBJ_DIR)\ia64\attrstrw.obj \
+    $(_OBJ_DIR)\ia64\attrstra.obj \
+    $(_OBJ_DIR)\ia64\attrloc.obj \
+    $(_OBJ_DIR)\ia64\util.obj \
+    $(_OBJ_DIR)\ia64\fechauto.obj \
+    $(_OBJ_DIR)\ia64\fechmap.obj \
+    $(_OBJ_DIR)\ia64\jislex.obj \
+    $(_OBJ_DIR)\ia64\lcinit.obj \
+    $(_OBJ_DIR)\ia64\detcjpn.obj \
+    $(_OBJ_DIR)\ia64\detckrn.obj \
+    $(_OBJ_DIR)\ia64\cpdetect.obj \
+    $(_OBJ_DIR)\ia64\lcdetect.obj \
+    $(_OBJ_DIR)\ia64\validate.obj
+
+PASS0_IA64_OBJECTS=
+

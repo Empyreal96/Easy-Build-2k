@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\perfdisk.res \
+    $(_OBJ_DIR)\alpha\dataphys.obj \
+    $(_OBJ_DIR)\alpha\datalogi.obj \
+    $(_OBJ_DIR)\alpha\perfdisk.obj \
+    $(_OBJ_DIR)\alpha\physdisk.obj \
+    $(_OBJ_DIR)\alpha\logidisk.obj \
+    $(_OBJ_DIR)\alpha\diskutil.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\diskmsg.h \
+    $(PASS0_SOURCEDIR)\diskmsg.rc
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\perfdisk.res \
+    $(_OBJ_DIR)\alpha64\dataphys.obj \
+    $(_OBJ_DIR)\alpha64\datalogi.obj \
+    $(_OBJ_DIR)\alpha64\perfdisk.obj \
+    $(_OBJ_DIR)\alpha64\physdisk.obj \
+    $(_OBJ_DIR)\alpha64\logidisk.obj \
+    $(_OBJ_DIR)\alpha64\diskutil.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\diskmsg.h \
+    $(PASS0_SOURCEDIR)\diskmsg.rc
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\perfdisk.res \
+    $(_OBJ_DIR)\i386\dataphys.obj \
+    $(_OBJ_DIR)\i386\datalogi.obj \
+    $(_OBJ_DIR)\i386\perfdisk.obj \
+    $(_OBJ_DIR)\i386\physdisk.obj \
+    $(_OBJ_DIR)\i386\logidisk.obj \
+    $(_OBJ_DIR)\i386\diskutil.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\diskmsg.h \
+    $(PASS0_SOURCEDIR)\diskmsg.rc
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\perfdisk.res \
+    $(_OBJ_DIR)\ia64\dataphys.obj \
+    $(_OBJ_DIR)\ia64\datalogi.obj \
+    $(_OBJ_DIR)\ia64\perfdisk.obj \
+    $(_OBJ_DIR)\ia64\physdisk.obj \
+    $(_OBJ_DIR)\ia64\logidisk.obj \
+    $(_OBJ_DIR)\ia64\diskutil.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\diskmsg.h \
+    $(PASS0_SOURCEDIR)\diskmsg.rc
+

@@ -1,0 +1,48 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\defsrv32.obj \
+    $(_OBJ_DIR)\alpha\enum.obj \
+    $(_OBJ_DIR)\alpha\defprop.obj \
+    $(_OBJ_DIR)\alpha\imageprop.obj \
+    $(_OBJ_DIR)\alpha\mruprop.obj \
+    $(_OBJ_DIR)\alpha\colprov.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\ptsrv32.h \
+    $(PASS0_UUIDDIR)\ptsrv32.c
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\defsrv32.obj \
+    $(_OBJ_DIR)\alpha64\enum.obj \
+    $(_OBJ_DIR)\alpha64\defprop.obj \
+    $(_OBJ_DIR)\alpha64\imageprop.obj \
+    $(_OBJ_DIR)\alpha64\mruprop.obj \
+    $(_OBJ_DIR)\alpha64\colprov.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\ptsrv32.h \
+    $(PASS0_UUIDDIR)\ptsrv32.c
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\defsrv32.obj \
+    $(_OBJ_DIR)\i386\enum.obj \
+    $(_OBJ_DIR)\i386\defprop.obj \
+    $(_OBJ_DIR)\i386\imageprop.obj \
+    $(_OBJ_DIR)\i386\mruprop.obj \
+    $(_OBJ_DIR)\i386\colprov.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\ptsrv32.h \
+    $(PASS0_UUIDDIR)\ptsrv32.c
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\defsrv32.obj \
+    $(_OBJ_DIR)\ia64\enum.obj \
+    $(_OBJ_DIR)\ia64\defprop.obj \
+    $(_OBJ_DIR)\ia64\imageprop.obj \
+    $(_OBJ_DIR)\ia64\mruprop.obj \
+    $(_OBJ_DIR)\ia64\colprov.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\ptsrv32.h \
+    $(PASS0_UUIDDIR)\ptsrv32.c
+

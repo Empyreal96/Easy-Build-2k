@@ -1,0 +1,112 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\provideclassinfo.obj \
+    $(_OBJ_DIR)\alpha\domnode.obj \
+    $(_OBJ_DIR)\alpha\w3cdom.obj \
+    $(_OBJ_DIR)\alpha\node.obj \
+    $(_OBJ_DIR)\alpha\xmldom.obj \
+    $(_OBJ_DIR)\alpha\document.obj \
+    $(_OBJ_DIR)\alpha\eventhelp.obj \
+    $(_OBJ_DIR)\alpha\idomerror.obj \
+    $(_OBJ_DIR)\alpha\iobjectsafety.obj \
+    $(_OBJ_DIR)\alpha\iobjectwithsite.obj \
+    $(_OBJ_DIR)\alpha\iolecommandtarget.obj \
+    $(_OBJ_DIR)\alpha\msxmlcom.obj \
+    $(_OBJ_DIR)\alpha\xmldocument.obj \
+    $(_OBJ_DIR)\alpha\xmlerror.obj \
+    $(_OBJ_DIR)\alpha\element.obj \
+    $(_OBJ_DIR)\alpha\nodedatanodefactory.obj \
+    $(_OBJ_DIR)\alpha\namespacenodefactory.obj \
+    $(_OBJ_DIR)\alpha\namespacemgr.obj \
+    $(_OBJ_DIR)\alpha\domimplementation.obj \
+    $(_OBJ_DIR)\alpha\xqlnodelist.obj \
+    $(_OBJ_DIR)\alpha\enumvariant.obj \
+    $(_OBJ_DIR)\alpha\ie4nodefactory.obj \
+    $(_OBJ_DIR)\alpha\omlock.obj \
+    $(_OBJ_DIR)\alpha\docstream.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\provideclassinfo.obj \
+    $(_OBJ_DIR)\alpha64\domnode.obj \
+    $(_OBJ_DIR)\alpha64\w3cdom.obj \
+    $(_OBJ_DIR)\alpha64\node.obj \
+    $(_OBJ_DIR)\alpha64\xmldom.obj \
+    $(_OBJ_DIR)\alpha64\document.obj \
+    $(_OBJ_DIR)\alpha64\eventhelp.obj \
+    $(_OBJ_DIR)\alpha64\idomerror.obj \
+    $(_OBJ_DIR)\alpha64\iobjectsafety.obj \
+    $(_OBJ_DIR)\alpha64\iobjectwithsite.obj \
+    $(_OBJ_DIR)\alpha64\iolecommandtarget.obj \
+    $(_OBJ_DIR)\alpha64\msxmlcom.obj \
+    $(_OBJ_DIR)\alpha64\xmldocument.obj \
+    $(_OBJ_DIR)\alpha64\xmlerror.obj \
+    $(_OBJ_DIR)\alpha64\element.obj \
+    $(_OBJ_DIR)\alpha64\nodedatanodefactory.obj \
+    $(_OBJ_DIR)\alpha64\namespacenodefactory.obj \
+    $(_OBJ_DIR)\alpha64\namespacemgr.obj \
+    $(_OBJ_DIR)\alpha64\domimplementation.obj \
+    $(_OBJ_DIR)\alpha64\xqlnodelist.obj \
+    $(_OBJ_DIR)\alpha64\enumvariant.obj \
+    $(_OBJ_DIR)\alpha64\ie4nodefactory.obj \
+    $(_OBJ_DIR)\alpha64\omlock.obj \
+    $(_OBJ_DIR)\alpha64\docstream.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\provideclassinfo.obj \
+    $(_OBJ_DIR)\i386\domnode.obj \
+    $(_OBJ_DIR)\i386\w3cdom.obj \
+    $(_OBJ_DIR)\i386\node.obj \
+    $(_OBJ_DIR)\i386\xmldom.obj \
+    $(_OBJ_DIR)\i386\document.obj \
+    $(_OBJ_DIR)\i386\eventhelp.obj \
+    $(_OBJ_DIR)\i386\idomerror.obj \
+    $(_OBJ_DIR)\i386\iobjectsafety.obj \
+    $(_OBJ_DIR)\i386\iobjectwithsite.obj \
+    $(_OBJ_DIR)\i386\iolecommandtarget.obj \
+    $(_OBJ_DIR)\i386\msxmlcom.obj \
+    $(_OBJ_DIR)\i386\xmldocument.obj \
+    $(_OBJ_DIR)\i386\xmlerror.obj \
+    $(_OBJ_DIR)\i386\element.obj \
+    $(_OBJ_DIR)\i386\nodedatanodefactory.obj \
+    $(_OBJ_DIR)\i386\namespacenodefactory.obj \
+    $(_OBJ_DIR)\i386\namespacemgr.obj \
+    $(_OBJ_DIR)\i386\domimplementation.obj \
+    $(_OBJ_DIR)\i386\xqlnodelist.obj \
+    $(_OBJ_DIR)\i386\enumvariant.obj \
+    $(_OBJ_DIR)\i386\ie4nodefactory.obj \
+    $(_OBJ_DIR)\i386\omlock.obj \
+    $(_OBJ_DIR)\i386\docstream.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\provideclassinfo.obj \
+    $(_OBJ_DIR)\ia64\domnode.obj \
+    $(_OBJ_DIR)\ia64\w3cdom.obj \
+    $(_OBJ_DIR)\ia64\node.obj \
+    $(_OBJ_DIR)\ia64\xmldom.obj \
+    $(_OBJ_DIR)\ia64\document.obj \
+    $(_OBJ_DIR)\ia64\eventhelp.obj \
+    $(_OBJ_DIR)\ia64\idomerror.obj \
+    $(_OBJ_DIR)\ia64\iobjectsafety.obj \
+    $(_OBJ_DIR)\ia64\iobjectwithsite.obj \
+    $(_OBJ_DIR)\ia64\iolecommandtarget.obj \
+    $(_OBJ_DIR)\ia64\msxmlcom.obj \
+    $(_OBJ_DIR)\ia64\xmldocument.obj \
+    $(_OBJ_DIR)\ia64\xmlerror.obj \
+    $(_OBJ_DIR)\ia64\element.obj \
+    $(_OBJ_DIR)\ia64\nodedatanodefactory.obj \
+    $(_OBJ_DIR)\ia64\namespacenodefactory.obj \
+    $(_OBJ_DIR)\ia64\namespacemgr.obj \
+    $(_OBJ_DIR)\ia64\domimplementation.obj \
+    $(_OBJ_DIR)\ia64\xqlnodelist.obj \
+    $(_OBJ_DIR)\ia64\enumvariant.obj \
+    $(_OBJ_DIR)\ia64\ie4nodefactory.obj \
+    $(_OBJ_DIR)\ia64\omlock.obj \
+    $(_OBJ_DIR)\ia64\docstream.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,100 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\pad.res \
+    $(_OBJ_DIR)\alpha\pad_wrap.obj \
+    $(_OBJ_DIR)\alpha\cenum.obj \
+    $(_OBJ_DIR)\alpha\padauto.obj \
+    $(_OBJ_DIR)\alpha\padbsc.obj \
+    $(_OBJ_DIR)\alpha\paddebug.obj \
+    $(_OBJ_DIR)\alpha\paddoc.obj \
+    $(_OBJ_DIR)\alpha\padfact.obj \
+    $(_OBJ_DIR)\alpha\padframe.obj \
+    $(_OBJ_DIR)\alpha\padguid.obj \
+    $(_OBJ_DIR)\alpha\padmain.obj \
+    $(_OBJ_DIR)\alpha\padole.obj \
+    $(_OBJ_DIR)\alpha\padreg.obj \
+    $(_OBJ_DIR)\alpha\padscrub.obj \
+    $(_OBJ_DIR)\alpha\padsend.obj \
+    $(_OBJ_DIR)\alpha\padsite.obj \
+    $(_OBJ_DIR)\alpha\padssite.obj \
+    $(_OBJ_DIR)\alpha\padurl.obj \
+    $(_OBJ_DIR)\alpha\padws.obj \
+    $(_OBJ_DIR)\alpha\stdenum.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\pad.tlb
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\pad.res \
+    $(_OBJ_DIR)\alpha64\pad_wrap.obj \
+    $(_OBJ_DIR)\alpha64\cenum.obj \
+    $(_OBJ_DIR)\alpha64\padauto.obj \
+    $(_OBJ_DIR)\alpha64\padbsc.obj \
+    $(_OBJ_DIR)\alpha64\paddebug.obj \
+    $(_OBJ_DIR)\alpha64\paddoc.obj \
+    $(_OBJ_DIR)\alpha64\padfact.obj \
+    $(_OBJ_DIR)\alpha64\padframe.obj \
+    $(_OBJ_DIR)\alpha64\padguid.obj \
+    $(_OBJ_DIR)\alpha64\padmain.obj \
+    $(_OBJ_DIR)\alpha64\padole.obj \
+    $(_OBJ_DIR)\alpha64\padreg.obj \
+    $(_OBJ_DIR)\alpha64\padscrub.obj \
+    $(_OBJ_DIR)\alpha64\padsend.obj \
+    $(_OBJ_DIR)\alpha64\padsite.obj \
+    $(_OBJ_DIR)\alpha64\padssite.obj \
+    $(_OBJ_DIR)\alpha64\padurl.obj \
+    $(_OBJ_DIR)\alpha64\padws.obj \
+    $(_OBJ_DIR)\alpha64\stdenum.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\pad.tlb
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\pad.res \
+    $(_OBJ_DIR)\i386\pad_wrap.obj \
+    $(_OBJ_DIR)\i386\cenum.obj \
+    $(_OBJ_DIR)\i386\padauto.obj \
+    $(_OBJ_DIR)\i386\padbsc.obj \
+    $(_OBJ_DIR)\i386\paddebug.obj \
+    $(_OBJ_DIR)\i386\paddoc.obj \
+    $(_OBJ_DIR)\i386\padfact.obj \
+    $(_OBJ_DIR)\i386\padframe.obj \
+    $(_OBJ_DIR)\i386\padguid.obj \
+    $(_OBJ_DIR)\i386\padmain.obj \
+    $(_OBJ_DIR)\i386\padole.obj \
+    $(_OBJ_DIR)\i386\padreg.obj \
+    $(_OBJ_DIR)\i386\padscrub.obj \
+    $(_OBJ_DIR)\i386\padsend.obj \
+    $(_OBJ_DIR)\i386\padsite.obj \
+    $(_OBJ_DIR)\i386\padssite.obj \
+    $(_OBJ_DIR)\i386\padurl.obj \
+    $(_OBJ_DIR)\i386\padws.obj \
+    $(_OBJ_DIR)\i386\stdenum.obj
+
+PASS0_386_OBJECTS= \
+    $(_OBJ_DIR)\i386\pad.tlb
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\pad.res \
+    $(_OBJ_DIR)\ia64\pad_wrap.obj \
+    $(_OBJ_DIR)\ia64\cenum.obj \
+    $(_OBJ_DIR)\ia64\padauto.obj \
+    $(_OBJ_DIR)\ia64\padbsc.obj \
+    $(_OBJ_DIR)\ia64\paddebug.obj \
+    $(_OBJ_DIR)\ia64\paddoc.obj \
+    $(_OBJ_DIR)\ia64\padfact.obj \
+    $(_OBJ_DIR)\ia64\padframe.obj \
+    $(_OBJ_DIR)\ia64\padguid.obj \
+    $(_OBJ_DIR)\ia64\padmain.obj \
+    $(_OBJ_DIR)\ia64\padole.obj \
+    $(_OBJ_DIR)\ia64\padreg.obj \
+    $(_OBJ_DIR)\ia64\padscrub.obj \
+    $(_OBJ_DIR)\ia64\padsend.obj \
+    $(_OBJ_DIR)\ia64\padsite.obj \
+    $(_OBJ_DIR)\ia64\padssite.obj \
+    $(_OBJ_DIR)\ia64\padurl.obj \
+    $(_OBJ_DIR)\ia64\padws.obj \
+    $(_OBJ_DIR)\ia64\stdenum.obj
+
+PASS0_IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\pad.tlb
+

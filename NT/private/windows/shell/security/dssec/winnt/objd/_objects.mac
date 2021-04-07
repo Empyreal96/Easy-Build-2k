@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\resource.res \
+    $(_OBJ_DIR)\alpha\dll.obj \
+    $(_OBJ_DIR)\alpha\cstrings.obj \
+    $(_OBJ_DIR)\alpha\security.obj \
+    $(_OBJ_DIR)\alpha\dssi.obj \
+    $(_OBJ_DIR)\alpha\schema.obj \
+    $(_OBJ_DIR)\alpha\exnc.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\extrts.h \
+    $(PASS0_SOURCEDIR)\extrts.rc
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\resource.res \
+    $(_OBJ_DIR)\alpha64\dll.obj \
+    $(_OBJ_DIR)\alpha64\cstrings.obj \
+    $(_OBJ_DIR)\alpha64\security.obj \
+    $(_OBJ_DIR)\alpha64\dssi.obj \
+    $(_OBJ_DIR)\alpha64\schema.obj \
+    $(_OBJ_DIR)\alpha64\exnc.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\extrts.h \
+    $(PASS0_SOURCEDIR)\extrts.rc
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\resource.res \
+    $(_OBJ_DIR)\i386\dll.obj \
+    $(_OBJ_DIR)\i386\cstrings.obj \
+    $(_OBJ_DIR)\i386\security.obj \
+    $(_OBJ_DIR)\i386\dssi.obj \
+    $(_OBJ_DIR)\i386\schema.obj \
+    $(_OBJ_DIR)\i386\exnc.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\extrts.h \
+    $(PASS0_SOURCEDIR)\extrts.rc
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\resource.res \
+    $(_OBJ_DIR)\ia64\dll.obj \
+    $(_OBJ_DIR)\ia64\cstrings.obj \
+    $(_OBJ_DIR)\ia64\security.obj \
+    $(_OBJ_DIR)\ia64\dssi.obj \
+    $(_OBJ_DIR)\ia64\schema.obj \
+    $(_OBJ_DIR)\ia64\exnc.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\extrts.h \
+    $(PASS0_SOURCEDIR)\extrts.rc
+

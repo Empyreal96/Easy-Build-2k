@@ -1,0 +1,76 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\calc.res \
+    $(_OBJ_DIR)\alpha\calc.obj \
+    $(_OBJ_DIR)\alpha\input.obj \
+    $(_OBJ_DIR)\alpha\scicomm.obj \
+    $(_OBJ_DIR)\alpha\scidisp.obj \
+    $(_OBJ_DIR)\alpha\scifunc.obj \
+    $(_OBJ_DIR)\alpha\scikeys.obj \
+    $(_OBJ_DIR)\alpha\scimath.obj \
+    $(_OBJ_DIR)\alpha\scimenu.obj \
+    $(_OBJ_DIR)\alpha\scioper.obj \
+    $(_OBJ_DIR)\alpha\sciproc.obj \
+    $(_OBJ_DIR)\alpha\sciset.obj \
+    $(_OBJ_DIR)\alpha\scistat.obj \
+    $(_OBJ_DIR)\alpha\unifunc.obj \
+    $(_OBJ_DIR)\alpha\wassert.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\calc.res \
+    $(_OBJ_DIR)\alpha64\calc.obj \
+    $(_OBJ_DIR)\alpha64\input.obj \
+    $(_OBJ_DIR)\alpha64\scicomm.obj \
+    $(_OBJ_DIR)\alpha64\scidisp.obj \
+    $(_OBJ_DIR)\alpha64\scifunc.obj \
+    $(_OBJ_DIR)\alpha64\scikeys.obj \
+    $(_OBJ_DIR)\alpha64\scimath.obj \
+    $(_OBJ_DIR)\alpha64\scimenu.obj \
+    $(_OBJ_DIR)\alpha64\scioper.obj \
+    $(_OBJ_DIR)\alpha64\sciproc.obj \
+    $(_OBJ_DIR)\alpha64\sciset.obj \
+    $(_OBJ_DIR)\alpha64\scistat.obj \
+    $(_OBJ_DIR)\alpha64\unifunc.obj \
+    $(_OBJ_DIR)\alpha64\wassert.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\calc.res \
+    $(_OBJ_DIR)\i386\calc.obj \
+    $(_OBJ_DIR)\i386\input.obj \
+    $(_OBJ_DIR)\i386\scicomm.obj \
+    $(_OBJ_DIR)\i386\scidisp.obj \
+    $(_OBJ_DIR)\i386\scifunc.obj \
+    $(_OBJ_DIR)\i386\scikeys.obj \
+    $(_OBJ_DIR)\i386\scimath.obj \
+    $(_OBJ_DIR)\i386\scimenu.obj \
+    $(_OBJ_DIR)\i386\scioper.obj \
+    $(_OBJ_DIR)\i386\sciproc.obj \
+    $(_OBJ_DIR)\i386\sciset.obj \
+    $(_OBJ_DIR)\i386\scistat.obj \
+    $(_OBJ_DIR)\i386\unifunc.obj \
+    $(_OBJ_DIR)\i386\wassert.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\calc.res \
+    $(_OBJ_DIR)\ia64\calc.obj \
+    $(_OBJ_DIR)\ia64\input.obj \
+    $(_OBJ_DIR)\ia64\scicomm.obj \
+    $(_OBJ_DIR)\ia64\scidisp.obj \
+    $(_OBJ_DIR)\ia64\scifunc.obj \
+    $(_OBJ_DIR)\ia64\scikeys.obj \
+    $(_OBJ_DIR)\ia64\scimath.obj \
+    $(_OBJ_DIR)\ia64\scimenu.obj \
+    $(_OBJ_DIR)\ia64\scioper.obj \
+    $(_OBJ_DIR)\ia64\sciproc.obj \
+    $(_OBJ_DIR)\ia64\sciset.obj \
+    $(_OBJ_DIR)\ia64\scistat.obj \
+    $(_OBJ_DIR)\ia64\unifunc.obj \
+    $(_OBJ_DIR)\ia64\wassert.obj
+
+PASS0_IA64_OBJECTS=
+

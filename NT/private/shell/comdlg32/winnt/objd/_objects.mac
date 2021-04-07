@@ -1,0 +1,68 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\comdlg32.res \
+    $(_OBJ_DIR)\alpha\color.obj \
+    $(_OBJ_DIR)\alpha\color2.obj \
+    $(_OBJ_DIR)\alpha\data.obj \
+    $(_OBJ_DIR)\alpha\dlgs.obj \
+    $(_OBJ_DIR)\alpha\dllload.obj \
+    $(_OBJ_DIR)\alpha\fileopen.obj \
+    $(_OBJ_DIR)\alpha\find.obj \
+    $(_OBJ_DIR)\alpha\font.obj \
+    $(_OBJ_DIR)\alpha\init.obj \
+    $(_OBJ_DIR)\alpha\parse.obj \
+    $(_OBJ_DIR)\alpha\prnsetup.obj \
+    $(_OBJ_DIR)\alpha\debug.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\comdlg32.res \
+    $(_OBJ_DIR)\alpha64\color.obj \
+    $(_OBJ_DIR)\alpha64\color2.obj \
+    $(_OBJ_DIR)\alpha64\data.obj \
+    $(_OBJ_DIR)\alpha64\dlgs.obj \
+    $(_OBJ_DIR)\alpha64\dllload.obj \
+    $(_OBJ_DIR)\alpha64\fileopen.obj \
+    $(_OBJ_DIR)\alpha64\find.obj \
+    $(_OBJ_DIR)\alpha64\font.obj \
+    $(_OBJ_DIR)\alpha64\init.obj \
+    $(_OBJ_DIR)\alpha64\parse.obj \
+    $(_OBJ_DIR)\alpha64\prnsetup.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\comdlg32.res \
+    $(_OBJ_DIR)\i386\color.obj \
+    $(_OBJ_DIR)\i386\color2.obj \
+    $(_OBJ_DIR)\i386\data.obj \
+    $(_OBJ_DIR)\i386\dlgs.obj \
+    $(_OBJ_DIR)\i386\dllload.obj \
+    $(_OBJ_DIR)\i386\fileopen.obj \
+    $(_OBJ_DIR)\i386\find.obj \
+    $(_OBJ_DIR)\i386\font.obj \
+    $(_OBJ_DIR)\i386\init.obj \
+    $(_OBJ_DIR)\i386\parse.obj \
+    $(_OBJ_DIR)\i386\prnsetup.obj \
+    $(_OBJ_DIR)\i386\debug.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\comdlg32.res \
+    $(_OBJ_DIR)\ia64\color.obj \
+    $(_OBJ_DIR)\ia64\color2.obj \
+    $(_OBJ_DIR)\ia64\data.obj \
+    $(_OBJ_DIR)\ia64\dlgs.obj \
+    $(_OBJ_DIR)\ia64\dllload.obj \
+    $(_OBJ_DIR)\ia64\fileopen.obj \
+    $(_OBJ_DIR)\ia64\find.obj \
+    $(_OBJ_DIR)\ia64\font.obj \
+    $(_OBJ_DIR)\ia64\init.obj \
+    $(_OBJ_DIR)\ia64\parse.obj \
+    $(_OBJ_DIR)\ia64\prnsetup.obj \
+    $(_OBJ_DIR)\ia64\debug.obj
+
+PASS0_IA64_OBJECTS=
+

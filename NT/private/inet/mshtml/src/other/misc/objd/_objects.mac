@@ -1,0 +1,24 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\otherid.obj \
+    $(_OBJ_DIR)\alpha\othridpr.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\otherid.obj \
+    $(_OBJ_DIR)\alpha64\othridpr.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\otherid.obj \
+    $(_OBJ_DIR)\i386\othridpr.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\otherid.obj \
+    $(_OBJ_DIR)\ia64\othridpr.obj
+
+PASS0_IA64_OBJECTS=
+

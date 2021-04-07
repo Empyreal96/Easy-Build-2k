@@ -1,0 +1,88 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\wintrust.res \
+    $(_OBJ_DIR)\alpha\wtasn.obj \
+    $(_OBJ_DIR)\alpha\certhlp.obj \
+    $(_OBJ_DIR)\alpha\certtrst.obj \
+    $(_OBJ_DIR)\alpha\chains.obj \
+    $(_OBJ_DIR)\alpha\dllmain.obj \
+    $(_OBJ_DIR)\alpha\memory.obj \
+    $(_OBJ_DIR)\alpha\ossfunc.obj \
+    $(_OBJ_DIR)\alpha\provider.obj \
+    $(_OBJ_DIR)\alpha\provload.obj \
+    $(_OBJ_DIR)\alpha\registry.obj \
+    $(_OBJ_DIR)\alpha\storprov.obj \
+    $(_OBJ_DIR)\alpha\trustapi.obj \
+    $(_OBJ_DIR)\alpha\usagedef.obj \
+    $(_OBJ_DIR)\alpha\winvtrst.obj \
+    $(_OBJ_DIR)\alpha\wthelper.obj \
+    $(_OBJ_DIR)\alpha\wvtver1.obj \
+    $(_OBJ_DIR)\alpha\catcache.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\wintrust.res \
+    $(_OBJ_DIR)\alpha64\wtasn.obj \
+    $(_OBJ_DIR)\alpha64\certhlp.obj \
+    $(_OBJ_DIR)\alpha64\certtrst.obj \
+    $(_OBJ_DIR)\alpha64\chains.obj \
+    $(_OBJ_DIR)\alpha64\dllmain.obj \
+    $(_OBJ_DIR)\alpha64\memory.obj \
+    $(_OBJ_DIR)\alpha64\ossfunc.obj \
+    $(_OBJ_DIR)\alpha64\provider.obj \
+    $(_OBJ_DIR)\alpha64\provload.obj \
+    $(_OBJ_DIR)\alpha64\registry.obj \
+    $(_OBJ_DIR)\alpha64\storprov.obj \
+    $(_OBJ_DIR)\alpha64\trustapi.obj \
+    $(_OBJ_DIR)\alpha64\usagedef.obj \
+    $(_OBJ_DIR)\alpha64\winvtrst.obj \
+    $(_OBJ_DIR)\alpha64\wthelper.obj \
+    $(_OBJ_DIR)\alpha64\wvtver1.obj \
+    $(_OBJ_DIR)\alpha64\catcache.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\wintrust.res \
+    $(_OBJ_DIR)\i386\wtasn.obj \
+    $(_OBJ_DIR)\i386\certhlp.obj \
+    $(_OBJ_DIR)\i386\certtrst.obj \
+    $(_OBJ_DIR)\i386\chains.obj \
+    $(_OBJ_DIR)\i386\dllmain.obj \
+    $(_OBJ_DIR)\i386\memory.obj \
+    $(_OBJ_DIR)\i386\ossfunc.obj \
+    $(_OBJ_DIR)\i386\provider.obj \
+    $(_OBJ_DIR)\i386\provload.obj \
+    $(_OBJ_DIR)\i386\registry.obj \
+    $(_OBJ_DIR)\i386\storprov.obj \
+    $(_OBJ_DIR)\i386\trustapi.obj \
+    $(_OBJ_DIR)\i386\usagedef.obj \
+    $(_OBJ_DIR)\i386\winvtrst.obj \
+    $(_OBJ_DIR)\i386\wthelper.obj \
+    $(_OBJ_DIR)\i386\wvtver1.obj \
+    $(_OBJ_DIR)\i386\catcache.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\wintrust.res \
+    $(_OBJ_DIR)\ia64\wtasn.obj \
+    $(_OBJ_DIR)\ia64\certhlp.obj \
+    $(_OBJ_DIR)\ia64\certtrst.obj \
+    $(_OBJ_DIR)\ia64\chains.obj \
+    $(_OBJ_DIR)\ia64\dllmain.obj \
+    $(_OBJ_DIR)\ia64\memory.obj \
+    $(_OBJ_DIR)\ia64\ossfunc.obj \
+    $(_OBJ_DIR)\ia64\provider.obj \
+    $(_OBJ_DIR)\ia64\provload.obj \
+    $(_OBJ_DIR)\ia64\registry.obj \
+    $(_OBJ_DIR)\ia64\storprov.obj \
+    $(_OBJ_DIR)\ia64\trustapi.obj \
+    $(_OBJ_DIR)\ia64\usagedef.obj \
+    $(_OBJ_DIR)\ia64\winvtrst.obj \
+    $(_OBJ_DIR)\ia64\wthelper.obj \
+    $(_OBJ_DIR)\ia64\wvtver1.obj \
+    $(_OBJ_DIR)\ia64\catcache.obj
+
+PASS0_IA64_OBJECTS=
+

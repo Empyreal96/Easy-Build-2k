@@ -1,0 +1,36 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\evntagnt.res \
+    $(_OBJ_DIR)\alpha\snmpeldl.obj \
+    $(_OBJ_DIR)\alpha\snmpelpt.obj \
+    $(_OBJ_DIR)\alpha\snmptrlg.obj \
+    $(_OBJ_DIR)\alpha\eaload.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\evntagnt.res \
+    $(_OBJ_DIR)\alpha64\snmpeldl.obj \
+    $(_OBJ_DIR)\alpha64\snmpelpt.obj \
+    $(_OBJ_DIR)\alpha64\snmptrlg.obj \
+    $(_OBJ_DIR)\alpha64\eaload.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\evntagnt.res \
+    $(_OBJ_DIR)\i386\snmpeldl.obj \
+    $(_OBJ_DIR)\i386\snmpelpt.obj \
+    $(_OBJ_DIR)\i386\snmptrlg.obj \
+    $(_OBJ_DIR)\i386\eaload.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\evntagnt.res \
+    $(_OBJ_DIR)\ia64\snmpeldl.obj \
+    $(_OBJ_DIR)\ia64\snmpelpt.obj \
+    $(_OBJ_DIR)\ia64\snmptrlg.obj \
+    $(_OBJ_DIR)\ia64\eaload.obj
+
+PASS0_IA64_OBJECTS=
+

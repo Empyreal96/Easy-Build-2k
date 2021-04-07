@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\perflib.obj \
+    $(_OBJ_DIR)\alpha\perfname.obj \
+    $(_OBJ_DIR)\alpha\perfsec.obj \
+    $(_OBJ_DIR)\alpha\utils.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\perflib.obj \
+    $(_OBJ_DIR)\alpha64\perfname.obj \
+    $(_OBJ_DIR)\alpha64\perfsec.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\perflib.obj \
+    $(_OBJ_DIR)\i386\perfname.obj \
+    $(_OBJ_DIR)\i386\perfsec.obj \
+    $(_OBJ_DIR)\i386\utils.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\perflib.obj \
+    $(_OBJ_DIR)\ia64\perfname.obj \
+    $(_OBJ_DIR)\ia64\perfsec.obj \
+    $(_OBJ_DIR)\ia64\utils.obj
+
+PASS0_IA64_OBJECTS=
+

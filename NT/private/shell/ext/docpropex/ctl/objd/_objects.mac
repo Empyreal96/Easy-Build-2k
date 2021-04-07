@@ -1,0 +1,44 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\ctl.obj \
+    $(_OBJ_DIR)\alpha\ctlwnd.obj \
+    $(_OBJ_DIR)\alpha\dictionary.obj \
+    $(_OBJ_DIR)\alpha\editctl.obj \
+    $(_OBJ_DIR)\alpha\treeitems.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\proptree.h \
+    $(PASS0_UUIDDIR)\proptree.c
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\ctl.obj \
+    $(_OBJ_DIR)\alpha64\ctlwnd.obj \
+    $(_OBJ_DIR)\alpha64\dictionary.obj \
+    $(_OBJ_DIR)\alpha64\editctl.obj \
+    $(_OBJ_DIR)\alpha64\treeitems.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\proptree.h \
+    $(PASS0_UUIDDIR)\proptree.c
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\ctl.obj \
+    $(_OBJ_DIR)\i386\ctlwnd.obj \
+    $(_OBJ_DIR)\i386\dictionary.obj \
+    $(_OBJ_DIR)\i386\editctl.obj \
+    $(_OBJ_DIR)\i386\treeitems.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\proptree.h \
+    $(PASS0_UUIDDIR)\proptree.c
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\ctl.obj \
+    $(_OBJ_DIR)\ia64\ctlwnd.obj \
+    $(_OBJ_DIR)\ia64\dictionary.obj \
+    $(_OBJ_DIR)\ia64\editctl.obj \
+    $(_OBJ_DIR)\ia64\treeitems.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\proptree.h \
+    $(PASS0_UUIDDIR)\proptree.c
+

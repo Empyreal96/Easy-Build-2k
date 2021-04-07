@@ -1,0 +1,92 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\shlwapi.res \
+    $(_OBJ_DIR)\alpha\color.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\dll.obj \
+    $(_OBJ_DIR)\alpha\dllload.obj \
+    $(_OBJ_DIR)\alpha\fda.obj \
+    $(_OBJ_DIR)\alpha\menu.obj \
+    $(_OBJ_DIR)\alpha\ole2dup.obj \
+    $(_OBJ_DIR)\alpha\palette.obj \
+    $(_OBJ_DIR)\alpha\reg.obj \
+    $(_OBJ_DIR)\alpha\shared.obj \
+    $(_OBJ_DIR)\alpha\shperf.obj \
+    $(_OBJ_DIR)\alpha\strings.obj \
+    $(_OBJ_DIR)\alpha\strtype.obj \
+    $(_OBJ_DIR)\alpha\thunk.obj \
+    $(_OBJ_DIR)\alpha\uastrfnc.obj \
+    $(_OBJ_DIR)\alpha\uniansi.obj \
+    $(_OBJ_DIR)\alpha\wsprintf.obj \
+    $(_OBJ_DIR)\alpha\mirror.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\shlwapi.res \
+    $(_OBJ_DIR)\alpha64\color.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\dll.obj \
+    $(_OBJ_DIR)\alpha64\dllload.obj \
+    $(_OBJ_DIR)\alpha64\fda.obj \
+    $(_OBJ_DIR)\alpha64\menu.obj \
+    $(_OBJ_DIR)\alpha64\ole2dup.obj \
+    $(_OBJ_DIR)\alpha64\palette.obj \
+    $(_OBJ_DIR)\alpha64\reg.obj \
+    $(_OBJ_DIR)\alpha64\shared.obj \
+    $(_OBJ_DIR)\alpha64\shperf.obj \
+    $(_OBJ_DIR)\alpha64\strings.obj \
+    $(_OBJ_DIR)\alpha64\strtype.obj \
+    $(_OBJ_DIR)\alpha64\thunk.obj \
+    $(_OBJ_DIR)\alpha64\uastrfnc.obj \
+    $(_OBJ_DIR)\alpha64\uniansi.obj \
+    $(_OBJ_DIR)\alpha64\wsprintf.obj \
+    $(_OBJ_DIR)\alpha64\mirror.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\shlwapi.res \
+    $(_OBJ_DIR)\i386\color.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\dll.obj \
+    $(_OBJ_DIR)\i386\dllload.obj \
+    $(_OBJ_DIR)\i386\fda.obj \
+    $(_OBJ_DIR)\i386\menu.obj \
+    $(_OBJ_DIR)\i386\ole2dup.obj \
+    $(_OBJ_DIR)\i386\palette.obj \
+    $(_OBJ_DIR)\i386\reg.obj \
+    $(_OBJ_DIR)\i386\shared.obj \
+    $(_OBJ_DIR)\i386\shperf.obj \
+    $(_OBJ_DIR)\i386\strings.obj \
+    $(_OBJ_DIR)\i386\strtype.obj \
+    $(_OBJ_DIR)\i386\thunk.obj \
+    $(_OBJ_DIR)\i386\uastrfnc.obj \
+    $(_OBJ_DIR)\i386\uniansi.obj \
+    $(_OBJ_DIR)\i386\wsprintf.obj \
+    $(_OBJ_DIR)\i386\mirror.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\shlwapi.res \
+    $(_OBJ_DIR)\ia64\color.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\dll.obj \
+    $(_OBJ_DIR)\ia64\dllload.obj \
+    $(_OBJ_DIR)\ia64\fda.obj \
+    $(_OBJ_DIR)\ia64\menu.obj \
+    $(_OBJ_DIR)\ia64\ole2dup.obj \
+    $(_OBJ_DIR)\ia64\palette.obj \
+    $(_OBJ_DIR)\ia64\reg.obj \
+    $(_OBJ_DIR)\ia64\shared.obj \
+    $(_OBJ_DIR)\ia64\shperf.obj \
+    $(_OBJ_DIR)\ia64\strings.obj \
+    $(_OBJ_DIR)\ia64\strtype.obj \
+    $(_OBJ_DIR)\ia64\thunk.obj \
+    $(_OBJ_DIR)\ia64\uastrfnc.obj \
+    $(_OBJ_DIR)\ia64\uniansi.obj \
+    $(_OBJ_DIR)\ia64\wsprintf.obj \
+    $(_OBJ_DIR)\ia64\mirror.obj
+
+PASS0_IA64_OBJECTS=
+

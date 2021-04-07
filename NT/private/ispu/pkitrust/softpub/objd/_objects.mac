@@ -1,0 +1,96 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\authcode.obj \
+    $(_OBJ_DIR)\alpha\callui.obj \
+    $(_OBJ_DIR)\alpha\certprov.obj \
+    $(_OBJ_DIR)\alpha\checks.obj \
+    $(_OBJ_DIR)\alpha\chkcert.obj \
+    $(_OBJ_DIR)\alpha\clnprov.obj \
+    $(_OBJ_DIR)\alpha\defusage.obj \
+    $(_OBJ_DIR)\alpha\dllmain.obj \
+    $(_OBJ_DIR)\alpha\drvprov.obj \
+    $(_OBJ_DIR)\alpha\expapis.obj \
+    $(_OBJ_DIR)\alpha\initprov.obj \
+    $(_OBJ_DIR)\alpha\msgprov.obj \
+    $(_OBJ_DIR)\alpha\offprov.obj \
+    $(_OBJ_DIR)\alpha\sigprov.obj \
+    $(_OBJ_DIR)\alpha\sphelper.obj \
+    $(_OBJ_DIR)\alpha\httpsprv.obj \
+    $(_OBJ_DIR)\alpha\chainprv.obj \
+    $(_OBJ_DIR)\alpha\test.obj \
+    $(_OBJ_DIR)\alpha\trustdb.obj \
+    $(_OBJ_DIR)\alpha\trustdlg.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\authcode.obj \
+    $(_OBJ_DIR)\alpha64\callui.obj \
+    $(_OBJ_DIR)\alpha64\certprov.obj \
+    $(_OBJ_DIR)\alpha64\checks.obj \
+    $(_OBJ_DIR)\alpha64\chkcert.obj \
+    $(_OBJ_DIR)\alpha64\clnprov.obj \
+    $(_OBJ_DIR)\alpha64\defusage.obj \
+    $(_OBJ_DIR)\alpha64\dllmain.obj \
+    $(_OBJ_DIR)\alpha64\drvprov.obj \
+    $(_OBJ_DIR)\alpha64\expapis.obj \
+    $(_OBJ_DIR)\alpha64\initprov.obj \
+    $(_OBJ_DIR)\alpha64\msgprov.obj \
+    $(_OBJ_DIR)\alpha64\offprov.obj \
+    $(_OBJ_DIR)\alpha64\sigprov.obj \
+    $(_OBJ_DIR)\alpha64\sphelper.obj \
+    $(_OBJ_DIR)\alpha64\httpsprv.obj \
+    $(_OBJ_DIR)\alpha64\chainprv.obj \
+    $(_OBJ_DIR)\alpha64\test.obj \
+    $(_OBJ_DIR)\alpha64\trustdb.obj \
+    $(_OBJ_DIR)\alpha64\trustdlg.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\authcode.obj \
+    $(_OBJ_DIR)\i386\callui.obj \
+    $(_OBJ_DIR)\i386\certprov.obj \
+    $(_OBJ_DIR)\i386\checks.obj \
+    $(_OBJ_DIR)\i386\chkcert.obj \
+    $(_OBJ_DIR)\i386\clnprov.obj \
+    $(_OBJ_DIR)\i386\defusage.obj \
+    $(_OBJ_DIR)\i386\dllmain.obj \
+    $(_OBJ_DIR)\i386\drvprov.obj \
+    $(_OBJ_DIR)\i386\expapis.obj \
+    $(_OBJ_DIR)\i386\initprov.obj \
+    $(_OBJ_DIR)\i386\msgprov.obj \
+    $(_OBJ_DIR)\i386\offprov.obj \
+    $(_OBJ_DIR)\i386\sigprov.obj \
+    $(_OBJ_DIR)\i386\sphelper.obj \
+    $(_OBJ_DIR)\i386\httpsprv.obj \
+    $(_OBJ_DIR)\i386\chainprv.obj \
+    $(_OBJ_DIR)\i386\test.obj \
+    $(_OBJ_DIR)\i386\trustdb.obj \
+    $(_OBJ_DIR)\i386\trustdlg.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\authcode.obj \
+    $(_OBJ_DIR)\ia64\callui.obj \
+    $(_OBJ_DIR)\ia64\certprov.obj \
+    $(_OBJ_DIR)\ia64\checks.obj \
+    $(_OBJ_DIR)\ia64\chkcert.obj \
+    $(_OBJ_DIR)\ia64\clnprov.obj \
+    $(_OBJ_DIR)\ia64\defusage.obj \
+    $(_OBJ_DIR)\ia64\dllmain.obj \
+    $(_OBJ_DIR)\ia64\drvprov.obj \
+    $(_OBJ_DIR)\ia64\expapis.obj \
+    $(_OBJ_DIR)\ia64\initprov.obj \
+    $(_OBJ_DIR)\ia64\msgprov.obj \
+    $(_OBJ_DIR)\ia64\offprov.obj \
+    $(_OBJ_DIR)\ia64\sigprov.obj \
+    $(_OBJ_DIR)\ia64\sphelper.obj \
+    $(_OBJ_DIR)\ia64\httpsprv.obj \
+    $(_OBJ_DIR)\ia64\chainprv.obj \
+    $(_OBJ_DIR)\ia64\test.obj \
+    $(_OBJ_DIR)\ia64\trustdb.obj \
+    $(_OBJ_DIR)\ia64\trustdlg.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,184 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\mspaint.res \
+    $(_OBJ_DIR)\alpha\bar.obj \
+    $(_OBJ_DIR)\alpha\bmobject.obj \
+    $(_OBJ_DIR)\alpha\cmpmsg.obj \
+    $(_OBJ_DIR)\alpha\colorsrc.obj \
+    $(_OBJ_DIR)\alpha\docking.obj \
+    $(_OBJ_DIR)\alpha\global.obj \
+    $(_OBJ_DIR)\alpha\imageatt.obj \
+    $(_OBJ_DIR)\alpha\imgbrush.obj \
+    $(_OBJ_DIR)\alpha\imgcolor.obj \
+    $(_OBJ_DIR)\alpha\imgcpyps.obj \
+    $(_OBJ_DIR)\alpha\imgdlgs.obj \
+    $(_OBJ_DIR)\alpha\imgfile.obj \
+    $(_OBJ_DIR)\alpha\imgsuprt.obj \
+    $(_OBJ_DIR)\alpha\imgtools.obj \
+    $(_OBJ_DIR)\alpha\imgwell.obj \
+    $(_OBJ_DIR)\alpha\imgwnd.obj \
+    $(_OBJ_DIR)\alpha\ipframe.obj \
+    $(_OBJ_DIR)\alpha\minifwnd.obj \
+    $(_OBJ_DIR)\alpha\pbrusdoc.obj \
+    $(_OBJ_DIR)\alpha\pbrusfrm.obj \
+    $(_OBJ_DIR)\alpha\pbrush.obj \
+    $(_OBJ_DIR)\alpha\pbrusvw.obj \
+    $(_OBJ_DIR)\alpha\pictures.obj \
+    $(_OBJ_DIR)\alpha\printres.obj \
+    $(_OBJ_DIR)\alpha\rotate.obj \
+    $(_OBJ_DIR)\alpha\settings.obj \
+    $(_OBJ_DIR)\alpha\skew.obj \
+    $(_OBJ_DIR)\alpha\sprite.obj \
+    $(_OBJ_DIR)\alpha\srvritem.obj \
+    $(_OBJ_DIR)\alpha\tedit.obj \
+    $(_OBJ_DIR)\alpha\tfont.obj \
+    $(_OBJ_DIR)\alpha\thumnail.obj \
+    $(_OBJ_DIR)\alpha\toolbox.obj \
+    $(_OBJ_DIR)\alpha\tracker.obj \
+    $(_OBJ_DIR)\alpha\t_curve.obj \
+    $(_OBJ_DIR)\alpha\t_fhsel.obj \
+    $(_OBJ_DIR)\alpha\t_poly.obj \
+    $(_OBJ_DIR)\alpha\t_text.obj \
+    $(_OBJ_DIR)\alpha\undo.obj \
+    $(_OBJ_DIR)\alpha\loadimag.obj \
+    $(_OBJ_DIR)\alpha\saveimag.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\mspaint.res \
+    $(_OBJ_DIR)\alpha64\bar.obj \
+    $(_OBJ_DIR)\alpha64\bmobject.obj \
+    $(_OBJ_DIR)\alpha64\cmpmsg.obj \
+    $(_OBJ_DIR)\alpha64\colorsrc.obj \
+    $(_OBJ_DIR)\alpha64\docking.obj \
+    $(_OBJ_DIR)\alpha64\global.obj \
+    $(_OBJ_DIR)\alpha64\imageatt.obj \
+    $(_OBJ_DIR)\alpha64\imgbrush.obj \
+    $(_OBJ_DIR)\alpha64\imgcolor.obj \
+    $(_OBJ_DIR)\alpha64\imgcpyps.obj \
+    $(_OBJ_DIR)\alpha64\imgdlgs.obj \
+    $(_OBJ_DIR)\alpha64\imgfile.obj \
+    $(_OBJ_DIR)\alpha64\imgsuprt.obj \
+    $(_OBJ_DIR)\alpha64\imgtools.obj \
+    $(_OBJ_DIR)\alpha64\imgwell.obj \
+    $(_OBJ_DIR)\alpha64\imgwnd.obj \
+    $(_OBJ_DIR)\alpha64\ipframe.obj \
+    $(_OBJ_DIR)\alpha64\minifwnd.obj \
+    $(_OBJ_DIR)\alpha64\pbrusdoc.obj \
+    $(_OBJ_DIR)\alpha64\pbrusfrm.obj \
+    $(_OBJ_DIR)\alpha64\pbrush.obj \
+    $(_OBJ_DIR)\alpha64\pbrusvw.obj \
+    $(_OBJ_DIR)\alpha64\pictures.obj \
+    $(_OBJ_DIR)\alpha64\printres.obj \
+    $(_OBJ_DIR)\alpha64\rotate.obj \
+    $(_OBJ_DIR)\alpha64\settings.obj \
+    $(_OBJ_DIR)\alpha64\skew.obj \
+    $(_OBJ_DIR)\alpha64\sprite.obj \
+    $(_OBJ_DIR)\alpha64\srvritem.obj \
+    $(_OBJ_DIR)\alpha64\tedit.obj \
+    $(_OBJ_DIR)\alpha64\tfont.obj \
+    $(_OBJ_DIR)\alpha64\thumnail.obj \
+    $(_OBJ_DIR)\alpha64\toolbox.obj \
+    $(_OBJ_DIR)\alpha64\tracker.obj \
+    $(_OBJ_DIR)\alpha64\t_curve.obj \
+    $(_OBJ_DIR)\alpha64\t_fhsel.obj \
+    $(_OBJ_DIR)\alpha64\t_poly.obj \
+    $(_OBJ_DIR)\alpha64\t_text.obj \
+    $(_OBJ_DIR)\alpha64\undo.obj \
+    $(_OBJ_DIR)\alpha64\loadimag.obj \
+    $(_OBJ_DIR)\alpha64\saveimag.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\mspaint.res \
+    $(_OBJ_DIR)\i386\bar.obj \
+    $(_OBJ_DIR)\i386\bmobject.obj \
+    $(_OBJ_DIR)\i386\cmpmsg.obj \
+    $(_OBJ_DIR)\i386\colorsrc.obj \
+    $(_OBJ_DIR)\i386\docking.obj \
+    $(_OBJ_DIR)\i386\global.obj \
+    $(_OBJ_DIR)\i386\imageatt.obj \
+    $(_OBJ_DIR)\i386\imgbrush.obj \
+    $(_OBJ_DIR)\i386\imgcolor.obj \
+    $(_OBJ_DIR)\i386\imgcpyps.obj \
+    $(_OBJ_DIR)\i386\imgdlgs.obj \
+    $(_OBJ_DIR)\i386\imgfile.obj \
+    $(_OBJ_DIR)\i386\imgsuprt.obj \
+    $(_OBJ_DIR)\i386\imgtools.obj \
+    $(_OBJ_DIR)\i386\imgwell.obj \
+    $(_OBJ_DIR)\i386\imgwnd.obj \
+    $(_OBJ_DIR)\i386\ipframe.obj \
+    $(_OBJ_DIR)\i386\minifwnd.obj \
+    $(_OBJ_DIR)\i386\pbrusdoc.obj \
+    $(_OBJ_DIR)\i386\pbrusfrm.obj \
+    $(_OBJ_DIR)\i386\pbrush.obj \
+    $(_OBJ_DIR)\i386\pbrusvw.obj \
+    $(_OBJ_DIR)\i386\pictures.obj \
+    $(_OBJ_DIR)\i386\printres.obj \
+    $(_OBJ_DIR)\i386\rotate.obj \
+    $(_OBJ_DIR)\i386\settings.obj \
+    $(_OBJ_DIR)\i386\skew.obj \
+    $(_OBJ_DIR)\i386\sprite.obj \
+    $(_OBJ_DIR)\i386\srvritem.obj \
+    $(_OBJ_DIR)\i386\tedit.obj \
+    $(_OBJ_DIR)\i386\tfont.obj \
+    $(_OBJ_DIR)\i386\thumnail.obj \
+    $(_OBJ_DIR)\i386\toolbox.obj \
+    $(_OBJ_DIR)\i386\tracker.obj \
+    $(_OBJ_DIR)\i386\t_curve.obj \
+    $(_OBJ_DIR)\i386\t_fhsel.obj \
+    $(_OBJ_DIR)\i386\t_poly.obj \
+    $(_OBJ_DIR)\i386\t_text.obj \
+    $(_OBJ_DIR)\i386\undo.obj \
+    $(_OBJ_DIR)\i386\loadimag.obj \
+    $(_OBJ_DIR)\i386\saveimag.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\mspaint.res \
+    $(_OBJ_DIR)\ia64\bar.obj \
+    $(_OBJ_DIR)\ia64\bmobject.obj \
+    $(_OBJ_DIR)\ia64\cmpmsg.obj \
+    $(_OBJ_DIR)\ia64\colorsrc.obj \
+    $(_OBJ_DIR)\ia64\docking.obj \
+    $(_OBJ_DIR)\ia64\global.obj \
+    $(_OBJ_DIR)\ia64\imageatt.obj \
+    $(_OBJ_DIR)\ia64\imgbrush.obj \
+    $(_OBJ_DIR)\ia64\imgcolor.obj \
+    $(_OBJ_DIR)\ia64\imgcpyps.obj \
+    $(_OBJ_DIR)\ia64\imgdlgs.obj \
+    $(_OBJ_DIR)\ia64\imgfile.obj \
+    $(_OBJ_DIR)\ia64\imgsuprt.obj \
+    $(_OBJ_DIR)\ia64\imgtools.obj \
+    $(_OBJ_DIR)\ia64\imgwell.obj \
+    $(_OBJ_DIR)\ia64\imgwnd.obj \
+    $(_OBJ_DIR)\ia64\ipframe.obj \
+    $(_OBJ_DIR)\ia64\minifwnd.obj \
+    $(_OBJ_DIR)\ia64\pbrusdoc.obj \
+    $(_OBJ_DIR)\ia64\pbrusfrm.obj \
+    $(_OBJ_DIR)\ia64\pbrush.obj \
+    $(_OBJ_DIR)\ia64\pbrusvw.obj \
+    $(_OBJ_DIR)\ia64\pictures.obj \
+    $(_OBJ_DIR)\ia64\printres.obj \
+    $(_OBJ_DIR)\ia64\rotate.obj \
+    $(_OBJ_DIR)\ia64\settings.obj \
+    $(_OBJ_DIR)\ia64\skew.obj \
+    $(_OBJ_DIR)\ia64\sprite.obj \
+    $(_OBJ_DIR)\ia64\srvritem.obj \
+    $(_OBJ_DIR)\ia64\tedit.obj \
+    $(_OBJ_DIR)\ia64\tfont.obj \
+    $(_OBJ_DIR)\ia64\thumnail.obj \
+    $(_OBJ_DIR)\ia64\toolbox.obj \
+    $(_OBJ_DIR)\ia64\tracker.obj \
+    $(_OBJ_DIR)\ia64\t_curve.obj \
+    $(_OBJ_DIR)\ia64\t_fhsel.obj \
+    $(_OBJ_DIR)\ia64\t_poly.obj \
+    $(_OBJ_DIR)\ia64\t_text.obj \
+    $(_OBJ_DIR)\ia64\undo.obj \
+    $(_OBJ_DIR)\ia64\loadimag.obj \
+    $(_OBJ_DIR)\ia64\saveimag.obj
+
+PASS0_IA64_OBJECTS=
+

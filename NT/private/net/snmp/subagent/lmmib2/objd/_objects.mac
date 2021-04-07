@@ -1,0 +1,116 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\lmmib2.res \
+    $(_OBJ_DIR)\alpha\testdll.obj \
+    $(_OBJ_DIR)\alpha\mib.obj \
+    $(_OBJ_DIR)\alpha\resolve.obj \
+    $(_OBJ_DIR)\alpha\mibfuncs.obj \
+    $(_OBJ_DIR)\alpha\hash.obj \
+    $(_OBJ_DIR)\alpha\sess_tbl.obj \
+    $(_OBJ_DIR)\alpha\sess_lm.obj \
+    $(_OBJ_DIR)\alpha\srvc_tbl.obj \
+    $(_OBJ_DIR)\alpha\srvc_lm.obj \
+    $(_OBJ_DIR)\alpha\user_tbl.obj \
+    $(_OBJ_DIR)\alpha\user_lm.obj \
+    $(_OBJ_DIR)\alpha\shar_tbl.obj \
+    $(_OBJ_DIR)\alpha\shar_lm.obj \
+    $(_OBJ_DIR)\alpha\prnt_tbl.obj \
+    $(_OBJ_DIR)\alpha\prnt_lm.obj \
+    $(_OBJ_DIR)\alpha\dlog_tbl.obj \
+    $(_OBJ_DIR)\alpha\dlog_lm.obj \
+    $(_OBJ_DIR)\alpha\odom_tbl.obj \
+    $(_OBJ_DIR)\alpha\odom_lm.obj \
+    $(_OBJ_DIR)\alpha\srvr_tbl.obj \
+    $(_OBJ_DIR)\alpha\srvr_lm.obj \
+    $(_OBJ_DIR)\alpha\uses_tbl.obj \
+    $(_OBJ_DIR)\alpha\uses_lm.obj \
+    $(_OBJ_DIR)\alpha\lmcache.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\lmmib2.res \
+    $(_OBJ_DIR)\alpha64\testdll.obj \
+    $(_OBJ_DIR)\alpha64\mib.obj \
+    $(_OBJ_DIR)\alpha64\resolve.obj \
+    $(_OBJ_DIR)\alpha64\mibfuncs.obj \
+    $(_OBJ_DIR)\alpha64\hash.obj \
+    $(_OBJ_DIR)\alpha64\sess_tbl.obj \
+    $(_OBJ_DIR)\alpha64\sess_lm.obj \
+    $(_OBJ_DIR)\alpha64\srvc_tbl.obj \
+    $(_OBJ_DIR)\alpha64\srvc_lm.obj \
+    $(_OBJ_DIR)\alpha64\user_tbl.obj \
+    $(_OBJ_DIR)\alpha64\user_lm.obj \
+    $(_OBJ_DIR)\alpha64\shar_tbl.obj \
+    $(_OBJ_DIR)\alpha64\shar_lm.obj \
+    $(_OBJ_DIR)\alpha64\prnt_tbl.obj \
+    $(_OBJ_DIR)\alpha64\prnt_lm.obj \
+    $(_OBJ_DIR)\alpha64\dlog_tbl.obj \
+    $(_OBJ_DIR)\alpha64\dlog_lm.obj \
+    $(_OBJ_DIR)\alpha64\odom_tbl.obj \
+    $(_OBJ_DIR)\alpha64\odom_lm.obj \
+    $(_OBJ_DIR)\alpha64\srvr_tbl.obj \
+    $(_OBJ_DIR)\alpha64\srvr_lm.obj \
+    $(_OBJ_DIR)\alpha64\uses_tbl.obj \
+    $(_OBJ_DIR)\alpha64\uses_lm.obj \
+    $(_OBJ_DIR)\alpha64\lmcache.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\lmmib2.res \
+    $(_OBJ_DIR)\i386\testdll.obj \
+    $(_OBJ_DIR)\i386\mib.obj \
+    $(_OBJ_DIR)\i386\resolve.obj \
+    $(_OBJ_DIR)\i386\mibfuncs.obj \
+    $(_OBJ_DIR)\i386\hash.obj \
+    $(_OBJ_DIR)\i386\sess_tbl.obj \
+    $(_OBJ_DIR)\i386\sess_lm.obj \
+    $(_OBJ_DIR)\i386\srvc_tbl.obj \
+    $(_OBJ_DIR)\i386\srvc_lm.obj \
+    $(_OBJ_DIR)\i386\user_tbl.obj \
+    $(_OBJ_DIR)\i386\user_lm.obj \
+    $(_OBJ_DIR)\i386\shar_tbl.obj \
+    $(_OBJ_DIR)\i386\shar_lm.obj \
+    $(_OBJ_DIR)\i386\prnt_tbl.obj \
+    $(_OBJ_DIR)\i386\prnt_lm.obj \
+    $(_OBJ_DIR)\i386\dlog_tbl.obj \
+    $(_OBJ_DIR)\i386\dlog_lm.obj \
+    $(_OBJ_DIR)\i386\odom_tbl.obj \
+    $(_OBJ_DIR)\i386\odom_lm.obj \
+    $(_OBJ_DIR)\i386\srvr_tbl.obj \
+    $(_OBJ_DIR)\i386\srvr_lm.obj \
+    $(_OBJ_DIR)\i386\uses_tbl.obj \
+    $(_OBJ_DIR)\i386\uses_lm.obj \
+    $(_OBJ_DIR)\i386\lmcache.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\lmmib2.res \
+    $(_OBJ_DIR)\ia64\testdll.obj \
+    $(_OBJ_DIR)\ia64\mib.obj \
+    $(_OBJ_DIR)\ia64\resolve.obj \
+    $(_OBJ_DIR)\ia64\mibfuncs.obj \
+    $(_OBJ_DIR)\ia64\hash.obj \
+    $(_OBJ_DIR)\ia64\sess_tbl.obj \
+    $(_OBJ_DIR)\ia64\sess_lm.obj \
+    $(_OBJ_DIR)\ia64\srvc_tbl.obj \
+    $(_OBJ_DIR)\ia64\srvc_lm.obj \
+    $(_OBJ_DIR)\ia64\user_tbl.obj \
+    $(_OBJ_DIR)\ia64\user_lm.obj \
+    $(_OBJ_DIR)\ia64\shar_tbl.obj \
+    $(_OBJ_DIR)\ia64\shar_lm.obj \
+    $(_OBJ_DIR)\ia64\prnt_tbl.obj \
+    $(_OBJ_DIR)\ia64\prnt_lm.obj \
+    $(_OBJ_DIR)\ia64\dlog_tbl.obj \
+    $(_OBJ_DIR)\ia64\dlog_lm.obj \
+    $(_OBJ_DIR)\ia64\odom_tbl.obj \
+    $(_OBJ_DIR)\ia64\odom_lm.obj \
+    $(_OBJ_DIR)\ia64\srvr_tbl.obj \
+    $(_OBJ_DIR)\ia64\srvr_lm.obj \
+    $(_OBJ_DIR)\ia64\uses_tbl.obj \
+    $(_OBJ_DIR)\ia64\uses_lm.obj \
+    $(_OBJ_DIR)\ia64\lmcache.obj
+
+PASS0_IA64_OBJECTS=
+

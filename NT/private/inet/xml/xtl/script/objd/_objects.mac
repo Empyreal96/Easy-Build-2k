@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\iactivescript.obj \
+    $(_OBJ_DIR)\alpha\iactivescripterror.obj \
+    $(_OBJ_DIR)\alpha\iactivescriptparse.obj \
+    $(_OBJ_DIR)\alpha\iactivescriptsite.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\iactivescript.obj \
+    $(_OBJ_DIR)\alpha64\iactivescripterror.obj \
+    $(_OBJ_DIR)\alpha64\iactivescriptparse.obj \
+    $(_OBJ_DIR)\alpha64\iactivescriptsite.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\iactivescript.obj \
+    $(_OBJ_DIR)\i386\iactivescripterror.obj \
+    $(_OBJ_DIR)\i386\iactivescriptparse.obj \
+    $(_OBJ_DIR)\i386\iactivescriptsite.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\iactivescript.obj \
+    $(_OBJ_DIR)\ia64\iactivescripterror.obj \
+    $(_OBJ_DIR)\ia64\iactivescriptparse.obj \
+    $(_OBJ_DIR)\ia64\iactivescriptsite.obj
+
+PASS0_IA64_OBJECTS=
+

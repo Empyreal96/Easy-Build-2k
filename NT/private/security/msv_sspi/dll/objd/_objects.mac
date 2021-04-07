@@ -1,0 +1,112 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\msv1_0.res \
+    $(_OBJ_DIR)\alpha\msv1_0.obj \
+    $(_OBJ_DIR)\alpha\msvars.obj \
+    $(_OBJ_DIR)\alpha\msvpaswd.obj \
+    $(_OBJ_DIR)\alpha\msvsam.obj \
+    $(_OBJ_DIR)\alpha\nlmain.obj \
+    $(_OBJ_DIR)\alpha\nlnetapi.obj \
+    $(_OBJ_DIR)\alpha\nlp.obj \
+    $(_OBJ_DIR)\alpha\nlpcache.obj \
+    $(_OBJ_DIR)\alpha\subauth.obj \
+    $(_OBJ_DIR)\alpha\credderi.obj \
+    $(_OBJ_DIR)\alpha\crc32.obj \
+    $(_OBJ_DIR)\alpha\ntlm.obj \
+    $(_OBJ_DIR)\alpha\credapi.obj \
+    $(_OBJ_DIR)\alpha\ctxtapi.obj \
+    $(_OBJ_DIR)\alpha\miscapi.obj \
+    $(_OBJ_DIR)\alpha\userapi.obj \
+    $(_OBJ_DIR)\alpha\ntlmutil.obj \
+    $(_OBJ_DIR)\alpha\encrypt.obj \
+    $(_OBJ_DIR)\alpha\credhand.obj \
+    $(_OBJ_DIR)\alpha\utility.obj \
+    $(_OBJ_DIR)\alpha\context.obj \
+    $(_OBJ_DIR)\alpha\rng.obj \
+    $(_OBJ_DIR)\alpha\debug.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\msv1_0.res \
+    $(_OBJ_DIR)\alpha64\msv1_0.obj \
+    $(_OBJ_DIR)\alpha64\msvars.obj \
+    $(_OBJ_DIR)\alpha64\msvpaswd.obj \
+    $(_OBJ_DIR)\alpha64\msvsam.obj \
+    $(_OBJ_DIR)\alpha64\nlmain.obj \
+    $(_OBJ_DIR)\alpha64\nlnetapi.obj \
+    $(_OBJ_DIR)\alpha64\nlp.obj \
+    $(_OBJ_DIR)\alpha64\nlpcache.obj \
+    $(_OBJ_DIR)\alpha64\subauth.obj \
+    $(_OBJ_DIR)\alpha64\credderi.obj \
+    $(_OBJ_DIR)\alpha64\crc32.obj \
+    $(_OBJ_DIR)\alpha64\ntlm.obj \
+    $(_OBJ_DIR)\alpha64\credapi.obj \
+    $(_OBJ_DIR)\alpha64\ctxtapi.obj \
+    $(_OBJ_DIR)\alpha64\miscapi.obj \
+    $(_OBJ_DIR)\alpha64\userapi.obj \
+    $(_OBJ_DIR)\alpha64\ntlmutil.obj \
+    $(_OBJ_DIR)\alpha64\encrypt.obj \
+    $(_OBJ_DIR)\alpha64\credhand.obj \
+    $(_OBJ_DIR)\alpha64\utility.obj \
+    $(_OBJ_DIR)\alpha64\context.obj \
+    $(_OBJ_DIR)\alpha64\rng.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\msv1_0.res \
+    $(_OBJ_DIR)\i386\msv1_0.obj \
+    $(_OBJ_DIR)\i386\msvars.obj \
+    $(_OBJ_DIR)\i386\msvpaswd.obj \
+    $(_OBJ_DIR)\i386\msvsam.obj \
+    $(_OBJ_DIR)\i386\nlmain.obj \
+    $(_OBJ_DIR)\i386\nlnetapi.obj \
+    $(_OBJ_DIR)\i386\nlp.obj \
+    $(_OBJ_DIR)\i386\nlpcache.obj \
+    $(_OBJ_DIR)\i386\subauth.obj \
+    $(_OBJ_DIR)\i386\credderi.obj \
+    $(_OBJ_DIR)\i386\crc32.obj \
+    $(_OBJ_DIR)\i386\ntlm.obj \
+    $(_OBJ_DIR)\i386\credapi.obj \
+    $(_OBJ_DIR)\i386\ctxtapi.obj \
+    $(_OBJ_DIR)\i386\miscapi.obj \
+    $(_OBJ_DIR)\i386\userapi.obj \
+    $(_OBJ_DIR)\i386\ntlmutil.obj \
+    $(_OBJ_DIR)\i386\encrypt.obj \
+    $(_OBJ_DIR)\i386\credhand.obj \
+    $(_OBJ_DIR)\i386\utility.obj \
+    $(_OBJ_DIR)\i386\context.obj \
+    $(_OBJ_DIR)\i386\rng.obj \
+    $(_OBJ_DIR)\i386\debug.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\msv1_0.res \
+    $(_OBJ_DIR)\ia64\msv1_0.obj \
+    $(_OBJ_DIR)\ia64\msvars.obj \
+    $(_OBJ_DIR)\ia64\msvpaswd.obj \
+    $(_OBJ_DIR)\ia64\msvsam.obj \
+    $(_OBJ_DIR)\ia64\nlmain.obj \
+    $(_OBJ_DIR)\ia64\nlnetapi.obj \
+    $(_OBJ_DIR)\ia64\nlp.obj \
+    $(_OBJ_DIR)\ia64\nlpcache.obj \
+    $(_OBJ_DIR)\ia64\subauth.obj \
+    $(_OBJ_DIR)\ia64\credderi.obj \
+    $(_OBJ_DIR)\ia64\crc32.obj \
+    $(_OBJ_DIR)\ia64\ntlm.obj \
+    $(_OBJ_DIR)\ia64\credapi.obj \
+    $(_OBJ_DIR)\ia64\ctxtapi.obj \
+    $(_OBJ_DIR)\ia64\miscapi.obj \
+    $(_OBJ_DIR)\ia64\userapi.obj \
+    $(_OBJ_DIR)\ia64\ntlmutil.obj \
+    $(_OBJ_DIR)\ia64\encrypt.obj \
+    $(_OBJ_DIR)\ia64\credhand.obj \
+    $(_OBJ_DIR)\ia64\utility.obj \
+    $(_OBJ_DIR)\ia64\context.obj \
+    $(_OBJ_DIR)\ia64\rng.obj \
+    $(_OBJ_DIR)\ia64\debug.obj
+
+PASS0_IA64_OBJECTS=
+

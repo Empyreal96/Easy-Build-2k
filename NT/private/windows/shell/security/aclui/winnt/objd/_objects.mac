@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\aclui.res \
+    $(_OBJ_DIR)\alpha\uuid.obj \
+    $(_OBJ_DIR)\alpha\dll.obj \
+    $(_OBJ_DIR)\alpha\ace.obj \
+    $(_OBJ_DIR)\alpha\acelist.obj \
+    $(_OBJ_DIR)\alpha\owner.obj \
+    $(_OBJ_DIR)\alpha\aceedit.obj \
+    $(_OBJ_DIR)\alpha\chklist.obj \
+    $(_OBJ_DIR)\alpha\misc.obj \
+    $(_OBJ_DIR)\alpha\pagebase.obj \
+    $(_OBJ_DIR)\alpha\perm.obj \
+    $(_OBJ_DIR)\alpha\permset.obj \
+    $(_OBJ_DIR)\alpha\cstrings.obj \
+    $(_OBJ_DIR)\alpha\sidcache.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\aclui.res \
+    $(_OBJ_DIR)\alpha64\uuid.obj \
+    $(_OBJ_DIR)\alpha64\dll.obj \
+    $(_OBJ_DIR)\alpha64\ace.obj \
+    $(_OBJ_DIR)\alpha64\acelist.obj \
+    $(_OBJ_DIR)\alpha64\owner.obj \
+    $(_OBJ_DIR)\alpha64\aceedit.obj \
+    $(_OBJ_DIR)\alpha64\chklist.obj \
+    $(_OBJ_DIR)\alpha64\misc.obj \
+    $(_OBJ_DIR)\alpha64\pagebase.obj \
+    $(_OBJ_DIR)\alpha64\perm.obj \
+    $(_OBJ_DIR)\alpha64\permset.obj \
+    $(_OBJ_DIR)\alpha64\cstrings.obj \
+    $(_OBJ_DIR)\alpha64\sidcache.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\aclui.res \
+    $(_OBJ_DIR)\i386\uuid.obj \
+    $(_OBJ_DIR)\i386\dll.obj \
+    $(_OBJ_DIR)\i386\ace.obj \
+    $(_OBJ_DIR)\i386\acelist.obj \
+    $(_OBJ_DIR)\i386\owner.obj \
+    $(_OBJ_DIR)\i386\aceedit.obj \
+    $(_OBJ_DIR)\i386\chklist.obj \
+    $(_OBJ_DIR)\i386\misc.obj \
+    $(_OBJ_DIR)\i386\pagebase.obj \
+    $(_OBJ_DIR)\i386\perm.obj \
+    $(_OBJ_DIR)\i386\permset.obj \
+    $(_OBJ_DIR)\i386\cstrings.obj \
+    $(_OBJ_DIR)\i386\sidcache.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\aclui.res \
+    $(_OBJ_DIR)\ia64\uuid.obj \
+    $(_OBJ_DIR)\ia64\dll.obj \
+    $(_OBJ_DIR)\ia64\ace.obj \
+    $(_OBJ_DIR)\ia64\acelist.obj \
+    $(_OBJ_DIR)\ia64\owner.obj \
+    $(_OBJ_DIR)\ia64\aceedit.obj \
+    $(_OBJ_DIR)\ia64\chklist.obj \
+    $(_OBJ_DIR)\ia64\misc.obj \
+    $(_OBJ_DIR)\ia64\pagebase.obj \
+    $(_OBJ_DIR)\ia64\perm.obj \
+    $(_OBJ_DIR)\ia64\permset.obj \
+    $(_OBJ_DIR)\ia64\cstrings.obj \
+    $(_OBJ_DIR)\ia64\sidcache.obj
+
+PASS0_IA64_OBJECTS=
+

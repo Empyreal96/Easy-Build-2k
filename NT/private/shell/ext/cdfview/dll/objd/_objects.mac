@@ -1,0 +1,128 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\cdfview.res \
+    $(_OBJ_DIR)\alpha\bindstcb.obj \
+    $(_OBJ_DIR)\alpha\cache.obj \
+    $(_OBJ_DIR)\alpha\cdfidl.obj \
+    $(_OBJ_DIR)\alpha\cdfview.obj \
+    $(_OBJ_DIR)\alpha\chanapi.obj \
+    $(_OBJ_DIR)\alpha\chanenum.obj \
+    $(_OBJ_DIR)\alpha\chanmenu.obj \
+    $(_OBJ_DIR)\alpha\clsfact.obj \
+    $(_OBJ_DIR)\alpha\crt.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\dll.obj \
+    $(_OBJ_DIR)\alpha\dllload.obj \
+    $(_OBJ_DIR)\alpha\enum.obj \
+    $(_OBJ_DIR)\alpha\exticon.obj \
+    $(_OBJ_DIR)\alpha\folder.obj \
+    $(_OBJ_DIR)\alpha\globals.obj \
+    $(_OBJ_DIR)\alpha\iconhand.obj \
+    $(_OBJ_DIR)\alpha\itemmenu.obj \
+    $(_OBJ_DIR)\alpha\oleobj.obj \
+    $(_OBJ_DIR)\alpha\persist.obj \
+    $(_OBJ_DIR)\alpha\proppgs.obj \
+    $(_OBJ_DIR)\alpha\strutil.obj \
+    $(_OBJ_DIR)\alpha\tooltip.obj \
+    $(_OBJ_DIR)\alpha\view.obj \
+    $(_OBJ_DIR)\alpha\xmlutil.obj \
+    $(_OBJ_DIR)\alpha\utils.obj \
+    $(_OBJ_DIR)\alpha\runonnt.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\cdfview.res \
+    $(_OBJ_DIR)\alpha64\bindstcb.obj \
+    $(_OBJ_DIR)\alpha64\cache.obj \
+    $(_OBJ_DIR)\alpha64\cdfidl.obj \
+    $(_OBJ_DIR)\alpha64\cdfview.obj \
+    $(_OBJ_DIR)\alpha64\chanapi.obj \
+    $(_OBJ_DIR)\alpha64\chanenum.obj \
+    $(_OBJ_DIR)\alpha64\chanmenu.obj \
+    $(_OBJ_DIR)\alpha64\clsfact.obj \
+    $(_OBJ_DIR)\alpha64\crt.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\dll.obj \
+    $(_OBJ_DIR)\alpha64\dllload.obj \
+    $(_OBJ_DIR)\alpha64\enum.obj \
+    $(_OBJ_DIR)\alpha64\exticon.obj \
+    $(_OBJ_DIR)\alpha64\folder.obj \
+    $(_OBJ_DIR)\alpha64\globals.obj \
+    $(_OBJ_DIR)\alpha64\iconhand.obj \
+    $(_OBJ_DIR)\alpha64\itemmenu.obj \
+    $(_OBJ_DIR)\alpha64\oleobj.obj \
+    $(_OBJ_DIR)\alpha64\persist.obj \
+    $(_OBJ_DIR)\alpha64\proppgs.obj \
+    $(_OBJ_DIR)\alpha64\strutil.obj \
+    $(_OBJ_DIR)\alpha64\tooltip.obj \
+    $(_OBJ_DIR)\alpha64\view.obj \
+    $(_OBJ_DIR)\alpha64\xmlutil.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj \
+    $(_OBJ_DIR)\alpha64\runonnt.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\cdfview.res \
+    $(_OBJ_DIR)\i386\bindstcb.obj \
+    $(_OBJ_DIR)\i386\cache.obj \
+    $(_OBJ_DIR)\i386\cdfidl.obj \
+    $(_OBJ_DIR)\i386\cdfview.obj \
+    $(_OBJ_DIR)\i386\chanapi.obj \
+    $(_OBJ_DIR)\i386\chanenum.obj \
+    $(_OBJ_DIR)\i386\chanmenu.obj \
+    $(_OBJ_DIR)\i386\clsfact.obj \
+    $(_OBJ_DIR)\i386\crt.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\dll.obj \
+    $(_OBJ_DIR)\i386\dllload.obj \
+    $(_OBJ_DIR)\i386\enum.obj \
+    $(_OBJ_DIR)\i386\exticon.obj \
+    $(_OBJ_DIR)\i386\folder.obj \
+    $(_OBJ_DIR)\i386\globals.obj \
+    $(_OBJ_DIR)\i386\iconhand.obj \
+    $(_OBJ_DIR)\i386\itemmenu.obj \
+    $(_OBJ_DIR)\i386\oleobj.obj \
+    $(_OBJ_DIR)\i386\persist.obj \
+    $(_OBJ_DIR)\i386\proppgs.obj \
+    $(_OBJ_DIR)\i386\strutil.obj \
+    $(_OBJ_DIR)\i386\tooltip.obj \
+    $(_OBJ_DIR)\i386\view.obj \
+    $(_OBJ_DIR)\i386\xmlutil.obj \
+    $(_OBJ_DIR)\i386\utils.obj \
+    $(_OBJ_DIR)\i386\runonnt.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\cdfview.res \
+    $(_OBJ_DIR)\ia64\bindstcb.obj \
+    $(_OBJ_DIR)\ia64\cache.obj \
+    $(_OBJ_DIR)\ia64\cdfidl.obj \
+    $(_OBJ_DIR)\ia64\cdfview.obj \
+    $(_OBJ_DIR)\ia64\chanapi.obj \
+    $(_OBJ_DIR)\ia64\chanenum.obj \
+    $(_OBJ_DIR)\ia64\chanmenu.obj \
+    $(_OBJ_DIR)\ia64\clsfact.obj \
+    $(_OBJ_DIR)\ia64\crt.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\dll.obj \
+    $(_OBJ_DIR)\ia64\dllload.obj \
+    $(_OBJ_DIR)\ia64\enum.obj \
+    $(_OBJ_DIR)\ia64\exticon.obj \
+    $(_OBJ_DIR)\ia64\folder.obj \
+    $(_OBJ_DIR)\ia64\globals.obj \
+    $(_OBJ_DIR)\ia64\iconhand.obj \
+    $(_OBJ_DIR)\ia64\itemmenu.obj \
+    $(_OBJ_DIR)\ia64\oleobj.obj \
+    $(_OBJ_DIR)\ia64\persist.obj \
+    $(_OBJ_DIR)\ia64\proppgs.obj \
+    $(_OBJ_DIR)\ia64\strutil.obj \
+    $(_OBJ_DIR)\ia64\tooltip.obj \
+    $(_OBJ_DIR)\ia64\view.obj \
+    $(_OBJ_DIR)\ia64\xmlutil.obj \
+    $(_OBJ_DIR)\ia64\utils.obj \
+    $(_OBJ_DIR)\ia64\runonnt.obj
+
+PASS0_IA64_OBJECTS=
+

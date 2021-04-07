@@ -1,0 +1,72 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\sspipes.res \
+    $(_OBJ_DIR)\alpha\dialog.obj \
+    $(_OBJ_DIR)\alpha\sspipes.obj \
+    $(_OBJ_DIR)\alpha\state.obj \
+    $(_OBJ_DIR)\alpha\nstate.obj \
+    $(_OBJ_DIR)\alpha\fstate.obj \
+    $(_OBJ_DIR)\alpha\pipe.obj \
+    $(_OBJ_DIR)\alpha\npipe.obj \
+    $(_OBJ_DIR)\alpha\fpipe.obj \
+    $(_OBJ_DIR)\alpha\view.obj \
+    $(_OBJ_DIR)\alpha\node.obj \
+    $(_OBJ_DIR)\alpha\objects.obj \
+    $(_OBJ_DIR)\alpha\eval.obj \
+    $(_OBJ_DIR)\alpha\xc.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\sspipes.res \
+    $(_OBJ_DIR)\alpha64\dialog.obj \
+    $(_OBJ_DIR)\alpha64\sspipes.obj \
+    $(_OBJ_DIR)\alpha64\state.obj \
+    $(_OBJ_DIR)\alpha64\nstate.obj \
+    $(_OBJ_DIR)\alpha64\fstate.obj \
+    $(_OBJ_DIR)\alpha64\pipe.obj \
+    $(_OBJ_DIR)\alpha64\npipe.obj \
+    $(_OBJ_DIR)\alpha64\fpipe.obj \
+    $(_OBJ_DIR)\alpha64\view.obj \
+    $(_OBJ_DIR)\alpha64\node.obj \
+    $(_OBJ_DIR)\alpha64\objects.obj \
+    $(_OBJ_DIR)\alpha64\eval.obj \
+    $(_OBJ_DIR)\alpha64\xc.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\sspipes.res \
+    $(_OBJ_DIR)\i386\dialog.obj \
+    $(_OBJ_DIR)\i386\sspipes.obj \
+    $(_OBJ_DIR)\i386\state.obj \
+    $(_OBJ_DIR)\i386\nstate.obj \
+    $(_OBJ_DIR)\i386\fstate.obj \
+    $(_OBJ_DIR)\i386\pipe.obj \
+    $(_OBJ_DIR)\i386\npipe.obj \
+    $(_OBJ_DIR)\i386\fpipe.obj \
+    $(_OBJ_DIR)\i386\view.obj \
+    $(_OBJ_DIR)\i386\node.obj \
+    $(_OBJ_DIR)\i386\objects.obj \
+    $(_OBJ_DIR)\i386\eval.obj \
+    $(_OBJ_DIR)\i386\xc.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\sspipes.res \
+    $(_OBJ_DIR)\ia64\dialog.obj \
+    $(_OBJ_DIR)\ia64\sspipes.obj \
+    $(_OBJ_DIR)\ia64\state.obj \
+    $(_OBJ_DIR)\ia64\nstate.obj \
+    $(_OBJ_DIR)\ia64\fstate.obj \
+    $(_OBJ_DIR)\ia64\pipe.obj \
+    $(_OBJ_DIR)\ia64\npipe.obj \
+    $(_OBJ_DIR)\ia64\fpipe.obj \
+    $(_OBJ_DIR)\ia64\view.obj \
+    $(_OBJ_DIR)\ia64\node.obj \
+    $(_OBJ_DIR)\ia64\objects.obj \
+    $(_OBJ_DIR)\ia64\eval.obj \
+    $(_OBJ_DIR)\ia64\xc.obj
+
+PASS0_IA64_OBJECTS=
+

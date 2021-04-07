@@ -1,0 +1,116 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\hostmib.res \
+    $(_OBJ_DIR)\alpha\hostmib.obj \
+    $(_OBJ_DIR)\alpha\hmcache.obj \
+    $(_OBJ_DIR)\alpha\gennt.obj \
+    $(_OBJ_DIR)\alpha\heswinen.obj \
+    $(_OBJ_DIR)\alpha\hostmsmi.obj \
+    $(_OBJ_DIR)\alpha\hrdevent.obj \
+    $(_OBJ_DIR)\alpha\hrdiskst.obj \
+    $(_OBJ_DIR)\alpha\hrfsentr.obj \
+    $(_OBJ_DIR)\alpha\hrnetwor.obj \
+    $(_OBJ_DIR)\alpha\hrpartit.obj \
+    $(_OBJ_DIR)\alpha\hrprinte.obj \
+    $(_OBJ_DIR)\alpha\hrproces.obj \
+    $(_OBJ_DIR)\alpha\hrstoent.obj \
+    $(_OBJ_DIR)\alpha\hrstorag.obj \
+    $(_OBJ_DIR)\alpha\hrswinst.obj \
+    $(_OBJ_DIR)\alpha\hrswpren.obj \
+    $(_OBJ_DIR)\alpha\hrswrun.obj \
+    $(_OBJ_DIR)\alpha\hrswrune.obj \
+    $(_OBJ_DIR)\alpha\hrsystem.obj \
+    $(_OBJ_DIR)\alpha\mib.obj \
+    $(_OBJ_DIR)\alpha\smint.obj \
+    $(_OBJ_DIR)\alpha\user.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\genmsg.h \
+    $(PASS0_SOURCEDIR)\genmsg.rc
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\hostmib.res \
+    $(_OBJ_DIR)\alpha64\hostmib.obj \
+    $(_OBJ_DIR)\alpha64\hmcache.obj \
+    $(_OBJ_DIR)\alpha64\gennt.obj \
+    $(_OBJ_DIR)\alpha64\heswinen.obj \
+    $(_OBJ_DIR)\alpha64\hostmsmi.obj \
+    $(_OBJ_DIR)\alpha64\hrdevent.obj \
+    $(_OBJ_DIR)\alpha64\hrdiskst.obj \
+    $(_OBJ_DIR)\alpha64\hrfsentr.obj \
+    $(_OBJ_DIR)\alpha64\hrnetwor.obj \
+    $(_OBJ_DIR)\alpha64\hrpartit.obj \
+    $(_OBJ_DIR)\alpha64\hrprinte.obj \
+    $(_OBJ_DIR)\alpha64\hrproces.obj \
+    $(_OBJ_DIR)\alpha64\hrstoent.obj \
+    $(_OBJ_DIR)\alpha64\hrstorag.obj \
+    $(_OBJ_DIR)\alpha64\hrswinst.obj \
+    $(_OBJ_DIR)\alpha64\hrswpren.obj \
+    $(_OBJ_DIR)\alpha64\hrswrun.obj \
+    $(_OBJ_DIR)\alpha64\hrswrune.obj \
+    $(_OBJ_DIR)\alpha64\hrsystem.obj \
+    $(_OBJ_DIR)\alpha64\mib.obj \
+    $(_OBJ_DIR)\alpha64\smint.obj \
+    $(_OBJ_DIR)\alpha64\user.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\genmsg.h \
+    $(PASS0_SOURCEDIR)\genmsg.rc
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\hostmib.res \
+    $(_OBJ_DIR)\i386\hostmib.obj \
+    $(_OBJ_DIR)\i386\hmcache.obj \
+    $(_OBJ_DIR)\i386\gennt.obj \
+    $(_OBJ_DIR)\i386\heswinen.obj \
+    $(_OBJ_DIR)\i386\hostmsmi.obj \
+    $(_OBJ_DIR)\i386\hrdevent.obj \
+    $(_OBJ_DIR)\i386\hrdiskst.obj \
+    $(_OBJ_DIR)\i386\hrfsentr.obj \
+    $(_OBJ_DIR)\i386\hrnetwor.obj \
+    $(_OBJ_DIR)\i386\hrpartit.obj \
+    $(_OBJ_DIR)\i386\hrprinte.obj \
+    $(_OBJ_DIR)\i386\hrproces.obj \
+    $(_OBJ_DIR)\i386\hrstoent.obj \
+    $(_OBJ_DIR)\i386\hrstorag.obj \
+    $(_OBJ_DIR)\i386\hrswinst.obj \
+    $(_OBJ_DIR)\i386\hrswpren.obj \
+    $(_OBJ_DIR)\i386\hrswrun.obj \
+    $(_OBJ_DIR)\i386\hrswrune.obj \
+    $(_OBJ_DIR)\i386\hrsystem.obj \
+    $(_OBJ_DIR)\i386\mib.obj \
+    $(_OBJ_DIR)\i386\smint.obj \
+    $(_OBJ_DIR)\i386\user.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\genmsg.h \
+    $(PASS0_SOURCEDIR)\genmsg.rc
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\hostmib.res \
+    $(_OBJ_DIR)\ia64\hostmib.obj \
+    $(_OBJ_DIR)\ia64\hmcache.obj \
+    $(_OBJ_DIR)\ia64\gennt.obj \
+    $(_OBJ_DIR)\ia64\heswinen.obj \
+    $(_OBJ_DIR)\ia64\hostmsmi.obj \
+    $(_OBJ_DIR)\ia64\hrdevent.obj \
+    $(_OBJ_DIR)\ia64\hrdiskst.obj \
+    $(_OBJ_DIR)\ia64\hrfsentr.obj \
+    $(_OBJ_DIR)\ia64\hrnetwor.obj \
+    $(_OBJ_DIR)\ia64\hrpartit.obj \
+    $(_OBJ_DIR)\ia64\hrprinte.obj \
+    $(_OBJ_DIR)\ia64\hrproces.obj \
+    $(_OBJ_DIR)\ia64\hrstoent.obj \
+    $(_OBJ_DIR)\ia64\hrstorag.obj \
+    $(_OBJ_DIR)\ia64\hrswinst.obj \
+    $(_OBJ_DIR)\ia64\hrswpren.obj \
+    $(_OBJ_DIR)\ia64\hrswrun.obj \
+    $(_OBJ_DIR)\ia64\hrswrune.obj \
+    $(_OBJ_DIR)\ia64\hrsystem.obj \
+    $(_OBJ_DIR)\ia64\mib.obj \
+    $(_OBJ_DIR)\ia64\smint.obj \
+    $(_OBJ_DIR)\ia64\user.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\genmsg.h \
+    $(PASS0_SOURCEDIR)\genmsg.rc
+

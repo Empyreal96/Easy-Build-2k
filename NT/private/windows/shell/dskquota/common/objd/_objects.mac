@@ -1,0 +1,88 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\alloc.obj \
+    $(_OBJ_DIR)\alpha\bitset.obj \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\except.obj \
+    $(_OBJ_DIR)\alpha\ntds.obj \
+    $(_OBJ_DIR)\alpha\mapfile.obj \
+    $(_OBJ_DIR)\alpha\registry.obj \
+    $(_OBJ_DIR)\alpha\strclass.obj \
+    $(_OBJ_DIR)\alpha\pathstr.obj \
+    $(_OBJ_DIR)\alpha\strret.obj \
+    $(_OBJ_DIR)\alpha\thdsync.obj \
+    $(_OBJ_DIR)\alpha\utils.obj \
+    $(_OBJ_DIR)\alpha\xbytes.obj \
+    $(_OBJ_DIR)\alpha\policy.obj \
+    $(_OBJ_DIR)\alpha\eventlog.obj \
+    $(_OBJ_DIR)\alpha\dblnul.obj
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\msg.h \
+    $(PASS0_SOURCEDIR)\msg.rc
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\alloc.obj \
+    $(_OBJ_DIR)\alpha64\bitset.obj \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\except.obj \
+    $(_OBJ_DIR)\alpha64\ntds.obj \
+    $(_OBJ_DIR)\alpha64\mapfile.obj \
+    $(_OBJ_DIR)\alpha64\registry.obj \
+    $(_OBJ_DIR)\alpha64\strclass.obj \
+    $(_OBJ_DIR)\alpha64\pathstr.obj \
+    $(_OBJ_DIR)\alpha64\strret.obj \
+    $(_OBJ_DIR)\alpha64\thdsync.obj \
+    $(_OBJ_DIR)\alpha64\utils.obj \
+    $(_OBJ_DIR)\alpha64\xbytes.obj \
+    $(_OBJ_DIR)\alpha64\policy.obj \
+    $(_OBJ_DIR)\alpha64\eventlog.obj \
+    $(_OBJ_DIR)\alpha64\dblnul.obj
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\msg.h \
+    $(PASS0_SOURCEDIR)\msg.rc
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\alloc.obj \
+    $(_OBJ_DIR)\i386\bitset.obj \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\except.obj \
+    $(_OBJ_DIR)\i386\ntds.obj \
+    $(_OBJ_DIR)\i386\mapfile.obj \
+    $(_OBJ_DIR)\i386\registry.obj \
+    $(_OBJ_DIR)\i386\strclass.obj \
+    $(_OBJ_DIR)\i386\pathstr.obj \
+    $(_OBJ_DIR)\i386\strret.obj \
+    $(_OBJ_DIR)\i386\thdsync.obj \
+    $(_OBJ_DIR)\i386\utils.obj \
+    $(_OBJ_DIR)\i386\xbytes.obj \
+    $(_OBJ_DIR)\i386\policy.obj \
+    $(_OBJ_DIR)\i386\eventlog.obj \
+    $(_OBJ_DIR)\i386\dblnul.obj
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\msg.h \
+    $(PASS0_SOURCEDIR)\msg.rc
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\alloc.obj \
+    $(_OBJ_DIR)\ia64\bitset.obj \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\except.obj \
+    $(_OBJ_DIR)\ia64\ntds.obj \
+    $(_OBJ_DIR)\ia64\mapfile.obj \
+    $(_OBJ_DIR)\ia64\registry.obj \
+    $(_OBJ_DIR)\ia64\strclass.obj \
+    $(_OBJ_DIR)\ia64\pathstr.obj \
+    $(_OBJ_DIR)\ia64\strret.obj \
+    $(_OBJ_DIR)\ia64\thdsync.obj \
+    $(_OBJ_DIR)\ia64\utils.obj \
+    $(_OBJ_DIR)\ia64\xbytes.obj \
+    $(_OBJ_DIR)\ia64\policy.obj \
+    $(_OBJ_DIR)\ia64\eventlog.obj \
+    $(_OBJ_DIR)\ia64\dblnul.obj
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\msg.h \
+    $(PASS0_SOURCEDIR)\msg.rc
+

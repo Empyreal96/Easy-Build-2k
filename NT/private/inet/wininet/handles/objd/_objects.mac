@@ -1,0 +1,48 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\connect.obj \
+    $(_OBJ_DIR)\alpha\ftp.obj \
+    $(_OBJ_DIR)\alpha\gopher.obj \
+    $(_OBJ_DIR)\alpha\hinet.obj \
+    $(_OBJ_DIR)\alpha\http.obj \
+    $(_OBJ_DIR)\alpha\hutil.obj \
+    $(_OBJ_DIR)\alpha\proxysup.obj \
+    $(_OBJ_DIR)\alpha\autoprox.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\connect.obj \
+    $(_OBJ_DIR)\alpha64\ftp.obj \
+    $(_OBJ_DIR)\alpha64\gopher.obj \
+    $(_OBJ_DIR)\alpha64\hinet.obj \
+    $(_OBJ_DIR)\alpha64\http.obj \
+    $(_OBJ_DIR)\alpha64\hutil.obj \
+    $(_OBJ_DIR)\alpha64\proxysup.obj \
+    $(_OBJ_DIR)\alpha64\autoprox.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\connect.obj \
+    $(_OBJ_DIR)\i386\ftp.obj \
+    $(_OBJ_DIR)\i386\gopher.obj \
+    $(_OBJ_DIR)\i386\hinet.obj \
+    $(_OBJ_DIR)\i386\http.obj \
+    $(_OBJ_DIR)\i386\hutil.obj \
+    $(_OBJ_DIR)\i386\proxysup.obj \
+    $(_OBJ_DIR)\i386\autoprox.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\connect.obj \
+    $(_OBJ_DIR)\ia64\ftp.obj \
+    $(_OBJ_DIR)\ia64\gopher.obj \
+    $(_OBJ_DIR)\ia64\hinet.obj \
+    $(_OBJ_DIR)\ia64\http.obj \
+    $(_OBJ_DIR)\ia64\hutil.obj \
+    $(_OBJ_DIR)\ia64\proxysup.obj \
+    $(_OBJ_DIR)\ia64\autoprox.obj
+
+PASS0_IA64_OBJECTS=
+

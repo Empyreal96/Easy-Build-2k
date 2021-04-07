@@ -1,0 +1,80 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\assoc.obj \
+    $(_OBJ_DIR)\alpha\comc.obj \
+    $(_OBJ_DIR)\alpha\filetype.obj \
+    $(_OBJ_DIR)\alpha\fsassoc.obj \
+    $(_OBJ_DIR)\alpha\inetcpl.obj \
+    $(_OBJ_DIR)\alpha\memmgr.obj \
+    $(_OBJ_DIR)\alpha\serial.obj \
+    $(_OBJ_DIR)\alpha\util.obj \
+    $(_OBJ_DIR)\alpha\valid.obj \
+    $(_OBJ_DIR)\alpha\hash.obj \
+    $(_OBJ_DIR)\alpha\debspew.obj \
+    $(_OBJ_DIR)\alpha\inifile.obj \
+    $(_OBJ_DIR)\alpha\olevalid.obj \
+    $(_OBJ_DIR)\alpha\shlvalid.obj \
+    $(_OBJ_DIR)\alpha\resstr.obj \
+    $(_OBJ_DIR)\alpha\init.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\assoc.obj \
+    $(_OBJ_DIR)\alpha64\comc.obj \
+    $(_OBJ_DIR)\alpha64\filetype.obj \
+    $(_OBJ_DIR)\alpha64\fsassoc.obj \
+    $(_OBJ_DIR)\alpha64\inetcpl.obj \
+    $(_OBJ_DIR)\alpha64\memmgr.obj \
+    $(_OBJ_DIR)\alpha64\serial.obj \
+    $(_OBJ_DIR)\alpha64\util.obj \
+    $(_OBJ_DIR)\alpha64\valid.obj \
+    $(_OBJ_DIR)\alpha64\hash.obj \
+    $(_OBJ_DIR)\alpha64\debspew.obj \
+    $(_OBJ_DIR)\alpha64\inifile.obj \
+    $(_OBJ_DIR)\alpha64\olevalid.obj \
+    $(_OBJ_DIR)\alpha64\shlvalid.obj \
+    $(_OBJ_DIR)\alpha64\resstr.obj \
+    $(_OBJ_DIR)\alpha64\init.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\assoc.obj \
+    $(_OBJ_DIR)\i386\comc.obj \
+    $(_OBJ_DIR)\i386\filetype.obj \
+    $(_OBJ_DIR)\i386\fsassoc.obj \
+    $(_OBJ_DIR)\i386\inetcpl.obj \
+    $(_OBJ_DIR)\i386\memmgr.obj \
+    $(_OBJ_DIR)\i386\serial.obj \
+    $(_OBJ_DIR)\i386\util.obj \
+    $(_OBJ_DIR)\i386\valid.obj \
+    $(_OBJ_DIR)\i386\hash.obj \
+    $(_OBJ_DIR)\i386\debspew.obj \
+    $(_OBJ_DIR)\i386\inifile.obj \
+    $(_OBJ_DIR)\i386\olevalid.obj \
+    $(_OBJ_DIR)\i386\shlvalid.obj \
+    $(_OBJ_DIR)\i386\resstr.obj \
+    $(_OBJ_DIR)\i386\init.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\assoc.obj \
+    $(_OBJ_DIR)\ia64\comc.obj \
+    $(_OBJ_DIR)\ia64\filetype.obj \
+    $(_OBJ_DIR)\ia64\fsassoc.obj \
+    $(_OBJ_DIR)\ia64\inetcpl.obj \
+    $(_OBJ_DIR)\ia64\memmgr.obj \
+    $(_OBJ_DIR)\ia64\serial.obj \
+    $(_OBJ_DIR)\ia64\util.obj \
+    $(_OBJ_DIR)\ia64\valid.obj \
+    $(_OBJ_DIR)\ia64\hash.obj \
+    $(_OBJ_DIR)\ia64\debspew.obj \
+    $(_OBJ_DIR)\ia64\inifile.obj \
+    $(_OBJ_DIR)\ia64\olevalid.obj \
+    $(_OBJ_DIR)\ia64\shlvalid.obj \
+    $(_OBJ_DIR)\ia64\resstr.obj \
+    $(_OBJ_DIR)\ia64\init.obj
+
+PASS0_IA64_OBJECTS=
+

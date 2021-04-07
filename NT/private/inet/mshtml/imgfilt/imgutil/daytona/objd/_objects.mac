@@ -1,0 +1,60 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\imgutil.res \
+    $(_OBJ_DIR)\alpha\dlldatax.obj \
+    $(_OBJ_DIR)\alpha\imgutil.obj \
+    $(_OBJ_DIR)\alpha\cmapmime.obj \
+    $(_OBJ_DIR)\alpha\cmimeid.obj \
+    $(_OBJ_DIR)\alpha\csnfstrm.obj \
+    $(_OBJ_DIR)\alpha\apis.obj \
+    $(_OBJ_DIR)\alpha\cddsurf.obj \
+    $(_OBJ_DIR)\alpha\cdith8.obj \
+    $(_OBJ_DIR)\alpha\cdithtbl.obj \
+    $(_OBJ_DIR)\alpha\dithers.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\imgutil.res \
+    $(_OBJ_DIR)\alpha64\dlldatax.obj \
+    $(_OBJ_DIR)\alpha64\imgutil.obj \
+    $(_OBJ_DIR)\alpha64\cmapmime.obj \
+    $(_OBJ_DIR)\alpha64\cmimeid.obj \
+    $(_OBJ_DIR)\alpha64\csnfstrm.obj \
+    $(_OBJ_DIR)\alpha64\apis.obj \
+    $(_OBJ_DIR)\alpha64\cddsurf.obj \
+    $(_OBJ_DIR)\alpha64\cdith8.obj \
+    $(_OBJ_DIR)\alpha64\cdithtbl.obj \
+    $(_OBJ_DIR)\alpha64\dithers.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\imgutil.res \
+    $(_OBJ_DIR)\i386\dlldatax.obj \
+    $(_OBJ_DIR)\i386\imgutil.obj \
+    $(_OBJ_DIR)\i386\cmapmime.obj \
+    $(_OBJ_DIR)\i386\cmimeid.obj \
+    $(_OBJ_DIR)\i386\csnfstrm.obj \
+    $(_OBJ_DIR)\i386\apis.obj \
+    $(_OBJ_DIR)\i386\cddsurf.obj \
+    $(_OBJ_DIR)\i386\cdith8.obj \
+    $(_OBJ_DIR)\i386\cdithtbl.obj \
+    $(_OBJ_DIR)\i386\dithers.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\imgutil.res \
+    $(_OBJ_DIR)\ia64\dlldatax.obj \
+    $(_OBJ_DIR)\ia64\imgutil.obj \
+    $(_OBJ_DIR)\ia64\cmapmime.obj \
+    $(_OBJ_DIR)\ia64\cmimeid.obj \
+    $(_OBJ_DIR)\ia64\csnfstrm.obj \
+    $(_OBJ_DIR)\ia64\apis.obj \
+    $(_OBJ_DIR)\ia64\cddsurf.obj \
+    $(_OBJ_DIR)\ia64\cdith8.obj \
+    $(_OBJ_DIR)\ia64\cdithtbl.obj \
+    $(_OBJ_DIR)\ia64\dithers.obj
+
+PASS0_IA64_OBJECTS=
+

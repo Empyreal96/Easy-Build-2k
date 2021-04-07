@@ -1,0 +1,162 @@
+NMAKE : fatal error U1077: 'cl' : return code '0xc0000135'
+NMAKE :  U1073: don't know how to make 'obj\i386\cmwmi.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\cmwmi.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\triage.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\triage.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\triage.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\triage.obj'
+udfs\cvtres : error CVT1101: cannot open obj\i386\udfs.tmp for reading
+fsrec\cvtres : error CVT1101: cannot open obj\i386\fs_rec.tmp for reading
+mountmgr\cvtres : error CVT1101: cannot open obj\i386\mountmgr.tmp for reading
+NMAKE :  U1073: don't know how to make 'obj\i386\lzntx86.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\lzntx86.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\exinit.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\exinit.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\lzntx86.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\lzntx86.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\lzntx86.obj'
+smbtrsup\cvtres : error CVT1101: cannot open obj\i386\smbtrsup.tmp for reading
+vdm\i386\vdmoprnd.asm(37) : error A1000: cannot open file : vdmtib.inc
+vdm\i386\vdmmisc.asm(29) : error A1000: cannot open file : vdmtib.inc
+vdm\i386\vdmoprnd.asm(37) : error A1000: cannot open file : vdmtib.inc
+vdm\i386\vdmmisc.asm(29) : error A1000: cannot open file : vdmtib.inc
+NMAKE :  U1073: don't know how to make 'obj\i386\vdmtib.obj'
+NMAKE :  U1073: don't know how to make 'obj\i386\vdmtib.obj'
+dll\wow6432\cvtres : error CVT1101: cannot open obj\i386\ntdll.tmp for reading
+dll\daytona\cvtres : error CVT1101: cannot open obj\i386\ntdll.tmp for reading
+dll\i386\critsect.asm(90) : error A2006: undefined symbol : CsSpinCount
+dll\i386\critsect.asm(195) : error A2006: undefined symbol : CsSpinCount
+dll\i386\critsect.asm(90) : error A2006: undefined symbol : CsSpinCount
+dll\i386\critsect.asm(195) : error A2006: undefined symbol : CsSpinCount
+dll\i386\emulator.asm(59) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+dll\i386\emulator.asm(59) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+dll\wow6432\i386\usrstubs.asm(132) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(140) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(148) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(156) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(164) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(172) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(180) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(188) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(196) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(204) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(212) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(220) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(228) : error A2006: undefined symbol : TeWow32Reserved
+dll\wow6432\i386\usrstubs.asm(236) : error A2006: undefined symbol : TeWow32Reserved
+NMAKE :  U1073: don't know how to make 'D:\nt\private\ntos\rtl\obj\i386\rtl6432.lib'
+NMAKE :  U1073: don't know how to make 'D:\nt\private\ntos\rtl\obj\i386\rtl.lib'
+ke\i386\mpipia.asm(101) : error A2006: undefined symbol : IPI_SYNCH_REQUEST
+ke\i386\mpipia.asm(175) : error A2006: undefined symbol : IPI_SYNCH_REQUEST
+ke\i386\callout.asm(154) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(155) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(405) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(406) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(154) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(155) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(405) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(406) : error A2006: undefined symbol : FxMXCsr
+ke\i386\ctxswap.asm(569) : error A2006: undefined symbol : PbDpcStack
+ke\i386\ctxswap.asm(1142) : error A2006: undefined symbol : ATTEMPTED_SWITCH_FROM_DPC
+ke\i386\ctxswap.asm(1423) : error A2006: undefined symbol : CR4_FXSR
+ke\i386\ctxswap.asm(1472) : error A2006: undefined symbol : CR4_XMMEXCPT
+ke\i386\callout.asm(154) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(155) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(405) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(406) : error A2006: undefined symbol : FxMXCsr
+ke\i386\ctxswap.asm(138) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(166) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(569) : error A2006: undefined symbol : PbDpcStack
+ke\i386\ctxswap.asm(618) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(760) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(763) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(992) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(1142) : error A2006: undefined symbol : ATTEMPTED_SWITCH_FROM_DPC
+ke\i386\ctxswap.asm(1423) : error A2006: undefined symbol : CR4_FXSR
+ke\i386\ctxswap.asm(1472) : error A2006: undefined symbol : CR4_XMMEXCPT
+ke\i386\ctxswap.asm(1636) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(1661) : error A2006: undefined symbol : PbLockQueue
+ke\i386\mpipia.asm(101) : error A2006: undefined symbol : IPI_SYNCH_REQUEST
+ke\i386\mpipia.asm(175) : error A2006: undefined symbol : IPI_SYNCH_REQUEST
+ke\i386\ctxswap.asm(569) : error A2006: undefined symbol : PbDpcStack
+ke\i386\ctxswap.asm(1142) : error A2006: undefined symbol : ATTEMPTED_SWITCH_FROM_DPC
+ke\i386\ctxswap.asm(1423) : error A2006: undefined symbol : CR4_FXSR
+ke\i386\ctxswap.asm(1472) : error A2006: undefined symbol : CR4_XMMEXCPT
+ke\i386\emv86.asm(37) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\emv86.asm(37) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\emv86.asm(37) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\callout.asm(154) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(155) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(405) : error A2006: undefined symbol : FxMXCsr
+ke\i386\callout.asm(406) : error A2006: undefined symbol : FxMXCsr
+ke\i386\ctxswap.asm(138) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(166) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(569) : error A2006: undefined symbol : PbDpcStack
+ke\i386\ctxswap.asm(618) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(760) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(763) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(992) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(1142) : error A2006: undefined symbol : ATTEMPTED_SWITCH_FROM_DPC
+ke\i386\ctxswap.asm(1423) : error A2006: undefined symbol : CR4_FXSR
+ke\i386\ctxswap.asm(1472) : error A2006: undefined symbol : CR4_XMMEXCPT
+ke\i386\ctxswap.asm(1636) : error A2006: undefined symbol : PbLockQueue
+ke\i386\ctxswap.asm(1661) : error A2006: undefined symbol : PbLockQueue
+ke\i386\instemul.asm(66) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\instemul.asm(66) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\instemul.asm(66) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\emv86.asm(37) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\newsysbg.asm(742) : error A2006: undefined symbol : PbPowerState
+ke\i386\newsysbg.asm(743) : error A2006: undefined symbol : PpIdleFunction
+ke\i386\newsysbg.asm(742) : error A2006: undefined symbol : PbPowerState
+ke\i386\newsysbg.asm(743) : error A2006: undefined symbol : PpIdleFunction
+ke\i386\newsysbg.asm(854) : error A2006: undefined symbol : PbLockQueue
+ke\i386\newsysbg.asm(742) : error A2006: undefined symbol : PbPowerState
+ke\i386\newsysbg.asm(743) : error A2006: undefined symbol : PpIdleFunction
+ke\i386\spinlock.asm(545) : error A2006: undefined symbol : LOCK_QUEUE_HEADER_SIZE
+ke\i386\spinlock.asm(660) : error A2006: undefined symbol : LOCK_QUEUE_OWNER
+ke\i386\spinlock.asm(555) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(570) : error A2006: undefined symbol : LOCK_QUEUE_OWNER
+ke\i386\spinlock.asm(571) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(608) : error A2006: undefined symbol : LOCK_QUEUE_WAIT
+ke\i386\spinlock.asm(609) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(611) : error A2006: undefined symbol : LqNext
+ke\i386\spinlock.asm(616) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(666) : error A2006: undefined symbol : LqNext
+ke\i386\spinlock.asm(667) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(690) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(718) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(724) : error A2006: undefined symbol : LqNext
+ke\i386\spinlock.asm(732) : error A2006: undefined symbol : LqNext
+ke\i386\spinlock.asm(792) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(807) : error A2006: undefined symbol : LOCK_QUEUE_OWNER
+ke\i386\spinlock.asm(808) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(545) : error A2006: undefined symbol : LOCK_QUEUE_HEADER_SIZE
+ke\i386\spinlock.asm(660) : error A2006: undefined symbol : LOCK_QUEUE_OWNER
+ke\i386\instemul.asm(66) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\spinlock.asm(545) : error A2006: undefined symbol : LOCK_QUEUE_HEADER_SIZE
+ke\i386\spinlock.asm(660) : error A2006: undefined symbol : LOCK_QUEUE_OWNER
+ke\i386\newsysbg.asm(742) : error A2006: undefined symbol : PbPowerState
+ke\i386\newsysbg.asm(743) : error A2006: undefined symbol : PpIdleFunction
+ke\i386\newsysbg.asm(854) : error A2006: undefined symbol : PbLockQueue
+ke\i386\trap.asm(35) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\trap.asm(35) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\trap.asm(35) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc
+ke\i386\spinlock.asm(555) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(570) : error A2006: undefined symbol : LOCK_QUEUE_OWNER
+ke\i386\spinlock.asm(571) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(608) : error A2006: undefined symbol : LOCK_QUEUE_WAIT
+ke\i386\spinlock.asm(609) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(611) : error A2006: undefined symbol : LqNext
+ke\i386\spinlock.asm(616) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(666) : error A2006: undefined symbol : LqNext
+ke\i386\spinlock.asm(667) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(690) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(718) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(724) : error A2006: undefined symbol : LqNext
+ke\i386\spinlock.asm(732) : error A2006: undefined symbol : LqNext
+ke\i386\spinlock.asm(792) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(807) : error A2006: undefined symbol : LOCK_QUEUE_OWNER
+ke\i386\spinlock.asm(808) : error A2006: undefined symbol : LqLock
+ke\i386\spinlock.asm(545) : error A2006: undefined symbol : LOCK_QUEUE_HEADER_SIZE
+ke\i386\spinlock.asm(660) : error A2006: undefined symbol : LOCK_QUEUE_OWNER
+ke\i386\trap.asm(35) : error A1000: cannot open file : ..\..\..\inc\vdmtib.inc

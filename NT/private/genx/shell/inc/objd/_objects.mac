@@ -1,0 +1,48 @@
+ALPHA_OBJECTS=
+
+PASS0_ALPHA_OBJECTS= \
+    $(PASS0_HEADERDIR)\shappmgr.h \
+    $(PASS0_UUIDDIR)\shappmgr.c \
+    $(PASS0_HEADERDIR)\shldisp.h \
+    $(PASS0_UUIDDIR)\shldisp.c \
+    $(PASS0_HEADERDIR)\shldispp.h \
+    $(PASS0_UUIDDIR)\shldispp.c \
+    $(PASS0_HEADERDIR)\webvw.h \
+    $(PASS0_UUIDDIR)\webvw.c
+
+ALPHA64_OBJECTS=
+
+PASS0_ALPHA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\shappmgr.h \
+    $(PASS0_UUIDDIR)\shappmgr.c \
+    $(PASS0_HEADERDIR)\shldisp.h \
+    $(PASS0_UUIDDIR)\shldisp.c \
+    $(PASS0_HEADERDIR)\shldispp.h \
+    $(PASS0_UUIDDIR)\shldispp.c \
+    $(PASS0_HEADERDIR)\webvw.h \
+    $(PASS0_UUIDDIR)\webvw.c
+
+386_OBJECTS=
+
+PASS0_386_OBJECTS= \
+    $(PASS0_HEADERDIR)\shappmgr.h \
+    $(PASS0_UUIDDIR)\shappmgr.c \
+    $(PASS0_HEADERDIR)\shldisp.h \
+    $(PASS0_UUIDDIR)\shldisp.c \
+    $(PASS0_HEADERDIR)\shldispp.h \
+    $(PASS0_UUIDDIR)\shldispp.c \
+    $(PASS0_HEADERDIR)\webvw.h \
+    $(PASS0_UUIDDIR)\webvw.c
+
+IA64_OBJECTS=
+
+PASS0_IA64_OBJECTS= \
+    $(PASS0_HEADERDIR)\shappmgr.h \
+    $(PASS0_UUIDDIR)\shappmgr.c \
+    $(PASS0_HEADERDIR)\shldisp.h \
+    $(PASS0_UUIDDIR)\shldisp.c \
+    $(PASS0_HEADERDIR)\shldispp.h \
+    $(PASS0_UUIDDIR)\shldispp.c \
+    $(PASS0_HEADERDIR)\webvw.h \
+    $(PASS0_UUIDDIR)\webvw.c
+

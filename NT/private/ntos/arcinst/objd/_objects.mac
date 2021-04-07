@@ -1,0 +1,25 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\fdengine.obj \
+    $(_OBJ_DIR)\alpha\memory.obj \
+    $(_OBJ_DIR)\alpha\almisc.obj \
+    $(_OBJ_DIR)\alpha\fmtexp.obj \
+    $(_OBJ_DIR)\alpha\low.obj \
+    $(_OBJ_DIR)\alpha\nlsboot.obj \
+    $(_OBJ_DIR)\alpha\partit.obj \
+    $(_OBJ_DIR)\alpha\jzcrap.obj \
+    $(_OBJ_DIR)\alpha\arcinst.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS=
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS=
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS=
+
+PASS0_IA64_OBJECTS=
+

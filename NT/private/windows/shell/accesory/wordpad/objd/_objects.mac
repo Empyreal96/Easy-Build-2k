@@ -1,0 +1,160 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\wordpad.res \
+    $(_OBJ_DIR)\alpha\dlgcomm.obj \
+    $(_OBJ_DIR)\alpha\dlgfnt.obj \
+    $(_OBJ_DIR)\alpha\oleinit.obj \
+    $(_OBJ_DIR)\alpha\viewrich.obj \
+    $(_OBJ_DIR)\alpha\winctrl2.obj \
+    $(_OBJ_DIR)\alpha\winctrl4.obj \
+    $(_OBJ_DIR)\alpha\buttondi.obj \
+    $(_OBJ_DIR)\alpha\chicdial.obj \
+    $(_OBJ_DIR)\alpha\cntritem.obj \
+    $(_OBJ_DIR)\alpha\colorlis.obj \
+    $(_OBJ_DIR)\alpha\datedial.obj \
+    $(_OBJ_DIR)\alpha\ddxm.obj \
+    $(_OBJ_DIR)\alpha\docopt.obj \
+    $(_OBJ_DIR)\alpha\doctype.obj \
+    $(_OBJ_DIR)\alpha\filedlg.obj \
+    $(_OBJ_DIR)\alpha\filenewd.obj \
+    $(_OBJ_DIR)\alpha\formatba.obj \
+    $(_OBJ_DIR)\alpha\formatpa.obj \
+    $(_OBJ_DIR)\alpha\formatta.obj \
+    $(_OBJ_DIR)\alpha\ipframe.obj \
+    $(_OBJ_DIR)\alpha\key.obj \
+    $(_OBJ_DIR)\alpha\listdlg.obj \
+    $(_OBJ_DIR)\alpha\mainfrm.obj \
+    $(_OBJ_DIR)\alpha\multconv.obj \
+    $(_OBJ_DIR)\alpha\options.obj \
+    $(_OBJ_DIR)\alpha\optionsh.obj \
+    $(_OBJ_DIR)\alpha\pageset.obj \
+    $(_OBJ_DIR)\alpha\ruler.obj \
+    $(_OBJ_DIR)\alpha\srvritem.obj \
+    $(_OBJ_DIR)\alpha\strings.obj \
+    $(_OBJ_DIR)\alpha\unitspag.obj \
+    $(_OBJ_DIR)\alpha\wordpad.obj \
+    $(_OBJ_DIR)\alpha\wordpdoc.obj \
+    $(_OBJ_DIR)\alpha\wordpvw.obj \
+    $(_OBJ_DIR)\alpha\fixhelp.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\wordpad.res \
+    $(_OBJ_DIR)\alpha64\dlgcomm.obj \
+    $(_OBJ_DIR)\alpha64\dlgfnt.obj \
+    $(_OBJ_DIR)\alpha64\oleinit.obj \
+    $(_OBJ_DIR)\alpha64\viewrich.obj \
+    $(_OBJ_DIR)\alpha64\winctrl2.obj \
+    $(_OBJ_DIR)\alpha64\winctrl4.obj \
+    $(_OBJ_DIR)\alpha64\buttondi.obj \
+    $(_OBJ_DIR)\alpha64\chicdial.obj \
+    $(_OBJ_DIR)\alpha64\cntritem.obj \
+    $(_OBJ_DIR)\alpha64\colorlis.obj \
+    $(_OBJ_DIR)\alpha64\datedial.obj \
+    $(_OBJ_DIR)\alpha64\ddxm.obj \
+    $(_OBJ_DIR)\alpha64\docopt.obj \
+    $(_OBJ_DIR)\alpha64\doctype.obj \
+    $(_OBJ_DIR)\alpha64\filedlg.obj \
+    $(_OBJ_DIR)\alpha64\filenewd.obj \
+    $(_OBJ_DIR)\alpha64\formatba.obj \
+    $(_OBJ_DIR)\alpha64\formatpa.obj \
+    $(_OBJ_DIR)\alpha64\formatta.obj \
+    $(_OBJ_DIR)\alpha64\ipframe.obj \
+    $(_OBJ_DIR)\alpha64\key.obj \
+    $(_OBJ_DIR)\alpha64\listdlg.obj \
+    $(_OBJ_DIR)\alpha64\mainfrm.obj \
+    $(_OBJ_DIR)\alpha64\multconv.obj \
+    $(_OBJ_DIR)\alpha64\options.obj \
+    $(_OBJ_DIR)\alpha64\optionsh.obj \
+    $(_OBJ_DIR)\alpha64\pageset.obj \
+    $(_OBJ_DIR)\alpha64\ruler.obj \
+    $(_OBJ_DIR)\alpha64\srvritem.obj \
+    $(_OBJ_DIR)\alpha64\strings.obj \
+    $(_OBJ_DIR)\alpha64\unitspag.obj \
+    $(_OBJ_DIR)\alpha64\wordpad.obj \
+    $(_OBJ_DIR)\alpha64\wordpdoc.obj \
+    $(_OBJ_DIR)\alpha64\wordpvw.obj \
+    $(_OBJ_DIR)\alpha64\fixhelp.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\wordpad.res \
+    $(_OBJ_DIR)\i386\dlgcomm.obj \
+    $(_OBJ_DIR)\i386\dlgfnt.obj \
+    $(_OBJ_DIR)\i386\oleinit.obj \
+    $(_OBJ_DIR)\i386\viewrich.obj \
+    $(_OBJ_DIR)\i386\winctrl2.obj \
+    $(_OBJ_DIR)\i386\winctrl4.obj \
+    $(_OBJ_DIR)\i386\buttondi.obj \
+    $(_OBJ_DIR)\i386\chicdial.obj \
+    $(_OBJ_DIR)\i386\cntritem.obj \
+    $(_OBJ_DIR)\i386\colorlis.obj \
+    $(_OBJ_DIR)\i386\datedial.obj \
+    $(_OBJ_DIR)\i386\ddxm.obj \
+    $(_OBJ_DIR)\i386\docopt.obj \
+    $(_OBJ_DIR)\i386\doctype.obj \
+    $(_OBJ_DIR)\i386\filedlg.obj \
+    $(_OBJ_DIR)\i386\filenewd.obj \
+    $(_OBJ_DIR)\i386\formatba.obj \
+    $(_OBJ_DIR)\i386\formatpa.obj \
+    $(_OBJ_DIR)\i386\formatta.obj \
+    $(_OBJ_DIR)\i386\ipframe.obj \
+    $(_OBJ_DIR)\i386\key.obj \
+    $(_OBJ_DIR)\i386\listdlg.obj \
+    $(_OBJ_DIR)\i386\mainfrm.obj \
+    $(_OBJ_DIR)\i386\multconv.obj \
+    $(_OBJ_DIR)\i386\options.obj \
+    $(_OBJ_DIR)\i386\optionsh.obj \
+    $(_OBJ_DIR)\i386\pageset.obj \
+    $(_OBJ_DIR)\i386\ruler.obj \
+    $(_OBJ_DIR)\i386\srvritem.obj \
+    $(_OBJ_DIR)\i386\strings.obj \
+    $(_OBJ_DIR)\i386\unitspag.obj \
+    $(_OBJ_DIR)\i386\wordpad.obj \
+    $(_OBJ_DIR)\i386\wordpdoc.obj \
+    $(_OBJ_DIR)\i386\wordpvw.obj \
+    $(_OBJ_DIR)\i386\fixhelp.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\wordpad.res \
+    $(_OBJ_DIR)\ia64\dlgcomm.obj \
+    $(_OBJ_DIR)\ia64\dlgfnt.obj \
+    $(_OBJ_DIR)\ia64\oleinit.obj \
+    $(_OBJ_DIR)\ia64\viewrich.obj \
+    $(_OBJ_DIR)\ia64\winctrl2.obj \
+    $(_OBJ_DIR)\ia64\winctrl4.obj \
+    $(_OBJ_DIR)\ia64\buttondi.obj \
+    $(_OBJ_DIR)\ia64\chicdial.obj \
+    $(_OBJ_DIR)\ia64\cntritem.obj \
+    $(_OBJ_DIR)\ia64\colorlis.obj \
+    $(_OBJ_DIR)\ia64\datedial.obj \
+    $(_OBJ_DIR)\ia64\ddxm.obj \
+    $(_OBJ_DIR)\ia64\docopt.obj \
+    $(_OBJ_DIR)\ia64\doctype.obj \
+    $(_OBJ_DIR)\ia64\filedlg.obj \
+    $(_OBJ_DIR)\ia64\filenewd.obj \
+    $(_OBJ_DIR)\ia64\formatba.obj \
+    $(_OBJ_DIR)\ia64\formatpa.obj \
+    $(_OBJ_DIR)\ia64\formatta.obj \
+    $(_OBJ_DIR)\ia64\ipframe.obj \
+    $(_OBJ_DIR)\ia64\key.obj \
+    $(_OBJ_DIR)\ia64\listdlg.obj \
+    $(_OBJ_DIR)\ia64\mainfrm.obj \
+    $(_OBJ_DIR)\ia64\multconv.obj \
+    $(_OBJ_DIR)\ia64\options.obj \
+    $(_OBJ_DIR)\ia64\optionsh.obj \
+    $(_OBJ_DIR)\ia64\pageset.obj \
+    $(_OBJ_DIR)\ia64\ruler.obj \
+    $(_OBJ_DIR)\ia64\srvritem.obj \
+    $(_OBJ_DIR)\ia64\strings.obj \
+    $(_OBJ_DIR)\ia64\unitspag.obj \
+    $(_OBJ_DIR)\ia64\wordpad.obj \
+    $(_OBJ_DIR)\ia64\wordpdoc.obj \
+    $(_OBJ_DIR)\ia64\wordpvw.obj \
+    $(_OBJ_DIR)\ia64\fixhelp.obj
+
+PASS0_IA64_OBJECTS=
+

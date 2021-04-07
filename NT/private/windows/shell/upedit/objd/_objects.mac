@@ -1,0 +1,32 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\upedit.res \
+    $(_OBJ_DIR)\alpha\upedit.obj \
+    $(_OBJ_DIR)\alpha\upesave.obj \
+    $(_OBJ_DIR)\alpha\upeutil.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\upedit.res \
+    $(_OBJ_DIR)\alpha64\upedit.obj \
+    $(_OBJ_DIR)\alpha64\upesave.obj \
+    $(_OBJ_DIR)\alpha64\upeutil.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\upedit.res \
+    $(_OBJ_DIR)\i386\upedit.obj \
+    $(_OBJ_DIR)\i386\upesave.obj \
+    $(_OBJ_DIR)\i386\upeutil.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\upedit.res \
+    $(_OBJ_DIR)\ia64\upedit.obj \
+    $(_OBJ_DIR)\ia64\upesave.obj \
+    $(_OBJ_DIR)\ia64\upeutil.obj
+
+PASS0_IA64_OBJECTS=
+

@@ -1,0 +1,88 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\dskquoui.res \
+    $(_OBJ_DIR)\alpha\extinit.obj \
+    $(_OBJ_DIR)\alpha\details.obj \
+    $(_OBJ_DIR)\alpha\dskquoui.obj \
+    $(_OBJ_DIR)\alpha\dynarray.obj \
+    $(_OBJ_DIR)\alpha\factory.obj \
+    $(_OBJ_DIR)\alpha\format.obj \
+    $(_OBJ_DIR)\alpha\progress.obj \
+    $(_OBJ_DIR)\alpha\prshtext.obj \
+    $(_OBJ_DIR)\alpha\undo.obj \
+    $(_OBJ_DIR)\alpha\userprop.obj \
+    $(_OBJ_DIR)\alpha\volprop.obj \
+    $(_OBJ_DIR)\alpha\yntoall.obj \
+    $(_OBJ_DIR)\alpha\snapin.obj \
+    $(_OBJ_DIR)\alpha\ownerlst.obj \
+    $(_OBJ_DIR)\alpha\ownerdlg.obj \
+    $(_OBJ_DIR)\alpha\adusrdlg.obj \
+    $(_OBJ_DIR)\alpha\uiutils.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\dskquoui.res \
+    $(_OBJ_DIR)\alpha64\extinit.obj \
+    $(_OBJ_DIR)\alpha64\details.obj \
+    $(_OBJ_DIR)\alpha64\dskquoui.obj \
+    $(_OBJ_DIR)\alpha64\dynarray.obj \
+    $(_OBJ_DIR)\alpha64\factory.obj \
+    $(_OBJ_DIR)\alpha64\format.obj \
+    $(_OBJ_DIR)\alpha64\progress.obj \
+    $(_OBJ_DIR)\alpha64\prshtext.obj \
+    $(_OBJ_DIR)\alpha64\undo.obj \
+    $(_OBJ_DIR)\alpha64\userprop.obj \
+    $(_OBJ_DIR)\alpha64\volprop.obj \
+    $(_OBJ_DIR)\alpha64\yntoall.obj \
+    $(_OBJ_DIR)\alpha64\snapin.obj \
+    $(_OBJ_DIR)\alpha64\ownerlst.obj \
+    $(_OBJ_DIR)\alpha64\ownerdlg.obj \
+    $(_OBJ_DIR)\alpha64\adusrdlg.obj \
+    $(_OBJ_DIR)\alpha64\uiutils.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\dskquoui.res \
+    $(_OBJ_DIR)\i386\extinit.obj \
+    $(_OBJ_DIR)\i386\details.obj \
+    $(_OBJ_DIR)\i386\dskquoui.obj \
+    $(_OBJ_DIR)\i386\dynarray.obj \
+    $(_OBJ_DIR)\i386\factory.obj \
+    $(_OBJ_DIR)\i386\format.obj \
+    $(_OBJ_DIR)\i386\progress.obj \
+    $(_OBJ_DIR)\i386\prshtext.obj \
+    $(_OBJ_DIR)\i386\undo.obj \
+    $(_OBJ_DIR)\i386\userprop.obj \
+    $(_OBJ_DIR)\i386\volprop.obj \
+    $(_OBJ_DIR)\i386\yntoall.obj \
+    $(_OBJ_DIR)\i386\snapin.obj \
+    $(_OBJ_DIR)\i386\ownerlst.obj \
+    $(_OBJ_DIR)\i386\ownerdlg.obj \
+    $(_OBJ_DIR)\i386\adusrdlg.obj \
+    $(_OBJ_DIR)\i386\uiutils.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\dskquoui.res \
+    $(_OBJ_DIR)\ia64\extinit.obj \
+    $(_OBJ_DIR)\ia64\details.obj \
+    $(_OBJ_DIR)\ia64\dskquoui.obj \
+    $(_OBJ_DIR)\ia64\dynarray.obj \
+    $(_OBJ_DIR)\ia64\factory.obj \
+    $(_OBJ_DIR)\ia64\format.obj \
+    $(_OBJ_DIR)\ia64\progress.obj \
+    $(_OBJ_DIR)\ia64\prshtext.obj \
+    $(_OBJ_DIR)\ia64\undo.obj \
+    $(_OBJ_DIR)\ia64\userprop.obj \
+    $(_OBJ_DIR)\ia64\volprop.obj \
+    $(_OBJ_DIR)\ia64\yntoall.obj \
+    $(_OBJ_DIR)\ia64\snapin.obj \
+    $(_OBJ_DIR)\ia64\ownerlst.obj \
+    $(_OBJ_DIR)\ia64\ownerdlg.obj \
+    $(_OBJ_DIR)\ia64\adusrdlg.obj \
+    $(_OBJ_DIR)\ia64\uiutils.obj
+
+PASS0_IA64_OBJECTS=
+

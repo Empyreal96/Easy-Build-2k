@@ -1,0 +1,36 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\debug.obj \
+    $(_OBJ_DIR)\alpha\dllload.obj \
+    $(_OBJ_DIR)\alpha\runonnt.obj \
+    $(_OBJ_DIR)\alpha\sccls.obj \
+    $(_OBJ_DIR)\alpha\onetree.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\debug.obj \
+    $(_OBJ_DIR)\alpha64\dllload.obj \
+    $(_OBJ_DIR)\alpha64\runonnt.obj \
+    $(_OBJ_DIR)\alpha64\sccls.obj \
+    $(_OBJ_DIR)\alpha64\onetree.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\debug.obj \
+    $(_OBJ_DIR)\i386\dllload.obj \
+    $(_OBJ_DIR)\i386\runonnt.obj \
+    $(_OBJ_DIR)\i386\sccls.obj \
+    $(_OBJ_DIR)\i386\onetree.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\debug.obj \
+    $(_OBJ_DIR)\ia64\dllload.obj \
+    $(_OBJ_DIR)\ia64\runonnt.obj \
+    $(_OBJ_DIR)\ia64\sccls.obj \
+    $(_OBJ_DIR)\ia64\onetree.obj
+
+PASS0_IA64_OBJECTS=
+

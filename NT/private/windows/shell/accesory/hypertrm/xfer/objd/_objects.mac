@@ -1,0 +1,108 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\foo.obj \
+    $(_OBJ_DIR)\alpha\itime.obj \
+    $(_OBJ_DIR)\alpha\krm.obj \
+    $(_OBJ_DIR)\alpha\krm_rcv.obj \
+    $(_OBJ_DIR)\alpha\krm_res.obj \
+    $(_OBJ_DIR)\alpha\krm_snd.obj \
+    $(_OBJ_DIR)\alpha\mdmx.obj \
+    $(_OBJ_DIR)\alpha\mdmx_crc.obj \
+    $(_OBJ_DIR)\alpha\mdmx_rcv.obj \
+    $(_OBJ_DIR)\alpha\mdmx_res.obj \
+    $(_OBJ_DIR)\alpha\mdmx_sd.obj \
+    $(_OBJ_DIR)\alpha\mdmx_snd.obj \
+    $(_OBJ_DIR)\alpha\x_entry.obj \
+    $(_OBJ_DIR)\alpha\x_kr_dlg.obj \
+    $(_OBJ_DIR)\alpha\x_params.obj \
+    $(_OBJ_DIR)\alpha\x_xy_dlg.obj \
+    $(_OBJ_DIR)\alpha\x_zm_dlg.obj \
+    $(_OBJ_DIR)\alpha\xfr_dsp.obj \
+    $(_OBJ_DIR)\alpha\xfr_srvc.obj \
+    $(_OBJ_DIR)\alpha\xfr_todo.obj \
+    $(_OBJ_DIR)\alpha\zmdm.obj \
+    $(_OBJ_DIR)\alpha\zmdm_rcv.obj \
+    $(_OBJ_DIR)\alpha\zmdm_snd.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\foo.obj \
+    $(_OBJ_DIR)\alpha64\itime.obj \
+    $(_OBJ_DIR)\alpha64\krm.obj \
+    $(_OBJ_DIR)\alpha64\krm_rcv.obj \
+    $(_OBJ_DIR)\alpha64\krm_res.obj \
+    $(_OBJ_DIR)\alpha64\krm_snd.obj \
+    $(_OBJ_DIR)\alpha64\mdmx.obj \
+    $(_OBJ_DIR)\alpha64\mdmx_crc.obj \
+    $(_OBJ_DIR)\alpha64\mdmx_rcv.obj \
+    $(_OBJ_DIR)\alpha64\mdmx_res.obj \
+    $(_OBJ_DIR)\alpha64\mdmx_sd.obj \
+    $(_OBJ_DIR)\alpha64\mdmx_snd.obj \
+    $(_OBJ_DIR)\alpha64\x_entry.obj \
+    $(_OBJ_DIR)\alpha64\x_kr_dlg.obj \
+    $(_OBJ_DIR)\alpha64\x_params.obj \
+    $(_OBJ_DIR)\alpha64\x_xy_dlg.obj \
+    $(_OBJ_DIR)\alpha64\x_zm_dlg.obj \
+    $(_OBJ_DIR)\alpha64\xfr_dsp.obj \
+    $(_OBJ_DIR)\alpha64\xfr_srvc.obj \
+    $(_OBJ_DIR)\alpha64\xfr_todo.obj \
+    $(_OBJ_DIR)\alpha64\zmdm.obj \
+    $(_OBJ_DIR)\alpha64\zmdm_rcv.obj \
+    $(_OBJ_DIR)\alpha64\zmdm_snd.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\foo.obj \
+    $(_OBJ_DIR)\i386\itime.obj \
+    $(_OBJ_DIR)\i386\krm.obj \
+    $(_OBJ_DIR)\i386\krm_rcv.obj \
+    $(_OBJ_DIR)\i386\krm_res.obj \
+    $(_OBJ_DIR)\i386\krm_snd.obj \
+    $(_OBJ_DIR)\i386\mdmx.obj \
+    $(_OBJ_DIR)\i386\mdmx_crc.obj \
+    $(_OBJ_DIR)\i386\mdmx_rcv.obj \
+    $(_OBJ_DIR)\i386\mdmx_res.obj \
+    $(_OBJ_DIR)\i386\mdmx_sd.obj \
+    $(_OBJ_DIR)\i386\mdmx_snd.obj \
+    $(_OBJ_DIR)\i386\x_entry.obj \
+    $(_OBJ_DIR)\i386\x_kr_dlg.obj \
+    $(_OBJ_DIR)\i386\x_params.obj \
+    $(_OBJ_DIR)\i386\x_xy_dlg.obj \
+    $(_OBJ_DIR)\i386\x_zm_dlg.obj \
+    $(_OBJ_DIR)\i386\xfr_dsp.obj \
+    $(_OBJ_DIR)\i386\xfr_srvc.obj \
+    $(_OBJ_DIR)\i386\xfr_todo.obj \
+    $(_OBJ_DIR)\i386\zmdm.obj \
+    $(_OBJ_DIR)\i386\zmdm_rcv.obj \
+    $(_OBJ_DIR)\i386\zmdm_snd.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\foo.obj \
+    $(_OBJ_DIR)\ia64\itime.obj \
+    $(_OBJ_DIR)\ia64\krm.obj \
+    $(_OBJ_DIR)\ia64\krm_rcv.obj \
+    $(_OBJ_DIR)\ia64\krm_res.obj \
+    $(_OBJ_DIR)\ia64\krm_snd.obj \
+    $(_OBJ_DIR)\ia64\mdmx.obj \
+    $(_OBJ_DIR)\ia64\mdmx_crc.obj \
+    $(_OBJ_DIR)\ia64\mdmx_rcv.obj \
+    $(_OBJ_DIR)\ia64\mdmx_res.obj \
+    $(_OBJ_DIR)\ia64\mdmx_sd.obj \
+    $(_OBJ_DIR)\ia64\mdmx_snd.obj \
+    $(_OBJ_DIR)\ia64\x_entry.obj \
+    $(_OBJ_DIR)\ia64\x_kr_dlg.obj \
+    $(_OBJ_DIR)\ia64\x_params.obj \
+    $(_OBJ_DIR)\ia64\x_xy_dlg.obj \
+    $(_OBJ_DIR)\ia64\x_zm_dlg.obj \
+    $(_OBJ_DIR)\ia64\xfr_dsp.obj \
+    $(_OBJ_DIR)\ia64\xfr_srvc.obj \
+    $(_OBJ_DIR)\ia64\xfr_todo.obj \
+    $(_OBJ_DIR)\ia64\zmdm.obj \
+    $(_OBJ_DIR)\ia64\zmdm_rcv.obj \
+    $(_OBJ_DIR)\ia64\zmdm_snd.obj
+
+PASS0_IA64_OBJECTS=
+

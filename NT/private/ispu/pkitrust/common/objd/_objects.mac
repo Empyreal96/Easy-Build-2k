@@ -1,0 +1,52 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\cbfile.obj \
+    $(_OBJ_DIR)\alpha\ccert.obj \
+    $(_OBJ_DIR)\alpha\codbc.obj \
+    $(_OBJ_DIR)\alpha\cwargv.obj \
+    $(_OBJ_DIR)\alpha\eventlst.obj \
+    $(_OBJ_DIR)\alpha\fparse.obj \
+    $(_OBJ_DIR)\alpha\ispudlg.obj \
+    $(_OBJ_DIR)\alpha\printfu.obj \
+    $(_OBJ_DIR)\alpha\stack.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\cbfile.obj \
+    $(_OBJ_DIR)\alpha64\ccert.obj \
+    $(_OBJ_DIR)\alpha64\codbc.obj \
+    $(_OBJ_DIR)\alpha64\cwargv.obj \
+    $(_OBJ_DIR)\alpha64\eventlst.obj \
+    $(_OBJ_DIR)\alpha64\fparse.obj \
+    $(_OBJ_DIR)\alpha64\ispudlg.obj \
+    $(_OBJ_DIR)\alpha64\printfu.obj \
+    $(_OBJ_DIR)\alpha64\stack.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\cbfile.obj \
+    $(_OBJ_DIR)\i386\ccert.obj \
+    $(_OBJ_DIR)\i386\codbc.obj \
+    $(_OBJ_DIR)\i386\cwargv.obj \
+    $(_OBJ_DIR)\i386\eventlst.obj \
+    $(_OBJ_DIR)\i386\fparse.obj \
+    $(_OBJ_DIR)\i386\ispudlg.obj \
+    $(_OBJ_DIR)\i386\printfu.obj \
+    $(_OBJ_DIR)\i386\stack.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\cbfile.obj \
+    $(_OBJ_DIR)\ia64\ccert.obj \
+    $(_OBJ_DIR)\ia64\codbc.obj \
+    $(_OBJ_DIR)\ia64\cwargv.obj \
+    $(_OBJ_DIR)\ia64\eventlst.obj \
+    $(_OBJ_DIR)\ia64\fparse.obj \
+    $(_OBJ_DIR)\ia64\ispudlg.obj \
+    $(_OBJ_DIR)\ia64\printfu.obj \
+    $(_OBJ_DIR)\ia64\stack.obj
+
+PASS0_IA64_OBJECTS=
+

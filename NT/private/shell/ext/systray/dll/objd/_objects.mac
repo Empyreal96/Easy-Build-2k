@@ -1,0 +1,64 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\systray.res \
+    $(_OBJ_DIR)\alpha\power.obj \
+    $(_OBJ_DIR)\alpha\systray.obj \
+    $(_OBJ_DIR)\alpha\volume.obj \
+    $(_OBJ_DIR)\alpha\access.obj \
+    $(_OBJ_DIR)\alpha\hplug.obj \
+    $(_OBJ_DIR)\alpha\csc.obj \
+    $(_OBJ_DIR)\alpha\fax.obj \
+    $(_OBJ_DIR)\alpha\cfact.obj \
+    $(_OBJ_DIR)\alpha\stobject.obj \
+    $(_OBJ_DIR)\alpha\dll.obj \
+    $(_OBJ_DIR)\alpha\usbui.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\systray.res \
+    $(_OBJ_DIR)\alpha64\power.obj \
+    $(_OBJ_DIR)\alpha64\systray.obj \
+    $(_OBJ_DIR)\alpha64\volume.obj \
+    $(_OBJ_DIR)\alpha64\access.obj \
+    $(_OBJ_DIR)\alpha64\hplug.obj \
+    $(_OBJ_DIR)\alpha64\csc.obj \
+    $(_OBJ_DIR)\alpha64\fax.obj \
+    $(_OBJ_DIR)\alpha64\cfact.obj \
+    $(_OBJ_DIR)\alpha64\stobject.obj \
+    $(_OBJ_DIR)\alpha64\dll.obj \
+    $(_OBJ_DIR)\alpha64\usbui.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\systray.res \
+    $(_OBJ_DIR)\i386\power.obj \
+    $(_OBJ_DIR)\i386\systray.obj \
+    $(_OBJ_DIR)\i386\volume.obj \
+    $(_OBJ_DIR)\i386\access.obj \
+    $(_OBJ_DIR)\i386\hplug.obj \
+    $(_OBJ_DIR)\i386\csc.obj \
+    $(_OBJ_DIR)\i386\fax.obj \
+    $(_OBJ_DIR)\i386\cfact.obj \
+    $(_OBJ_DIR)\i386\stobject.obj \
+    $(_OBJ_DIR)\i386\dll.obj \
+    $(_OBJ_DIR)\i386\usbui.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\systray.res \
+    $(_OBJ_DIR)\ia64\power.obj \
+    $(_OBJ_DIR)\ia64\systray.obj \
+    $(_OBJ_DIR)\ia64\volume.obj \
+    $(_OBJ_DIR)\ia64\access.obj \
+    $(_OBJ_DIR)\ia64\hplug.obj \
+    $(_OBJ_DIR)\ia64\csc.obj \
+    $(_OBJ_DIR)\ia64\fax.obj \
+    $(_OBJ_DIR)\ia64\cfact.obj \
+    $(_OBJ_DIR)\ia64\stobject.obj \
+    $(_OBJ_DIR)\ia64\dll.obj \
+    $(_OBJ_DIR)\ia64\usbui.obj
+
+PASS0_IA64_OBJECTS=
+

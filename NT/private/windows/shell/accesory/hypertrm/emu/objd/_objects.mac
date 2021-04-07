@@ -1,0 +1,104 @@
+ALPHA_OBJECTS= \
+    $(_OBJ_DIR)\alpha\emudlgs.res \
+    $(_OBJ_DIR)\alpha\ansi.obj \
+    $(_OBJ_DIR)\alpha\ansiinit.obj \
+    $(_OBJ_DIR)\alpha\autoinit.obj \
+    $(_OBJ_DIR)\alpha\emu.obj \
+    $(_OBJ_DIR)\alpha\emu_ansi.obj \
+    $(_OBJ_DIR)\alpha\emu_scr.obj \
+    $(_OBJ_DIR)\alpha\emu_std.obj \
+    $(_OBJ_DIR)\alpha\emudlgs.obj \
+    $(_OBJ_DIR)\alpha\emuhdl.obj \
+    $(_OBJ_DIR)\alpha\minitel.obj \
+    $(_OBJ_DIR)\alpha\minitelf.obj \
+    $(_OBJ_DIR)\alpha\viewdata.obj \
+    $(_OBJ_DIR)\alpha\viewdini.obj \
+    $(_OBJ_DIR)\alpha\vt_chars.obj \
+    $(_OBJ_DIR)\alpha\vt_xtra.obj \
+    $(_OBJ_DIR)\alpha\vt100.obj \
+    $(_OBJ_DIR)\alpha\vt100ini.obj \
+    $(_OBJ_DIR)\alpha\vt52.obj \
+    $(_OBJ_DIR)\alpha\vt52init.obj \
+    $(_OBJ_DIR)\alpha\vt220.obj \
+    $(_OBJ_DIR)\alpha\vt220ini.obj
+
+PASS0_ALPHA_OBJECTS=
+
+ALPHA64_OBJECTS= \
+    $(_OBJ_DIR)\alpha64\emudlgs.res \
+    $(_OBJ_DIR)\alpha64\ansi.obj \
+    $(_OBJ_DIR)\alpha64\ansiinit.obj \
+    $(_OBJ_DIR)\alpha64\autoinit.obj \
+    $(_OBJ_DIR)\alpha64\emu.obj \
+    $(_OBJ_DIR)\alpha64\emu_ansi.obj \
+    $(_OBJ_DIR)\alpha64\emu_scr.obj \
+    $(_OBJ_DIR)\alpha64\emu_std.obj \
+    $(_OBJ_DIR)\alpha64\emudlgs.obj \
+    $(_OBJ_DIR)\alpha64\emuhdl.obj \
+    $(_OBJ_DIR)\alpha64\minitel.obj \
+    $(_OBJ_DIR)\alpha64\minitelf.obj \
+    $(_OBJ_DIR)\alpha64\viewdata.obj \
+    $(_OBJ_DIR)\alpha64\viewdini.obj \
+    $(_OBJ_DIR)\alpha64\vt_chars.obj \
+    $(_OBJ_DIR)\alpha64\vt_xtra.obj \
+    $(_OBJ_DIR)\alpha64\vt100.obj \
+    $(_OBJ_DIR)\alpha64\vt100ini.obj \
+    $(_OBJ_DIR)\alpha64\vt52.obj \
+    $(_OBJ_DIR)\alpha64\vt52init.obj \
+    $(_OBJ_DIR)\alpha64\vt220.obj \
+    $(_OBJ_DIR)\alpha64\vt220ini.obj
+
+PASS0_ALPHA64_OBJECTS=
+
+386_OBJECTS= \
+    $(_OBJ_DIR)\i386\emudlgs.res \
+    $(_OBJ_DIR)\i386\ansi.obj \
+    $(_OBJ_DIR)\i386\ansiinit.obj \
+    $(_OBJ_DIR)\i386\autoinit.obj \
+    $(_OBJ_DIR)\i386\emu.obj \
+    $(_OBJ_DIR)\i386\emu_ansi.obj \
+    $(_OBJ_DIR)\i386\emu_scr.obj \
+    $(_OBJ_DIR)\i386\emu_std.obj \
+    $(_OBJ_DIR)\i386\emudlgs.obj \
+    $(_OBJ_DIR)\i386\emuhdl.obj \
+    $(_OBJ_DIR)\i386\minitel.obj \
+    $(_OBJ_DIR)\i386\minitelf.obj \
+    $(_OBJ_DIR)\i386\viewdata.obj \
+    $(_OBJ_DIR)\i386\viewdini.obj \
+    $(_OBJ_DIR)\i386\vt_chars.obj \
+    $(_OBJ_DIR)\i386\vt_xtra.obj \
+    $(_OBJ_DIR)\i386\vt100.obj \
+    $(_OBJ_DIR)\i386\vt100ini.obj \
+    $(_OBJ_DIR)\i386\vt52.obj \
+    $(_OBJ_DIR)\i386\vt52init.obj \
+    $(_OBJ_DIR)\i386\vt220.obj \
+    $(_OBJ_DIR)\i386\vt220ini.obj
+
+PASS0_386_OBJECTS=
+
+IA64_OBJECTS= \
+    $(_OBJ_DIR)\ia64\emudlgs.res \
+    $(_OBJ_DIR)\ia64\ansi.obj \
+    $(_OBJ_DIR)\ia64\ansiinit.obj \
+    $(_OBJ_DIR)\ia64\autoinit.obj \
+    $(_OBJ_DIR)\ia64\emu.obj \
+    $(_OBJ_DIR)\ia64\emu_ansi.obj \
+    $(_OBJ_DIR)\ia64\emu_scr.obj \
+    $(_OBJ_DIR)\ia64\emu_std.obj \
+    $(_OBJ_DIR)\ia64\emudlgs.obj \
+    $(_OBJ_DIR)\ia64\emuhdl.obj \
+    $(_OBJ_DIR)\ia64\minitel.obj \
+    $(_OBJ_DIR)\ia64\minitelf.obj \
+    $(_OBJ_DIR)\ia64\viewdata.obj \
+    $(_OBJ_DIR)\ia64\viewdini.obj \
+    $(_OBJ_DIR)\ia64\vt_chars.obj \
+    $(_OBJ_DIR)\ia64\vt_xtra.obj \
+    $(_OBJ_DIR)\ia64\vt100.obj \
+    $(_OBJ_DIR)\ia64\vt100ini.obj \
+    $(_OBJ_DIR)\ia64\vt52.obj \
+    $(_OBJ_DIR)\ia64\vt52init.obj \
+    $(_OBJ_DIR)\ia64\vt220.obj \
+    $(_OBJ_DIR)\ia64\vt220ini.obj
+
+PASS0_IA64_OBJECTS=
+
