@@ -1,6 +1,6 @@
 # Easy-Build Environment for Windows 2000 (NT 5)
 
-<img src="C:\2k_diff\menu.png" alt="menu" />
+![Easy-Build_2k](https://github.com/Empyreal96/Easy-Build-2k/raw/main/menu.png)
 
 
 
